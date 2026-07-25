@@ -1,9 +1,10 @@
 ---
 article_id: ADV-05-02
-title: "Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting"
+title: "Anatomi Huruf Timbul: Muka, Badan, Pelat Belakang, dan Pengikat"
 slug: "anatomi-huruf-timbul"
-description: "Explain channel components, depth/form, returns, faces, backs, standoffs, illumination variants, drainage and service access"
-status: outline
+description: "Kenali bagian huruf timbul agar pilihan bahan, pencahayaan, dan pemasangannya tidak salah arah."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,55 +15,13 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/anatomi-huruf-timbul.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://www.iso.org/standard/64838.html"
+  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
+  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”
-- **Reader and situation:** Buyer reviewing fabrication choices
-- **Reader outcome:** Explain channel components, depth/form, returns, faces, backs, standoffs, illumination variants, drainage and service access
-- **Primary intent:** Understand raised-letter construction
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No letter dimensions, fixing capacity or wiring; /huruf-timbul/ owns sale and ADV-09/10 engineering
-- **Final public route:** `/artikel/anatomi-huruf-timbul.html`
-- **Appointed CMS date:** `2025-11-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -73,158 +32,79 @@ sources:
 - **Selection basis:** filename/source metadata identifies `huruf timbul` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Anatomi Huruf Timbul: Muka, Badan, Pelat Belakang, dan Pengikat
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Advert.id! Huruf timbul bukan sekadar tulisan yang ditempel lalu selesai. Satu huruf biasanya punya muka yang terlihat, sisi pembentuk ketebalan, bagian belakang, serta cara mengikatnya ke bidang bangunan. Kalau bagian-bagian itu tidak dibedakan dari awal, pembicaraan mudah berhenti di warna dan bentuk padahal yang menentukan kemudahan rawat, tampilan malam hari, serta cara memasangnya justru ada di balik hurufnya.
 
-### KR-02
+Jawaban pendeknya: pilih bentuk huruf sebagai satu sistem. Muka huruf menentukan kesan yang terlihat; sisi menentukan kedalaman dan bentuk; bagian belakang membantu menutup atau menyangga; lalu titik pemasangan menghubungkan semuanya ke bidang yang benar. Untuk huruf bercahaya, jalur listrik, panas, air, dan akses servis ikut menjadi bagian dari keputusan. Detail akhirnya tetap bergantung pada gambar kerja yang disetujui, kondisi bidang pemasangan, produk yang dipakai, dan pemeriksaan tenaga yang kompeten.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+![Ilustrasi huruf timbul](/wp-content/uploads/2024/05/huruf-timbul.png)
 
-### KR-06
+*Aset lokal proyek; bukan klaim dokumentasi proyek tertentu.*
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+## Memahami hurufnya dulu, bukan cuma tampilannya
 
-### KR-07
+Istilah **face** berarti muka huruf: bidang yang dibaca orang dari depan. **Return** adalah sisi tegak atau sisi melingkar yang menghubungkan muka dengan bagian belakang; di bengkel sering juga disebut badan huruf. **Backing** berarti bagian belakang atau pelat penutup/penyangga, sedangkan **mounting** adalah cara huruf diikat ke dinding, panel, atau rangka. Empat istilah ini boleh terdengar teknis, tetapi logikanya sederhana: muka menjual tampilan, badan memberi bentuk, belakang merapikan isi, dan pengikatan menahan huruf tetap pada tempatnya.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Jangan menyamakan huruf timbul dengan papan nama datar. Pada papan datar, pesan terutama hidup di permukaan. Pada huruf timbul, kedalaman menciptakan bayangan, ruang untuk komponen tertentu, serta kebutuhan untuk menyembunyikan sambungan. Karena itu dua huruf yang tampak mirip dari foto bisa berbeda jauh ketika dilihat dari samping atau saat harus dibuka untuk perawatan.
 
-### KR-09
+Kawan Advert.id, pertanyaan paling berguna sebelum memilih bahan bukan “yang paling kinclong yang mana?”, melainkan “bagian mana yang benar-benar terlihat, bagian mana yang menahan, dan nanti bagian mana yang harus bisa dijangkau?” Jawaban itu membuat pembicaraan dengan pembuat signage jauh lebih jelas.
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+## Muka, badan, belakang, dan pengikat bekerja sebagai satu kesatuan
 
-### KR-11
+Muka huruf menerima perhatian pertama. Ia bisa berupa permukaan logam, akrilik, atau bahan lain sesuai rancangan yang disetujui. Namun muka yang rapi tidak otomatis berarti seluruh huruf rapi. Sisi huruf perlu mengikuti kontur, bertemu dengan muka tanpa celah yang mengganggu, dan cukup masuk akal untuk cara produksi maupun cara membersihkannya.
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Bagian belakang berperan berbeda-beda menurut jenis huruf. Ada yang menutup rongga agar isi lebih terlindungi, ada yang menjadi bidang tempat komponen ditempatkan, dan ada rancangan yang membutuhkan susunan lain. Jangan langsung menganggap setiap huruf harus tertutup rapat atau harus memiliki rongga besar. Yang perlu ditanyakan adalah fungsi bagian belakang pada rancangan tersebut, lalu bagaimana air, debu, panas, dan akses perawatan dipikirkan.
 
-### KR-14
+Terakhir adalah pengikat. Pengikat bukan aksesori kecil yang diputuskan setelah bentuk huruf jadi. Ia meneruskan beban dari huruf ke panel, dinding, rangka, atau unsur pendukung lain. Aturan bangunan dan proses persetujuan yang berlaku dapat melibatkan jalur beban, sambungan, angkur, bidang pendukung, serta perubahan pada bangunan yang sudah ada; karena itu produk signage tidak boleh diperlakukan seolah-olah otomatis aman dipasang di semua permukaan. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf) adalah salah satu dasar yang relevan untuk memeriksa konteks bangunan, tetapi kebutuhan proyek dan aturan daerah tetap harus dicek pada kasusnya.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+## Kalau ada cahaya, ruang di dalam huruf ikut menjadi urusan
 
-### KR-16
+Huruf tanpa lampu dan huruf bercahaya mungkin sama-sama terbaca saat siang, tetapi kebutuhan di dalamnya tidak sama. Pada huruf bercahaya, ruang yang tidak terlihat dapat memuat komponen pencahayaan, kabel, sambungan, dan bagian yang harus tetap dapat diperiksa. Artinya, pembahasan tidak berhenti pada “ingin terang dari depan atau dari belakang”.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Misalnya, cahaya dari muka huruf akan menempatkan perhatian pada bahan muka dan cara cahaya keluar. Cahaya yang muncul dari belakang huruf memerlukan jarak terhadap bidang di belakangnya agar efek pijar dapat terbentuk. Ada juga rancangan yang menggabungkan keduanya. Tidak ada satu pilihan yang otomatis terbaik; tampilan yang diinginkan harus dibaca bersama kondisi lokasi, akses servis, dan produk yang benar-benar akan dipasang.
 
-## Evidence gates
+Untuk bagian kelistrikan, dokumen rancangan perlu memeriksa sumber daya, beban, pelindung, pembumian, jalur kabel, pelindung terhadap air/debu, panas, cara memutus daya dengan aman, dan akses pemeliharaan. Hal-hal itu bukan hiasan dokumen. Halaman pratinjau [IEC 62368-1 edisi 2023](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzY4LTF7ZWQ0LjB9Yi5wZGY%3D) menunjukkan bahwa keselamatan peralatan audio/video dan teknologi informasi dinilai sebagai sistem, bukan sekadar dari satu komponen. Penerapannya pada signage harus tetap ditentukan lewat dasar kelistrikan Indonesia yang berlaku, produk yang tercantum, rancangan, pemeriksaan, dan prosedur pemutusan daya yang aman.
 
-- **TOPIC-GATE:** Approved complete-system design, products, permits/tax, tests, safe installation, and O&M
+Teman Advert.id, kalau ada orang berkata “lampunya kecil, tinggal masukkan saja”, justru di situ Anda perlu berhenti sebentar. Minta dijelaskan: dari mana kabel masuk, bagaimana bagian dalam dijangkau, apa yang terjadi bila satu komponen perlu diganti, dan siapa yang akan memeriksanya. [NEEDS TECHNICAL REVIEW: lengkapi rancangan kelistrikan, identitas peralatan yang disetujui, prosedur pemutusan daya yang aman, serta kondisi paparan lokasi.]
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Bahan, sambungan, dan lokasi dapat mengubah hasil akhir
 
-## Internal-link plan
+Nama bahan saja tidak cukup untuk menjanjikan umur pakai atau kecocokan di lokasi. Permukaan, persiapan bahan, sistem pelapis atau perekat, kondisi lingkungan, cara membersihkan, serta ketentuan garansi perlu dicatat untuk produk yang benar-benar dipilih. Keluarga [ISO 12944](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) membahas perlindungan struktur baja terhadap korosi; halaman publiknya tidak menggantikan data teknis produk atau pengujian pada susunan huruf tertentu. Jadi, jangan mengubah nama standar menjadi janji “pasti tahan sekian tahun”.
 
-### Existing local routes
+Sambungan juga tidak bisa dinilai hanya dari kalimat “sudah dilas”. Pada pekerjaan fabrikasi, identitas bahan, prosedur kerja, kecocokan pekerja, bahan habis pakai, penyetelan sambungan, kondisi kerja, pemeriksaan, perbaikan, dan pencatatan merupakan kendali yang berbeda. Ruang lingkup [ISO 3834-2](https://www.iso.org/standard/81651.html) membantu menunjukkan bahwa mutu pengelasan bukan satu cap tunggal. Apakah semua kendali itu diperlukan dan bagaimana pembuktiannya tetap mengikuti spesifikasi proyek serta pihak yang bertanggung jawab.
 
-- `/jasa-pembuatan-huruf-timbul-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-huruf-timbul-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-huruf-timbul-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-huruf-timbul-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-huruf-timbul-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-huruf-timbul-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Lokasi kemudian mengubah cara kita membaca semuanya. Huruf di dalam ruangan yang mudah dijangkau tentu menghadapi situasi berbeda dari huruf yang dipasang di fasad tinggi atau bidang yang sudah lama. Kondisi bangunan lama, akses angkat, paparan air, dan kemungkinan pekerjaan perawatan adalah informasi yang perlu dibawa ke rancangan, bukan ditambahkan sesudah produksi berjalan.
 
-### Planned sibling articles
+## Membandingkan pilihan tanpa terjebak istilah bengkel
 
-These are future routes. Do not link them as live until their HTML exists.
+Bayangkan ada dua penawaran dengan tulisan “huruf timbul stainless, lampu LED”. Kalimat itu belum cukup untuk dibandingkan. Anda belum tahu rupa muka huruf, bentuk sisi, apakah bagian belakang tertutup, bagaimana cahaya diarahkan, ke mana kabel berjalan, atau bagaimana setiap huruf dipasang.
 
-- `ADV-05-01` → `/artikel/memilih-jenis-signage-brand.html` — Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem
-- `ADV-05-03` → `/artikel/neon-box-vs-neon-flex.html` — Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda
-- `ADV-05-04` → `/artikel/sistem-totem-sign.html` — Totem Sign sebagai Cabinet, Structure, dan Foundation
+Supaya pembandingannya adil, gunakan daftar pertanyaan berikut.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+| Yang diperiksa | Pertanyaan yang perlu dijawab |
+| --- | --- |
+| Muka huruf | Bahan dan hasil permukaan apa yang ditunjukkan pada gambar? |
+| Sisi/badan huruf | Seberapa dalam bentuknya dan bagaimana sambungan di sudut atau lengkung dirapikan? |
+| Bagian belakang | Apa fungsinya pada rancangan ini: penutup, penyangga, atau tempat komponen? |
+| Pencahayaan | Cahaya keluar dari mana, dan bagaimana akses penggantiannya? |
+| Pemasangan | Bidang apa yang menerima pengikat, dan apakah kondisinya sudah diperiksa? |
+| Perawatan | Bagian mana yang bisa dibuka atau dijangkau tanpa merusak bidang sekitarnya? |
 
-## Jawaban singkat dan salah paham utama
+Nah, daftar ini bukan permintaan agar pembeli mendesain sendiri. Fungsinya agar Anda bisa meminta penjelasan yang sama kepada setiap calon pelaksana. Bila jawabannya hanya berupa foto atau satu nama bahan, informasi itu belum cukup untuk menyimpulkan cara kerja sistemnya.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang sering terlihat sepele
 
-## Definisi dan batas objek
+Kesalahan pertama adalah membicarakan tampilan depan, lalu membiarkan bagian belakang dan cara pemasangan “nanti saja”. Akibatnya, rancangan bisa sulit dibuka saat komponen perlu diperiksa atau justru memaksa perubahan di lapangan. Kesalahan kedua adalah memakai istilah produk sebagai pengganti bukti. Sebutan bahan, lampu, atau las tidak menjelaskan kecocokan produk, prosedur, atau hasil pemeriksaan pada proyek Anda.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan ketiga adalah menganggap dinding selalu siap menerima huruf. Bidang yang retak, berlapis penutup tertentu, berongga, atau merupakan bagian dari bangunan lama dapat memerlukan pemeriksaan tersendiri. Jangan meminta pemasangan dipercepat hanya karena hurufnya sudah selesai dibuat. Yang harus siap bukan hanya hurufnya, tetapi juga tempat ia akan dipasang.
 
-## Cara kerjanya
+Sederhananya, Sobat Advert.id: hindari keputusan “buat dulu, nanti dipikirkan cara pasangnya”. Pilihan yang lebih aman adalah menyetujui gambar lengkap, bahan dan sistem yang disebut jelas, cara pemasangan, kondisi lokasi, serta siapa yang memeriksa sebelum produksi dan pemasangan berjalan. [NEEDS PROJECT REVIEW: pastikan rancangan sistem lengkap, penanggung jawab pemasangan, persetujuan setempat, dan pemeriksaan lokasi telah ditetapkan.]
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya sebelum menyetujui pembuatan
 
-## Faktor yang mengubah hasil
+Anatomi huruf timbul adalah cara membaca satu tulisan sebagai sistem: muka untuk tampilan, sisi untuk bentuk, bagian belakang untuk fungsi yang tidak terlihat, dan pengikat untuk menghubungkannya ke lokasi. Untuk huruf bercahaya, ruang servis dan keselamatan kelistrikan masuk ke percakapan yang sama.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum menyetujui pembuatan, minta satu gambar yang memperlihatkan tampak depan dan samping, penjelasan tiap bagian, posisi pencahayaan bila ada, cara kabel masuk, cara perawatan, dan cara huruf dipasang ke bidang nyata. Bila salah satu jawaban itu belum tersedia, tahan keputusan sampai dokumen dan pemeriksaan yang tepat ada. Itu aturan praktisnya: jangan membeli huruf dari fotonya saja; pahami dulu apa yang menopang, menutup, menyalakan, dan memungkinkan huruf itu dirawat.

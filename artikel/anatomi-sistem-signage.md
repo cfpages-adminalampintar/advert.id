@@ -1,9 +1,10 @@
 ---
 article_id: ADV-01-05
-title: "Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control"
+title: "Anatomi Sistem Signage: Wajah Tampilan, Rangka, Penopang, Listrik, dan Kendali"
 slug: "anatomi-sistem-signage"
-description: "Follow face/graphics, cabinet/frame, connections, support/foundation, lighting/power, control/data and maintenance access"
-status: outline
+description: "Memahami bagian-bagian signage agar pembahasan visual, rangka, penopang, listrik, dan perawatan tidak terputus-putus."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -22,37 +23,7 @@ sources:
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”
-- **Reader and situation:** Non-specialist reviewing fragmented scopes
-- **Reader outcome:** Follow face/graphics, cabinet/frame, connections, support/foundation, lighting/power, control/data and maintenance access
-- **Primary intent:** Understand system components
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No structural/electrical values; ADV-09/10 own engineering
-- **Final public route:** `/artikel/anatomi-sistem-signage.html`
-- **Appointed CMS date:** `2025-09-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -63,125 +34,97 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Anatomi Sistem Signage: Wajah Tampilan, Rangka, Penopang, Listrik, dan Kendali
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Advert.id!
 
-### KR-01
+Signage bukan sekadar papan yang diberi tulisan lalu dipasang. Ia adalah satu sistem: ada bagian yang dilihat orang, rangka yang memegangnya, penopang yang meneruskan beban, jalur listrik bila memakai pencahayaan, serta akses untuk memeriksa dan merawatnya. Kalau satu bagian dibahas sendiri-sendiri, keputusan yang tampak murah di awal bisa menyisakan pekerjaan rumit ketika dipasang atau saat perlu diperbaiki.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md) and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified `advert.id` scope and keep research subordinate to its 14 local topic families.
-- **Safe grounded facts:** The frozen plan contains 14 topics and 84 briefs. Existing pages, photos, portfolio claims, dimensions, prices, and service areas are evidence candidates only.
-- **Limits:** Planning artifacts establish editorial scope only.
+Jadi, cara paling aman membaca sebuah signage adalah mengikuti sambungan antarbagian, bukan hanya memilih bentuk mukanya. Nama media juga belum membuktikan ukuran, lokasi yang diizinkan, kepemilikan, harga, atau hasil promosi. Hal-hal itu tetap harus dicek pada dokumen dan kondisi proyek yang nyata.
 
-### KR-02
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-### KR-14
+## Mulai dari satu sistem, bukan dari muka papan saja
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Bagian depan atau **wajah tampilan** adalah bidang yang membawa nama, pesan, warna, dan informasi yang ingin dibaca. Di belakangnya biasanya ada badan atau rangka tempat bidang tersebut dipasang. Rangka ini kemudian tersambung ke penopang, misalnya dudukan pada bangunan atau struktur penyangga. Bila tampilannya menyala atau berubah, ada pula kebutuhan listrik dan perangkat kendali.
 
-## Evidence gates
+Susunan ini penting karena keputusan pada satu bagian memengaruhi bagian lain. Pesan yang ingin sering diubah, misalnya, perlu dipikirkan bersama cara membuka akses dan memeriksa perangkatnya. Sebaliknya, tampilan yang statis belum otomatis bebas dari pertanyaan tentang cara pemasangan, izin, atau pihak yang bertanggung jawab.
 
-- **TOPIC-GATE:** Exact system, jurisdiction, content, owner/operator, and current official classification
+Untuk mengenali jenis-jenis media sebelum masuk ke komponen, Anda bisa mulai dari halaman [layanan signage](/signage/). Namun, halaman kategori tidak menggantikan pemeriksaan proyek. [Undang-Undang Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) dan [PP tentang Perdagangan Melalui Sistem Elektronik](https://peraturan.bpk.go.id/Details/126143/pp-no-80) sama-sama mengingatkan pentingnya informasi yang tidak menyesatkan; nama atau gambar media tidak cukup untuk menyimpulkan spesifikasi di lapangan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Bagian yang perlu Anda telusuri
 
-## Internal-link plan
+Kawan Advert.id, membedah sistem signage akan lebih mudah bila urutannya konsisten. Tidak semua proyek memiliki semua bagian di bawah ini, tetapi daftar ini membantu agar tidak ada sambungan penting yang terlupa.
 
-### Existing local routes
+### 1. Wajah tampilan dan materi visual
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Wajah tampilan adalah bagian yang dibaca orang. Materi visualnya mencakup tulisan, simbol, warna, atau gambar yang membawa pesan. Di tahap ini, pertanyaannya bukan hanya “apakah desainnya menarik?”, tetapi juga “apakah informasi yang perlu dilihat masih terbaca dalam kondisi penggunaan yang direncanakan?”
 
-### Planned sibling articles
+Jangan menganggap bahan atau tampilan pada contoh gambar sebagai bukti bahwa proyek Anda akan sama. Minta contoh materi, ukuran rancangan, dan persetujuan tertulis atas isi pesan bila hal itu menjadi bagian dari pekerjaan.
 
-These are future routes. Do not link them as live until their HTML exists.
+### 2. Badan dan rangka
 
-- `ADV-01-03` → `/artikel/media-statis-vs-digital.html` — Media Statis atau Digital: Memilih Keluarga Sistem
-- `ADV-01-04` → `/artikel/on-premise-vs-off-premise-advertising.html` — On-Premise dan Off-Premise Advertising
-- `ADV-01-06` → `/artikel/kamus-istilah-advertising-outdoor.html` — Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron
+Badan atau rangka adalah bagian yang menyatukan muka tampilan dengan titik sambung lain. Ada sistem yang bentuknya tipis, ada pula yang memiliki ruang di belakangnya untuk komponen tertentu. Istilah bahasa Inggris seperti *frame* sering dipakai di lapangan; maksudnya di sini adalah rangka penahan, bukan hiasan visual.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Yang perlu disepakati ialah batas pekerjaan: siapa menyediakan rangka, bagaimana muka tampilan dipasang, dan bagian mana yang boleh dibuka saat pemeriksaan. Hindari meminta “dibuat kuat saja” tanpa gambar, bahan, atau persetujuan teknis yang dapat ditelusuri.
 
-## Jawaban singkat dan salah paham utama
+### 3. Sambungan dan penopang
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sambungan menghubungkan rangka dengan penopang. Penopang dapat berupa dudukan pada dinding, tiang, atau struktur lain yang direncanakan khusus. Bagian ini tidak boleh diputuskan dari foto semata, karena keadaan bangunan, tanah, lokasi, dan cara pakai setiap proyek bisa berbeda.
 
-## Definisi dan batas objek
+[NEEDS REVIEW: penanggung jawab perancangan, kondisi lokasi, serta persetujuan struktur untuk proyek ini harus dipastikan sebelum pemasangan.]
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk alasan itu, artikel ini tidak memberi angka ukuran, jarak, atau kapasitas. Pemeriksaan oleh pihak yang berwenang diperlukan bila keputusan menyangkut struktur, bangunan, atau keselamatan pengguna.
 
-## Cara kerjanya
+### 4. Pencahayaan dan jalur listrik
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika signage memakai lampu atau perangkat elektronik, pikirkan jalur listrik sebagai bagian dari sistem, bukan tambahan yang ditaruh belakangan. Tanyakan dari mana sumber listrik berasal, siapa yang memasang, bagaimana akses pemeriksaannya, dan siapa yang menangani bila tampilan tidak bekerja.
 
-## Faktor yang mengubah hasil
+Istilah *power* pada pembicaraan proyek berarti pasokan listrik. Sementara itu, kabel, panel, dan perangkat lain baru boleh ditentukan setelah kebutuhan aktual, gambar kerja, serta penilaian tenaga yang kompeten tersedia. Teman Advert.id, jangan menukar kejelasan tanggung jawab dengan janji “nanti dirapikan di lokasi.”
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+### 5. Kendali, data, dan akses perawatan
 
-## Contoh keputusan praktis
+Pada signage yang tampilannya dapat berubah, kendali adalah cara mengatur pesan atau perangkat. Data dapat berarti berkas materi visual, jadwal perubahan, atau koneksi yang dipakai sistem. Yang perlu dilindungi bukan hanya tampilan hari pertama, melainkan juga cara orang yang berwenang memperbarui dan memeriksa sistem setelah pemasangan.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat daftar sederhana: siapa memegang akses, di mana dokumen disimpan, kapan perubahan perlu disetujui, dan bagaimana bila perangkat berhenti berfungsi. Ini bukan birokrasi tambahan; daftar tersebut mencegah pekerjaan kecil berubah menjadi saling lempar tanggung jawab.
 
-## Kesalahan umum dan cara memeriksanya
+## Batas proyek dan aturan setempat mengubah keputusan
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Anatomi fisik signage tidak otomatis menjawab apakah suatu pemasangan boleh dilakukan. Klasifikasi media, isi pesan, pemilik atau pengelola, kewenangan atas tanah, bangunan, atau jalan, masa pemasangan, serta pajak dan persetujuan dapat berbeda menurut tempatnya.
 
-## Objection or shortcut to address
+[UU Nomor 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), termasuk [naskah resminya](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), dan [PP Nomor 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-) menjadi rujukan umum terkait hubungan keuangan pusat dan daerah. Namun, aturan dan tata cara setempat tidak boleh disalin dari kota lain. Contoh aturan Depok dalam [Perwali Kota Depok Nomor 27 Tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) hanya menunjukkan bahwa pelaksanaan lokal perlu diperiksa pada otoritas yang tepat, bukan jawaban untuk semua wilayah.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Sebelum mengunci desain, buat matriks kecil berisi lokasi, jenis media, isi pesan, pemilik atau operator, pihak yang memberi persetujuan, masa tayang, dan pihak yang bertanggung jawab saat perubahan atau pembongkaran. Sobat Advert.id, matriks ini sering lebih berguna daripada daftar komponen yang terlihat lengkap tetapi tidak punya pemilik tugas yang jelas.
 
-## Required conclusion
+## Contoh cara mengambil keputusan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Bayangkan sebuah usaha ingin memasang penanda nama di tempat usahanya. Pertanyaan pertama bukan “berapa besar tulisannya?”, melainkan: apakah penanda ini hanya membantu orang menemukan lokasi, apakah memakai penerangan, dan siapa yang mengizinkan pemasangan pada bidang tersebut?
 
-## Draft completion checklist
+| Pertanyaan | Mengapa perlu dijawab | Bukti atau tindakan yang dicari |
+| --- | --- | --- |
+| Apa pesan yang harus dibaca? | Menentukan kebutuhan wajah tampilan | Materi visual yang disetujui |
+| Di mana sistem akan dipasang? | Menentukan batas penopang dan pihak berwenang | Foto kondisi, status lokasi, dan persetujuan tertulis |
+| Apakah ada perangkat listrik? | Menentukan jalur kerja dan pemeriksaan | Rencana sumber listrik serta penanggung jawab teknis |
+| Siapa mengubah atau merawatnya? | Mencegah akses dan tugas terabaikan | Daftar akses, kontak, dan tata cara serah terima |
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Contoh ini bukan rancangan teknis atau izin pemasangan. Ia hanya membantu menata urutan pertanyaan supaya desain, pemasangan, dan perawatan tidak saling bertabrakan.
+
+## Kesalahan yang sering membuat pekerjaan tersendat
+
+Kesalahan paling umum adalah membeli atau menyetujui muka tampilan terlebih dahulu, lalu menganggap rangka, penopang, listrik, dan akses perawatan dapat diselesaikan kemudian. Cara ini dapat gagal karena setiap bagian membutuhkan ruang, pihak yang bertanggung jawab, dan bukti persetujuan yang berbeda.
+
+Ada juga jalan pintas berupa menyamakan prosedur kota lain dengan lokasi proyek. Padahal tarif, formulir, pengecualian, atau proses persetujuan dapat berubah menurut pemerintah daerah dan waktu. Jangan menggunakan satu contoh aturan sebagai keputusan final; periksa sumber resmi yang berlaku di lokasi serta minta konfirmasi tertulis bila kesimpulannya berpengaruh besar.
+
+Terakhir, jangan menyebut pekerjaan selesai hanya karena tampilan sudah menyala atau terpasang. Tanyakan apakah akses pemeriksaan masih mungkin, siapa yang menerima dokumen, dan siapa yang menghubungi pihak teknis bila ada gangguan. Serah terima di sini berarti pengalihan informasi dan tanggung jawab secara jelas, bukan sekadar penyerahan barang.
+
+## Langkah yang bisa dilakukan sekarang
+
+Singkatnya, sistem signage terdiri dari wajah tampilan, rangka, sambungan dan penopang, kebutuhan listrik bila ada, serta kendali dan akses perawatan. Bagian-bagian itu harus dibaca sebagai satu rangkaian keputusan, bukan daftar belanja terpisah.
+
+Mulailah dengan satu lembar pemeriksaan: tulis tujuan pesan, lokasi, jenis sistem, pihak pemilik, sumber listrik bila diperlukan, akses perawatan, dan dokumen persetujuan yang masih belum ada. Bila salah satu jawaban menyangkut struktur, instalasi listrik, atau aturan setempat, tahan keputusan akhir sampai pihak yang kompeten dan otoritas terkait memeriksanya.
+
+Itu aturan praktisnya, Teman Advert.id: jangan hanya bertanya “seperti apa papan ini terlihat?”, tetapi juga “apa yang menopang, menyalakan, mengendalikan, dan merawatnya setelah dipasang?”
