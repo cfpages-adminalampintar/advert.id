@@ -12,9 +12,17 @@ primary_intent: "Eliminate package gaps"
 reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/scope-matrix-proyek-advertising.html"
-technical_review: conditional
+technical_review: required
 sources:
-  - null
+  - "https://www.iso.org/standard/57833.html"
+  - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
+  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
+  - "https://www.iso.org/standard/51378.html"
+  - "https://www.iso.org/standard/38882.html"
+  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
+  - "https://www.iso.org/standard/81651.html"
+  - "https://www.iso.org/standard/64838.html"
 ---
 
 <!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
@@ -50,11 +58,37 @@ sources:
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-- `[NEEDS RESEARCH MAP]` No topic-level research record was resolved. Do not draft consequential claims.
+### KR-05
+
+- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
+- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
+- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
+- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+
+### KR-06
+
+- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
+- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
+- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
+- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+
+### KR-08
+
+- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
+- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
+- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
+- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+
+### KR-16
+
+- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
+- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
+- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
 
 ## Evidence gates
 
-- No explicit topic gate was resolved mechanically; still do not invent project facts.
+- **TOPIC-GATE:** Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover
 
 If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
 

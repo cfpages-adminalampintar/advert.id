@@ -12,9 +12,14 @@ primary_intent: "Understand system components"
 reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/anatomi-sistem-signage.html"
-technical_review: conditional
+technical_review: required
 sources:
-  - null
+  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
+  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
+  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
+  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
+  - "https://peraturan.bpk.go.id/Details/252130/pp-"
+  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
 ---
 
 <!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
@@ -50,11 +55,30 @@ sources:
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-- `[NEEDS RESEARCH MAP]` No topic-level research record was resolved. Do not draft consequential claims.
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md) and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified `advert.id` scope and keep research subordinate to its 14 local topic families.
+- **Safe grounded facts:** The frozen plan contains 14 topics and 84 briefs. Existing pages, photos, portfolio claims, dimensions, prices, and service areas are evidence candidates only.
+- **Limits:** Planning artifacts establish editorial scope only.
+
+### KR-02
+
+- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
+- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
+- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
+- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+
+### KR-14
+
+- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
+- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
+- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
+- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
 
 ## Evidence gates
 
-- No explicit topic gate was resolved mechanically; still do not invent project facts.
+- **TOPIC-GATE:** Exact system, jurisdiction, content, owner/operator, and current official classification
 
 If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
 

@@ -12,9 +12,20 @@ primary_intent: "Assess an attachment interface"
 reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/fixing-signage-existing-structure.html"
-technical_review: conditional
+technical_review: required
 sources:
-  - null
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
+  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
+  - "https://www.iso.org/standard/38882.html"
+  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
+  - "https://www.iso.org/standard/81651.html"
+  - "https://www.iso.org/standard/54936.html"
+  - "https://www.iso.org/standard/64834.html"
+  - "https://www.iso.org/standard/64837.html"
+  - "https://www.iso.org/standard/64838.html"
+  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
+  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
+  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
 <!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
@@ -50,11 +61,58 @@ sources:
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-- `[NEEDS RESEARCH MAP]` No topic-level research record was resolved. Do not draft consequential claims.
+### KR-07
+
+- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
+- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
+- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
+- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+
+### KR-08
+
+- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
+- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
+- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
+- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+
+### KR-09
+
+- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
+- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
+- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
+- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+
+### KR-10
+
+- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
+- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
+- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
+
+### KR-15
+
+- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
+- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
+- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
+- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+
+### KR-16
+
+- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
+- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
+- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+
+### KR-17
+
+- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
+- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
+- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
+- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
 
 ## Evidence gates
 
-- No explicit topic gate was resolved mechanically; still do not invent project facts.
+- **TOPIC-GATE:** Qualified engineer's current Indonesian design plus real site/material/QC/as-built records
 
 If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
 

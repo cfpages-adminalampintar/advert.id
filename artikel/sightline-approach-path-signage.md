@@ -12,9 +12,18 @@ primary_intent: "Map when a sign becomes visible"
 reader_community: "Advert.id"
 reader_address: "Kawan Advert.id"
 final_route: "/artikel/sightline-approach-path-signage.html"
-technical_review: conditional
+technical_review: required
 sources:
-  - null
+  - "https://www.iso.org/news/ref2369.html"
+  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
+  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
+  - "https://www.iso.org/standard/57833.html"
+  - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
+  - "https://www.iso.org/standard/38882.html"
+  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
+  - "https://www.iso.org/standard/64838.html"
+  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
 <!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
@@ -50,11 +59,44 @@ sources:
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-- `[NEEDS RESEARCH MAP]` No topic-level research record was resolved. Do not draft consequential claims.
+### KR-03
+
+- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
+- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
+- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
+- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+
+### KR-04
+
+- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
+- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
+- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
+- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+
+### KR-05
+
+- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
+- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
+- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
+- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+
+### KR-08
+
+- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
+- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
+- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
+- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+
+### KR-17
+
+- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
+- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
+- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
+- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
 
 ## Evidence gates
 
-- No explicit topic gate was resolved mechanically; still do not invent project facts.
+- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
 
 If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
 

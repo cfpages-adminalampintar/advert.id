@@ -12,9 +12,17 @@ primary_intent: "Simplify creative for brief exposure"
 reader_community: "Advert.id"
 reader_address: "Teman Advert.id"
 final_route: "/artikel/message-hierarchy-media-outdoor.html"
-technical_review: conditional
+technical_review: required
 sources:
-  - null
+  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
+  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
+  - "https://www.iso.org/news/ref2369.html"
+  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
+  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
+  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
+  - "https://www.iso.org/standard/81651.html"
+  - "https://www.iso.org/standard/64838.html"
 ---
 
 <!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
@@ -50,11 +58,37 @@ sources:
 
 Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
 
-- `[NEEDS RESEARCH MAP]` No topic-level research record was resolved. Do not draft consequential claims.
+### KR-02
+
+- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
+- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
+- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
+- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+
+### KR-03
+
+- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
+- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
+- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
+- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+
+### KR-12
+
+- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
+- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
+- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
+- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+
+### KR-16
+
+- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
+- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
+- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
 
 ## Evidence gates
 
-- No explicit topic gate was resolved mechanically; still do not invent project facts.
+- **TOPIC-GATE:** Dated campaign data, substantiated content, baseline, method, budget, and owner approval
 
 If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
 
