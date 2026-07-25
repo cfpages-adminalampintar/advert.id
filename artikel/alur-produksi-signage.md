@@ -1,9 +1,10 @@
 ---
 article_id: ADV-12-01
-title: "Alur Produksi Signage dari Approved Drawing hingga Release"
+title: "Alur Produksi Signage dari Gambar Disetujui hingga Pelepasan Barang"
 slug: "alur-produksi-signage"
-description: "Map drawing/artwork release, material receipt, print/cutting/forming/welding, trial fit, finish, wiring, dimensional/functional inspection, packing and release"
-status: outline
+description: "Panduan menelusuri alur produksi signage dari gambar dan materi visual yang disetujui, penerimaan material, fabrikasi, pemeriksaan, hingga pengemasan dan pelepasan barang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,54 +15,16 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/alur-produksi-signage.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Alur Produksi Signage dari Gambar Disetujui hingga Pelepasan Barang
 
-# Alur Produksi Signage dari Approved Drawing hingga Release
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Alur Produksi Signage dari Approved Drawing hingga Release”
-- **Reader and situation:** Buyer auditing production readiness
-- **Reader outcome:** Map drawing/artwork release, material receipt, print/cutting/forming/welding, trial fit, finish, wiring, dimensional/functional inspection, packing and release
-- **Primary intent:** Understand fabrication controls
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No claim about actual shop capability without records; ADV-13-04 owns ITP
-- **Final public route:** `/artikel/alur-produksi-signage.html`
-- **Appointed CMS date:** `2026-05-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Alur Produksi Signage dari Approved Drawing hingga Release**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,145 +35,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Advert.id! Alur produksi signage yang siap ditelusuri bukan sekadar “gambar disetujui lalu barang dibuat”. Alurnya harus mengunci apa yang dibuat, dari material apa, oleh siapa, diperiksa kapan, dan bukti apa yang ikut saat barang dilepas. Tanpa itu, hasil yang tampak rapi masih bisa salah ukuran, salah materi visual (artwork), atau sulit dipasang dengan aman.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: mulai dari gambar kerja dan artwork yang benar-benar disetujui, terima serta cocokkan material, buat komponen, lakukan perakitan dan uji pas, selesaikan permukaan dan kelistrikan bila ada, lalu periksa ukuran serta fungsi sebelum dikemas dan dilepas. Urutan ini berubah bila ada perubahan lokasi, struktur penopang, kelistrikan, atau akses pemasangan. Karena itu, kemampuan bengkel tidak boleh diasumsikan hanya dari urutan ini; mintalah catatan proyek yang relevan.
 
-### KR-04
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-12-02` → `/artikel/proses-fabrikasi-signage.html` — Cutting, Forming, Welding, dan Finishing Signage
-- `ADV-12-03` → `/artikel/input-lift-plan-signage.html` — Input Wajib untuk Lift Plan Signage Besar
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Alur Produksi Signage dari Approved Drawing hingga Release”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahpahaman yang mahal adalah menganggap persetujuan desain visual sama dengan persetujuan untuk memproduksi dan memasang. Artwork dapat benar, tetapi gambar kerja belum tentu menetapkan ketebalan, sambungan, titik jangkar, jalur kabel, atau ruang servis. Untuk signage yang menjadi bagian bangunan atau berdiri sendiri, jalur beban perlu dilihat menyeluruh: muka atau kabinet, rangka, sambungan, jangkar, penopang bangunan atau tiang, hingga fondasi atau tanah. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) memberi konteks penyelenggaraan bangunan, tetapi penerapannya tetap memerlukan data kondisi proyek dan pemeriksaan pihak yang bertanggung jawab.
+
+Jadi, sebelum produksi dimulai, ajukan pertanyaan sederhana: “dokumen mana yang menjadi acuan tunggal di lantai produksi?” Jika jawabannya masih beberapa file pesan singkat atau gambar tanpa revisi jelas, tahan pekerjaan. Kawan Advert.id, menahan satu tahap lebih murah daripada membongkar barang yang sudah selesai.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Produksi Signage dari Approved Drawing hingga Release”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Yang dimaksud *approved drawing* di sini adalah gambar kerja yang telah disetujui untuk dibuat; *artwork release* adalah pelepasan berkas visual final untuk diproduksi. Keduanya perlu memiliki identitas revisi, tanggal, dan pihak pemberi persetujuan. “Release” pada akhir alur berarti barang dilepas dari pengendalian produksi untuk dikirim atau diserahkan, bukan otomatis izin pemasangan atau penerimaan akhir di lokasi.
+
+Artikel ini membahas kendali proses fabrikasi signage: penerimaan material, pemotongan, pembentukan, pengelasan atau perakitan, penyelesaian permukaan, kelistrikan, pemeriksaan, pengemasan, dan pelepasan. Artikel ini bukan pengganti perancangan struktur, persetujuan otoritas, atau pemeriksaan lapangan. Persyaratan setempat, kondisi bangunan eksisting, dan data tanah tidak bisa disimpulkan dari foto atau gambar produk. Rujukan resmi [PP 16 Tahun 2021 versi PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf) juga tidak menggantikan desain, perhitungan, dan inspeksi yang spesifik pada proyek.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Alur Produksi Signage dari Approved Drawing hingga Release”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan rapat pelepasan produksi. Cocokkan nomor gambar, ukuran, bahan, warna atau sistem akhir, artwork, posisi muka, metode sambungan, dan daftar komponen. Tetapkan pula titik pemeriksaan: misalnya setelah rangka siap, sebelum permukaan ditutup, dan sebelum barang dikemas. Titik ini adalah saat pekerjaan berhenti sejenak untuk diperiksa, bukan formalitas di akhir.
+
+Berikutnya, saat material datang, catat jenis, ukuran, jumlah, kondisi, dan kaitannya dengan daftar kebutuhan. Material yang berbeda tidak boleh disamakan hanya karena tampilannya mirip. Untuk pekerjaan cat atau sistem pelindung, spesifikasi perlu menjelaskan sistem yang dipilih serta persiapan dan pelaksanaannya; [ISO 12944-8](https://www.iso.org/standard/64838.html) menunjukkan bahwa dokumentasi spesifikasi pelindung korosi adalah bagian tersendiri dari pekerjaan, bukan label umum “anti karat”.
+
+Komponen kemudian dipotong, dibentuk, dilubangi, dan dirakit sesuai gambar kerja. Bila ada pengelasan, jangan tutup bagian yang tidak akan dapat diperiksa sebelum ukuran, posisi, dan mutu sambungan yang disyaratkan sudah ditinjau. Uji pas sementara membantu menemukan benturan antarbagian, arah muka yang keliru, pintu servis yang tidak dapat dibuka, atau lubang jangkar yang tidak sebaris. Catat perubahan yang disetujui pada dokumen revisi, bukan hanya di ingatan operator.
+
+Setelah bentuk dan pemasangan percobaan sesuai, lakukan penyelesaian permukaan: pembersihan, pelapisan, pengecatan, atau aplikasi grafis sesuai sistem yang disetujui. Untuk signage berlampu atau digital, lanjutkan dengan penataan kabel, perlindungan, pembumian atau penyamaan potensial, pengamanan, dan akses isolasi. Rute kabel, panas, paparan air/debu, serta akses perawatan harus sudah memiliki dasar desain dan catatan pemeriksaan; jangan menganggap lampu menyala sebentar sebagai bukti sistem siap pakai.
+
+Tahap terakhir adalah pemeriksaan dimensi dan fungsi. Bandingkan ukuran penting, jumlah komponen, orientasi, tampilan artwork, bukaan servis, dan fungsi yang memang tercantum dalam dokumen. Simpan daftar ketidaksesuaian dan keputusan perbaikannya. Baru setelah status pemeriksaan jelas, barang dikemas dengan perlindungan sesuai risiko angkut, diberi tanda identitas, dan disertai dokumen serah-terima yang diperlukan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Alur Produksi Signage dari Approved Drawing hingga Release”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ukuran saja tidak cukup menentukan kerumitan. Signage yang menempel pada fasad, berada di luar ruang, atau memiliki pencahayaan dan data memerlukan antarmuka tambahan. Catat sejak awal lokasi, persetujuan pemilik, koordinat, arah arus pengguna jalan, halangan visual, kondisi siang/malam, utilitas, akses, drainase, bahaya sekitar, dan jangkauan pemeliharaan. Teman Advert.id, daftar ini bukan rumus jarak pandang universal; ia membantu tim mengetahui data apa yang belum ada sebelum membuat keputusan produksi.
+
+Pemasangan atau pengangkatan juga dapat mengubah metode fabrikasi. Akses, cuaca, zona pembatas bagi publik, lalu lintas, kestabilan sementara, alat angkat dan rigging, benda jatuh, pekerjaan panas, komunikasi, serta rencana darurat perlu diputuskan berdasarkan penilaian risiko proyek. [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) dan status perubahan aturan kerja pada ketinggian yang ditampilkan di [basis data peraturan BPK](https://peraturan.bpk.go.id/Search?p=195&tema=24) perlu dibaca dalam naskah terkini dan diterapkan oleh pihak berkompeten, bukan diperlakukan sebagai daftar cek universal.
+
+**[NEEDS REVIEW: penilaian risiko tugas/lokasi yang disetujui, personel kompeten, catatan alat, izin, zona pembatas, rencana penyelamatan, inspeksi, dan kriteria penghentian kerja sebelum metode produksi atau pemasangan dinyatakan siap.]**
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Alur Produksi Signage dari Approved Drawing hingga Release”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pembeli menerima dua penawaran signage berlampu dengan ukuran muka yang sama. Penawaran pertama hanya menyebut “rangka besi, lampu, cat, kirim”. Penawaran kedua menyebut gambar revisi, daftar material, sistem pelapisan, akses servis, jalur dan perlindungan kabel, pemeriksaan, pengemasan, pengecualian, serta bukti yang diserahkan. Yang kedua belum otomatis lebih baik atau lebih mahal secara tepat, tetapi lebih mudah dibandingkan karena batas pekerjaannya terlihat.
+
+| Pertanyaan pembeli | Bukti minimum yang diminta | Keputusan bila belum ada |
+| --- | --- | --- |
+| Apa yang dibuat? | Gambar kerja dan artwork dengan revisi disetujui | Tahan pelepasan produksi |
+| Bahan apa yang dipakai? | Daftar material dan ukuran yang dapat dicocokkan | Minta klarifikasi sebelum pemesanan material |
+| Bagaimana barang diperiksa? | Titik pemeriksaan, daftar ukuran/fungsi, catatan hasil | Jangan anggap pemeriksaan akhir saja cukup |
+| Bagaimana dipasang dan dirawat? | Data penopang, akses, kelistrikan, dan batas pekerjaan | Minta tinjauan teknis proyek |
+
+Daftar yang sama membuat penawaran lebih dapat diaudit: kuantitas dan dimensi, batas pekerjaan, dasar desain, material/sistem, akses/angkat, listrik/data, artwork, izin atau pungutan, pengujian, jadwal, pemeliharaan, garansi, dan bukti penyerahan perlu dibedakan. Sobat Advert.id, jangan memindahkan prosedur atau tarif dari satu daerah ke daerah lain; persetujuan dan tanggung jawab lokal harus dikonfirmasi tertulis kepada otoritas yang berwenang.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Alur Produksi Signage dari Approved Drawing hingga Release”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah memulai pemotongan begitu desain visual disetujui. Ini gagal ketika ukuran aktual, titik sambungan, susunan kabel, atau metode angkat baru diketahui kemudian. Alternatif yang lebih aman adalah membuat daftar pelepasan produksi dan menyetujui setiap perubahan oleh pihak yang berwenang sebelum material diolah.
 
-## Objection or shortcut to address
+Kesalahan lain ialah menutup bagian rangka atau kabel sebelum pemeriksaan. Ubah menjadi pertanyaan: “bagian apa yang tidak lagi terlihat setelah tahap berikutnya, dan siapa yang sudah memeriksanya?” Untuk barang berlapis atau berlampu, tanyakan pula dokumen sistem akhir, identitas komponen, hasil pemeriksaan yang disyaratkan, dan cara isolasi aman saat perawatan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, jangan menyamakan barang yang keluar dari bengkel dengan barang yang diterima di lokasi. Periksa label paket, jumlah, pelindung sudut atau muka, daftar isi, dokumen revisi, kondisi saat pemuatan, dan pihak penerima. Bila ada kerusakan atau perubahan, catat sebelum barang melanjutkan ke tahap pemasangan.
 
-## Required conclusion
+## Langkah berikutnya sebelum pelepasan barang
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alur produksi signage yang baik bergerak dari dokumen final, material yang dapat ditelusuri, fabrikasi bertahap, pemeriksaan sebelum tertutup, hingga pengemasan dan pelepasan yang memiliki bukti. Ia bukan jaminan bahwa sebuah bengkel atau pemasangan tertentu sudah layak tanpa rekamannya.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah praktis Anda sekarang: minta satu paket pelepasan produksi berisi gambar dan artwork revisi, daftar material, titik pemeriksaan, daftar uji yang relevan, serta catatan ketidaksesuaian. Untuk memahami pilihan produk dan layanan yang tersedia, lihat [halaman signage](/signage/). Aturan operasinya sederhana: bila dokumen, risiko lokasi, atau pemeriksa yang berwenang belum jelas, jangan lepaskan pekerjaan ke tahap berikutnya.
