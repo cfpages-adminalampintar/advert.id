@@ -1,9 +1,9 @@
 ---
 article_id: ADV-07-02
-title: "Pixel Pitch Videotron: Mulai dari Viewing Context"
+title: "Memilih Jarak Antarpiksel Videotron"
 slug: "memilih-pixel-pitch-videotron"
-description: "Relate content detail, nearest/typical viewing, screen size, camera use, brightness, budget and test viewing"
-status: outline
+description: "Cara memilih jarak antarpiksel videotron dari konteks melihat, jenis konten, ukuran layar, kamera, kondisi lokasi, serta bukti sistem yang diuji."
+status: draft
 publication_date: "2026-01-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,60 +13,25 @@ reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/memilih-pixel-pitch-videotron.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
   - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Memilih Jarak Antarpiksel Videotron
 
-# Pixel Pitch Videotron: Mulai dari Viewing Context
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Jarak antarpiksel adalah jarak antara pusat piksel pada layar. Istilah ini sering disebut *pixel pitch*. Ia penting, tetapi bukan angka tunggal yang dapat dipilih tanpa melihat penggunaan. Yang perlu didahulukan ialah siapa yang akan melihat layar, dari konteks apa, pesan apa yang harus terbaca, berapa besar bidangnya, serta bagaimana seluruh sistem akan dipasang dan dioperasikan.
 
-- **Writer task:** Expand this file into one complete article answering: “Pixel Pitch Videotron: Mulai dari Viewing Context”
-- **Reader and situation:** Buyer tempted to select by one headline number
-- **Reader outcome:** Relate content detail, nearest/typical viewing, screen size, camera use, brightness, budget and test viewing
-- **Primary intent:** Define pixel-density requirements
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal distance formula or model recommendation; project mock-up/manufacturer evidence governs
-- **Final public route:** `/artikel/memilih-pixel-pitch-videotron.html`
-- **Appointed CMS date:** `2026-01-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan memilih layar hanya dari angka pada judul penawaran. Angka yang tampak lebih rapat tidak otomatis berarti pilihan terbaik, dan angka yang lebih renggang tidak otomatis salah. Kesesuaian perlu dibuktikan melalui contoh konten, pengamatan pada konteks yang mirip, data perangkat serta sistem yang tepat, dan keputusan pemilik proyek. [NEEDS: lokasi serta arah pengguna, contoh konten, ukuran layar, perangkat dan versi, rancangan sistem, persetujuan, pengujian, dan rencana operasi]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pixel Pitch Videotron: Mulai dari Viewing Context**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -77,172 +42,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Videotron` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Videotron](/wp-content/uploads/2024/05/Videotron.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Mulai dari cara orang melihat layar
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Catat pembaca yang dituju, arah kedatangan, jarak terdekat dan paling umum yang benar-benar terjadi, lama perhatian, kecepatan pergerakan, penghalang, latar, kondisi terang dan gelap, serta kemungkinan layar direkam kamera. Informasi ini lebih berguna daripada bertanya “pitch yang paling bagus apa?” karena jawaban berubah saat konteks berubah.
 
-### KR-04
+Untuk layar dekat jalan, jangan mengubah keputusan visual menjadi klaim keselamatan atau izin. Identitas lokasi, arah pengguna, kondisi jalan, otoritas, akses, dan konteks publik perlu diperiksa. [UU 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) memberi konteks lalu lintas; ia bukan rumus untuk memilih layar tertentu.
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Kawan Advert.id, bedakan juga orang yang kebetulan lewat dari pembaca yang memang menjadi sasaran. Layar di ruang tunggu, area pejalan kaki, fasad bangunan, dan koridor kendaraan dapat membawa kebutuhan konten serta pengamatan yang sangat berbeda.
 
-### KR-07
+## Hubungkan jarak antarpiksel dengan konten
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Jarak antarpiksel memengaruhi bagaimana detail visual disusun pada bidang layar. Namun konten ikut menentukan apakah detail itu berguna. Teks kecil, data padat, gambar produk, elemen bergerak, logo, dan pesan singkat tidak meminta perlakuan yang sama. Mulailah dari daftar materi yang benar-benar akan ditayangkan, bukan dari contoh promosi pemasok saja.
 
-### KR-08
+Siapkan contoh konten dengan ukuran, bahasa, warna, gerak, serta urutan pesan yang mendekati operasi nyata. Lihat bersama pemilik konten dan pengguna yang relevan pada kondisi yang diperkirakan. Catat apa yang diuji dan apa yang belum. Pengamatan tersebut tidak menjanjikan hasil di semua cuaca atau pada semua kamera, tetapi membantu mengubah keputusan dari dugaan menjadi bukti proyek.
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Teman Advert.id, jangan lupa bahwa layar tidak bekerja sendiri. Perangkat pemutar, pengendali, cara mengirim konten, pengaturan tampilan, dan pemeliharaan memengaruhi pengalaman sehari-hari. Pastikan siapa yang mengelola tiap bagian dan bagaimana perubahan dilacak.
 
-### KR-11
+## Ukuran layar dan susunan sistem
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Ukuran fisik layar, susunan modul, orientasi, tempat pemasangan, dan bidang tampak menentukan bagaimana konten dapat disusun. Membandingkan dua nilai jarak antarpiksel tanpa membandingkan ukuran layar serta bentuk konten dapat menyesatkan. Minta gambar sistem yang menunjukkan bidang layar, modul, pengendali, sumber daya, jalur data, akses perawatan, dan hubungan dengan penopang.
 
-### KR-12
+Spesifikasi satu modul atau video demonstrasi bukan bukti bahwa sistem lengkap memenuhi kebutuhan lokasi. [IEC 62368-1](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) membahas keselamatan peralatan audio/video dan teknologi informasi dalam ruang lingkupnya, tetapi tidak membuktikan keterlihatan, penggunaan energi, ketahanan cuaca, keamanan jaringan, atau operasi layar yang terpasang.
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+Penopang dan kondisi bangunan juga tidak boleh diabaikan demi keputusan layar. PP 16 Tahun 2021 memberi konteks bangunan gedung, sedangkan rancangan serta pemeriksaan spesifik tetap perlu untuk memastikan hubungan layar dengan struktur pendukung. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)
 
-### KR-14
+## Pengamatan contoh yang lebih berguna
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Pengamatan contoh bukan acara demonstrasi singkat. Tentukan terlebih dahulu konten yang dipakai, kondisi yang ingin dilihat, orang yang memberi masukan, cara mencatat, serta keputusan yang dapat diambil setelahnya. Bila layar dipertimbangkan untuk penggunaan kamera, sertakan kebutuhan produksi atau dokumentasi yang nyata; jangan menyimpulkan hasil kamera dari klaim umum.
 
-### KR-15
+| Pertanyaan | Bukti yang membantu | Hal yang tidak boleh langsung disimpulkan |
+| --- | --- | --- |
+| Siapa pembaca layar? | Survei arah pengguna dan konteks lokasi | Satu angka jarak cocok untuk semua orang. |
+| Konten apa yang penting? | Contoh pesan, ukuran teks, gambar, dan gerak | Semua konten akan terbaca sama. |
+| Sistem apa yang dipasang? | Daftar perangkat, versi, gambar, dan data produk | Satu modul membuktikan sistem lengkap. |
+| Bagaimana layar dirawat? | Akses, pemilik operasi, catatan dukungan | Layar akan selalu tersedia tanpa rencana. |
+| Apa yang berubah bila lokasi berubah? | Catatan perubahan dan peninjauan ulang | Konfigurasi lama cocok di lokasi baru. |
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+## Biaya, izin, dan operasi adalah bagian lain
 
-### KR-16
+Nilai jarak antarpiksel tidak menjawab biaya total, izin, pajak, kepemilikan konten, hak akses, atau masa dukungan perangkat. Kelompok ini perlu dipisahkan dalam penawaran agar pembeli tidak menyamakan fitur tampilan dengan seluruh kewajiban proyek. Pengelolaan konten serta bukti elektronik juga berada dalam konteks [UU 1 Tahun 2024](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Media digital tetap perlu membawa pesan yang bertanggung jawab. [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) dan [PP 80 Tahun 2019](https://peraturan.bpk.go.id/Details/126143/pp-no-80) memberi konteks perlindungan konsumen serta perdagangan melalui sistem elektronik. Jenis pesan tertentu dapat memerlukan pemeriksaan tambahan; spesifikasi layar tidak menentukan legalitas konten.
 
-## Evidence gates
+## Kesalahan yang sebaiknya dihentikan
 
-- **TOPIC-GATE:** Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan
+Jalan pintasnya adalah menyebut nilai paling rapat sebagai mutu terbaik, lalu menyesuaikan proyek ke produk yang sudah dipilih. Cara ini dapat mengabaikan konteks melihat, konten, akses, operasi, dan bukti konfigurasi. Kebalikannya, memilih nilai hanya karena harga awal lebih rendah juga dapat menyisakan pertanyaan penting tanpa jawaban.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Alternatifnya: buat daftar konteks melihat dan contoh konten, minta data sistem yang tepat, lakukan pengamatan yang disetujui, lalu dokumentasikan alasan keputusan. Sobat Advert.id, jika bukti belum cukup, tunda pemilihan akhir—bukan memaksakan angka sebagai jawaban atas semua kebutuhan.
 
-## Internal-link plan
+## Aturan memilih yang lebih jujur
 
-### Existing local routes
+Memilih jarak antarpiksel videotron berarti menyamakan layar dengan cara orang melihat, isi pesan, ukuran bidang, sistem, dan operasi yang nyata. Angka jarak antarpiksel adalah salah satu masukan, bukan jaminan keterbacaan, performa, atau keselamatan.
 
-- `/videotron` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-07-01` → `/artikel/running-text-vs-videotron.html` — Running Text atau Videotron: Memilih Sistem Digital Display
-- `ADV-07-03` → `/artikel/anatomi-videotron-outdoor.html` — Cabinet, Module, Cooling, dan Weather Protection Videotron
-- `ADV-07-04` → `/artikel/cms-digital-signage.html` — Content Management System untuk Digital Signage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pixel Pitch Videotron: Mulai dari Viewing Context”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pixel Pitch Videotron: Mulai dari Viewing Context”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pixel Pitch Videotron: Mulai dari Viewing Context”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pixel Pitch Videotron: Mulai dari Viewing Context”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pixel Pitch Videotron: Mulai dari Viewing Context”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pixel Pitch Videotron: Mulai dari Viewing Context”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan praktisnya: jangan memilih sebelum konteks lokasi, contoh konten, data perangkat, dan bukti pengamatan tersedia. Keputusan akhir perlu disetujui oleh pemilik proyek serta pihak kompeten sesuai sistem yang akan dipasang.

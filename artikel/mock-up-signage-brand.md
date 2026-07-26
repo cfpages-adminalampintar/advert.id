@@ -1,9 +1,9 @@
 ---
 article_id: ADV-05-06
-title: "Mock-Up dan Sample Approval untuk Signage Brand"
+title: "Purwarupa dan Contoh Uji untuk Signage Merek"
 slug: "mock-up-signage-brand"
-description: "Evaluate scale, typography, color, finish, seams, edge, day/night illumination, mounting appearance, access and documented acceptance"
-status: outline
+description: "Cara memakai purwarupa atau contoh uji untuk menyepakati tampilan, huruf, warna, sambungan, tepi, pencahayaan, akses, dan rekaman penerimaan signage merek."
+status: draft
 publication_date: "2025-12-15"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,56 +13,25 @@ reader_community: "Advert.id"
 reader_address: "Teman Advert.id"
 final_route: "/artikel/mock-up-signage-brand.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
   - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Purwarupa dan Contoh Uji untuk Signage Merek
 
-# Mock-Up dan Sample Approval untuk Signage Brand
+Halo, Teman Advert.id!
 
-## Assignment lock
+Purwarupa atau contoh uji adalah benda atau bagian contoh yang dibuat untuk membantu tim menyepakati tampilan dan hubungan antarbagian sebelum produksi penuh. Dalam pekerjaan signage merek, contoh ini dapat membantu menilai skala, bentuk huruf, warna, bahan, lapisan akhir, sambungan yang terlihat, tepi, cara bidang tampak bertemu kabinet, serta kesan pencahayaan bila memang disertakan.
 
-- **Writer task:** Expand this file into one complete article answering: “Mock-Up dan Sample Approval untuk Signage Brand”
-- **Reader and situation:** Brand/owner before production
-- **Reader outcome:** Evaluate scale, typography, color, finish, seams, edge, day/night illumination, mounting appearance, access and documented acceptance
-- **Primary intent:** Approve appearance and interfaces
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Mock-up does not prove structure/electrical/fire/weather life; respective owner topics remain required
-- **Final public route:** `/artikel/mock-up-signage-brand.html`
-- **Appointed CMS date:** `2025-12-15` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Namun contoh uji tidak otomatis membuktikan struktur aman, instalasi listrik sesuai, tahan terhadap cuaca dalam jangka tertentu, atau lokasi telah disetujui. Bukti untuk hal-hal itu tetap berasal dari rancangan lengkap, data produk, pemeriksaan, pengujian, persetujuan, dan pihak yang berwenang. [NEEDS: rancangan sistem lengkap, data produk, contoh yang diberi identitas, kondisi uji, persetujuan tertulis, pemeriksaan lokasi, serta rencana penerimaan]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mock-Up dan Sample Approval untuk Signage Brand**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,152 +42,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Menentukan pertanyaan sebelum membuat contoh
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Contoh uji yang baik dimulai dari pertanyaan yang jelas. Apakah tim perlu menyepakati warna pada bahan tertentu? Apakah ukuran huruf dan komposisi terlihat seimbang? Apakah pertemuan bidang, kabinet, dan tepi dapat diterima? Apakah pencahayaan perlu dilihat pada kondisi tertentu? Satu contoh tidak harus menjawab semuanya; justru lebih aman bila batas pemeriksaannya ditulis.
 
-### KR-06
+Kawan Advert.id, jangan meminta “buat saja contoh terbaik.” Minta contoh dengan identitas: kode, gambar dan revisi acuan, bahan, produk, cara penerapan, pihak pembuat, kondisi pengamatan, dan daftar hal yang memang dinilai. Identitas ini mencegah contoh dipakai sebagai alasan untuk mengubah pekerjaan lain tanpa keputusan yang tercatat.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+Hasil contoh dapat berupa diterima, diterima dengan perubahan, atau perlu contoh lain. Catat alasan keputusan, bukan hanya tanda tangan. Bila perubahan dibuat, kaitkan dengan gambar serta versi baru agar produksi tidak menggunakan keputusan lama.
 
-### KR-07
+## Hal yang dapat dinilai dengan purwarupa
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Purwarupa dapat membantu mengecek hubungan visual dan fisik pada skala yang disepakati. Misalnya, proporsi elemen merek, keterbacaan bentuk huruf, kecocokan warna pada bahan, arah sambungan, kerapian tepi, rasa permukaan, jarak antarbagian, serta akses yang secara fisik terlihat pada contoh.
 
-### KR-09
+Untuk bahan dan lapisan pelindung, catat produk, pabrikan, revisi, bahan dasar, persiapan permukaan, sistem perekat atau lapisan, batas lingkungan yang disebut pabrikan, pembersihan, pelepasan, serta jaminan yang relevan. [ISO 12944](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) memberi kerangka terkait lingkungan dan perlindungan terhadap korosi. Kesesuaian aktual tetap memerlukan data teknis, persetujuan kompatibilitas, serta kondisi proyek.
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+Sobat Advert.id, contoh warna pada satu bahan dan kondisi cahaya tidak menjanjikan tampilan identik pada seluruh bahan atau kondisi terang-gelap. Gunakan contoh sebagai dasar percakapan yang lebih presisi, bukan sebagai klaim hasil umum.
 
-### KR-11
+## Hal yang tidak dapat dibuktikan oleh contoh
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Contoh tampilan tidak membuktikan seluruh jalur beban dari bidang media ke penopang atau tanah. Ia juga tidak membuktikan kemampuan sambungan, keadaan dinding eksisting, angkur, pondasi, atau prosedur pemasangan. PP 16 Tahun 2021 memberi konteks bangunan gedung, tetapi bukan pengganti rancangan serta pemeriksaan spesifik untuk aset yang akan dipasang. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)
 
-### KR-14
+Begitu pula, contoh kabinet bercahaya tidak membuktikan sistem daya, pengendali, perlindungan, jalur kabel, atau keselamatan instalasi di lokasi. [IEC 62368-1](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) membahas keselamatan peralatan audio/video dan teknologi informasi dalam lingkupnya. Sistem terpasang tetap membutuhkan rancangan, pemeriksaan, pengujian, dan pekerjaan oleh pihak kompeten.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Teman Advert.id, bedakan juga bukti penampilan dari bukti daya tahan. Contoh baru yang tersimpan di dalam ruang tidak mewakili seluruh paparan, perawatan, atau kondisi nyata yang mungkin dialami media di lokasi.
 
-### KR-16
+## Cara menyusun sesi penilaian
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Pilih tempat serta kondisi penilaian yang relevan dengan pertanyaan contoh. Siapkan gambar acuan, daftar elemen yang dinilai, pihak yang dapat memutuskan, cara mencatat komentar, dan batas perubahan yang dapat disetujui. Bila pencahayaan menjadi bagian contoh, catat sumber cahaya, kondisi yang dilihat, pengaturan yang digunakan, serta siapa yang mengelola keputusan sistem berikutnya.
 
-## Evidence gates
+| Bagian yang dinilai | Pertanyaan | Rekaman yang disimpan |
+| --- | --- | --- |
+| Bentuk dan skala | Apakah susunan elemen sesuai tujuan merek? | Foto beridentitas, gambar acuan, serta komentar keputusan. |
+| Warna dan bahan | Produk serta bahan apa yang benar-benar diamati? | Kode produk, revisi, kondisi cahaya, dan batas contoh. |
+| Tepi dan sambungan | Bagian mana yang harus tampak atau tersembunyi? | Rincian gambar dan perubahan yang disetujui. |
+| Pencahayaan | Kondisi apa yang dinilai dan siapa pemilik sistemnya? | Pengaturan contoh serta batas yang belum diuji. |
+| Akses perawatan | Bagian mana yang perlu dijangkau setelah pemasangan? | Catatan kebutuhan akses untuk rancangan lengkap. |
 
-- **TOPIC-GATE:** Approved complete-system design, products, permits/tax, tests, safe installation, and O&M
+## Menghubungkan contoh dengan produksi
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Setelah diterima, contoh tidak boleh berdiri sendiri. Hubungkan ia ke gambar produksi, daftar bahan, berkas grafis, persetujuan perubahan, dan catatan pemeriksaan. Bila contoh akan dipakai sebagai patokan tampilan, simpan cara identifikasinya dan tentukan apakah ia disimpan, dikembalikan, atau digunakan sebagai bagian pekerjaan. Jangan menyatakan seluruh produksi pasti sama tanpa mengendalikan bahan, proses, revisi, dan kondisi yang menjadi dasar contoh.
 
-## Internal-link plan
+Pada pekerjaan pengelasan, rancangan, identitas bahan, prosedur, kompetensi, pemeriksaan, ketidaksesuaian, perbaikan, dan keterlacakan adalah kendali yang berbeda. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu pengelasan lebur, bukan bukti bahwa contoh atau proyek tertentu telah diterima secara struktural.
 
-### Existing local routes
+## Kesalahan yang membuat contoh kehilangan arti
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan umum adalah menganggap contoh visual sebagai persetujuan untuk seluruh pekerjaan. Masalah ini muncul saat bahan diganti, ukuran berubah, lokasi berganti, pencahayaan ditambah, atau produksi memakai revisi berbeda tanpa peninjauan baru. Kesalahan lain adalah membahas contoh tanpa mencatat apa yang sebenarnya dilihat dan siapa yang memutuskan.
 
-### Planned sibling articles
+Alternatifnya adalah membatasi contoh secara jujur: tulis pertanyaan yang dijawab, bahan dan kondisi yang dipakai, hasil keputusan, serta hal yang masih memerlukan rancangan atau uji lain. Media dan klaimnya tetap perlu bertanggung jawab; [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) dan [PP 80 Tahun 2019](https://peraturan.bpk.go.id/Details/126143/pp-no-80) memberi konteks perlindungan konsumen serta perdagangan elektronik.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Aturan penggunaan purwarupa
 
-- `ADV-05-04` → `/artikel/sistem-totem-sign.html` — Totem Sign sebagai Cabinet, Structure, dan Foundation
-- `ADV-05-05` → `/artikel/detail-cabinet-signage.html` — Drainage, Ventilation, dan Service Access pada Signage Cabinet
+Purwarupa signage merek adalah alat menyepakati tampilan dan antarmuka tertentu sebelum produksi, bukan sertifikat untuk seluruh sistem. Gunakan ia untuk menilai pertanyaan yang jelas, simpan identitas dan hasilnya, lalu hubungkan keputusan tersebut ke gambar serta bahan yang benar-benar dipakai.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up dan Sample Approval untuk Signage Brand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up dan Sample Approval untuk Signage Brand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up dan Sample Approval untuk Signage Brand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up dan Sample Approval untuk Signage Brand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up dan Sample Approval untuk Signage Brand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mock-Up dan Sample Approval untuk Signage Brand”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: jika sebuah hal tidak pernah diuji atau tidak masuk batas purwarupa, jangan menganggapnya sudah disetujui. Dapatkan bukti dan persetujuan yang tepat dari pihak yang berwenang sebelum pekerjaan diteruskan.
