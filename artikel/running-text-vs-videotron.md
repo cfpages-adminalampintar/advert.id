@@ -1,9 +1,10 @@
 ---
 article_id: ADV-07-01
-title: "Running Text atau Videotron: Memilih Sistem Digital Display"
+title: "Running Text atau Videotron: Memilih Layar Digital"
 slug: "running-text-vs-videotron"
-description: "Compare content type, color/video, viewing context, refresh, size, power/data, brightness, operations, maintenance and cost components"
-status: outline
+description: "Cara memilih running text atau videotron dari jenis pesan, konteks pandang, pengoperasian, pemeliharaan, dan bukti sistem yang dibutuhkan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,21 @@ reader_address: "Kawan Advert.id"
 final_route: "/artikel/running-text-vs-videotron.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Running Text atau Videotron: Memilih Layar Digital
 
-# Running Text atau Videotron: Memilih Sistem Digital Display
+Halo, Kawan Advert.id!
 
-## Assignment lock
+Pertanyaan “lebih baik running text atau videotron?” tidak bisa dijawab dari kata lebih canggih atau lebih murah. Keduanya melayani cara menyampaikan pesan yang berbeda. Salah memilih biasanya bukan karena layarnya buruk, melainkan karena pesan, lokasi pandang, pengelolaan konten, dan kebutuhan perawatan belum diterjemahkan menjadi kebutuhan sistem.
 
-- **Writer task:** Expand this file into one complete article answering: “Running Text atau Videotron: Memilih Sistem Digital Display”
-- **Reader and situation:** Buyer comparing text-led and full-visual displays
-- **Reader outcome:** Compare content type, color/video, viewing context, refresh, size, power/data, brightness, operations, maintenance and cost components
-- **Primary intent:** Choose a digital-display family
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No product specification or quote; `/running-text/` and `/videotron/` own sales
-- **Final public route:** `/artikel/running-text-vs-videotron.html`
-- **Appointed CMS date:** `2026-01-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pertimbangkan **running text** bila inti pesan dapat dibaca sebagai teks yang bergerak atau berganti; pertimbangkan **videotron** bila pesan memang memerlukan tampilan visual penuh seperti gambar, warna, dan video. Setelah itu, uji pilihan terhadap lokasi, durasi pesan, jadwal pembaruan, pasokan listrik dan data, akses servis, serta aturan setempat. Nama media tidak membuktikan ukuran, harga, izin, daya tahan, atau hasil promosi.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Running Text atau Videotron: Memilih Sistem Digital Display**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-008`
@@ -77,171 +40,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Running Text` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-008]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Running Text](/wp-content/uploads/2024/05/Running-Text.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
-### KR-02
+## Bedakan keluarga medianya dulu
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Running text adalah tampilan digital yang terutama menyajikan huruf, angka, atau simbol sederhana; pesan dapat bergerak atau berganti menurut pengaturan. Videotron adalah layar digital yang ditujukan untuk materi visual yang lebih lengkap, termasuk komposisi gambar, warna, dan video. Perbedaan ini tidak membuat salah satunya selalu unggul. Ia mengubah cara pembaca menerima pesan dan cara tim menyiapkan materi.
 
-### KR-04
+Pesan “loket buka sampai pukul tertentu” atau informasi singkat yang harus diperbarui dapat dimulai dari pertanyaan: berapa kata yang benar-benar perlu dibaca, dalam urutan apa, dan kapan pembaruan dilakukan? Materi promosi dengan produk, cerita visual, atau beberapa unsur grafis perlu diuji dengan pertanyaan lain: apakah ada versi konten yang disetujui, siapa yang mengelola jadwalnya, dan apa yang terjadi bila koneksi atau perangkat kendali bermasalah?
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Sobat Advert.id, jangan memilih videotron hanya karena konten terlihat menarik di layar komputer, dan jangan memilih running text hanya karena pesan awalnya pendek. Lihat bagaimana orang menerima pesan di lokasi nyata—arah datang, waktu melihat, gangguan latar, siang-malam, serta apakah mereka sedang berjalan, menunggu, atau berada di kendaraan. Data lokasi, pemilik, arah pengguna jalan, hambatan, utilitas, dan akses perawatan perlu dicatat sebelum kesimpulan dibuat ([UU Lalu Lintas dan Angkutan Jalan](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009)).
 
-### KR-07
+## Pilihan media mengikuti pekerjaan komunikasi
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Mulailah dari satu kalimat: keputusan apa yang ingin dibuat pembaca setelah melihat layar? Jawaban itu membantu menentukan apakah pesan cukup disusun sebagai rangkaian teks atau membutuhkan penjelasan visual. Berikut perbandingan yang lebih berguna daripada daftar fitur.
 
-### KR-08
+| Pertanyaan keputusan | Running text dapat dipertimbangkan bila | Videotron dapat dipertimbangkan bila |
+| --- | --- | --- |
+| Bentuk pesan | Intinya teks, angka, atau pemberitahuan ringkas. | Pesan memerlukan gambar, warna, atau video sebagai bagian makna. |
+| Alur baca | Pembaca masih dapat mengikuti urutan pesan yang ditayangkan. | Materi perlu dilihat sebagai satu komposisi visual. |
+| Pengelolaan materi | Tim siap menulis, menyetujui, dan memperbarui pesan teks. | Tim siap mengelola berkas visual, jadwal tayang, versi, dan persetujuan konten. |
+| Dukungan operasi | Kebutuhan daya, kontrol, akses, dan perawatan dapat dibuktikan untuk sistem yang dipilih. | Kebutuhan yang sama dapat dibuktikan untuk konfigurasi layar visual yang dipilih. |
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Tabel ini bukan spesifikasi produk. Sebuah layar dapat memiliki kemampuan yang berbeda menurut konfigurasi nyata. Karena itu, jangan menyimpulkan resolusi, warna, kecepatan pembaruan gambar, kecerahan, konsumsi energi, atau masa pakai dari nama “running text” maupun “videotron”. Minta dokumen produk dan rancangan untuk sistem persis yang akan dipasang.
 
-### KR-11
+## Konteks pandang mengubah isi, bukan hanya ukuran layar
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Orang tidak selalu berhenti untuk membaca. Di tempat transit atau antrean, pesan dapat dirancang dengan urutan yang lebih tenang. Di tepi jalan, konteks lalu lintas dan keselamatan menuntut penilaian khusus dari pemilik lokasi serta pihak berwenang. Hindari mengubah artikel ini menjadi rumus jarak baca universal; kondisi arah, kecepatan, latar, cuaca, waktu, dan hambatan berbeda pada setiap lokasi.
 
-### KR-12
+Kawan Advert.id, buatlah uji konten sederhana sebelum memilih sistem: ambil satu pesan penting, satu pesan perubahan jadwal, dan satu materi visual bila ada. Tanyakan apakah setiap pesan tetap jelas tanpa penjelasan lisan. Bila jawabannya bergantung pada detail yang hanya terlihat saat orang berhenti dekat layar, mungkin materi atau lokasi perlu diubah—bukan sekadar layar diperbesar.
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+Konteks pandang juga berkaitan dengan dampak pada bangunan atau tiang pendukung. Jalur beban signage meliputi bidang muka atau kabinet, rangka, sambungan, angkur, bangunan/tiang, hingga fondasi atau tanah. Produk layar bukan bukti bahwa dukungan itu sudah disetujui; rancangan, data kondisi eksisting, dan pemeriksaan tetap bersifat proyek-spesifik ([PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)).
 
-### KR-14
+## Operasi harian: konten, daya, data, dan akses
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Pemilihan layar berlanjut setelah pemasangan. Tentukan siapa yang membuat materi, siapa yang memeriksa kebenarannya, siapa yang menjadwalkan penayangan, dan siapa yang dapat mengubah pengaturan. Untuk sistem yang terhubung, catat perangkat lunak dan perangkat keras yang dipakai, versi yang berlaku, akun atau peran akses, prosedur perubahan, serta cara menangani kejadian. Ini penting karena layar digital adalah gabungan perangkat fisik dan alur kerja konten.
 
-### KR-15
+Jangan pula menyamakan modul layar dengan sistem terpasang. Pasokan, beban, pengaman, pembumian atau penyamaan potensial, rute kabel, kabinet, panas, paparan air/debu, pengendalian, isolasi, dan akses pemeliharaan harus berada dalam catatan desain. Pratinjau [IEC 62368-1 edisi 2023](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) menunjukkan identitas standar keselamatan produk, tetapi tidak membuktikan keamanan, ketahanan cuaca, atau hasil pengujian satu konfigurasi di lokasi tertentu.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/running-text` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-running-text-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-running-text-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-running-text-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-running-text-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-running-text-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-07-02` → `/artikel/memilih-pixel-pitch-videotron.html` — Pixel Pitch Videotron: Mulai dari Viewing Context
-- `ADV-07-03` → `/artikel/anatomi-videotron-outdoor.html` — Cabinet, Module, Cooling, dan Weather Protection Videotron
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Running Text atau Videotron: Memilih Sistem Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Running Text atau Videotron: Memilih Sistem Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Running Text atau Videotron: Memilih Sistem Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Running Text atau Videotron: Memilih Sistem Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Advert.id, pikirkan perawatan sejak membuat daftar kebutuhan. Petugas perlu tahu bagian mana yang dapat diakses, bagaimana sumber daya diisolasi dengan aman, dokumen apa yang dibutuhkan, dan bagaimana gangguan dilaporkan. Bila ini belum dapat dijawab, penawaran belum mencakup gambaran operasi yang utuh.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Running Text atau Videotron: Memilih Sistem Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pengelola lobi ingin mengumumkan perubahan jam layanan, nomor antrean, dan pesan singkat yang diperbarui oleh petugas. Kebutuhan utamanya adalah pesan tekstual yang dapat dikelola dengan tertib. Running text bisa masuk daftar pertimbangan, asalkan materi, lokasi, pengelolaan, serta rancangan daya dan aksesnya sesuai setelah ditelaah.
 
-## Kesalahan umum dan cara memeriksanya
+Situasi berbeda: sebuah lokasi ingin menayangkan materi yang mengandalkan urutan gambar, warna merek, dan video. Videotron bisa masuk daftar pertimbangan, tetapi tim harus menyiapkan pengelolaan berkas, persetujuan konten, kendali akses, desain sistem, serta rencana penanganan gangguan. Tidak ada kesimpulan bahwa satu sistem lebih efektif; hasilnya perlu diukur dengan tujuan, periode, metode, dan bukti kampanye yang nyata.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Running Text atau Videotron: Memilih Sistem Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk konten yang diatur atau disampaikan secara elektronik, pemilik tetap perlu mengelola versi, akses, dan kebijakan konten yang berlaku. Dasar hukum informasi dan transaksi elektronik tidak menggantikan tinjauan konten maupun izin pada lokasi tertentu ([UU Nomor 1 Tahun 2024](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024)).
 
-## Objection or shortcut to address
+## Kesalahan umum dan cara menghindarinya
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan pertama adalah membandingkan dua penawaran tanpa menyamakan lingkup. Bandingkan tujuan pesan, jumlah dan jenis materi, konteks lokasi, rancangan struktur dan listrik, data/kontrol, akses pemasangan, pengujian, pemeliharaan, pengecualian, serta bukti yang akan diserahkan. Harga atau ukuran layar saja tidak mewakili seluruh pekerjaan.
 
-## Required conclusion
+Kesalahan kedua adalah membeli layar lalu baru memikirkan konten dan operatornya. Ubah menjadi daftar sebelum pengadaan: contoh materi, alur persetujuan, penanggung jawab perubahan, hak akses, arsip versi, serta prosedur saat ada konten salah atau sistem terganggu. Kesalahan ketiga adalah menganggap demo sebagai bukti kinerja di lokasi; demo tidak membuktikan visibilitas, energi, cuaca, keamanan siber, struktur, atau waktu operasi pada pemasangan Anda.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+[NEEDS TOPIC-GATE: sebelum memilih atau memasang sistem, dapatkan konfigurasi yang benar-benar diuji, desain struktur dan kelistrikan, kendali akses, izin yang berlaku, rencana pengujian awal operasi, serta rencana penanganan insiden.]
 
-## Draft completion checklist
+## Pilih dari pesan dan bukti, bukan nama produk
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Running text dan videotron adalah keluarga layar yang tepat untuk kebutuhan pesan berbeda, bukan tingkat kualitas yang bisa diurutkan tanpa konteks. Mulailah dengan pesan, cara orang melihatnya, operasi konten, dan bukti sistem; lalu bahas pilihan layanan [running text Advert.id](/running-text) bila rute tekstual sesuai dengan kebutuhan Anda.
+
+Aturan kerjanya: jangan memutuskan dari foto, nama media, atau spesifikasi lepas. Jika rancangan struktur/kelistrikan, kontrol akses, izin, dan rencana operasi belum tersedia, tahan keputusan sampai pihak kompeten dan pemilik proyek menyelesaikan bukti tersebut.

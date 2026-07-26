@@ -1,9 +1,10 @@
 ---
 article_id: ADV-10-03
-title: "Routing Kabel dan Penetration untuk Signage"
+title: "Jalur Kabel dan Bukaan Tembus untuk Signage"
 slug: "routing-kabel-signage"
-description: "Address entries, bend/access, segregation, chafe/water/fire-stop interfaces, movement, labeling, isolation and as-builts"
-status: outline
+description: "Panduan mengoordinasikan jalur kabel, titik masuk, bukaan tembus, akses, pelabelan, isolasi, dan gambar kondisi terpasang pada signage."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,50 +15,21 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/routing-kabel-signage.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Jalur Kabel dan Bukaan Tembus untuk Signage
 
-# Routing Kabel dan Penetration untuk Signage
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Kabel signage sering dianggap selesai selama lampu menyala. Padahal jalur kabel menentukan apakah kabel terlindung dari gesekan dan air, apakah panel masih dapat dibuka untuk perawatan, serta apakah orang yang bekerja nanti dapat mengisolasi sumber daya dengan aman. Titik masuk yang diputuskan terlambat dapat berbenturan dengan rangka, penutup bangunan, jalur lain, atau bukaan servis.
 
-- **Writer task:** Expand this file into one complete article answering: “Routing Kabel dan Penetration untuk Signage”
-- **Reader and situation:** Sign/electrical/building teams exchanging details
-- **Reader outcome:** Address entries, bend/access, segregation, chafe/water/fire-stop interfaces, movement, labeling, isolation and as-builts
-- **Primary intent:** Coordinate cable paths with structure/envelope
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No cable size, fire-stop system or penetration approval; competent disciplines own design
-- **Final public route:** `/artikel/routing-kabel-signage.html`
-- **Appointed CMS date:** `2026-04-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban ringkasnya: rencanakan jalur kabel bersama struktur dan selubung bangunan, catat titik masuk serta titik keluar, jaga akses pemeriksaan, pisahkan jalur yang memang harus dipisah menurut rancangan, lalu rekam kondisi terpasang. Tidak ada ukuran kabel, cara penutupan celah, atau persetujuan bukaan yang bisa dipilih dari artikel ini; semuanya bergantung pada desain kelistrikan, sistem yang dipakai, kondisi bangunan, dan persetujuan pihak kompeten.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Routing Kabel dan Penetration untuk Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -68,147 +40,68 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
-### KR-04
+## Yang dimaksud jalur kabel dan bukaan tembus
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Jalur kabel adalah rute dari sumber daya atau kontrol menuju komponen signage. Rute itu dapat melintas di dalam rangka, kabinet, dinding, plafon, atau ruang servis. **Bukaan tembus** adalah bagian ketika kabel atau pelindungnya melewati suatu batas fisik, misalnya dinding, penutup bangunan, atau kabinet. Di situlah banyak antarmuka bertemu: struktur, ketahanan terhadap air dan debu, kemungkinan kebakaran, pergerakan komponen, serta akses orang untuk memeriksa.
 
-### KR-11
+Membahas rute tidak sama dengan merancang sistem listrik. Rancangan perlu menjelaskan pasokan daya, beban, pengaman, pembumian atau penyamaan potensial, rute kabel, rumah komponen, panas, paparan air/debu, kendali, isolasi, dan akses pemeliharaan. Hal-hal itu membutuhkan catatan desain dan pengujian sistem yang tepat; halaman pratinjau [IEC 62368-1 edisi 2023](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) hanya membantu mengenali standar produknya, bukan menggantikan dasar kelistrikan Indonesia atau bukti konfigurasi terpasang.
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Kawan Advert.id, gunakan satu pertanyaan sederhana: bila panel dibuka lima tahun lagi, apakah petugas dapat mengenali kabel ini, menelusuri asal-tujuannya, dan bekerja tanpa merusak bagian lain? Jika jawabannya belum jelas pada gambar, masalahnya belum selesai di lapangan.
 
-### KR-12
+## Informasi yang harus bertemu sebelum pemasangan
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+Koordinasi dimulai sebelum kabel ditarik. Tim signage perlu membawa gambar komponen, posisi perangkat, dan kebutuhan akses. Tim kelistrikan perlu membawa rancangan pasokan, pengaman, isolasi, dan identifikasi. Tim bangunan atau struktur perlu menilai posisi bukaan, detail selubung, dan batas perubahan yang diizinkan. Pemilik atau pengelola lokasi perlu mengonfirmasi ruang kerja, jam akses, serta dokumen yang harus diserahkan.
 
-### KR-15
+Di gambar koordinasi, tandai sedikitnya asal dan tujuan setiap rute, titik masuk kabinet, titik bukaan tembus, arah kabel, ruang belok yang dibutuhkan produk, titik sambung yang masih dapat diakses, serta penghalang yang ada. Catat pula jalur yang perlu dipisah—misalnya karena fungsi daya dan kontrol/data berbeda—sesuai rancangan proyek. Jangan menafsirkan “pisah” sebagai jarak atau metode tertentu tanpa dokumen yang berwenang.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Untuk setiap bukaan, tanyakan: batas apa yang ditembus? siapa pemilik elemen tersebut? detail perlindungan apa yang sudah disetujui? apakah bukaan mengganggu struktur, kedap air, ketahanan api, atau sistem lain? dan bagaimana pergerakan atau getaran akan dipertimbangkan? Bukaan pada bangunan atau dukungan signage tidak boleh diperlakukan sebagai lubang biasa karena hubungan sistemnya tetap perlu ditelaah dalam rancangan serta persetujuan proyek ([PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)).
 
-### KR-16
+## Urutan koordinasi yang memudahkan pemeriksaan
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Berikut urutan kerja administratif dan pemeriksaan yang berguna tanpa berubah menjadi petunjuk pemasangan listrik.
 
-### KR-17
+1. **Tetapkan versi gambar dan daftar antarmuka.** Catat rute yang direncanakan, komponen yang dilayani, batas bangunan yang ditembus, dan pihak penanggung jawab tiap antarmuka.
+2. **Periksa lokasi sebelum pekerjaan tertutup.** Bandingkan posisi nyata dengan gambar: ada rangka, pipa, jalur kabel lain, air, ruang servis, atau perubahan bangunan yang belum tercatat? Bila ada perbedaan, tahan pekerjaan terkait dan ajukan klarifikasi.
+3. **Cocokkan produk dengan dokumennya.** Identifikasi kabel, pelindung, kabinet, perangkat, dan detail penutup yang memang tercantum dalam rancangan serta bukti produk. Nama dagang atau tampilan fisik tidak cukup untuk menyatakan kompatibel.
+4. **Tahan titik pemeriksaan.** Sebelum dinding, kabinet, atau penutup akhir menutup rute, periksa label, akses, perlindungan dari gesekan, kondisi bukaan, dan rekaman foto bila proyek memintanya. Titik ini penting karena masalah yang tertutup biasanya lebih mahal ditelusuri.
+5. **Rekam kondisi terpasang.** Perbarui gambar kondisi terpasang (*as-built*), yaitu gambar yang menunjukkan rute yang benar-benar terpasang, termasuk perubahan yang disetujui. Lampirkan kode kabel/perangkat, titik isolasi, dan akses yang relevan sesuai dokumen proyek.
 
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
+Sobat Advert.id, gambar kondisi terpasang bukan hiasan penutupan proyek. Ia menjadi peta ketika ada gangguan, perubahan konten/perangkat, atau perawatan yang tidak dilakukan oleh tim awal.
 
-## Evidence gates
+## Air, gesekan, panas, dan pergerakan mengubah keputusan
 
-- **TOPIC-GATE:** Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access
+Kabel yang terlihat rapi tetap dapat bermasalah bila tepi bukaan menggeseknya, air mencari jalur masuk, panas terkumpul di kabinet, atau rangka serta panel bergerak relatif satu sama lain. Karena itu, cek tidak berhenti pada rute lurus. Periksa arah masuk air, titik rendah, kemungkinan kondensasi, tepi tajam, bagian yang bergerak, dan ruang untuk membuka penutup tanpa menarik kabel.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kondisi luar ruang juga mempertemukan rute kabel dengan pelapisan dan pemeliharaan struktur. Celah, sambungan, tepi, air yang tertahan, serta akses inspeksi perlu diperhitungkan dalam spesifikasi dan pemeliharaan; [ISO 12944-8](https://www.iso.org/standard/64838.html) menjelaskan ruang lingkup penyusunan spesifikasi perlindungan terhadap korosi, tetapi tidak menetapkan detail bukaan atau sistem kabel untuk satu proyek.
 
-## Internal-link plan
+Untuk signage digital, rute daya bukan satu-satunya rute. Jalur data dan kontrol juga memerlukan kepemilikan akses yang jelas: perangkat apa yang tersambung, siapa yang boleh mengubahnya, dan catatan apa yang dibutuhkan saat penggantian. Modul atau gambar demo tidak membuktikan keamanan sistem terpasang, ketahanan cuaca, atau ketersediaan operasional.
 
-### Existing local routes
+## Contoh keputusan: titik masuk berbenturan dengan rangka
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Bayangkan saat survei sebelum pemasangan, titik masuk kabel pada gambar ternyata bertemu elemen rangka yang tidak bisa dipindah begitu saja. Jalan pintas yang menggoda adalah membuat bukaan baru di titik terdekat agar pekerjaan terus berjalan. Itu dapat menimbulkan masalah baru pada struktur, penutup bangunan, rute air, atau akses servis.
 
-### Planned sibling articles
+Tindakan yang lebih benar adalah mencatat perbedaan tersebut, menahan pekerjaan pada antarmuka itu, dan mengirimkannya kepada perancang serta pihak bangunan/struktur yang berwenang. Mereka perlu memilih solusi yang tetap menjaga sistem pendukung dan detail bukaan. Sementara menunggu, tim dapat melanjutkan bagian lain hanya bila tidak bergantung pada keputusan tersebut dan kondisi kerja aman.
 
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-10-01` → `/artikel/arsitektur-electrical-signage.html` — Arsitektur Electrical Signage Berlampu dan Digital
-- `ADV-10-02` → `/artikel/brightness-glare-dimming-signage.html` — Brightness, Luminance, Glare, dan Dimming Signage
-- `ADV-10-04` → `/artikel/water-ingress-thermal-signage.html` — Water Ingress dan Thermal Management pada Enclosure Signage
-- `ADV-10-05` → `/artikel/control-signage-berlampu.html` — Timer, Sensor, Dimming, dan Remote Control Signage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Routing Kabel dan Penetration untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Routing Kabel dan Penetration untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Routing Kabel dan Penetration untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Routing Kabel dan Penetration untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Routing Kabel dan Penetration untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Advert.id, contoh ini memperlihatkan alasan koordinasi dilakukan sebelum penutup dipasang: bukan untuk menghambat, melainkan agar perubahan meninggalkan jejak persetujuan dan tidak menciptakan kerusakan tersembunyi.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Routing Kabel dan Penetration untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menarik kabel terlebih dahulu, lalu mencari jalur keluar belakangan. Ubah kebiasaan itu menjadi daftar cek: asal-tujuan ada, pemilik antarmuka jelas, bukaan disetujui, akses tersedia, dan gambar perubahan sudah diterbitkan. Kesalahan kedua adalah mengandalkan ingatan pekerja tanpa label. Saat perawatan, kabel yang tidak teridentifikasi dapat memperpanjang waktu pencarian dan meningkatkan risiko salah tindakan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menutup semuanya setelah sistem tampak berfungsi. Fungsi sesaat bukan bukti bahwa rute sudah aman, tahan lingkungan, atau dapat dirawat. Minta rekaman titik yang akan tertutup, pembaruan gambar kondisi terpasang, serta hasil pemeriksaan dan pengujian yang ditetapkan oleh rancangan proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk pekerjaan di ketinggian, dekat publik, atau pada sistem yang masih berenergi, akses dan isolasi bukan tambahan belakangan. Kegiatan perlu memakai penilaian risiko lokasi, personel kompeten, peralatan yang tercatat, zona aman, komunikasi, serta kesiapsiagaan darurat. Aturan kerja di ketinggian harus diperiksa pada naskah konsolidasi yang berlaku ketika proyek berjalan ([Permenaker 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016)).
 
-## Required conclusion
+[NEEDS TOPIC-GATE: sebelum jalur kabel dipasang atau diubah, dapatkan dasar kelistrikan Indonesia yang berlaku, rancangan dan pemasangan oleh pihak kompeten, laporan peralatan yang tepat, hasil pengujian, serta akses dan prosedur isolasi yang aman.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Tutup rute hanya setelah dapat ditelusuri
 
-## Draft completion checklist
+Jalur kabel dan bukaan tembus signage yang baik dapat ditelusuri dari gambar ke kondisi nyata: titik masuk jelas, antarmuka bangunan dikoordinasikan, akses masih tersedia, dan perubahan masuk ke gambar kondisi terpasang. Untuk mengenali konteks produk sebelum koordinasi dimulai, Anda dapat melihat [jenis signage di Advert.id](/signage/).
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah menyatukan gambar revisi, daftar rute, detail bukaan, daftar perangkat, titik pemeriksaan, dan kebutuhan gambar kondisi terpasang dalam satu paket koordinasi. Aturan kerjanya: bila desain, persetujuan bukaan, atau cara isolasi belum jelas, jangan menutup rute dan jangan menganggap sistem siap dikerjakan.
