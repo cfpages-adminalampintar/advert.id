@@ -2,8 +2,9 @@
 article_id: ADV-05-01
 title: "Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem"
 slug: "memilih-jenis-signage-brand"
-description: "Compare purpose, viewing context, brand form, illumination, mounting, access, maintenance and evidence"
-status: outline
+description: "Panduan memilih papan penanda berdasarkan tujuan, jarak pandang, bentuk merek, pencahayaan, cara pemasangan, akses perawatan, dan bukti yang perlu diperiksa."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,54 +16,20 @@ final_route: "/artikel/memilih-jenis-signage-brand.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
   - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://www.iso.org/standard/64838.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem
 
-## Assignment lock
+Halo, Sobat Advert.id! Pilihan yang tepat bukan ditentukan oleh nama produknya, melainkan oleh tugas papan penanda itu: apakah orang perlu menemukan lokasi dari jalan, mengenali pintu masuk dari dekat, atau menangkap bentuk merek setelah senja. Untuk nama usaha di dinding dekat pintu, papan nama atau huruf timbul sering lebih masuk akal. Untuk pesan yang harus terbaca dengan cahaya sendiri, pertimbangkan neon box atau neon flex. Untuk penanda yang berdiri sendiri dan terlihat dari arus kendaraan, totem perlu dinilai sebagai struktur tersendiri.
 
-- **Writer task:** Expand this file into one complete article answering: “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”
-- **Reader and situation:** Business owner with premises identification needs
-- **Reader outcome:** Compare purpose, viewing context, brand form, illumination, mounting, access, maintenance and evidence
-- **Primary intent:** Select a static branded-sign family
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No quote or structural/electrical design; existing static-sign routes own sales
-- **Final public route:** `/artikel/memilih-jenis-signage-brand.html`
-- **Appointed CMS date:** `2025-11-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, mulai dari tempat orang melihatnya, jarak baca, arah datang, kondisi terang-gelap, dan titik pemasangan. Bentuk yang sama dapat cocok di fasad ruko, tetapi keliru bila dipindah ke tepi jalan tanpa memeriksa penopang, izin setempat, listrik, dan akses perawatan. Nama produk tidak membuktikan bahwa pemasangan itu aman, legal, tahan cuaca, atau akan memberi hasil tertentu.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -73,157 +40,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `neon flex` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi neon flex](/wp-content/uploads/2024/06/neon-flex.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal proyek; ilustrasi ini bukan dokumentasi proyek, pemasangan, atau hasil tertentu.*
 
-### KR-02
+## Pahami dulu objek yang sedang dipilih
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Papan penanda atau *signage* adalah media tetap untuk memberi nama, arah, atau identitas visual pada suatu tempat. Papan nama biasanya berupa bidang dengan tulisan atau grafis. Huruf timbul adalah huruf atau bentuk merek tiga dimensi yang dipasang pada latar atau langsung pada bidang bangunan. Neon box adalah kotak berwajah grafis yang diterangi dari dalam. Neon flex ialah jalur cahaya lentur untuk membentuk garis, tulisan, atau aksen. Totem adalah penanda tegak yang berdiri pada tiang atau badan sendiri.
 
-### KR-06
+Kelima bentuk itu boleh membawa identitas merek yang sama, tetapi cara kerjanya berbeda. Huruf timbul mengandalkan bentuk, bayangan, dan jarak dari bidang belakang. Neon box mengandalkan permukaan muka yang menyebarkan cahaya. Neon flex lebih cocok bila karakter merek perlu dibentuk sebagai garis cahaya. Totem harus mengarahkan pembaca dari jarak dan sudut datang yang lebih beragam. Karena itu, jangan meminta pembuat “yang paling bagus” sebelum menjelaskan fungsi, lokasi, dan kondisi pandangnya.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+Pilihan ini juga bukan pengganti rancangan struktur atau kelistrikan. Untuk penanda yang menempel maupun berdiri, jalur beban dapat melibatkan muka atau kabinet, rangka, sambungan, angkur, bangunan atau tiang pendukung, hingga pondasi dan tanah. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) menjadi pengingat bahwa keterikatan pada bangunan perlu ditinjau dalam aturan dan persetujuan yang berlaku; data kondisi bangunan serta gambar dan perhitungan yang disetujui tetap bersifat khusus proyek.
 
-### KR-07
+## Tentukan dari konteks orang melihatnya
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Mulailah dengan satu pertanyaan sederhana: dari mana calon pengunjung pertama kali melihat nama Anda? Jika ia berjalan di koridor dan berhenti dekat pintu, detail huruf, kontras, dan posisi pada dinding biasanya lebih penting daripada tinggi penanda. Papan nama atau huruf timbul dapat menjadi pilihan awal, lalu pencahayaan ditentukan dari kondisi lokasi.
 
-### KR-09
+Jika orang datang dengan kendaraan dan perlu mengambil keputusan sebelum melewati akses masuk, waktu baca lebih singkat. Penanda perlu ditempatkan pada arah pandang yang relevan dan tidak terhalang. Totem mungkin layak dipertimbangkan, tetapi hanya setelah ada kejelasan lokasi, otoritas lahan, ukuran, dan rancangan penopangnya. Kawan Advert.id, jangan menyamakan “terlihat besar” dengan “terbaca”; bentuk huruf, kontras, dan sudut pandang tetap menentukan.
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+Untuk lokasi yang aktif pada malam hari, jawab pertanyaan berikut: apakah penanda harus memancarkan cahaya, hanya perlu diterangi dari luar, atau cukup terbaca pada jam operasional tertentu? Neon box dan neon flex dapat menjawab kebutuhan visual yang berbeda, tetapi keduanya membawa kebutuhan pasokan listrik, perlindungan, pembumian, jalur kabel, ketahanan terhadap air dan debu, panas, serta cara mematikan sumber listrik dengan aman saat perawatan. Rancangan, pemeriksaan, dan pekerjaan oleh pihak kompeten tetap diperlukan; [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015) adalah salah satu rujukan yang perlu dibaca bersama dasar kelistrikan Indonesia yang berlaku saat proyek berjalan.
 
-### KR-11
+## Cocokkan bentuk, pemasangan, dan perawatan
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Setelah konteks pandang jelas, cocokkan bentuk penanda dengan tempat menempelnya. *Mounting* berarti cara memasang penanda ke penopang; dalam bahasa praktis, tanyakan “menempel ke apa, memakai sambungan apa, dan bagaimana beban diteruskan?” Pemasangan langsung pada dinding, pada rangka tersembunyi, atau pada tiang bukan sekadar pilihan tampilan. Masing-masing mengubah titik angkur, ruang kabel, jalur air, dan cara teknisi bekerja.
 
-### KR-14
+Huruf timbul dapat memerlukan bidang belakang atau *backing*, yaitu papan atau rangka di belakang huruf yang menyatukan pemasangan. Pada neon box, bagian muka yang memuat grafis dan kotak penahan komponen cahaya perlu diperlakukan sebagai satu sistem, bukan hanya lembar visual. Untuk totem, penopang hingga pondasi harus diperiksa sebagai satu jalur beban. Jangan menganggap kata “dilas” sebagai bukti mutu struktur: identitas material, prosedur, kecakapan personel, pemeriksaan, dan penerimaan pekerjaan adalah kontrol yang berbeda.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Perawatan perlu masuk sejak awal. Tanyakan apakah bagian yang harus dibersihkan atau diperiksa dapat dijangkau tanpa tindakan berisiko, bagaimana isolasi listrik dilakukan, dan komponen mana yang dapat diganti. Pilihannya bisa berubah bila akses hanya mungkin memakai alat angkat atau bila pemilik bangunan tidak mengizinkan bukaan pada fasad. Teman Advert.id, biaya awal yang tampak rendah tidak dapat dibandingkan dengan jujur bila satu opsi menyembunyikan kebutuhan akses dan perawatan yang tidak dicantumkan.
 
-### KR-16
+## Jangan lewati bukti bahan, izin, dan klaim
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Nama bahan atau merek tidak cukup untuk menyimpulkan umur pakai. Sebelum menyebut sesuatu tahan luar ruang, cocokkan produk, pabrikan, revisi, batch, bahan dasar, persiapan permukaan, sistem perekat/tinta/pelapis, batas lingkungan, cara pembersihan, pelepasan, dan ketentuan garansinya. Keluarga [ISO 12944](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) membedakan pembahasan perlindungan terhadap korosi dari pembuktian kinerja sistem terpasang; data teknis, persetujuan kecocokan, uji asli, contoh kerja, dan paparan nyata tetap harus diperoleh untuk proyek tertentu.
 
-## Evidence gates
+Izin dan pajak reklame juga tidak seragam antarwilayah. Catat yurisdiksi, jenis dan isi media, pemilik atau pengelola, kewenangan atas lahan/bangunan/jalan, durasi, jumlah, ukuran, persetujuan, inspeksi, pembaruan, perubahan, pembongkaran, serta pihak yang bertanggung jawab. [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022) memberi kerangka hubungan pajak daerah, sementara contoh [Perwali Kota Depok No. 27 Tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) menunjukkan mengapa prosedur satu kota tidak boleh dipakai sebagai putusan untuk kota lain. Minta konfirmasi tertulis dari otoritas setempat sebelum mengunci lokasi atau biaya.
 
-- **TOPIC-GATE:** Approved complete-system design, products, permits/tax, tests, safe installation, and O&M
+Hal yang sama berlaku untuk pesan iklan. [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) mengingatkan bahwa klaim kepada konsumen harus diperlakukan secara bertanggung jawab. Format papan nama, neon box, atau totem tidak membuktikan klaim produk di dalamnya benar, dan bidang usaha tertentu dapat memiliki pembatasan tambahan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Contoh cara mengambil keputusan
 
-## Internal-link plan
+Gunakan contoh berikut sebagai cara menyusun pertanyaan, bukan sebagai spesifikasi atau rekomendasi otomatis.
 
-### Existing local routes
+| Situasi yang ingin diselesaikan | Pilihan awal untuk ditelaah | Pertanyaan yang menentukan |
+| --- | --- | --- |
+| Nama usaha perlu terbaca di dekat pintu pada siang hari | Papan nama atau huruf timbul | Bidang pemasangan, kontras, jarak baca, dan izin pemilik bangunan |
+| Identitas perlu hadir sebagai bentuk cahaya pada malam hari | Neon box atau neon flex | Bentuk grafis, sumber listrik, perlindungan lingkungan, dan akses servis |
+| Pengunjung harus menemukan lokasi dari arus kendaraan | Totem | Arah pandang, kewenangan lokasi, jalur beban, pondasi, dan persetujuan setempat |
+| Fasad sudah penuh elemen bangunan | Huruf timbul atau papan nama yang disesuaikan | Titik angkur, jalur kabel, kondisi fasad, dan batas perubahan bangunan |
 
-- `/papan-nama` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/neon-flex` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/neon-box` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Misalnya, sebuah klinik ingin penanda yang mudah ditemukan setelah gelap. Jangan langsung memilih neon box karena kata “neon” terdengar paling terang. Periksa dulu apakah nama harus dibaca dari jalan atau dari area parkir, apakah muka grafis atau garis tulisan lebih sesuai, di mana sumber listrik dan kabel berada, serta apakah teknisi dapat memeriksa sistemnya. Bila jawaban tentang izin, struktur, atau listrik belum tersedia, tahan keputusan akhir: **[NEEDS REVIEW: rancangan sistem lengkap, persetujuan setempat, pemeriksaan pemasangan aman, dan rencana operasi serta perawatan.]**
 
-### Planned sibling articles
+## Hindari jalan pintas saat membandingkan penawaran
 
-These are future routes. Do not link them as live until their HTML exists.
+Jalan pintas yang sering muncul adalah membandingkan penawaran hanya dari ukuran dan harga. Itu mudah gagal karena dua penawaran dengan ukuran sama dapat berbeda pada bahan, rangka, cara pemasangan, akses alat angkat, kelistrikan, karya grafis, izin/pajak, pengujian, pengecualian, jadwal, perawatan, garansi, dan bukti serah-terima. Sobat Advert.id, minta setiap penawar menjawab ruang lingkup yang sama agar angka yang dibandingkan memang setara.
 
-- `ADV-05-02` → `/artikel/anatomi-huruf-timbul.html` — Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting
-- `ADV-05-03` → `/artikel/neon-box-vs-neon-flex.html` — Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda
+Periksa pula kalimat yang terlalu mudah dipercaya: “pasti aman”, “pasti tahan lama”, atau “sudah sesuai aturan.” Minta dokumen yang relevan dengan konfigurasi aktual, bukan hanya nama produk atau foto contoh. Untuk pemasangan pada bangunan atau totem berdiri, periksa gambar yang disetujui, data penopang yang tersedia, pihak yang bertanggung jawab, dan catatan inspeksi. Untuk penanda bercahaya, minta rancangan dan prosedur isolasi aman sebelum perawatan. Bila bukti belum ada, jangan mengubahnya menjadi janji pemasok.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Pilih fungsi dulu, lalu minta bukti proyeknya
 
-## Jawaban singkat dan salah paham utama
+Ringkasnya, pilih papan nama atau huruf timbul ketika tugas utamanya identitas dekat fasad; telaah neon box atau neon flex bila kebutuhan cahaya dan bentuk grafis memang mendukung; dan perlakukan totem sebagai penanda berdiri yang memerlukan penilaian lokasi serta penopang lebih ketat. Tidak ada satu jenis yang otomatis paling aman, paling legal, atau paling efektif.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah menulis satu lembar kebutuhan: lokasi dan arah pandang, jarak baca, jam penggunaan, bentuk merek, cara pemasangan, akses perawatan, serta siapa yang memeriksa izin, struktur, dan listrik. Setelah itu, minta penawaran yang menjawab daftar yang sama dan tahan persetujuan sampai bukti proyek lengkap tersedia. Itu aturan kerja yang paling aman: pilih fungsi lebih dulu, lalu cocokkan setiap klaim dengan rancangan, persetujuan, dan pemeriksaan yang benar.

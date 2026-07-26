@@ -2,8 +2,9 @@
 article_id: ADV-05-03
 title: "Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda"
 slug: "neon-box-vs-neon-flex"
-description: "Compare form, optics, diffuser/flex behavior, drivers, heat, weathering, mounting, access, repair and creative limits"
-status: outline
+description: "Panduan membedakan neon box dan neon flex dari bentuk cahaya, pemasangan, akses perawatan, dan kebutuhan proyek."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,217 +16,84 @@ final_route: "/artikel/neon-box-vs-neon-flex.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
   - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
+  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-005
+Source type: local
+Placement: after the opening has answered the main question, before the first detailed H2
+**Exact Markdown to insert:** `![Ilustrasi neon box](/wp-content/uploads/2024/06/neon-box.jpg)`
+Caption/credit: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Selection basis: filename/source metadata identifies `neon box` as relevant content media; no pixels were inspected.
+Hard boundary: do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
+Substitution rule: do not replace this image. If unavailable or provenance is incomplete, insert [NEEDS IMAGE REVIEW: LOCAL-005] and continue drafting the prose.
+END MANAGED IMAGE PLAN -->
 
 # Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda
 
-## Assignment lock
+Halo, Sobat Advert.id! Saat memilih papan nama bercahaya, pertanyaannya bukan sekadar mana yang terlihat lebih menarik. Neon box dan neon flex bekerja sebagai dua sistem yang berbeda: neon box memakai bidang atau kabinet berpenutup untuk menampilkan cahaya dan grafis, sedangkan neon flex membentuk garis cahaya lentur untuk mengikuti huruf, garis, atau kontur desain.
 
-- **Writer task:** Expand this file into one complete article answering: “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”
-- **Reader and situation:** Buyer choosing cabinet versus linear effect
-- **Reader outcome:** Compare form, optics, diffuser/flex behavior, drivers, heat, weathering, mounting, access, repair and creative limits
-- **Primary intent:** Compare two illuminated-sign concepts
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No electrical/load/IP/lifetime guarantee; `/neon-box/` and `/neon-flex/` own sales
-- **Final public route:** `/artikel/neon-box-vs-neon-flex.html`
-- **Appointed CMS date:** `2025-12-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, pilih neon box ketika pekerjaan utamanya adalah menyajikan bidang informasi atau identitas dalam satu muka yang jelas. Pilih neon flex ketika pekerjaan utamanya adalah membangun garis, bentuk huruf, atau aksen yang mengikuti rancangan. Tidak ada pilihan yang otomatis lebih terang, lebih aman, atau lebih awet; hasilnya berubah menurut produk lengkap, rancangan, lokasi, cara pasang, dan akses perawatannya.
 
-## Opening instructions
+![Ilustrasi neon box](/wp-content/uploads/2024/06/neon-box.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-005`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi neon box](/wp-content/uploads/2024/06/neon-box.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `neon box` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-09
-
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Approved complete-system design, products, permits/tax, tests, safe installation, and O&M
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/neon-flex` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/neon-box` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-05-01` → `/artikel/memilih-jenis-signage-brand.html` — Memilih Papan Nama, Huruf Timbul, Neon Box, Neon Flex, atau Totem
-- `ADV-05-02` → `/artikel/anatomi-huruf-timbul.html` — Anatomi Huruf Timbul: Face, Return, Backing, dan Mounting
-- `ADV-05-04` → `/artikel/sistem-totem-sign.html` — Totem Sign sebagai Cabinet, Structure, dan Foundation
-- `ADV-05-05` → `/artikel/detail-cabinet-signage.html` — Drainage, Ventilation, dan Service Access pada Signage Cabinet
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+_Ilustrasi memakai aset lokal dan bukan dokumentasi proyek tertentu._
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan yang sering membuat pembelian meleset ialah menyamakan nama media dengan spesifikasi jadi. Sebutan “neon box” tidak otomatis memberi tahu ukuran, bahan muka, jenis rangka, lokasi pemasangan, atau hasil cahaya. Begitu pula “neon flex” tidak otomatis menjelaskan bentuk huruf, jalur kabel, perlindungan terhadap cuaca, maupun cara mengganti komponennya. Nama produk hanya titik mulai percakapan, bukan bukti bahwa suatu rancangan cocok untuk semua tempat.
+
+Karena itu, mulailah dari pekerjaan yang harus dilakukan tanda tersebut. Apakah pengunjung perlu membaca nama dan informasi dari sebuah bidang? Atau apakah bentuk garis dan siluet merek justru menjadi pesan utamanya? Kawan Advert.id, jawaban itu lebih berguna daripada meminta “yang paling bagus” tanpa ukuran, lokasi, dan rancangan yang disepakati.
+
+Pilihan media juga tidak membuktikan suatu iklan akan berhasil atau boleh dipasang. Informasi tentang isi, pihak yang bertanggung jawab, dan klaim yang disampaikan kepada konsumen tetap perlu disusun secara bertanggung jawab, sebagaimana kerangka perlindungan konsumen dalam [UU Nomor 8 Tahun 1999](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf). Untuk isi yang diatur secara khusus, pemeriksaan tambahannya dapat berbeda.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Neon box dapat dipahami sebagai tanda berwujud bidang atau kabinet. Muka tanda dapat membawa tulisan, logo, warna, atau gambar, sementara sumber cahaya berada di dalam atau menjadi bagian dari susunannya. Yang dilihat pembaca terutama adalah bidang bercahaya dan pesan di atasnya. Karena mempunyai badan atau kabinet, keputusan tentang muka, sisi, rangka, titik sambung, dan dudukan perlu dipikirkan bersama.
+
+Neon flex adalah jalur cahaya lentur yang dipakai untuk menggambar bentuk. Ia sering dipilih ketika identitas visual lebih kuat sebagai goresan, garis tepi, atau huruf bergaya tulisan. Fokusnya bukan mengisi satu bidang besar, melainkan menjaga bentuk garis tetap terbaca pada tikungan, sambungan, dan jarak pandang yang direncanakan.
+
+Perbandingan ini tidak menggantikan halaman layanan [neon box](/neon-box) atau [neon flex](/neon-flex), juga bukan persetujuan desain untuk bangunan. Bila tanda ditopang dinding, rangka, tiang, atau pondasi, jalur bebannya mencakup muka atau kabinet, sambungan, angkur, penopang, hingga kondisi bangunan atau tanah yang ada. [PP Nomor 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) menjadi pengingat bahwa pemasangan pada bangunan perlu ditinjau dalam konteks persyaratan bangunan yang berlaku, bukan hanya sebagai urusan tampilan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada neon box, rancangan biasanya dimulai dari pesan di muka tanda: apa yang harus terbaca, seberapa besar bidangnya, dan dari arah mana orang akan melihatnya. Setelah itu barulah muka, ruang di baliknya, rangka, sumber daya, jalur kabel, dan akses servis dibahas sebagai satu kesatuan. Cahaya perlu membantu pesan terbaca tanpa menjadikan jenis kabinet sebagai janji hasil yang tidak dapat dibuktikan.
+
+Pada neon flex, rancangan dimulai dari gambar garis. Ketebalan stroke—lebar garis huruf atau bentuk—radius tikungan, titik sambung, dan posisi jalur daya memengaruhi apakah bentuk akhir masih setia pada rancangan. Garis yang indah di layar belum tentu mudah dipasang atau dirawat bila sambungan dan aksesnya tidak direncanakan sejak awal.
+
+Keduanya tetap membutuhkan pengelolaan panas, air, debu, pengawatan, pembumian, perlindungan, pemisahan sumber daya, dan cara pemutusan listrik yang aman. Peraturan keselamatan dan standar produk tidak boleh diganti dengan asumsi bahwa lampu kecil pasti tidak berisiko; [Permenaker Nomor 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015) dan halaman pratinjau [IEC 62368-1:2023](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzY4LTF7ZWQ0LjB9Yi5wZGY%3D) menunjukkan pentingnya dasar keselamatan dan konfigurasi yang tepat. [NEEDS REVIEW: desain sistem lengkap, peralatan yang diuji untuk konfigurasi sebenarnya, pemasangan kompeten, dan prosedur isolasi aman.]
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lingkungan adalah pembeda besar. Tanda di dalam ruang yang mudah dijangkau menghadapi persoalan berbeda dari tanda di luar ruang, tinggi, terkena hujan, atau sulit diakses. Jangan menyimpulkan ketahanan dari nama bahan. Minta identitas produk dan produsen, revisi atau batch bila tersedia, jenis permukaan, sistem perekat, tinta atau pelapis, batas lingkungan, cara pembersihan, cara pelepasan, serta syarat garansi. Pendekatan ini sejalan dengan batas pengujian sistem pelapis yang dijelaskan pada [ISO 12944-6](https://www.iso.org/standard/51378.html): kesesuaian sistem dan kondisi paparan tidak dapat digantikan oleh klaim umum.
+
+Untuk neon box, tanyakan apakah muka tanda masih dapat dibersihkan atau dibuka tanpa mengganggu dudukan. Untuk neon flex, tanyakan apakah tiap jalur, sambungan, dan catu dayanya masih dapat diakses setelah dipasang. Teman Advert.id, akses bukan tambahan belakangan; akses menentukan apakah pemeriksaan dan perbaikan kelak realistis dilakukan.
+
+Ukuran, jarak pandang, konten, dan permukaan pemasangan juga mengubah pilihan. Bidang informasi yang padat mungkin memerlukan ruang baca yang tidak sama dengan logo bergaris tipis. Sebaliknya, bentuk melengkung yang menjadi identitas dapat kehilangan karakternya bila dipaksa masuk ke susunan kabinet yang tidak sesuai. Minta gambar yang disetujui dan tinjau contoh bahan atau purwarupa bila keputusan visualnya penting.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan tiga kebutuhan berikut. Untuk nama toko yang harus memuat nama, jam, dan informasi singkat pada satu muka, neon box dapat menjadi kandidat karena bidangnya memberi ruang bagi pesan. Untuk tulisan bergaya skrip di dinding interior, neon flex dapat menjadi kandidat karena garisnya dapat mengikuti kontur huruf. Untuk fasad luar ruang yang tinggi, keduanya belum dapat dipilih hanya dari gambar: cara dukung, akses, kelistrikan, paparan cuaca, dan persetujuan rancangan harus diperiksa terlebih dahulu.
+
+Bandingkan penawaran dengan dasar yang sama. Catat jumlah dan dimensi, batas pekerjaan, bahan dan sistem, kebutuhan akses atau pengangkatan, kelistrikan, desain grafis, perizinan atau pajak bila relevan, pengujian, pengecualian, jadwal, perawatan, dan garansi. Kewajiban dan tata cara reklame dapat berbeda menurut wilayah; [UU Nomor 1 Tahun 2022](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf) menunjukkan bahwa aspek pajak reklame memiliki kerangka hukum, tetapi tarif maupun prosedur lokal tidak boleh disalin mentah dari kota lain.
+
+Jika tujuan Anda sudah pasti berupa garis cahaya, halaman [neon flex](/neon-flex) dapat menjadi langkah berikutnya untuk membahas kebutuhan layanan. Jika kebutuhan utamanya adalah kabinet bermuka informasi, lihat [neon box](/neon-box). Tetap bawa ukuran, foto lokasi, dan rancangan awal agar pembicaraan tidak berhenti pada istilah produk.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Neon Box dan Neon Flex: Sistem Cahaya yang Berbeda”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang paling menggoda adalah memilih dari foto contoh lalu menyalin bentuknya tanpa memeriksa sistem di belakangnya. Cara ini dapat gagal karena foto tidak menjelaskan penopang, jalur kabel, titik masuk air, kemampuan membuka bagian tertentu, atau kondisi dinding sebenarnya. Alternatif yang lebih aman adalah meminta gambar susunan, daftar komponen, titik duduk, jalur daya, dan rencana akses sebelum produksi dimulai.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memisahkan rupa dari pekerjaan perawatan. Jangan hanya bertanya “bisa dibuat seperti ini?” Tambahkan: bagian mana yang bisa dibuka, siapa yang dapat memutus daya dengan aman, apa yang harus diperiksa, dan dokumen apa yang menyertai peralatan. Sobat Advert.id, pertanyaan itu membantu membedakan desain yang sekadar menarik dari desain yang dapat dikelola.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga ialah menganggap pemasangan pada dinding selalu sederhana. Bila ukuran, posisi, atau cara dukung berubah, data bangunan yang ada dan persetujuan pihak yang berwenang dapat menjadi penentu. Hentikan pekerjaan dan minta peninjauan profesional bila gambar yang disetujui, dasar desain, kondisi penopang, atau metode pemasangan belum jelas. [NEEDS REVIEW: aturan lokal terkini, perhitungan dan pemeriksaan yang bertanggung jawab untuk lokasi proyek.]
 
-## Required conclusion
+## Langkah berikutnya sebelum memutuskan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Neon box dan neon flex bukan dua tingkat kualitas, melainkan dua cara menyusun cahaya: satu mengutamakan bidang atau kabinet, yang lain mengutamakan garis dan kontur. Pilihan yang tepat berasal dari tugas pembacaan, bentuk desain, lokasi, akses servis, dan bukti sistem lengkap—bukan dari label produk atau satu foto referensi.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum meminta harga, siapkan tiga hal: rancangan ukuran, foto serta posisi lokasi, dan daftar pesan yang harus terbaca. Lalu minta pihak yang kompeten memeriksa gambar, dudukan, kelistrikan, lingkungan, izin yang relevan, dan rencana perawatannya. Aturan kerjanya sederhana: jangan setujui neon box atau neon flex sebelum bentuk yang diinginkan dan sistem yang menopangnya sama-sama dapat ditunjukkan dan ditinjau.
