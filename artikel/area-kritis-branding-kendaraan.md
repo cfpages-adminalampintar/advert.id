@@ -30,6 +30,8 @@ sources:
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-010]` and continue drafting the prose.
 END MANAGED IMAGE PLAN -->
 
+# Branding Kendaraan dan Area yang Tidak Boleh Mengganggu Keselamatan
+
 Halo, Kawan Advert.id! Branding kendaraan bukan sekadar memilih sisi bodi yang paling lebar. Ada bagian-bagian yang fungsi utamanya membantu pengemudi melihat, memberi tanda kepada pengguna jalan lain, atau membuka akses darurat. Bagian itu tidak layak dianggap sebagai kanvas grafis sampai pemilik kendaraan dan pihak yang berwenang menyatakan sebaliknya.
 
 Jawaban singkatnya: jangan menutup, mengubah keterbacaan, atau mengganggu kerja kaca pandang, spion, lampu dan reflektor, pelat nomor, kamera atau sensor, penandaan darurat, serta jalur buka pintu. Desain yang terlihat rapi saat mobil parkir bisa menjadi masalah ketika kendaraan dipakai malam hari, hujan, mundur, atau perlu dibuka oleh orang lain. Rambu amannya bukan tebakan desainer, melainkan pemeriksaan kendaraan nyata, izin pemilik, aturan yang berlaku di wilayah pemakaian, dan persetujuan tertulis bila ada area yang meragukan. Kerangka lalu lintas Indonesia sendiri diatur dalam [UU Lalu Lintas dan Angkutan Jalan](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009); penerapannya pada satu kendaraan tetap perlu dicek terhadap kondisi dan otoritas setempat.

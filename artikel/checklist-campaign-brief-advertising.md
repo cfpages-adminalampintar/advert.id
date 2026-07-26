@@ -1,9 +1,10 @@
 ---
 article_id: ADV-02-01
-title: "Checklist Campaign Brief untuk Media Advertising Fisik"
+title: "Daftar Periksa Dokumen Kebutuhan Kampanye untuk Media Iklan Fisik"
 slug: "checklist-campaign-brief-advertising"
-description: "Capture objective, audience, action, message, geography as market—not article template—timing, budget, constraints, baseline and measurement"
-status: outline
+description: "Daftar informasi yang perlu disepakati sebelum meminta usulan media iklan fisik, dari tujuan hingga cara mengecek hasilnya."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,182 +16,84 @@ final_route: "/artikel/checklist-campaign-brief-advertising.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Daftar Periksa Dokumen Kebutuhan Kampanye untuk Media Iklan Fisik
 
-# Checklist Campaign Brief untuk Media Advertising Fisik
+Halo, Teman Advert.id! Sebelum meminta penawaran billboard, papan nama, layar LED, atau media luar ruang lain, buat dulu dokumen kebutuhan kampanye yang ringkas tetapi jelas. Isinya bukan proposal panjang. Cukup jawaban tertulis atas: apa yang ingin diubah, siapa yang hendak dijangkau, pesan apa yang boleh muncul, di wilayah mana, kapan berjalan, batas biaya, dan bukti apa yang akan dipakai untuk menilai pelaksanaannya.
 
-## Assignment lock
+Dokumen ini penting karena nama media saja belum menjawab apakah lokasinya tersedia, ukurannya sesuai, kepemilikannya jelas, izinnya ada, atau hasilnya akan cocok dengan tujuan Anda. Jika data tujuan, periode, wilayah, dan pihak pengambil keputusan belum tercatat, tahan dulu permintaan penawaran: `[NEEDS DATA KAMPANYE: tujuan, periode, wilayah, dan keputusan pemilik belum dicatat.]`
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Campaign Brief untuk Media Advertising Fisik”
-- **Reader and situation:** Brand/owner requesting media proposals
-- **Reader outcome:** Capture objective, audience, action, message, geography as market—not article template—timing, budget, constraints, baseline and measurement
-- **Primary intent:** Prepare a measurable campaign brief
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not choose a location/product or promise results; ADV-02-02/03 own those steps
-- **Final public route:** `/artikel/checklist-campaign-brief-advertising.html`
-- **Appointed CMS date:** `2025-09-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Campaign Brief untuk Media Advertising Fisik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Gambar ilustratif dari aset lokal proyek.
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-## Evidence packet
+*Gambar ilustratif dari aset lokal proyek.*
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+## Hasil yang ingin dicapai dan bahan yang harus tersedia
 
-### KR-02
+Mulailah dengan satu kalimat hasil yang bisa dipahami semua pihak. Misalnya, bukan “ingin ramai”, melainkan “membuat orang di wilayah tertentu mengetahui pembukaan lokasi” atau “mengundang calon pelanggan menghubungi nomor yang disediakan”. Kalimat itu belum menjanjikan penjualan; ia hanya memberi arah bagi pemilihan media dan pesan.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Tuliskan pula siapa pemilik keputusan, siapa yang memeriksa materi visual, dan siapa yang menerima bukti pelaksanaan. Siapkan logo atau materi yang memang telah disetujui, kontak yang benar, periode tayang yang diinginkan, serta batas biaya yang boleh dibahas. Kalau bahan awalnya belum ada, jangan memaksa penyedia media menebak. Tebakan di tahap awal sering berubah menjadi pekerjaan ulang di akhir.
 
-### KR-03
+Kawan Advert.id, media iklan fisik juga tidak boleh diperlakukan sebagai ruang kosong untuk memuat apa saja. Klaim tentang produk atau layanan tetap perlu dapat dipertanggungjawabkan; perlindungan konsumen menempatkan informasi yang benar, jelas, dan jujur sebagai hal yang penting. Baca sumber resminya di [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), lalu minta pihak yang berwenang menyetujui materi sebelum dicetak atau ditayangkan.
 
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+## Tentukan batas pekerjaan sejak awal
 
-### KR-12
+Di dokumen kebutuhan, jelaskan apa yang diminta dan apa yang belum diminta. Contohnya: apakah Anda meminta usulan jenis media saja, meminta daftar lokasi kandidat, atau sudah meminta produksi, pemasangan, dan pemeliharaan. Sebutkan juga hal yang tidak termasuk, seperti pengurusan izin, penyediaan listrik, akses ke lokasi, penggantian materi, atau pengukuran hasil.
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+Pembagian ini mencegah kalimat “sudah termasuk” ditafsirkan berbeda oleh masing-masing pihak. Untuk setiap lokasi atau unit media, minta kolom terpisah bagi ukuran, periode, bahan, kebutuhan akses, sambungan listrik atau data bila ada, dan kondisi yang harus disediakan pemilik lokasi. Jangan menyamakan semua media hanya karena sama-sama disebut “billboard” atau “LED”.
 
-### KR-16
+Jika kampanye memakai layar digital, pisahkan pula pertanyaan tentang perangkat, sistem listrik, koneksi, dan pengelolaan materi. Pratinjau [IEC 62368-1](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) menunjukkan bahwa keselamatan produk adalah pokok tersendiri; spesifikasi satu komponen atau gambar demo tidak membuktikan seluruh sistem di lokasi sudah aman, tahan cuaca, atau siap dioperasikan.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+## Kumpulkan data yang benar-benar dipakai untuk memilih
 
-## Evidence gates
+Sesudah batas pekerjaan jelas, buat daftar data awal. Isinya dapat berupa wilayah sasaran, jam atau hari yang relevan, karakter umum orang yang ingin dijangkau, tindakan yang diharapkan setelah melihat pesan, serta saluran yang dipakai untuk merespons. “Wilayah Jakarta” sering terlalu luas; tulis area yang benar-benar berarti bagi kampanye tanpa mengarang profil orang yang belum diteliti.
 
-- **TOPIC-GATE:** Dated campaign data, substantiated content, baseline, method, budget, and owner approval
+Pisahkan fakta dari dugaan. Data lalu lintas, peluang terlihat, perhatian, ingatan, kunjungan, calon kontak, dan penjualan bukan ukuran yang sama. Panduan [ISO 20252](https://www.iso.org/news/ref2369.html) menekankan pentingnya menjelaskan populasi, periode, metode, sampel, pengecualian, dan ketidakpastian saat melaporkan riset. Jadi, bila seseorang menawarkan angka paparan, tanyakan: angka itu menghitung siapa, kapan, dengan metode apa, dan apa yang tidak dihitung?
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Teman Advert.id, pertanyaan itu bukan untuk mempersulit penyedia. Justru itu cara agar usulan bisa dibandingkan secara adil. Bila belum ada catatan awal, tulis dengan jujur: `[NEEDS UKURAN AWAL: data pembanding dan cara pencatatannya perlu disetujui sebelum kampanye berjalan.]` Jangan mengganti kekosongan data dengan angka perkiraan yang tampak pasti.
 
-## Internal-link plan
+## Susun urutan keputusan yang mudah diikuti
 
-### Existing local routes
+Gunakan urutan sederhana berikut saat menyiapkan dokumen kebutuhan kampanye.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+1. Tulis tujuan dan tindakan yang diharapkan dari pembaca pesan.
+2. Tulis wilayah serta periode yang relevan, termasuk batas waktu keputusan materi.
+3. Catat pesan utama, informasi wajib, dan klaim yang harus mendapat persetujuan.
+4. Jelaskan pilihan media yang boleh diusulkan, tanpa menganggap satu lokasi atau format sudah pasti dipilih.
+5. Minta setiap usulan memisahkan biaya, masa berlaku penawaran, pekerjaan yang termasuk, dan pekerjaan yang dikecualikan.
+6. Tentukan bukti yang perlu diserahkan sebelum, saat, dan setelah pelaksanaan.
 
-### Planned sibling articles
+Contoh praktisnya begini: usaha baru ingin memberi tahu orang di sekitar lokasi bahwa layanan sudah dibuka. Dokumen kebutuhannya dapat meminta usulan media di area yang ditentukan, pesan pembukaan yang sudah disetujui, periode tertentu, nomor kontak, serta bukti pemasangan atau penayangan. Dokumen itu belum boleh menyimpulkan media mana paling efektif atau berapa banyak transaksi yang akan terjadi. Pilihan lokasi dan penilaian hasil adalah keputusan lanjutan yang memerlukan data aktual.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Saatnya menahan proses dan meminta kejelasan
 
-- `ADV-02-02` → `/artikel/memilih-media-berdasarkan-audience-journey.html` — Memilih Media Advertising Berdasarkan Audience Journey
-- `ADV-02-03` → `/artikel/kpi-outdoor-advertising.html` — KPI Outdoor Advertising: Exposure Bukan Otomatis Dilihat
+Jangan lanjut ke produksi, pemesanan, atau pemasangan bila ada bagian yang masih kabur dan dapat mengubah biaya, keselamatan, legalitas, atau pesan publik. Hentikan proses sementara bila ukuran dan lokasi belum tertulis, materi belum disetujui, penanggung jawab tidak jelas, atau penyedia tidak dapat menjelaskan batas pekerjaannya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Untuk media yang melibatkan struktur, akses, pengangkatan, listrik, atau pekerjaan di lokasi, minta pemeriksaan teknis dan dokumen proyek yang sesuai. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) merupakan salah satu rujukan resmi yang berkaitan dengan pelaksanaan bangunan gedung, tetapi penerapannya harus diperiksa terhadap proyek, lokasi, dan kewenangan yang sebenarnya. Standar seperti [ISO 3834-2](https://www.iso.org/standard/81651.html) dan [ISO 12944-8](https://www.iso.org/standard/64838.html) tidak boleh dipakai sebagai stempel otomatis bahwa suatu pekerjaan telah memenuhi syarat; dokumen, kompetensi, rancangan, dan pemeriksaan aktual tetap diperlukan.
 
-## Hasil akhir dan prasyarat
+Sobat Advert.id, berhenti sejenak di sini jauh lebih murah daripada membetulkan materi yang salah setelah dicetak atau memasang media sebelum tanggung jawab lokasi jelas. Catat siapa yang harus memberi persetujuan, dokumen apa yang belum diterima, dan keputusan apa yang tertunda. Itu lebih berguna daripada menutup masalah dengan janji lisan.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Campaign Brief untuk Media Advertising Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cocokkan penawaran dan serah terima dengan dokumen awal
 
-## Langkah 1 — tetapkan scope
+Pada saat penawaran datang, bandingkan semua calon penyedia memakai daftar yang sama. Periksa kuantitas dan ukuran, lokasi atau cakupan area, bahan atau sistem, akses dan pengangkatan, kebutuhan listrik atau data, materi visual, izin dan pajak bila relevan, pengujian, jadwal, pemeliharaan, garansi, serta pengecualian. Minta setiap perubahan dicatat tertulis agar tidak hilang di percakapan singkat.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Campaign Brief untuk Media Advertising Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ketika pelaksanaan selesai, jangan cukup menerima foto tanpa konteks. Cocokkan bukti dengan hal yang sejak awal diminta: unit mana yang dipasang atau ditayangkan, kapan, materi versi apa, dan siapa yang menyatakan penerimaan. Untuk layar digital, bukti dapat pula perlu menunjukkan pengelolaan materi dan aksesnya, tetapi bentuk buktinya harus disepakati sesuai sistem yang digunakan. Jika tidak ada bukti yang memadai, tulis `[NEEDS BUKTI PELAKSANAAN: bentuk, waktu, dan penerima bukti belum disepakati.]`
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Campaign Brief untuk Media Advertising Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Campaign Brief untuk Media Advertising Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Campaign Brief untuk Media Advertising Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Campaign Brief untuk Media Advertising Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Catatan penutupnya sederhana: daftar periksa ini menyiapkan percakapan yang rapi, bukan memilih media untuk Anda dan bukan menjamin hasil kampanye. Ambil satu lembar, isi tujuan, wilayah, periode, pesan, batas biaya, pihak penyetuju, serta bukti yang diperlukan. Setelah itu baru minta usulan yang bisa dibandingkan. Dengan begitu, Teman Advert.id, setiap keputusan punya dasar yang bisa ditelusuri dan bagian yang belum pasti tetap terlihat sejak awal.

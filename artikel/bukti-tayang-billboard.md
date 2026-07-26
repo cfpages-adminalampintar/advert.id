@@ -1,9 +1,9 @@
 ---
 article_id: ADV-06-05
-title: "Availability dan Proof-of-Play untuk Media Billboard"
+title: "Ketersediaan dan Bukti Tayang untuk Media Billboard"
 slug: "bukti-tayang-billboard"
-description: "Define installation/creative identity, dates, verified site photos, interruptions, obstruction/damage, replacement, reporting and limitations"
-status: outline
+description: "Panduan menyusun bukti tayang billboard yang jelas: identitas media dan materi, waktu, lokasi, foto, gangguan, serta batas laporan."
+status: draft
 publication_date: "2026-01-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,235 +13,101 @@ reader_community: "Advert.id"
 reader_address: "Kawan Advert.id"
 final_route: "/artikel/bukti-tayang-billboard.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Availability dan Proof-of-Play untuk Media Billboard
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Availability dan Proof-of-Play untuk Media Billboard”
-- **Reader and situation:** Advertiser requiring evidence of display
-- **Reader outcome:** Define installation/creative identity, dates, verified site photos, interruptions, obstruction/damage, replacement, reporting and limitations
-- **Primary intent:** Document campaign delivery
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prove viewing, audience or sales impact; ADV-02-03/05 own effectiveness
-- **Final public route:** `/artikel/bukti-tayang-billboard.html`
-- **Appointed CMS date:** `2026-01-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Availability dan Proof-of-Play untuk Media Billboard**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- **Placement:** after the opening, before the first detailed H2.
+- **Caption:** Aset lokal proyek untuk ilustrasi topik billboard.
+- **Boundary:** Do not infer visual details, ownership, location, people, brands, condition, performance, or outcome from this asset.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Ketersediaan dan Bukti Tayang untuk Media Billboard
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Advert.id!
 
-### KR-02
+Billboard yang sudah terpasang belum otomatis berarti kampanye Anda terbukti tayang sesuai kesepakatan. Yang perlu dibuktikan bukan sekadar ada foto papan reklame, melainkan hubungan yang jelas antara lokasi, unit media, materi iklan, dan waktu pengambilan buktinya. Inilah yang biasa disebut bukti tayang atau *proof-of-play*: catatan yang membantu pengiklan dan pengelola bicara tentang unit yang sama, pada periode yang sama.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Jawaban singkatnya, buat satu paket bukti yang dapat ditelusuri: identitas unit, identitas materi kreatif, tanggal dan jam, titik lokasi, foto kondisi lapangan, serta catatan bila ada gangguan. Paket itu dapat menunjukkan bahwa materi tertentu terdokumentasi pada media tertentu. Namun, ia tidak membuktikan berapa orang melihatnya, seberapa lama orang memperhatikan, atau apakah penjualan meningkat. Jangan mencampur tiga hal yang berbeda itu, Sobat Advert.id, karena laporan akan terdengar meyakinkan tetapi sulit diperiksa.
 
-### KR-04
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+_Aset lokal proyek untuk ilustrasi topik billboard._
 
-### KR-07
+## Bukti tayang bukan laporan hasil kampanye
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Bukti tayang adalah bukti pencatatan penayangan atau keberadaan materi pada media. Untuk billboard statis, bentuknya lazim berupa foto bertanggal, identitas lokasi, dan keterangan materi yang dipasang. Untuk media yang materinya dapat berganti, bukti perlu menjelaskan materi mana yang muncul dan kapan pencatatannya dilakukan. Kata “tersedia” juga perlu dipakai hati-hati: sebuah lokasi dapat tersedia untuk periode tertentu tanpa menjadi jaminan bahwa lokasinya selalu bebas halangan, lampunya selalu menyala, atau setiap orang yang lewat pasti melihatnya.
 
-### KR-08
+Karena itu, awali laporan dengan empat identitas sederhana:
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+- **Identitas media:** kode unit internal, alamat atau patokan lokasi, arah hadap, dan sisi media bila ada lebih dari satu sisi.
+- **Identitas materi:** nama berkas atau nomor versi materi, tanggal persetujuan materi bila tersedia, dan ciri yang memungkinkan pihak lain mengenalinya tanpa menebak.
+- **Identitas waktu:** tanggal, jam, dan zona waktu pencatatan.
+- **Identitas pencatatan:** siapa atau fungsi kerja yang mengambil bukti, cara memperoleh foto, dan apakah ada pemeriksaan ulang.
 
-### KR-09
+Nama media saja tidak cukup untuk menjelaskan ukuran, pemilik, lokasi yang diizinkan, harga, atau dampak iklan. Prinsip kehati-hatian tersebut sejalan dengan kebutuhan informasi yang tidak menyesatkan dalam [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf). Artinya, gunakan kata-kata sesuai yang benar-benar Anda miliki buktinya; jangan menaikkan laporan dokumentasi menjadi klaim performa.
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+## Isi paket bukti yang mudah dicek
 
-### KR-10
+Paket yang rapi tidak harus rumit. Bayangkan Anda menerima foto dari lapangan dua minggu setelah pemasangan. Tanpa kode unit, tanpa nama materi, dan tanpa jam pengambilan, foto tersebut hanya membuktikan bahwa ada papan reklame pada suatu saat. Ia tidak cukup membantu bila ada pertanyaan tentang unit, periode, atau materi yang dijanjikan.
 
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
+Susun bukti dalam urutan berikut agar pemeriksa tidak perlu menerka-nerka:
 
-### KR-14
+1. **Ringkasan periode.** Tulis tanggal mulai dan akhir sesuai dokumen kerja, lalu tandai apakah foto diambil saat awal, tengah, atau akhir periode.
+2. **Lembar identitas unit.** Cantumkan kode unit, alamat atau koordinat, arah arus jalan yang relevan, sisi media, serta kontak penanggung jawab bila memang disetujui untuk dicantumkan.
+3. **Lembar identitas materi.** Tempel pratinjau materi atau rujukan berkas, nomor versi, dan keterangan singkat yang membedakan materi itu dari versi lain.
+4. **Foto lapangan.** Ambil sudut cukup lebar untuk mengenali konteks lokasi, lalu sudut lebih dekat agar materi dapat dibaca. Simpan berkas asli bila proses kerja memungkinkan, jangan hanya menyimpan tangkapan layar yang sudah dipotong.
+5. **Catatan kondisi.** Catat tanggal/jam, cuaca bila memengaruhi keterbacaan, halangan, kerusakan, pemadaman, pekerjaan di sekitar lokasi, atau perubahan lain yang terlihat.
+6. **Catatan tindak lanjut.** Bila ada masalah, tulis kapan dilaporkan, kepada siapa, apa tindakan yang diminta, dan bukti setelah tindakan selesai jika ada.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Kawan Advert.id, foto lokasi sebaiknya tidak dipakai untuk menyimpulkan bahwa struktur aman atau semua izin telah terpenuhi. Pada media yang melekat pada bangunan atau berdiri dengan tiang, jalur bebannya dapat mencakup muka papan, rangka, sambungan, angkur, penopang, hingga fondasi atau tanah. [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) menjadi pengingat bahwa pemeriksaan bangunan dan pekerjaan terkait tetap membutuhkan dasar proyek yang benar, bukan kesimpulan dari dokumentasi foto.
 
-### KR-15
+## Cara mencatat waktu, lokasi, dan identitas tanpa mengada-ada
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Waktu dan lokasi sering menjadi bagian yang paling mudah salah salin. Gunakan sumber data yang konsisten. Jika foto menyimpan waktu pada perangkat, perlakukan itu sebagai jejak pendukung, bukan satu-satunya penentu. Bila jam pada kamera salah, catat koreksinya secara terbuka. Jika koordinat tidak tersedia, pakai alamat, patokan, arah hadap, dan foto konteks yang cukup untuk mengidentifikasi tempat.
 
-### KR-16
+Untuk lokasi di tepi jalan, catatan arah arus jalan dan konteks sekitar berguna agar pembaca laporan memahami sisi mana yang sedang dibahas. Namun, jangan mengubah konteks itu menjadi klaim jarak pandang atau keselamatan lalu lintas. Pengaturan jalan, pengguna jalan, dan kewenangan di lapangan bergantung pada kondisi serta otoritas setempat; [UU No. 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) dapat menjadi rujukan awal, bukan pengganti penilaian lokasi.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Gunakan satu nama yang sama untuk unit yang sama di foto, tabel, surat kerja, dan laporan. Jika unit memiliki dua sisi, beri penanda seperti “sisi A” dan “sisi B” lalu jelaskan arti penandanya. Hindari singkatan yang hanya dipahami satu orang. Sederhananya, orang baru yang menerima paket itu harus bisa mencocokkan foto dengan lokasi dan materi tanpa menelepon pembuat laporan untuk menebak maksudnya.
 
-## Evidence gates
+## Gangguan harus terlihat, bukan disembunyikan
 
-- **TOPIC-GATE:** Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection
+Laporan yang dapat dipercaya bukan laporan yang selalu menyatakan “normal”. Justru laporan menjadi berguna ketika ia mencatat perubahan yang memengaruhi penayangan atau keterbacaan: materi tertutup pekerjaan sementara, panel rusak, lampu padam, akses terhalang, pohon tumbuh menutup sebagian bidang, atau materi diganti sebelum waktunya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Catat gangguan dengan format yang membumi: apa yang terjadi, kapan pertama terlihat, unit mana yang terdampak, bukti pendukung, dan langkah berikutnya. Hindari langsung menyebut “kompensasi”, “penggantian”, atau “perpanjangan” bila ketentuan kontraknya belum diperiksa. Tulis saja bahwa ada permintaan tindak lanjut dan simpan dasar keputusan terpisah.
 
-## Internal-link plan
+Contohnya, bila foto pemeriksaan menunjukkan sebagian materi tertutup perancah, jangan tulis “tayang penuh” hanya karena papan masih ada. Tulis bahwa materi terpasang, tetapi ada halangan yang terlihat pada tanggal dan jam pemeriksaan. Lalu buka catatan tindak lanjut. Nah, Teman Advert.id, ketelitian seperti ini lebih melindungi kedua pihak daripada kalimat yang terlalu optimistis.
 
-### Existing local routes
+## Contoh keputusan praktis sebelum laporan dikirim
 
-- `/jasa-pembuatan-billboard-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
+| Kondisi yang ditemukan | Yang boleh dinyatakan | Yang perlu dilampirkan atau ditindaklanjuti |
+| --- | --- | --- |
+| Foto menunjukkan materi dan konteks lokasi | Materi tertentu terdokumentasi pada unit/lokasi tersebut pada waktu pengambilan foto | Kode unit, waktu, lokasi, identitas materi, dan foto asli bila tersedia |
+| Materi terlihat tetapi sebagian tertutup | Materi terpasang, dengan halangan yang tercatat | Foto sudut lebar, foto dekat, waktu, jenis halangan, dan catatan tindak lanjut |
+| Foto tidak memperlihatkan identitas lokasi | Ada dokumentasi materi, tetapi lokasi belum dapat dipastikan dari paket itu | Alamat/koordinat, patokan, kode unit, atau foto konteks tambahan |
+| Ada pergantian materi | Materi versi tertentu dicatat pada waktu tertentu | Nomor versi, waktu sebelum/sesudah pergantian, dan persetujuan materi bila tersedia |
+| Ada klaim unit memenuhi aturan atau aman | Jangan simpulkan dari foto bukti tayang | [NEEDS PENINJAUAN TEKNIS: dasar persetujuan, dokumen proyek, dan pemeriksaan pihak berwenang/kompeten] |
 
-### Planned sibling articles
+Untuk urusan pajak reklame, perizinan, atau perubahan di lokasi, jangan mengambil prosedur satu kota sebagai aturan nasional. Ketentuan dapat bergantung pada wilayah, jenis media, masa pemasangan, dan pihak yang bertanggung jawab. Contoh aturan daerah seperti [Perwali Kota Depok No. 27 Tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) berguna untuk menunjukkan bahwa pelaksanaan bersifat setempat; ia bukan jawaban otomatis untuk kota lain. Periksa aturan resmi yang berlaku di lokasi unit sebelum membuat pernyataan kepatuhan.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesalahan yang sering membuat bukti sulit dipakai
 
-- `ADV-06-03` → `/artikel/konfigurasi-face-billboard.html` — Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face
-- `ADV-06-04` → `/artikel/akses-changeout-billboard.html` — Akses Penggantian Artwork Billboard
-- `ADV-06-06` → `/artikel/dismantling-billboard.html` — Dismantling Billboard: Data Sebelum Struktur Diturunkan
+Kesalahan pertama adalah memakai satu foto tanpa konteks. Foto cantik dari dekat mungkin memperlihatkan materi, tetapi tidak membantu memastikan unit dan tempatnya. Ambil pasangan foto: satu untuk konteks, satu untuk keterbacaan materi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan kedua adalah menyamakan bukti tayang dengan bukti orang melihat iklan. Dokumentasi papan tidak mengukur jumlah orang yang melihat, perhatian, tanggapan, penjualan, atau efektivitas kampanye. Bila laporan perlu membahas hal tersebut, gunakan metode dan data lain yang memang dirancang untuk mengukurnya.
 
-## Jawaban singkat dan salah paham utama
+Kesalahan ketiga adalah menutup-nutupi gangguan agar laporan cepat selesai. Jalan pintas ini biasanya memunculkan sengketa saat foto lain muncul kemudian. Lebih baik beri penanda gangguan, jelaskan batasnya, lalu catat keputusan lanjutan secara terpisah.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Availability dan Proof-of-Play untuk Media Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan keempat adalah memakai istilah “siap”, “aman”, atau “sesuai izin” tanpa dokumen yang menyokongnya. Bila bukti belum lengkap, tulis kondisi apa adanya dan gunakan penanda kebutuhan peninjauan. Jangan memaksa foto lapangan memikul beban pembuktian yang bukan tugasnya.
 
-## Definisi dan batas objek
+## Langkah penutup yang bisa langsung dipakai
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Availability dan Proof-of-Play untuk Media Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bukti tayang billboard yang baik adalah paket pencatatan yang menghubungkan unit, materi, waktu, lokasi, foto, dan gangguan secara jujur. Ia membantu memastikan apa yang didokumentasikan, tetapi tidak membuktikan jumlah penonton, dampak kampanye, atau kelayakan teknis dan perizinan.
 
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Availability dan Proof-of-Play untuk Media Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Availability dan Proof-of-Play untuk Media Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Availability dan Proof-of-Play untuk Media Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Availability dan Proof-of-Play untuk Media Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum mengirim laporan, Sobat Advert.id, minta satu orang yang tidak ikut mengambil foto untuk mencoba mencocokkan satu entri dari awal sampai akhir. Jika orang itu dapat menemukan unit, materi, waktu, dan catatan gangguan tanpa bertanya banyak, paket Anda sudah berada di jalur yang benar. Aturan kerjanya sederhana: catat yang benar-benar terlihat dan diketahui, tautkan bukti yang relevan, lalu tahan setiap kesimpulan yang belum memiliki dasar proyek.

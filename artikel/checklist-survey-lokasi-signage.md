@@ -1,9 +1,10 @@
 ---
 article_id: ADV-03-01
-title: "Checklist Survey Lokasi Signage dan Advertising Outdoor"
+title: "Daftar Periksa Survei Lokasi untuk Papan Informasi (Signage) dan Iklan Luar Ruang"
 slug: "checklist-survey-lokasi-signage"
-description: "Record coordinates, ownership, viewer paths, distances/angles, obstructions, background, day/night, utilities, substrate, access, traffic/public risks and permits"
-status: outline
+description: "Daftar periksa survei lokasi agar rencana papan informasi dan iklan luar ruang dimulai dari data lapangan, bukan asumsi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,190 +16,90 @@ final_route: "/artikel/checklist-survey-lokasi-signage.html"
 technical_review: required
 sources:
   - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/57833.html"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Checklist Survey Lokasi Signage dan Advertising Outdoor
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Checklist Survey Lokasi Signage dan Advertising Outdoor”
-- **Reader and situation:** Project team visiting a proposed location
-- **Reader outcome:** Record coordinates, ownership, viewer paths, distances/angles, obstructions, background, day/night, utilities, substrate, access, traffic/public risks and permits
-- **Primary intent:** Conduct a pre-design site survey
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Visual survey cannot approve structure, power or legality; ADV-09–11 own those decisions
-- **Final public route:** `/artikel/checklist-survey-lokasi-signage.html`
-- **Appointed CMS date:** `2025-10-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Survey Lokasi Signage dan Advertising Outdoor**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+<!-- BEGIN MANAGED IMAGE PLAN
+- Image ID: LOCAL-001
+- Source type: local
+- Placement: after the opening, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+- Caption: Aset lokal proyek; ilustrasi bersifat umum, bukan dokumentasi proyek tertentu.
+- Selection basis: filename/source metadata identifies Jasa Billboard as relevant content media; pixels were not inspected.
+- Hard boundary: do not infer unseen details, project ownership, location, people, brands, condition, performance, or outcome.
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Daftar Periksa Survei Lokasi untuk Papan Informasi (Signage) dan Iklan Luar Ruang
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Teman Advert.id! Survei lokasi bukan sekadar datang, memotret bidang kosong, lalu pulang dengan perkiraan. Sebelum desain papan informasi—yang di industri sering disebut *signage*—atau iklan luar ruang dibuat, tim perlu mencatat lokasi yang sah, jalur orang atau kendaraan yang melihatnya, penghalang, kondisi siang-malam, akses kerja, sampai pihak yang harus memberi persetujuan. Tanpa catatan itu, desain bisa terlihat meyakinkan di layar tetapi tidak cocok ketika sampai di lokasi.
 
-### KR-03
+Jawaban singkatnya: gunakan satu daftar periksa yang memisahkan **apa yang benar-benar terlihat di lapangan** dari **apa yang masih harus disetujui**. Survei visual membantu tim menyusun pertanyaan dan bahan keputusan; survei ini tidak dapat menyatakan struktur aman, listrik tersedia, atau izin sudah beres. Ketiga hal itu tetap perlu pemeriksaan pihak yang berwenang dan bukti proyek.
 
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-### KR-04
+*Aset lokal proyek; ilustrasi bersifat umum, bukan dokumentasi proyek tertentu.*
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+## Hasil yang dicari sebelum desain dimulai
 
-### KR-05
+Hasil survei yang berguna adalah berkas yang dapat dipahami orang lain tanpa harus kembali menebak-nebak lokasi. Isinya minimal mencatat identitas lokasi dan pemilik atau pihak pengelola yang dihubungi, titik koordinat atau penanda lokasi, foto dari beberapa arah, tanggal dan waktu kunjungan, serta nama pencatat. Jika ada rencana media tertentu, tulis sebagai **rencana**, bukan keputusan akhir.
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Lalu pisahkan dua kolom: temuan lapangan dan pertanyaan terbuka. Contohnya, “ada pohon di arah pandang dari jalan” adalah temuan. “apakah pohon dapat dipangkas dan oleh siapa” adalah pertanyaan yang belum boleh diasumsikan jawabannya. Pemisahan sederhana ini mencegah foto lapangan berubah menjadi klaim izin atau klaim keamanan.
 
-### KR-08
+Untuk media yang dilihat dari area jalan, konteks arah perjalanan, pengguna jalan, dan pengelolaan jalan memang relevan untuk dicatat. Namun, catatan tersebut bukan izin penempatan maupun penilaian gangguan lalu lintas; [UU Lalu Lintas dan Angkutan Jalan](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) tetap menjadi salah satu rujukan hukum yang harus ditelaah sesuai kasus dan kewenangan setempat. Kawan Advert.id, dari awal tetapkan siapa yang akan membaca hasil survei: pemilik lokasi, perancang, pengelola gedung, kontraktor, atau penelaah teknis. Dengan begitu, data yang dibawa pulang punya tujuan jelas.
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+## Tentukan batas survei agar tidak salah janji
 
-### KR-17
+Mulailah dengan menjawab empat pertanyaan: objek apa yang ditinjau, bagian mana yang dapat diamati, siapa pemilik keputusan, dan apa yang tidak dapat diputuskan saat kunjungan. Objeknya bisa berupa dinding, muka bangunan, area halaman, tiang yang sudah ada, atau ruang dalam gedung. Jangan menyamakan “ada bidang” dengan “bidang itu boleh dipakai”.
 
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
+Tuliskan juga batas peran tim. Tim survei dapat memetakan posisi rencana, kondisi permukaan yang terlihat, jalur menuju lokasi, serta hambatan yang tampak. Tim survei tidak boleh menyimpulkan kemampuan fondasi, daya dukung dinding, kapasitas listrik, atau keabsahan perizinan hanya dari tampilan dan foto. Informasi bangunan dan persetujuannya bersifat spesifik pada proyek; [PP Nomor 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021) perlu dibaca bersama kondisi dan ketentuan yang berlaku pada lokasi.
 
-## Evidence gates
+Kalau survei dilakukan untuk iklan luar ruang, masukkan pula batas terhadap ruang publik dan tetangga lokasi. Siapa yang mungkin terdampak pemasangan, pemeliharaan, cahaya, atau akses alat? Catat sebagai pihak yang perlu dikonfirmasi, bukan sebagai persetujuan yang sudah ada. Sederhananya, daftar periksa yang baik membantu berkata “belum tahu” dengan rapi, bukan memaksa jawaban cepat.
 
-- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
+## Kumpulkan bukti lapangan yang bisa ditelusuri
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Susun catatan per kelompok agar tidak ada bagian penting tercecer. Untuk identitas tempat, kumpulkan alamat, koordinat atau penanda yang konsisten, kontak pihak yang menerima kunjungan, dan bukti hak penggunaan yang tersedia untuk ditelaah. Untuk arah pandang, foto pendekatan dari arah yang relevan, catat arah perjalanan, serta tulis penghalang yang terlihat seperti vegetasi, kendaraan parkir, kanopi, kabel, atau bangunan lain.
 
-## Internal-link plan
+Amati pula latar belakang, kondisi pencahayaan saat kunjungan, dan perubahan yang tampak antara siang serta malam. Ini bukan uji keterbacaan atau pengukuran visibilitas. Catatan itu hanya bahan untuk menentukan apakah desain perlu diuji lagi pada kondisi yang nyata. Jangan mengubah kesan “cukup terlihat” menjadi pernyataan bahwa pesan pasti terbaca oleh semua orang.
 
-### Existing local routes
+Untuk materi visual, simpan versi bahan desain yang diterima, ukuran atau skala yang direncanakan, jenis keluaran yang direncanakan, dan pihak yang akan menyetujui contoh fisik. Panduan [ISO/TC 130 tentang proses produksi cetak](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) menekankan pentingnya kondisi proses, contoh persetujuan, dan pengendalian berkas; itu tidak berarti warna akan otomatis sama pada setiap bahan atau pada siang dan malam. Sobat Advert.id, jika contoh bahan belum ada, tulis saja `[NEEDS REVIEW: contoh bahan dan persetujuan warna belum tersedia]` daripada menjanjikan hasil warna dari layar.
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Urutan kunjungan yang praktis di lokasi
 
-### Planned sibling articles
+Mulai dari titik yang mudah dikenali. Catat waktu, cuaca yang tampak, alamat, dan orang yang ditemui. Setelah itu, berjalanlah melalui jalur pendekatan yang relevan sambil mengambil foto berurutan. Foto lebar memberi konteks; foto dekat membantu menunjukkan permukaan, sambungan yang terlihat, penghalang, atau akses yang perlu diperiksa lebih lanjut. Beri nama berkas foto secara konsisten agar orang lain tahu dari arah mana foto diambil.
 
-These are future routes. Do not link them as live until their HTML exists.
+Berikutnya, catat rencana posisi media dengan penanda sederhana pada denah atau foto. Tulis arah muka media, perkiraan hubungan dengan jalur pandang, latar belakang, dan benda yang berpotensi menghalangi. Jangan membuat rumus jarak pandang universal. Perhatian, peluang melihat, ingatan, kunjungan, dan penjualan merupakan ukuran yang berbeda; [ISO 20252](https://www.iso.org/news/ref2369.html) juga membedakan disiplin pengumpulan dan pelaporan data dari kesimpulan bisnis yang lebih luas. Bila proyek perlu angka lalu lintas atau audiens, minta sumber, periode, metode, cakupan, dan keterbatasannya.
 
-- `ADV-03-02` → `/artikel/sightline-approach-path-signage.html` — Sightline dan Approach Path untuk Penempatan Signage
-- `ADV-03-03` → `/artikel/uji-legibility-signage.html` — Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca
+Terakhir, periksa jalur kerja tanpa memaksakan akses. Catat pintu masuk, ruang manuver yang terlihat, kondisi tangga atau area kerja yang tampak, sumber listrik yang diklaim tersedia, saluran air, serta hambatan pemeliharaan. “Terlihat ada kabel” bukan bukti titik sambung dapat digunakan. “Ada jalan menuju lokasi” bukan bukti alat dapat lewat dengan aman. Semua item seperti itu masuk daftar konfirmasi teknis.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kapan survei harus dihentikan dan dinaikkan untuk penelaahan
 
-## Hasil akhir dan prasyarat
+Ada beberapa kondisi yang tidak boleh ditutup dengan asumsi. Hentikan pengambilan keputusan desain bila kepemilikan atau persetujuan penggunaan lokasi belum jelas, akses survei dibatasi, area mempunyai risiko publik yang belum dikendalikan, atau terdapat tanda kerusakan pada bidang penopang. Dokumentasikan kondisi yang terlihat dan minta jalur penelaahan yang tepat.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survey Lokasi Signage dan Advertising Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika rencana menyentuh struktur, ketinggian, atau paparan angin, data lapangan harus diteruskan kepada tenaga yang kompeten. Bentuk, ketinggian, kondisi paparan, arah angin, dan seluruh jalur beban memengaruhi perancangan; [ISO 4354](https://www.iso.org/standard/38882.html) tidak menyediakan jawaban ukuran aman yang bisa dipindahkan begitu saja ke setiap lokasi. Jangan memberi label “aman” hanya karena media sebelumnya pernah terpasang di area itu.
 
-## Langkah 1 — tetapkan scope
+Begitu pula pada komponen yang tampak berkarat, longgar, miring, kemasukan air, atau mempunyai gangguan listrik. Pedoman pelapisan seperti [ISO 12944-8](https://www.iso.org/standard/64838.html) dapat membantu memahami perlunya pendekatan berbasis kondisi dan sistem, tetapi foto tidak membuktikan sisa kekuatan atau umur pakai. Untuk risiko struktur, listrik, maupun akses, catat `[NEEDS REVIEW: pemeriksaan tenaga kompeten diperlukan sebelum keputusan pemasangan]`. Ketentuan keselamatan konstruksi yang berlaku juga perlu ditelaah sesuai pekerjaan dan lokasi, termasuk rujukan [Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survey Lokasi Signage dan Advertising Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Rapikan catatan agar keputusan berikutnya tidak terputus
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+Setelah kunjungan, satukan foto, denah penanda, daftar temuan, dan daftar pertanyaan dalam satu paket. Bedakan status setiap item: sudah dibuktikan, terlihat tetapi perlu konfirmasi, atau belum tersedia. Sertakan siapa penanggung jawab tindak lanjut dan bukti apa yang diminta, misalnya persetujuan pemilik, data pengelola jalan, gambar bangunan, atau pemeriksaan teknis.
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survey Lokasi Signage dan Advertising Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum paket diteruskan, lakukan pemeriksaan sederhana: apakah setiap foto dapat ditautkan ke lokasi atau arah, apakah rencana posisi jelas, apakah penghalang sudah dicatat, dan apakah batas survei tertulis. Teman Advert.id, paket ini belum merupakan persetujuan pekerjaan. Fungsinya justru membuat perancang dan pengambil keputusan tahu bagian mana yang aman untuk dilanjutkan sebagai konsep, serta bagian mana yang wajib ditahan sampai bukti datang.
 
-## Langkah 3 — jalankan urutan kerja
+Apabila Anda sudah membutuhkan gambaran bentuk media dan konteks penggunaannya, lihat dulu [halaman signage Advert.id](/signage/) sebagai titik awal. Setelah itu, kembali cocokkan kebutuhan media dengan data lokasi yang benar-benar terkumpul, bukan sebaliknya.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survey Lokasi Signage dan Advertising Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jangan mengganti survei dengan satu foto dari jauh
 
-## Hold point dan kondisi berhenti
+Jalan pintas yang sering terjadi adalah mengandalkan foto kiriman atau gambar peta, lalu langsung menentukan ukuran dan posisi. Foto seperti itu tetap berguna untuk memulai percakapan, tetapi biasanya tidak menunjukkan urutan pandang, penghalang yang berubah, akses pemeliharaan, kondisi latar pada waktu berbeda, maupun status penggunaan lokasi.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survey Lokasi Signage dan Advertising Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatif yang lebih hemat adalah mengirim daftar periksa sebelum kunjungan dan menetapkan data minimum yang harus pulang bersama tim. Bila kunjungan fisik belum bisa dilakukan, tandai hasilnya sebagai data awal dan jangan naikkan menjadi keputusan desain atau persetujuan pemasangan. Nah, sikap ini mungkin terasa lebih lambat di awal, tetapi jauh lebih murah daripada memesan ulang media karena lokasi ternyata berbeda dari asumsi.
 
-## Verifikasi hasil dan handover
+## Aturan kerja sebelum melanjutkan desain
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Survey Lokasi Signage dan Advertising Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Daftar periksa survei lokasi membantu memastikan papan informasi dan iklan luar ruang dimulai dari rekaman yang dapat diuji: identitas tempat, jalur pandang, hambatan, kondisi lingkungan, akses, dan pertanyaan persetujuan. Langkah berikutnya adalah rapikan paket survei, minta bukti yang masih kurang, lalu serahkan isu struktur, listrik, akses, dan legalitas kepada pihak yang berwenang.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Pegang aturan ini, Kawan Advert.id: observasi lapangan boleh menjadi dasar pertanyaan dan konsep, tetapi tidak boleh menggantikan persetujuan pemilik, pemeriksaan teknis, atau ketentuan yang berlaku pada proyek.
