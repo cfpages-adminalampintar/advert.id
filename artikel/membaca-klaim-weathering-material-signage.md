@@ -1,9 +1,10 @@
 ---
 article_id: ADV-04-06
-title: "Klaim Tahan Cuaca dan UV pada Material Advertising"
+title: "Membaca Klaim Tahan Cuaca dan UV pada Material Iklan"
 slug: "membaca-klaim-weathering-material-signage"
-description: "Read test method, specimen, exposure, orientation, color/strength metric, installation, cleaning, warranty exclusions and field limits"
-status: outline
+description: "Cara membaca klaim ketahanan terhadap paparan cuaca dan UV dengan memeriksa produk, metode uji, paparan, perawatan, serta batas garansi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,192 +15,66 @@ reader_address: "Kawan Advert.id"
 final_route: "/artikel/membaca-klaim-weathering-material-signage.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
   - "https://www.iso.org/standard/51378.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Membaca Klaim Tahan Cuaca dan UV pada Material Iklan
 
-# Klaim Tahan Cuaca dan UV pada Material Advertising
+Halo, Kawan Advert.id! Ketahanan terhadap paparan cuaca berarti kemampuan bahan atau sistem menghadapi kondisi luar ruang yang dinyatakan dalam bukti tertentu. Dalam bahasa teknis, hal ini kadang disebut *weathering*. Klaim “tahan cuaca” atau “tahan UV” bukan janji umur pakai untuk setiap lokasi. Sebelum mempercayainya, tanyakan: produk persis apa yang diuji, dengan sistem apa, kondisi paparan seperti apa, dan perubahan apa yang diukur?
 
-## Assignment lock
+Klaim yang layak dibaca selalu punya batas. Ia bisa terkait warna, kekuatan, tampilan, lapisan, atau garansi; masing-masing perlu dibaca bersama spesimen, metode, orientasi paparan, perawatan, pengecualian, dan kondisi proyek. Jangan mengubah hasil uji atau nama bahan menjadi prediksi waktu pakai tanpa bukti yang lingkupnya sama.
 
-- **Writer task:** Expand this file into one complete article answering: “Klaim Tahan Cuaca dan UV pada Material Advertising”
-- **Reader and situation:** Buyer comparing warranty/lifespan statements
-- **Reader outcome:** Read test method, specimen, exposure, orientation, color/strength metric, installation, cleaning, warranty exclusions and field limits
-- **Primary intent:** Audit durability claims
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No service-life prediction without scoped evidence; ADV-14 owns lifecycle monitoring
-- **Final public route:** `/artikel/membaca-klaim-weathering-material-signage.html`
-- **Appointed CMS date:** `2025-11-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-## Opening instructions
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Klaim Tahan Cuaca dan UV pada Material Advertising**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+## Hasil akhir dan prasyarat
 
+Hasil yang dicari bukan angka umur pakai yang terdengar meyakinkan, melainkan keputusan yang dapat ditelusuri: kandidat produk mana yang dipertimbangkan, bukti apa yang mendukungnya, dan apa yang belum diketahui. Siapkan nama produk, produsen, revisi, bahan, tinta atau pelapis, cara pemasangan, lokasi pemakaian, dan cara pembersihan yang direncanakan.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sobat Advert.id, jika salah satu informasi itu belum jelas, tahan klaimnya pada tingkat yang jujur. Panduan ISO/TC 130 menyebut pentingnya menyimpan informasi proses keluaran, bahan, tinta, kondisi cahaya, serta persetujuan contoh. [Panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) membantu memastikan bahan yang dibicarakan memang sama dengan yang akan dipakai.
+
+## Tetapkan objek dan batas pemeriksaan
+
+Bedakan bahan mentah dari sistem lengkap. Bahan cetak, tinta, pelapis, perekat, sambungan, dan cara pembersihan dapat bersama-sama memengaruhi hasil. Klaim untuk satu komponen belum tentu berlaku untuk sistem yang sudah dirakit. Artikel ini tidak menghitung umur layanan, tidak menyetujui pemasangan, dan tidak menggantikan pemeriksaan kondisi lokasi.
+
+Tuliskan pula apa yang disebut “perubahan”: perubahan warna, retak, mengelupas, hilang kekuatan, atau hal lain. Tanpa ukuran perubahan yang disepakati, istilah “masih bagus” tidak dapat diperiksa dengan konsisten.
+
+## Kumpulkan dan cocokkan bukti
+
+Minta lembar data teknis, data keselamatan bila tersedia, laporan uji asli, ketentuan garansi, dan contoh fisik. Cocokkan produk, kelompok produksi, sistem tinta atau pelapis, metode pemasangan, serta kondisi pemakaian dengan dokumen tersebut. [ISO 12944-6](https://www.iso.org/standard/51378.html) membahas metode uji untuk sistem pelindung; itu tidak membuktikan setiap produk sudah lolos atau akan memberi hasil yang sama pada semua paparan.
+
+Teman Advert.id, baca juga yang tidak dijanjikan: batas lokasi, cara pembersihan, perubahan produk, pengecualian, dan pihak yang harus menyetujui. Bila hanya ada materi promosi tanpa dokumen yang dapat dicocokkan, gunakan `[NEEDS REVIEW: produk, metode uji, spesimen, kondisi paparan, dokumen garansi, dan perawatan perlu dikonfirmasi]`.
+
+## Jalankan urutan keputusan
+
+Pertama, pilih kandidat berdasarkan fungsi visual dan kondisi proyek. Kedua, cocokkan dokumen produk serta contoh fisik. Ketiga, catat kriteria penerimaan dan cara pemeriksaan. Keempat, simpan bukti pemasangan, perubahan, dan perawatan supaya keputusan berikutnya tidak dimulai dari tebakan. Jika produk atau proses berubah, perlakukan sebagai perubahan baru yang perlu dinilai ulang.
+
+Untuk signage yang perlu dipelihara, hubungan antara spesifikasi, catatan, dan perawatan sama pentingnya dengan bahan awal. [ISO 12944-8](https://www.iso.org/standard/64838.html) membahas spesifikasi serta pemeliharaan dalam konteks sistem pelindung; jangan gunakan judul standar itu sebagai jaminan bagi proyek tertentu.
+
+## Kapan harus berhenti dan meminta peninjauan
+
+Berhenti ketika produk tidak dapat diidentifikasi, laporan tidak cocok dengan sistem yang ditawarkan, kondisi lokasi berbeda penting dari dasar bukti, atau garansi tidak menyebut pengecualian secara cukup jelas. Hentikan pula klaim numerik bila tidak ada dokumen produk, contoh, atau persetujuan yang relevan.
+
+Jalan pintasnya adalah memilih klaim dengan angka paling panjang. Angka itu tidak menjawab apakah produk, paparan, pemasangan, dan perawatan Anda sama. Alternatifnya: bandingkan bukti yang setara, lalu catat batasnya sebelum membeli.
+
+## Verifikasi hasil dan serah terima
+
+Simpan file sumber, identitas produk, laporan yang dipakai, contoh yang disetujui, catatan pemasangan, instruksi pembersihan, dan riwayat perubahan. Periksa kembali bila bahan, lokasi, pembersihan, atau kondisi visual berubah. Jangan menunggu sengketa untuk mencari dokumen yang seharusnya disimpan sejak awal.
+
+Klaim tahan cuaca dan UV berguna hanya bila dibaca sesuai bukti dan batasnya. Langkah berikutnya: minta paket dokumen kandidat produk lalu tandai mana yang cocok dan mana yang belum terbukti. Aturan kerjanya: jangan mengubah klaim bahan menjadi janji umur pakai tanpa bukti yang sesuai dengan sistem dan paparan proyek.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-18
-
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-04-04` → `/artikel/korosi-material-signage-outdoor.html` — Korosi dan Material Berbeda pada Signage Outdoor
-- `ADV-04-05` → `/artikel/color-management-signage.html` — Color Management dari Artwork ke Signage Terpasang
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Tahan Cuaca dan UV pada Material Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Tahan Cuaca dan UV pada Material Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Tahan Cuaca dan UV pada Material Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Tahan Cuaca dan UV pada Material Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Tahan Cuaca dan UV pada Material Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Klaim Tahan Cuaca dan UV pada Material Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->
