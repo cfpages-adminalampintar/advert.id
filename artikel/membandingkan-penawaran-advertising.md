@@ -1,9 +1,9 @@
 ---
 article_id: ADV-13-01
-title: "Membandingkan Penawaran Advertising secara Apple-to-Apple"
+title: "Cara Membandingkan Penawaran Media Advertising"
 slug: "membandingkan-penawaran-advertising"
-description: "Align campaign/site/design, creative, media/materials, structure/foundation, electrical/content, permits/tax, fabrication, logistics, installation, tests, warranty and exclusions"
-status: outline
+description: "Panduan menyamakan isi pekerjaan, asumsi, bahan, pemasangan, bukti, perawatan, dan pengecualian sebelum membandingkan harga penawaran media."
+status: draft
 publication_date: "2026-06-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,49 +13,25 @@ reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/membandingkan-penawaran-advertising.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Cara Membandingkan Penawaran Media Advertising
 
-# Membandingkan Penawaran Advertising secara Apple-to-Apple
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Penawaran termurah belum tentu paling rendah biayanya, dan penawaran terlengkap belum tentu membahas pekerjaan yang sama. Perbandingan baru adil setelah kebutuhan, bahan, pemasangan, akses, bukti, perawatan, dan pengecualian ditulis dalam bahasa yang sama. Harga dibaca paling akhir, setelah Anda tahu apa yang sebenarnya sedang dibeli.
 
-- **Writer task:** Expand this file into one complete article answering: “Membandingkan Penawaran Advertising secara Apple-to-Apple”
-- **Reader and situation:** Buyer comparing unlike scopes/prices
-- **Reader outcome:** Align campaign/site/design, creative, media/materials, structure/foundation, electrical/content, permits/tax, fabrication, logistics, installation, tests, warranty and exclusions
-- **Primary intent:** Normalize supplier proposals
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No current prices or vendor endorsement; commercial routes own quotes
-- **Final public route:** `/artikel/membandingkan-penawaran-advertising.html`
-- **Appointed CMS date:** `2026-06-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dengan satu paket kebutuhan yang dibagikan kepada semua penyedia. Isinya perlu menjelaskan media, lokasi, jumlah, ukuran, arah, konten, bahan atau sistem, kondisi penopang, akses, daya atau data bila relevan, persetujuan, jadwal, hasil penerimaan, dan batas tanggung jawab. Tanpa dasar yang sama, selisih harga hanya menunjukkan selisih asumsi. [NEEDS: kontrak atau permintaan penawaran terkini, data lokasi, gambar, bukti produk, persetujuan, rencana pemeriksaan, catatan temuan, dan penerimaan tertulis]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Membandingkan Penawaran Advertising secara Apple-to-Apple**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,131 +42,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-05
+## Samakan kebutuhan sebelum meminta angka
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Tulis objek yang akan diterima sejelas mungkin: jenis media, jumlah, dimensi, satu atau dua sisi, lokasi dan akses, kondisi siang-malam, konten, bahan, penyangga, sistem daya atau data, dan masa pekerjaan. Pisahkan hal yang sudah diputuskan dari hal yang masih menunggu keputusan. Penyedia tidak seharusnya dipaksa menebak kondisi lokasi atau bagian pekerjaan yang belum didefinisikan.
 
-### KR-06
+Kawan Advert.id, pertanyaan “sudah termasuk pemasangan?” belum cukup. Pemasangan dapat mencakup akses, pengangkatan, perlindungan area publik, sambungan, pengujian, pembersihan, pemulihan lokasi, atau tidak satu pun di antaranya. Minta setiap item ditulis, termasuk siapa yang menyediakan dan siapa yang menyetujui.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+PP 16 Tahun 2021 memberi konteks penyelenggaraan bangunan gedung, tetapi tidak menjadikan satu penawaran media sebagai bukti bahwa penopang, lokasi, atau persetujuan sudah sesuai. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) perlu dibaca bersama rancangan serta kondisi proyek yang nyata.
 
-### KR-08
+## Buat matriks isi pekerjaan
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Cara praktisnya adalah memakai matriks yang sama untuk semua penawaran. Baris berisi bagian pekerjaan; kolom berisi “termasuk”, “tidak termasuk”, asumsi, bukti yang diserahkan, penanggung jawab, dan pemicu perubahan. Penyedia boleh menawarkan pendekatan berbeda, tetapi perbedaannya menjadi terlihat dan dapat dibahas.
 
-### KR-16
+| Bagian | Hal yang perlu disamakan | Bukti atau pertanyaan |
+| --- | --- | --- |
+| Rancangan dan lokasi | Ukuran, gambar, kondisi penopang, akses, serta batas pekerjaan | Versi gambar, survei, asumsi, dan pihak peninjau. |
+| Bahan dan grafis | Produk, pabrikan, sistem, berkas, contoh, dan revisi | Data produk, berkas sumber, contoh yang disetujui, serta lisensi. |
+| Produksi dan pemasangan | Proses, akses, pengangkatan, sambungan, pengamanan publik | Metode yang disetujui, kompetensi, dan rekaman pemeriksaan. |
+| Sistem daya atau data | Lingkup pasokan, antarmuka, pengujian, serta pengelola | Rancangan sistem, daftar perangkat, dan pembagian tanggung jawab. |
+| Izin dan kewajiban | Wilayah, pemilik lokasi, pihak pengurus, masa, dan perubahan | Daftar persetujuan serta penanggung jawab tertulis. |
+| Operasi dan akhir penggunaan | Perawatan, akses, suku cadang, pelepasan, pemulihan lokasi | Ketentuan perawatan, pengecualian, dan rekaman akhir. |
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-13-02` → `/artikel/submittal-register-proyek-signage.html` — Submittal Register untuk Proyek Signage
-- `ADV-13-03` → `/artikel/scope-matrix-proyek-advertising.html` — Scope Matrix Creative, Fabrication, Structure, Electrical, Permit, dan Content
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Definisikan kebutuhan sebelum meminta harga
-
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Penawaran Advertising secara Apple-to-Apple”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Buat penawaran benar-benar sebanding
-
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Penawaran Advertising secara Apple-to-Apple”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Advert.id, gunakan matriks ini untuk memperbaiki informasi, bukan untuk “menjebak” penyedia. Jika satu asumsi belum diketahui, tandai sebagai terbuka lalu minta dampak biaya atau jadwalnya dijelaskan secara tertulis.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Penawaran Advertising secara Apple-to-Apple”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Nama produk, foto contoh, sertifikat, laporan uji, metode kerja, dan garansi tidak saling menggantikan. Nama produk hanya mengidentifikasi apa yang disebut. Data produk membantu menjelaskan batas penggunaan. Laporan uji dapat menjelaskan benda atau konfigurasi yang diuji, tetapi tidak otomatis membuktikan sistem terpasang. Garansi perlu dibaca bersama syarat, pihak penanggung jawab, tindakan yang dicakup, dan bukti pemeliharaan bila disyaratkan.
 
-## Pertanyaan wajib kepada penyedia
+Untuk grafis cetak, informasi yang relevan mencakup berkas sumber, huruf serta lisensi, skala, definisi warna, proses keluaran, bahan, tinta, kondisi pencahayaan, contoh fisik yang disetujui, revisi, dan berkas produksi. [ISO 12647-2](https://www.iso.org/standard/57833.html) serta [panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) mendukung pentingnya pengendalian kondisi proses; keduanya bukan janji kesamaan warna pada semua bahan atau kondisi.
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Penawaran Advertising secara Apple-to-Apple”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk bahan dan perlindungan permukaan, catat produk, pabrikan, revisi, nomor kelompok produksi bila ada, bahan dasar, persiapan, sistem lapisan, batas lingkungan, pembersihan, pelepasan, serta ketentuan jaminan. [ISO 12944](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) memberi kerangka lingkungan dan sistem perlindungan, tetapi data teknis produk dan kondisi paparan proyek tetap harus diperiksa.
 
-## Red flag dan biaya yang sering tersembunyi
+## Pertanyaan yang perlu dijawab penyedia
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Penawaran Advertising secara Apple-to-Apple”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tanyakan apa yang menjadi dasar harga, bukan hanya nominalnya. Gambar dan versi mana yang dipakai? Apa yang diasumsikan tentang lokasi, penopang, akses, cuaca, pengangkatan, daya, data, dan persetujuan? Bahan serta produk apa yang ditawarkan? Pekerjaan siapa yang tidak termasuk? Perubahan apa yang memicu biaya atau waktu tambahan? Bukti apa yang akan diberikan sebelum, selama, dan setelah pekerjaan?
 
-## Penerimaan, serah terima, dan keputusan akhir
+Jika pekerjaan menyentuh struktur atau pengelasan, tanyakan siapa yang bertanggung jawab atas rancangan, identitas bahan, prosedur, kompetensi, pemeriksaan, perbaikan, dan keterlacakan. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu pengelasan lebur bahan logam, tetapi tidak membuktikan penerimaan proyek tanpa rekaman pelaksanaan yang sesuai.
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Membandingkan Penawaran Advertising secara Apple-to-Apple”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk media luar ruang, jangan menerima ukuran atau bentuk sebagai dasar keputusan keselamatan. Data angin, medan, tinggi, topografi, arah, bentuk, tingkat kerapatan bidang, perilaku dinamis, gabungan beban, dan jalur gaya lengkap memengaruhi rancangan. [ISO 4354](https://www.iso.org/standard/38882.html) tidak memberi kapasitas umum; penilaian harus datang dari insinyur kompeten dengan data lokasi yang tepat.
 
-## Objection or shortcut to address
+## Tanda isi penawaran belum cukup jelas
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Tanda pertama adalah banyak kata umum: “lengkap”, “standar”, “siap pasang”, atau “termasuk izin” tanpa daftar. Tanda kedua adalah spesifikasi bahan tanpa produk atau dokumen pendukung. Tanda ketiga adalah jadwal tanpa asumsi akses dan persetujuan. Tanda keempat adalah garansi tanpa pihak, durasi, syarat, atau tindakan. Tanda kelima adalah tidak ada alur ketika perubahan atau temuan terjadi.
 
-## Required conclusion
+Teman Advert.id, kondisi ini bukan otomatis alasan menolak penyedia. Gunakan sebagai daftar klarifikasi. Penawaran yang baik mungkin tetap memiliki hal terbuka, tetapi membedakan fakta, asumsi, dan pengecualian secara jujur.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Penerimaan dan keputusan akhir
 
-## Draft completion checklist
+Sebelum memilih, sepakati apa yang diperiksa saat pekerjaan selesai: identitas aset, gambar terbaru, bahan dan sistem yang digunakan, hasil pemeriksaan, catatan temuan serta penutupannya, bukti pengujian yang relevan, daftar perangkat bila ada, instruksi perawatan, dan pihak penerima. Pembayaran serta penerimaan kontraktual perlu mengikuti ketentuan yang disetujui para pihak dan pemeriksaan yang berwenang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jalan pintasnya adalah memilih angka terendah lalu menyelesaikan selisih isi pekerjaan nanti. Cara ini mengubah ketidakjelasan menjadi potensi sengketa, pekerjaan ulang, atau keputusan terburu-buru di lapangan. Alternatifnya: selaraskan matriks, minta klarifikasi tertulis, dan bandingkan harga hanya setelah perbedaan diketahui.
+
+## Aturan untuk perbandingan yang adil
+
+Membandingkan penawaran media advertising berarti menyamakan isi pekerjaan, bukti, asumsi, tanggung jawab, dan pengecualian sebelum membaca harga. Tidak ada penawaran yang dapat dinilai adil bila objek serta batas pekerjaan berbeda.
+
+Aturannya sederhana: setiap selisih harga harus dapat ditunjukkan kembali ke selisih isi, risiko, atau tanggung jawab. Jika belum dapat ditunjukkan, tahan keputusan dan minta penawaran diperjelas.

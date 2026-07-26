@@ -1,9 +1,9 @@
 ---
 article_id: ADV-06-03
-title: "Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face"
+title: "Konfigurasi Bidang Muka Papan Reklame"
 slug: "konfigurasi-face-billboard"
-description: "Explain audience directions, visibility, structural/wind implications, access, lighting, content operations, permits and maintenance"
-status: outline
+description: "Memahami konfigurasi bidang muka satu sisi, dua sisi, berbentuk V, dan beberapa bidang untuk menilai arah pembaca, konten, akses, serta kebutuhan bukti proyek."
+status: draft
 publication_date: "2025-12-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,59 +13,26 @@ reader_community: "Advert.id"
 reader_address: "Kawan Advert.id"
 final_route: "/artikel/konfigurasi-face-billboard.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
   - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Konfigurasi Bidang Muka Papan Reklame
 
-# Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face
+Halo, Kawan Advert.id!
 
-## Assignment lock
+Konfigurasi bidang muka papan reklame menjawab arah mana yang menerima pesan, bukan sekadar berapa banyak bidang yang terlihat. Satu sisi cocok ketika pesan ditujukan ke satu arah pandang yang jelas. Dua sisi dipakai bila ada dua arah yang berbeda. Susunan berbentuk V memisahkan dua bidang dengan sudut tertentu agar masing-masing menghadap arah yang berlainan. Ada pula susunan beberapa bidang untuk kondisi lokasi tertentu.
 
-- **Writer task:** Expand this file into one complete article answering: “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”
-- **Reader and situation:** Owner evaluating site geometry
-- **Reader outcome:** Explain audience directions, visibility, structural/wind implications, access, lighting, content operations, permits and maintenance
-- **Primary intent:** Compare display configurations
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No geometry/capacity or site approval; ADV-03/09/11 own those decisions
-- **Final public route:** `/artikel/konfigurasi-face-billboard.html`
-- **Appointed CMS date:** `2025-12-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Pilihan ini tidak otomatis membuat media lebih terlihat, lebih aman, atau lebih bernilai. Hasilnya berubah menurut identitas lokasi, arah dan perilaku pengguna jalan, penghalang, kondisi siang-malam, konten, izin, akses perawatan, serta rancangan penopang. Bentuk bidang juga mengubah persoalan teknis yang harus diperiksa oleh pihak berwenang. [NEEDS: survei lokasi, bukti arah pengguna, rancangan insinyur, persetujuan setempat, rencana akses, dan pemeriksaan]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,173 +43,74 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Memahami bentuk sebelum istilah dagang
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Dalam bahasa proyek, bidang muka kerap disebut *face*. Maksudnya adalah permukaan yang membawa pesan dan dilihat oleh pengguna. Istilah “satu sisi”, “dua sisi”, atau “V” sebaiknya diterjemahkan lebih dulu menjadi pertanyaan sederhana: dari arah mana orang datang, bagian mana yang berpotensi melihat pesan, dan apakah pesan pada setiap arah perlu sama atau berbeda.
 
-### KR-04
+**Satu sisi** berarti satu bidang utama diarahkan ke satu koridor pandang. Ia tidak berarti hanya satu orang yang dapat melihatnya, tetapi keputusan konten dan lokasi berpusat pada arah utama tersebut.
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+**Dua sisi** berarti dua bidang ditujukan ke dua arah. Kedua bidang bisa membawa materi serupa atau berbeda, tetapi keputusan itu perlu dicatat: siapa pemilik konten setiap sisi, kapan materi berubah, dan bagaimana bukti tayangnya dikelola.
 
-### KR-07
+**Berbentuk V** atau *V-shaped* berarti dua bidang berada pada arah yang tidak sejajar. Susunan ini bukan sekadar “dua sisi yang lebih menarik.” Arah hadap, ruang di antara bidang, penopang, akses, dan pengaruh lingkungan menjadi bagian dari rancangan khusus lokasi.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+**Beberapa bidang** atau *multi-face* dapat berarti lebih dari dua bidang pesan. Nama ini sangat umum; jangan menerimanya tanpa gambar yang menunjukkan setiap bidang, orientasi, hubungan dengan penopang, serta konten yang direncanakan.
 
-### KR-08
+## Arah pembaca lebih penting daripada label bentuk
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Sebelum memilih konfigurasi, petakan siapa pengguna yang ingin dijangkau dan dari arah mana mereka mendekat. Catat alamat serta koordinat, arah jalan atau jalur pejalan, kondisi pergerakan, penghalang, latar, akses lokasi, utilitas, dan kondisi siang maupun malam. Bila berkaitan dengan koridor jalan, keputusan perlu mempertimbangkan otoritas dan konteks lalu lintas; [UU 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) menyediakan konteks hukum yang relevan.
 
-### KR-09
+Sobat Advert.id, jangan menyimpulkan dua sisi pasti menjangkau dua kali pembaca. Arah yang berbeda dapat memiliki waktu lihat, penghalang, kecepatan, dan kebutuhan pesan yang berbeda. Sebaliknya, satu sisi yang tepat menghadap arah penggunaan yang nyata mungkin lebih masuk akal daripada menambah bidang tanpa data.
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+Konten juga harus mengikuti keadaan pembaca. Pesan yang dibaca dari kendaraan, pejalan kaki, atau area tunggu tidak selalu memiliki kebutuhan yang sama. Catat tujuan pesan, pemilik materi, persetujuan, versi, dan jadwal setiap bidang agar operasi tidak kacau setelah media terpasang.
 
-### KR-10
+## Pilihan bentuk mengubah pertanyaan teknis
 
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
+Setiap tambahan atau perubahan bidang memengaruhi bentuk keseluruhan yang perlu dianalisis. Bukan hanya bidang yang berubah, tetapi juga rangka, sambungan, penyangga, angkur, pondasi atau dukungan bangunan, serta kondisi eksisting. PP 16 Tahun 2021 memberi konteks bangunan gedung, namun tidak dapat dipakai untuk menyimpulkan bahwa media tertentu boleh dipasang atau penyangganya cukup. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)
 
-### KR-14
+Untuk paparan angin, bentuk, tingkat kerapatan bidang, arah, tinggi, medan, topografi, perilaku dinamis, gabungan beban, dan jalur gaya menyeluruh memengaruhi rancangan. [ISO 4354](https://www.iso.org/standard/38882.html) membahas kerangka aksi angin, tetapi tidak menyediakan angka kapasitas atau penerimaan untuk papan reklame tertentu. Insinyur kompeten harus memakai data lokasi dan dasar rancangan Indonesia yang berlaku.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Teman Advert.id, jangan memakai foto konfigurasi serupa untuk membenarkan perubahan pada aset sendiri. Foto tidak menunjukkan kondisi tanah, bagian dalam penopang, revisi rancangan, beban yang sebenarnya, atau sejarah perubahan di lokasi tersebut.
 
-### KR-15
+## Akses, pencahayaan, dan operasi konten
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Bidang yang dapat dilihat perlu pula dapat diperiksa dan dirawat dengan aman. Tanyakan sejak awal: dari mana tim akan mengakses setiap sisi, bagian mana yang harus dibuka saat pergantian materi, bagaimana peralatan dan material dikelola, serta bagaimana area publik dilindungi. Akses bukan tambahan setelah bentuk dipilih; ia memengaruhi rancangan, jadwal, serta biaya operasi.
 
-### KR-16
+Jika media memiliki pencahayaan atau tampilan digital, pisahkan pertanyaan bidang pesan dari pertanyaan energi dan kendali. Perlu ada data sistem, jalur kabel, perlindungan, pengendali, akses pemeliharaan, dan pihak yang berwenang mengubah konten. Nama konfigurasi tidak membuktikan keterbacaan, konsumsi energi, ketahanan cuaca, atau keandalan operasi.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Untuk setiap sisi, buat daftar sederhana: kode bidang, arah hadap, materi yang boleh tampil, pemilik konten, waktu pembaruan, pemeriksa, dan catatan perubahan. Cara ini lebih berguna daripada menyebut “dua sisi” tanpa identitas operasional.
 
-## Evidence gates
+## Izin dan kewajiban tidak bertambah secara otomatis
 
-- **TOPIC-GATE:** Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection
+Jumlah bidang bukan rumus untuk menentukan izin atau pajak. Wilayah, jenis media, isi pesan, pemilik atau operator, lahan atau bangunan, durasi, ukuran, serta aturan setempat perlu diperiksa bersama. UU 1 Tahun 2022 memberi kerangka hubungan keuangan pusat dan daerah. Contoh [peraturan wali kota Depok tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) memperlihatkan pentingnya mencari aturan daerah yang tepat, bukan memindahkan prosedur atau tarif dari satu kota ke kota lain. [UU 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022)
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Kawan Advert.id, persetujuan pemilik lokasi, keputusan rancangan, izin penyelenggaraan, dan kewajiban fiskal adalah urusan yang dapat berkaitan tetapi tidak saling menggantikan. Simpan penanggung jawab dan masa berlakunya per urusan supaya perubahan konfigurasi tidak menimbulkan asumsi diam-diam.
 
-## Internal-link plan
+## Contoh cara memilih pembahasan yang tepat
 
-### Existing local routes
+| Keadaan lokasi | Pertanyaan utama | Keputusan yang perlu ditahan dulu |
+| --- | --- | --- |
+| Satu arah pengguna dominan | Apakah satu bidang sudah mengarah ke pembaca yang dimaksud? | Menambah bidang sebelum data arah dan konten tersedia. |
+| Ada dua arus dari arah berbeda | Apakah setiap arah memiliki pesan dan sudut pandang yang jelas? | Menganggap kedua sisi harus selalu membawa materi identik. |
+| Ruang lokasi membentuk sudut | Apakah dua bidang berbentuk V cocok dengan keadaan lokasi dan rancangan penopang? | Menganggap bentuk V aman hanya karena banyak dipakai. |
+| Media akan diberi cahaya atau layar | Siapa mengelola energi, pengendali, akses, serta konten tiap bidang? | Memesan sistem tanpa pembagian tanggung jawab operasi. |
+| Konfigurasi lama akan diubah | Perubahan apa yang terjadi pada penopang, izin, akses, dan materi? | Memasang bidang tambahan tanpa persetujuan dan pemeriksaan baru. |
 
-- `/jasa-pembuatan-billboard-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Media apa pun tetap perlu membawa pesan yang bertanggung jawab. [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) dan [PP 80 Tahun 2019](https://peraturan.bpk.go.id/Details/126143/pp-no-80) memberi konteks perlindungan konsumen serta perdagangan melalui sistem elektronik. Bentuk papan tidak membebaskan pemilik konten dari pemeriksaan terhadap klaim, hak, dan ketentuan yang mungkin berlaku bagi jenis pesannya.
 
-### Planned sibling articles
+## Kesalahan yang sebaiknya tidak diulang
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan yang sering muncul adalah membeli konfigurasi dari istilahnya: “ambil V karena terlihat lebih premium” atau “dua sisi pasti lebih efektif.” Kalimat itu belum menjawab siapa pembacanya, arah mana yang dituju, siapa pemilik setiap konten, dan apakah lokasi dapat menerima rancangan serta operasinya.
 
-- `ADV-06-01` → `/artikel/baliho-vs-billboard.html` — Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?
-- `ADV-06-02` → `/artikel/tensioning-face-billboard.html` — Tensioning dan Edge Detail Face Billboard
-- `ADV-06-04` → `/artikel/akses-changeout-billboard.html` — Akses Penggantian Artwork Billboard
-- `ADV-06-05` → `/artikel/bukti-tayang-billboard.html` — Availability dan Proof-of-Play untuk Media Billboard
+Alternatif yang lebih aman adalah memulai dari peta arah pengguna, lalu minta gambar setiap bidang, rancangan penopang, rencana akses, dan daftar persetujuan. Setelah itu baru bandingkan bentuk satu sisi, dua sisi, V, atau beberapa bidang sebagai jawaban atas kebutuhan lokasi—bukan sebagai label produk.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Aturan memilih konfigurasi
 
-## Jawaban singkat dan salah paham utama
+Konfigurasi bidang muka papan reklame seharusnya dipilih dari arah pembaca, tujuan konten, kondisi lokasi, operasi, dan bukti rancangan. Satu sisi, dua sisi, bentuk V, maupun beberapa bidang adalah nama bentuk; tidak satu pun menjadi bukti keterlihatan, persetujuan, atau keamanan dengan sendirinya.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan praktisnya: jika arah pengguna, gambar bidang, penopang, akses, dan persetujuan belum jelas, jangan tetapkan konfigurasi akhir. Dapatkan survei serta keputusan pihak yang berwenang sebelum produksi atau perubahan dimulai.

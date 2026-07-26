@@ -1,9 +1,9 @@
 ---
 article_id: ADV-09-06
-title: "Cara Membaca Ringkasan Perhitungan Struktur Advertising"
+title: "Cara Membaca Ringkasan Perhitungan Struktur Media"
 slug: "membaca-perhitungan-struktur-advertising"
-description: "Check basis, geometry, materials, actions/combinations, model, stability/serviceability, connections, reactions, foundation interface, revisions and approval"
-status: outline
+description: "Panduan bagi klien untuk memeriksa identitas aset, masukan, asumsi, satuan, versi, gambar, peninjau, dan rekaman pendukung perhitungan struktur media."
+status: draft
 publication_date: "2026-03-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,52 +13,25 @@ reader_community: "Advert.id"
 reader_address: "Teman Advert.id"
 final_route: "/artikel/membaca-perhitungan-struktur-advertising.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Cara Membaca Ringkasan Perhitungan Struktur Media
 
-# Cara Membaca Ringkasan Perhitungan Struktur Advertising
+Halo, Teman Advert.id!
 
-## Assignment lock
+Ringkasan perhitungan struktur bukan dokumen yang harus dihitung ulang oleh klien agar berguna. Peran klien adalah memastikan dokumen itu benar-benar berbicara tentang aset, lokasi, dan versi pekerjaan yang sedang dibahas; memiliki masukan yang dapat ditelusuri; serta ditinjau dan disetujui oleh pihak yang berwenang. Angka atau halaman yang tampak teknis tidak dengan sendirinya membuktikan struktur aman.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membaca Ringkasan Perhitungan Struktur Advertising”
-- **Reader and situation:** Owner/consultant receiving a design pack
-- **Reader outcome:** Check basis, geometry, materials, actions/combinations, model, stability/serviceability, connections, reactions, foundation interface, revisions and approval
-- **Primary intent:** Audit calculation completeness
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not independently certify equations or compliance
-- **Final public route:** `/artikel/membaca-perhitungan-struktur-advertising.html`
-- **Appointed CMS date:** `2026-03-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Mulailah dari identitas dan keterhubungan dokumen, bukan dari rumus. Cocokkan nama proyek, lokasi, kode aset, gambar, revisi, penyangga, bahan, dan kondisi dasar dengan apa yang akan dibuat atau sudah ada di lapangan. Bila salah satu bagian tidak cocok atau bukti penting belum tersedia, tahan keputusan produksi, pemasangan, atau perubahan sampai insinyur kompeten meninjaunya. [NEEDS: rancangan Indonesia yang berlaku, data lokasi dan penopang, data tanah bila diperlukan, gambar terbaru, perhitungan lengkap, catatan pemeriksaan, serta persetujuan insinyur]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membaca Ringkasan Perhitungan Struktur Advertising**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,152 +42,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-07
+## Tujuan pemeriksaan klien
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Klien perlu dapat menjawab tiga hal: apakah dokumen merujuk pada objek yang benar, apakah data dan asumsi yang dipakai cukup terbuka untuk diperiksa, dan apakah ada pihak yang bertanggung jawab atas keputusan teknisnya. Ini berbeda dengan mengesahkan persamaan atau menentukan kapasitas sendiri.
 
-### KR-08
+Struktur media dapat melibatkan bidang tampak atau kabinet, rangka, sambungan, angkur, penopang bangunan atau tiang, pondasi atau tanah, serta kondisi eksisting yang berubah. PP 16 Tahun 2021 memberi konteks penyelenggaraan bangunan gedung, tetapi tidak menjadikan setiap lampiran perhitungan sebagai persetujuan untuk aset tertentu. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Kawan Advert.id, hasil akhir yang dicari bukan “dokumennya tebal,” melainkan rangkaian yang dapat diaudit: dokumen, gambar, masukan, asumsi, peninjau, perubahan, dan kondisi lapangan saling menunjuk.
 
-### KR-09
+## Identitas, versi, dan batas pekerjaan
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+Halaman awal seharusnya membuat pembaca tahu proyek apa yang dibahas. Periksa nama dan alamat atau koordinat lokasi, kode aset, jenis media, konfigurasi, dimensi yang dirujuk, penyangga baru atau eksisting, pembatas pekerjaan, serta tanggal dan nomor revisi. Cocokkan dengan gambar yang digunakan pengadaan dan pelaksanaan.
 
-### KR-10
+Jika perhitungan menyebut satu sisi sementara gambar terbaru memuat tambahan bidang, atau jika penopang berubah dari tiang baru menjadi dinding eksisting, jangan menganggapnya pembetulan kecil. Perubahan identitas itu dapat mengubah masukan, model, hubungan sambungan, dan pemeriksaan yang diperlukan. Minta dokumen revisi yang secara jelas menyatakan apa yang berubah dan siapa yang menyetujuinya.
 
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
+Pisahkan pula apa yang dihitung dan apa yang tidak. Misalnya, apakah dokumen mencakup struktur media saja, hubungan ke bangunan, pondasi, kondisi tanah, sambungan, atau tahap pemasangan sementara. Batas yang terbuka lebih aman daripada asumsi diam-diam bahwa satu ringkasan meliputi semuanya.
 
-### KR-15
+## Masukan dan asumsi yang layak ditanya
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Masukan ialah fakta atau data yang menjadi dasar: ukuran, bahan, lokasi, kondisi penopang, dan informasi lingkungan. Asumsi ialah pilihan yang dipakai perancang saat data belum lengkap atau saat menetapkan cara model bekerja. Klien tidak perlu memutuskan apakah asumsi itu benar, tetapi berhak mengetahui asumsi apa yang memengaruhi keputusan dan apakah bukti proyek sudah mendukungnya.
 
-### KR-16
+Untuk angin, contoh masukan dapat mencakup wilayah dan data angin, medan atau keterbukaan, tinggi, topografi, arah, bentuk, tingkat kerapatan bidang, perilaku dinamis, gabungan beban, dan tingkat konsekuensi. [ISO 4354](https://www.iso.org/standard/38882.html) menjelaskan kerangka aksi angin. Standar tersebut tidak memberi angka aman umum untuk lokasi tertentu; insinyur kompeten harus menggunakan dasar proyek Indonesia dan data lokasi yang tepat.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Sobat Advert.id, tanyakan sumber setiap masukan penting. Apakah berasal dari survei, gambar terukur, laporan kondisi, data produk, pemeriksaan tanah atau bangunan, atau asumsi yang masih menunggu konfirmasi? Tandai yang belum terbukti agar tidak berubah menjadi fakta saat diteruskan ke kontraktor.
 
-### KR-17
+## Satuan, gambar, dan keluaran yang harus selaras
 
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
+Periksa apakah satuan yang dipakai konsisten di ringkasan, gambar, daftar bahan, dan catatan lokasi. Anda tidak perlu menghitung kembali hasilnya untuk melihat masalah sederhana seperti gambar memakai dimensi berbeda dari dokumen atau nama bahan tidak sama dengan yang ditawarkan. Bila ada perbedaan, minta klarifikasi tertulis dari perancang sebelum versi dipakai.
 
-## Evidence gates
+Gambar bukan lampiran dekoratif. Ia menghubungkan model perhitungan dengan benda nyata: posisi bidang, rangka, sambungan, penyangga, angkur, dasar penerima gaya, serta antarmuka dengan bagian eksisting. Bila gambar tidak menunjukkan bagian yang disebut di ringkasan, pembaca sulit menilai apakah perhitungan sedang merujuk pada aset yang sama.
 
-- **TOPIC-GATE:** Qualified engineer's current Indonesian design plus real site/material/QC/as-built records
+Pada sambungan dan pekerjaan pengelasan, desain, identitas bahan, prosedur, kompetensi personel, pemeriksaan, ketidaksesuaian, perbaikan, dan keterlacakan merupakan hal yang berbeda. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu menyeluruh untuk pengelasan lebur bahan logam; ia bukan bukti bahwa sambungan proyek tertentu telah diterima.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Peninjau dan titik ketika pekerjaan harus berhenti
 
-## Internal-link plan
+Nama, peran, tanggal, dan ruang tanggung jawab peninjau harus dapat ditelusuri. Tanyakan siapa perancang yang bertanggung jawab, siapa yang memeriksa, versi mana yang disetujui, dan apakah kondisi lapangan yang relevan sudah dimasukkan. Jika jawaban hanya berupa “sudah dicek,” minta catatan yang menghubungkan pemeriksaan dengan dokumen serta versi.
 
-### Existing local routes
+Teman Advert.id, pekerjaan perlu ditahan bila lokasi atau penopang berbeda dari dokumen, perubahan tidak tercatat, kondisi eksisting diragukan, bagian penting tidak berada pada gambar, masukan lingkungan belum jelas, atau peninjau yang berwenang belum tersedia. Menahan pekerjaan bukan berarti menyatakan struktur gagal; itu menjaga agar keputusan keselamatan tidak dibuat tanpa dasar.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Pemasangan dan pemeriksaan di lokasi juga perlu mengelola akses, cuaca, zona publik, pengangkatan, listrik, komunikasi, serta keadaan darurat. [Permen PUPR 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), dan [status JDIH terkait](https://peraturan.bpk.go.id/Search?p=195&tema=24) perlu dicek kembali status penerapan serta teks hukum mutakhirnya. Rujukan itu bukan kesimpulan kepatuhan proyek.
 
-### Planned sibling articles
+## Tabel pertanyaan untuk rapat dokumen
 
-These are future routes. Do not link them as live until their HTML exists.
+| Bagian | Pertanyaan klien | Tindakan bila belum jelas |
+| --- | --- | --- |
+| Identitas | Apakah lokasi, aset, gambar, dan revisinya sama dengan pekerjaan? | Tahan penggunaan dokumen dan minta versi yang tepat. |
+| Batas dokumen | Bagian mana yang masuk dan tidak masuk perhitungan? | Catat antarmuka dan minta penanggung jawabnya. |
+| Masukan | Dari mana ukuran, kondisi penopang, dan data lokasi diperoleh? | Tandai asumsi serta kumpulkan bukti yang kurang. |
+| Satuan dan gambar | Apakah angka serta gambar saling cocok? | Minta klarifikasi perancang, bukan koreksi informal. |
+| Peninjau | Siapa merancang, memeriksa, dan menyetujui versi ini? | Minta catatan persetujuan yang dapat ditelusuri. |
+| Perubahan lapangan | Apa yang berubah setelah dokumen diterbitkan? | Kirim ke perancang untuk ditinjau sebelum pekerjaan lanjut. |
 
-- `ADV-09-04` → `/artikel/foundation-totem-billboard.html` — Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard
-- `ADV-09-05` → `/artikel/fixing-signage-existing-structure.html` — Fixing Signage ke Dinding, Atap, dan Existing Structure
+## Jalan pintas yang membuat dokumen menyesatkan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jalan pintas yang umum adalah meminta ringkasan satu halaman lalu menganggap tanda tangan dan angka di dalamnya cukup. Ringkasan berguna untuk orientasi, tetapi ia harus dapat ditelusuri ke gambar, masukan, perhitungan lengkap, dan catatan revisi. Tanpa hubungan itu, pembaca tidak tahu apakah ringkasan mewakili aset yang akan dipasang.
 
-## Hasil akhir dan prasyarat
+Alternatifnya adalah meminta paket dokumen yang proporsional: ringkasan untuk komunikasi, gambar sebagai identitas fisik, daftar masukan dan asumsi, versi terkendali, bukti peninjauan, serta catatan perubahan lapangan. Jangan menyetujui keselamatan dari tampilan dokumen; serahkan penilaian teknis kepada insinyur kompeten.
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ringkasan Perhitungan Struktur Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Aturan baca yang paling berguna
 
-## Langkah 1 — tetapkan scope
+Membaca perhitungan struktur media berarti memeriksa keterhubungan, bukan membuktikan rumus. Pastikan identitas aset, kondisi lokasi, gambar, masukan, asumsi, satuan, versi, peninjau, dan perubahan berada dalam satu jejak yang dapat dilacak.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ringkasan Perhitungan Struktur Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ringkasan Perhitungan Struktur Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ringkasan Perhitungan Struktur Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ringkasan Perhitungan Struktur Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membaca Ringkasan Perhitungan Struktur Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: bila dokumen tidak dapat menunjukkan aset serta kondisi yang benar, atau belum ditinjau oleh pihak yang bertanggung jawab, jangan gunakan sebagai dasar keputusan keselamatan atau pelaksanaan. Minta penjelasan dan pembaruan dari insinyur kompeten.
