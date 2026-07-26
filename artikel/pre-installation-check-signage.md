@@ -1,9 +1,9 @@
 ---
 article_id: ADV-12-05
-title: "Pre-Installation Check untuk Signage"
+title: "Pemeriksaan Sebelum Pemasangan Signage"
 slug: "pre-installation-check-signage"
-description: "Verify approvals, asset identity, dimensions/mass, substrate/foundation, utilities, access, equipment, weather plan, exclusion, permits, temporary stability and hold points"
-status: outline
+description: "Cara menyelaraskan lokasi, gambar, produk, penopang, utilitas, akses, ruang publik, cuaca, peralatan, dan bukti keselamatan sebelum pemasangan signage."
+status: draft
 publication_date: "2026-06-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,55 +13,24 @@ reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/pre-installation-check-signage.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Pemeriksaan Sebelum Pemasangan Signage
 
-# Pre-Installation Check untuk Signage
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Pemeriksaan sebelum pemasangan adalah titik untuk menyamakan apa yang ada di gambar dengan apa yang ada di lokasi, serta memastikan produk, akses, utilitas, ruang publik, dan pengendalian keselamatan tidak hanya diasumsikan. Pemeriksaan ini bukan tanda bahwa struktur, kelistrikan, atau pengangkatan telah disetujui; penilaian itu tetap milik pihak kompeten dengan dokumen proyek yang sesuai.
 
-- **Writer task:** Expand this file into one complete article answering: “Pre-Installation Check untuk Signage”
-- **Reader and situation:** Supervisor before drilling/lifting/energizing
-- **Reader outcome:** Verify approvals, asset identity, dimensions/mass, substrate/foundation, utilities, access, equipment, weather plan, exclusion, permits, temporary stability and hold points
-- **Primary intent:** Release site and product for installation
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Visual checks cannot approve structure/electrical/lift; ADV-09/10/12-03 owners remain required
-- **Final public route:** `/artikel/pre-installation-check-signage.html`
-- **Appointed CMS date:** `2026-06-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan mulai mengebor, mengangkat, atau memberi energi hanya karena barang sudah tiba. Cocokkan identitas aset, gambar revisi, kondisi penopang, produk, jalur akses, cuaca, izin, peralatan, orang, serta rencana keadaan darurat. Bila salah satu prasyarat penting tidak tersedia, tahan pekerjaan. [NEEDS: penilaian risiko lokasi, rancangan dan gambar terbaru, data penopang, peralatan, orang kompeten, izin, pengaturan publik, serta rencana darurat]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Pre-Installation Check untuk Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,146 +41,59 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-04
+## Menyamakan produk, gambar, dan lokasi
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Periksa kode aset, jumlah unit, gambar revisi, dimensi yang dirujuk, produk yang datang, dan daftar komponen. Cocokkan lokasi, titik pemasangan, orientasi, penopang baru atau eksisting, serta batas pekerjaan. Catat perbedaan sebagai temuan; jangan menyelesaikannya dengan kesepakatan lisan di lapangan.
 
-### KR-07
+Kawan Advert.id, kondisi lokasi dapat mengubah keputusan walau produk tampak sama. Akses yang tertutup, perubahan bangunan, utilitas yang tidak terpetakan, kondisi dasar yang diragukan, atau ruang kerja yang tidak tersedia dapat membuat rencana lama tidak lagi relevan.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+PP 16 Tahun 2021 memberi konteks bangunan gedung, tetapi pemeriksaan visual sebelum pemasangan tidak membuktikan penopang mampu menerima aset. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) perlu dilengkapi rancangan, data kondisi eksisting, perhitungan, dan pemeriksaan yang tepat.
 
-### KR-11
+## Akses, ruang publik, dan cuaca
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Catat jalur masuk, area penempatan peralatan, ruang pengangkatan bila ada, jalur pejalan kaki, kendaraan, area yang perlu dipisahkan, bahaya sekitar, serta akses pemeliharaan. Jika pekerjaan dekat jalan, koordinasi dan konteks lalu lintas menjadi bagian dari perencanaan; [UU 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) tidak memberikan ukuran atau pengaturan universal untuk semua lokasi.
 
-### KR-14
+Cuaca perlu memiliki sumber informasi, orang yang memantau, dan keputusan berhenti yang jelas. Jangan memakai kalimat “lanjut bila aman” tanpa rencana yang menyebut siapa yang menilai perubahan kondisi dan bagaimana area serta pekerjaan diamankan.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Teman Advert.id, pemeriksaan pra-pasang juga perlu melihat apa yang tidak bisa dilakukan hari itu. Menunda karena akses, cuaca, pengamanan publik, atau kondisi penopang belum jelas adalah keputusan pengendalian, bukan kegagalan jadwal.
 
-### KR-15
+## Utilitas dan sistem daya
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Untuk signage bercahaya atau digital, cocokkan rancangan dengan jalur sumber daya, data, pengendali, titik isolasi, akses perawatan, dan pihak yang mengelola sistem. Jangan menganggap perangkat yang tersedia berarti sistem siap diberi energi. Spesifikasi satu perangkat tidak membuktikan keselamatan instalasi atau kecocokan sistem terpasang.
 
-### KR-16
+[IEC 62368-1](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) membahas keselamatan peralatan audio/video dan teknologi informasi dalam lingkupnya. Rancangan listrik Indonesia, pemeriksaan, pengujian, isolasi, serta pekerjaan oleh pihak kompeten tetap diperlukan untuk proyek nyata.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+## Tabel pemeriksaan sebelum mulai
 
-## Evidence gates
+| Kelompok | Pertanyaan yang perlu dijawab | Tindakan bila belum jelas |
+| --- | --- | --- |
+| Dokumen | Apakah gambar, produk, lokasi, dan revisi cocok? | Tahan pekerjaan dan minta klarifikasi tertulis. |
+| Penopang | Data apa yang mendukung titik pemasangan? | Minta penilaian perancang atau insinyur kompeten. |
+| Akses | Apakah orang, peralatan, dan ruang kerja dapat dikendalikan? | Ubah rencana atau tunda sampai pengendalian tersedia. |
+| Utilitas | Siapa mengelola sumber daya, data, dan isolasi? | Lengkapi rancangan dan prosedur yang tepat. |
+| Publik | Bagaimana area sekitar dilindungi? | Tetapkan koordinasi, pembatasan, dan pengawasan. |
+| Keadaan darurat | Siapa menghentikan serta merespons kejadian? | Lengkapi rencana dan kontak sebelum mulai. |
 
-- **TOPIC-GATE:** Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions
+## Pihak yang perlu terlibat
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pemeriksaan tidak boleh membebankan satu orang untuk mengesahkan semua hal. Klien atau pemilik lokasi dapat mengonfirmasi akses dan batas tempat. Perancang atau insinyur menangani keputusan rancangan dalam batasnya. Pemasang membawa metode serta peralatan yang relevan. Pengelola sistem menangani daya, data, atau konten. Pihak berwenang atau pemilik hak dapat diperlukan untuk persetujuan tertentu.
 
-## Internal-link plan
+Pada pekerjaan pengelasan, desain, identitas bahan, prosedur, kompetensi, pemeriksaan, ketidaksesuaian, dan keterlacakan adalah kendali berbeda. [ISO 3834-2](https://www.iso.org/standard/81651.html) tidak menggantikan inspeksi proyek. Sobat Advert.id, catat siapa memberi jawaban untuk setiap prasyarat sehingga keputusan tidak hilang saat pekerjaan berpindah tangan.
 
-### Existing local routes
+## Kesalahan yang membuat risiko terlambat terlihat
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan umum adalah mengubah pemeriksaan sebelum pemasangan menjadi daftar tanda centang tanpa bukti. Akses mungkin ditulis “siap”, padahal ruang alat belum tersedia. Produk mungkin ditulis “sesuai”, padahal revisi gambarnya berbeda. Kesalahan lain adalah melanjutkan setelah temuan muncul karena jadwal sudah dibuat.
 
-### Planned sibling articles
+Permen PUPR 10 Tahun 2021, Permenaker 9 Tahun 2016, dan [status JDIH](https://peraturan.bpk.go.id/Search?p=195&tema=24) dapat menjadi konteks keselamatan yang perlu dicek kembali penerapan serta statusnya. Mereka bukan pengganti penilaian risiko, kompetensi, peralatan, izin, dan pengaturan darurat spesifik proyek.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Aturan sebelum pekerjaan dilepas
 
-- `ADV-12-03` → `/artikel/input-lift-plan-signage.html` — Input Wajib untuk Lift Plan Signage Besar
-- `ADV-12-04` → `/artikel/k3-work-at-height-advertising.html` — Work at Height untuk Instalasi dan Changeout Advertising
-- `ADV-12-06` → `/artikel/post-installation-inspection-signage.html` — Post-Installation Inspection Sebelum Signage Beroperasi
+Pemeriksaan sebelum pemasangan signage menyelaraskan bukti lokasi, gambar, produk, akses, utilitas, publik, dan keselamatan sebelum tindakan yang sulit dipulihkan dimulai. Ia tidak memberi nilai penerimaan universal atau menggantikan persetujuan teknis.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Pre-Installation Check untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Pre-Installation Check untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Pre-Installation Check untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Pre-Installation Check untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Pre-Installation Check untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Pre-Installation Check untuk Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: jika satu prasyarat tidak dapat ditunjukkan dengan bukti yang tepat, jangan memulai atau lanjutkan pekerjaan. Lengkapi keputusan pihak kompeten dan rekaman proyek lebih dahulu.

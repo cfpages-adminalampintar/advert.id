@@ -1,9 +1,9 @@
 ---
 article_id: ADV-14-01
-title: "Program Inspeksi dan Maintenance Signage Berbasis Risiko"
+title: "Program Perawatan Signage Berbasis Risiko"
 slug: "program-maintenance-signage"
-description: "Set inventory/baseline, consequence/exposure, tasks, competent roles, intervals by risk, access, cleaning, records, permit renewals, defects and escalation"
-status: outline
+description: "Cara menyusun program perawatan signage berdasarkan aset, risiko, pemeriksaan, akses, rekaman, temuan, eskalasi, serta perubahan kondisi."
+status: draft
 publication_date: "2026-07-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,11 +13,8 @@ reader_community: "Advert.id"
 reader_address: "Teman Advert.id"
 final_route: "/artikel/program-maintenance-signage.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
@@ -25,37 +22,15 @@ sources:
   - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Program Perawatan Signage Berbasis Risiko
 
-# Program Inspeksi dan Maintenance Signage Berbasis Risiko
+Halo, Teman Advert.id!
 
-## Assignment lock
+Program perawatan signage bukan kalender yang sama untuk semua aset. Ia adalah cara mengelola daftar aset, kondisi awal, paparan, konsekuensi bila ada masalah, akses, pemeriksaan, tindakan, dan eskalasi. Tujuannya membantu pemilik mengetahui apa yang dipantau dan siapa yang mengambil keputusan ketika kondisi berubah.
 
-- **Writer task:** Expand this file into one complete article answering: “Program Inspeksi dan Maintenance Signage Berbasis Risiko”
-- **Reader and situation:** Owner operating mixed static/digital assets
-- **Reader outcome:** Set inventory/baseline, consequence/exposure, tasks, competent roles, intervals by risk, access, cleaning, records, permit renewals, defects and escalation
-- **Primary intent:** Build an asset-care program
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal interval or remote safety verdict; specialist/system/authority inputs govern
-- **Final public route:** `/artikel/program-maintenance-signage.html`
-- **Appointed CMS date:** `2026-07-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jangan memakai satu interval atau satu foto jarak jauh sebagai putusan aman untuk seluruh aset. Kebutuhan perawatan berubah menurut sistem, lokasi, kondisi lingkungan, akses, riwayat, dokumen produk, rancangan, dan temuan nyata. [NEEDS: daftar aset, gambar serta data produk, kondisi awal, catatan izin, akses aman, pemeriksaan kompeten, riwayat temuan, dan jalur eskalasi]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Program Inspeksi dan Maintenance Signage Berbasis Risiko**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,131 +41,57 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-03
+## Mulai dari daftar aset dan kondisi awal
 
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+Buat satu catatan untuk setiap aset: kode, lokasi, pemilik atau operator, jenis sistem, gambar yang berlaku, bahan atau perangkat, sumber daya bila ada, akses, kondisi sekitar, dan dokumen penting. Tambahkan foto beridentitas sebagai rekaman kondisi tampak, tanpa menganggap foto membuktikan bagian tersembunyi atau kapasitas.
 
-### KR-06
+Kawan Advert.id, aset statis, kabinet bercahaya, layar digital, media di tepi jalan, dan signage di dalam bangunan dapat membutuhkan pemeriksaan berbeda. Kesamaan nama media bukan alasan memakai daftar perawatan yang sama.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+## Menilai risiko tanpa angka universal
 
-### KR-10
+Prioritaskan berdasarkan kemungkinan konsekuensi, paparan lingkungan, akses, riwayat temuan, perubahan aset, dan siapa yang dapat terdampak. Misalnya, aset dengan akses sulit atau berada dekat publik memerlukan rencana pemeriksaan dan keputusan yang lebih hati-hati daripada aset yang dapat ditinjau dalam kondisi terkendali. Ini bukan penetapan frekuensi; frekuensi harus lahir dari data aset dan pihak kompeten.
 
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
+Untuk perlindungan permukaan, lingkungan pesisir atau industri, air tertahan, celah, pertemuan logam berbeda, tepi, kerusakan lapisan, dan akses memengaruhi kondisi yang perlu ditinjau. [ISO 12944-2](https://www.iso.org/standard/64834.html), [ISO 12944-7](https://www.iso.org/standard/64837.html), dan [ISO 12944-8](https://www.iso.org/standard/64838.html) memberi kerangka tentang lingkungan, pelaksanaan, dan penentuan sistem pelindung; bukan janji umur atau jadwal perawatan untuk aset tertentu.
 
-### KR-18
+## Menetapkan pemeriksaan dan tindakan
 
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
+Pemeriksaan dapat mencakup kondisi bidang pesan, tepi, sambungan yang terlihat, perlindungan permukaan, air masuk, akses, kebersihan, perangkat, konten, serta perubahan kondisi sekitar. Catat fakta tampak, dokumen rujukan, batas pengamatan, dan tindakan berikutnya. Jangan mengubah pengamatan menjadi diagnosis struktur atau listrik tanpa pemeriksaan kompeten.
 
-## Evidence gates
+Sobat Advert.id, pisahkan tindakan rutin yang memang disetujui dari temuan yang harus dieskalasikan. Jika ada pergeseran, bagian longgar, karat serius, kerusakan sistem daya, akses berbahaya, atau dampak publik, isolasi risiko sesuai kondisi dan minta pihak yang berwenang menilai. Jangan membuat perbaikan struktural atau kelistrikan hanya berdasarkan daftar perawatan.
 
-- **TOPIC-GATE:** Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route
+## Rekaman yang membuat program berjalan
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Simpan tanggal, aset, pemeriksa, kondisi, foto beridentitas, tindakan, bahan atau komponen yang diganti, alasan keputusan, dan bukti pemeriksaan ulang. Rekaman harus cukup untuk menjawab apa yang diketahui saat itu, bukan sekadar menandai “selesai.” Jika kepemilikan atau operator berubah, daftar aset dan catatan perlu ikut berpindah secara terkendali.
 
-## Internal-link plan
+| Catatan | Kegunaannya |
+| --- | --- |
+| Identitas aset dan lokasi | Menautkan temuan ke unit yang benar. |
+| Kondisi awal dan riwayat | Membantu melihat perubahan tanpa mengarang penyebab. |
+| Dokumen produk dan rancangan | Menentukan batas perawatan serta pihak yang perlu dilibatkan. |
+| Temuan dan eskalasi | Menunjukkan siapa bertindak dan apa yang masih terbuka. |
+| Akses dan keselamatan | Memastikan pemeriksaan tidak menciptakan risiko baru. |
+| Pelepasan dan material | Membantu keputusan akhir penggunaan serta rekam jejaknya. |
 
-### Existing local routes
+## Konten, hak, dan pelepasan
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Jika signage membawa grafis atau konten digital, pemilik konten, lisensi, persetujuan perubahan, dan catatan versi juga perlu menjadi bagian program. [UU Hak Cipta](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) memberi konteks hak cipta; memiliki aset fisik tidak otomatis memberi seluruh hak atas materi yang tampil.
 
-### Planned sibling articles
+Saat aset diganti atau dilepas, catat kondisi, material, pengamanan, pemisahan, pengangkutan, tujuan penerimaan, dan hasil yang dapat dibuktikan. [UU 32 Tahun 2009](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009) memberi kerangka perlindungan lingkungan. Jangan menyatakan hasil pemulihan atau daur ulang dari nama bahan saja.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesalahan yang membuat program hanya menjadi kalender
 
-- `ADV-14-02` → `/artikel/diagnosis-gerakan-signage.html` — Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan
-- `ADV-14-03` → `/artikel/diagnosis-struktur-signage.html` — Karat, Retak, Baut Longgar, dan Coating Rusak pada Signage
+Kesalahan umum adalah menetapkan jadwal tanpa daftar aset, kondisi awal, atau jalur eskalasi. Akibatnya, semua aset diperiksa dengan cara sama, temuan hanya disimpan di pesan singkat, dan tidak jelas kapan pekerjaan harus dihentikan atau ahli perlu dipanggil.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Alternatifnya adalah meninjau program saat aset berubah, lokasi berubah, dokumen produk diperbarui, terjadi temuan, atau akses berubah. Teman Advert.id, program yang baik dapat berubah karena bukti baru, bukan karena kalender menuntut tanda centang.
 
-## Tentukan objek, kondisi, dan tahap siklus hidup
+## Aturan menjalankan program perawatan
 
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Program Inspeksi dan Maintenance Signage Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Program perawatan signage berbasis risiko menyatukan daftar aset, kondisi, pemeriksaan, rekaman, tindakan, dan eskalasi. Ia tidak menetapkan umur aman atau garansi, dan tidak menggantikan penilaian spesialis maupun persetujuan otoritas.
 
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Program Inspeksi dan Maintenance Signage Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Inspeksi dan data yang perlu dicatat
-
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Program Inspeksi dan Maintenance Signage Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Program Inspeksi dan Maintenance Signage Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Program Inspeksi dan Maintenance Signage Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Program Inspeksi dan Maintenance Signage Berbasis Risiko”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: bila kondisi, akses, atau bukti sistem belum jelas, jangan menutup temuan dengan asumsi. Catat, amankan sesuai kebutuhan, dan libatkan pihak kompeten sebelum tindakan berisiko dilakukan.
