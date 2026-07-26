@@ -1,9 +1,10 @@
 ---
 article_id: ADV-03-02
-title: "Sightline dan Approach Path untuk Penempatan Signage"
+title: "Garis Pandang dan Jalur Datang untuk Penempatan Signage"
 slug: "sightline-approach-path-signage"
-description: "Plot viewer path, first/last visibility, approach angle, obstruction, curvature, speed/dwell context and decision point"
-status: outline
+description: "Cara memetakan kapan signage mulai terlihat di sepanjang jalur datang, termasuk sudut, hambatan, konteks gerak, dan titik keputusan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,21 @@ final_route: "/artikel/sightline-approach-path-signage.html"
 technical_review: required
 sources:
   - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/57833.html"
-  - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Garis Pandang dan Jalur Datang untuk Penempatan Signage
 
-# Sightline dan Approach Path untuk Penempatan Signage
+Halo, Kawan Advert.id!
 
-## Assignment lock
+Signage dapat dipasang di titik yang benar pada gambar, tetapi tetap terlambat terlihat, tertutup, atau muncul ketika orang sudah melewati titik keputusan. Karena itu, penempatan tidak dimulai dari mencari “jarak aman” yang berlaku untuk semua tempat. Mulailah dari jalur orang datang, apa yang menghalangi pandangan mereka, dan keputusan apa yang perlu mereka buat setelah melihat pesan.
 
-- **Writer task:** Expand this file into one complete article answering: “Sightline dan Approach Path untuk Penempatan Signage”
-- **Reader and situation:** Designer locating a sign
-- **Reader outcome:** Plot viewer path, first/last visibility, approach angle, obstruction, curvature, speed/dwell context and decision point
-- **Primary intent:** Map when a sign becomes visible
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal setback or safe placement; traffic/authority review and ADV-11-03 govern
-- **Final public route:** `/artikel/sightline-approach-path-signage.html`
-- **Appointed CMS date:** `2025-10-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: petakan garis pandang—jalur lurus antara mata calon pembaca dan signage—di sepanjang jalur datang. Tandai saat signage pertama kali muncul, kapan pesannya masih dapat diterima, kapan ia tertutup lagi, dan titik terakhir yang masih berguna sebelum keputusan. Hasilnya selalu bergantung pada lokasi terukur, konteks pengguna jalan, pemilik/pengelola lokasi, aksesibilitas, dan telaah pihak berwenang; artikel ini tidak memberi jarak universal atau persetujuan penempatan.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Sightline dan Approach Path untuk Penempatan Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
-
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
@@ -67,144 +39,57 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
-### KR-03
+## Memahami garis pandang dan jalur datang
 
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+Garis pandang bukan sekadar “signage terlihat dari depan”. Ia berubah saat orang berjalan, kendaraan berbelok, jalan melengkung, atau latar di belakang berubah. **Jalur datang** adalah arah dan urutan tempat yang dilalui calon pembaca sebelum mencapai tujuan atau titik keputusan. Satu lokasi bisa memiliki beberapa jalur datang: pejalan kaki dari pintu berbeda, kendaraan dari dua arah, atau pengguna yang datang dari area parkir.
 
-### KR-04
+Petakan tiap jalur secara terpisah. Catat titik awal pengamatan, arah gerak, perubahan arah, hambatan tetap maupun sementara, kondisi siang/malam, serta titik keputusan seperti simpang, pintu masuk, atau area berhenti. Jangan menyamakan jumlah kendaraan dengan jumlah orang yang benar-benar melihat, membaca, mengingat, lalu bertindak. Ukuran paparan, perhatian, ingatan, kunjungan, dan penjualan adalah ukuran yang berbeda dan memerlukan metode serta bukti sendiri ([gambaran ISO 20252](https://www.iso.org/news/ref2369.html)).
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Sobat Advert.id, tujuan pemetaan ini sederhana: mengetahui kapan pesan punya kesempatan untuk diterima, bukan menjanjikan bahwa setiap orang pasti melihatnya.
 
-### KR-05
+## Cara memetakan tanpa mengarang angka
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Gunakan denah lokasi atau peta kerja sebagai dasar, lalu berjalan atau meninjau rute pada kondisi yang relevan. Tandai beberapa titik pengamatan, bukan hanya satu foto terbaik. Pada setiap titik, catat apakah keseluruhan signage terlihat, apakah ada bagian yang tertutup, bagaimana sudut datangnya, dan apa yang mendominasi latar. Bila ada perubahan tinggi, tikungan, median, pepohonan, kendaraan parkir, tiang, kios, atau bangunan, tandai sebagai hambatan yang mungkin berubah menurut waktu.
 
-### KR-08
+Kemudian tandai empat peristiwa pada setiap jalur:
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+1. **Muncul pertama:** saat signage mulai terlihat, tanpa menyimpulkan bahwa pesan sudah terbaca.
+2. **Jendela pandang:** bagian jalur ketika signage dapat dipertimbangkan bersama konteks gerak dan gangguan sekitar.
+3. **Titik keputusan:** tempat pengguna perlu memilih belok, masuk, berhenti, atau melanjutkan perjalanan.
+4. **Hilang atau terlambat:** saat signage tertutup atau baru tampak setelah titik keputusan berlalu.
 
-### KR-17
+Catatan ini lebih berguna daripada satu angka jarak karena menjelaskan sebab-akibat. Misalnya, signage mungkin terlihat awal tetapi bersaing dengan latar terang; atau tampak besar tetapi baru muncul setelah pintu masuk terlewati. Rekam tanggal, waktu, cuaca, kondisi lalu lintas/pejalan kaki, metode, dan keterbatasan pengamatan agar orang lain dapat membaca batas kesimpulannya.
 
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
+## Faktor yang mengubah hasil pemetaan
 
-## Evidence gates
+Kecepatan atau waktu berhenti pengguna mengubah waktu yang tersedia untuk menerima pesan, namun tidak boleh diterjemahkan menjadi ambang baca universal. Arah datang dan kelengkungan rute mengubah sudut. Hambatan tumbuhan, kendaraan, atau materi promosi lain bisa berbeda antara pagi, malam, dan musim tertentu. Pencahayaan serta pantulan juga dapat mengubah hubungan signage dengan latarnya.
 
-- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
+Kondisi tempat perlu dicatat dengan identitas lokasi yang jelas, persetujuan pemilik, koordinat, arah pengguna, hambatan, latar, utilitas, akses, drainase, dan bahaya sekitar. Untuk ruang jalan, pertimbangan lalu lintas, pengelola jalan, keselamatan publik, serta otoritas terkait tetap bersifat lokasi-spesifik ([UU Nomor 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009)). Jangan memperlakukan hasil survei visual sebagai persetujuan otoritas.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-pembuatan-totem-sign-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-03-01` → `/artikel/checklist-survey-lokasi-signage.html` — Checklist Survey Lokasi Signage dan Advertising Outdoor
-- `ADV-03-03` → `/artikel/uji-legibility-signage.html` — Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca
-- `ADV-03-04` → `/artikel/audit-day-night-signage.html` — Audit Day-Night untuk Signage Berlampu
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Sightline dan Approach Path untuk Penempatan Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Sightline dan Approach Path untuk Penempatan Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Sightline dan Approach Path untuk Penempatan Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Sightline dan Approach Path untuk Penempatan Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Advert.id, kondisi fisik dukungan juga bukan urusan terpisah. Bila lokasi atau bentuk signage berubah karena hasil pemetaan, jalur beban dapat berubah pada bidang muka, rangka, sambungan, angkur, bangunan/tiang, dan fondasi/tanah. Hal itu memerlukan rancangan serta pemeriksaan proyek yang sesuai ([PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Sightline dan Approach Path untuk Penempatan Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah totem direncanakan dekat akses masuk. Dari arah depan ia tampak jelas pada foto survei, tetapi dari jalur kendaraan utama ia baru terlihat setelah pengguna melewati belokan menuju pintu. Catatan jalur datang menunjukkan bahwa masalahnya bukan ukuran tampilan semata, melainkan waktu munculnya signage relatif terhadap titik keputusan.
 
-## Kesalahan umum dan cara memeriksanya
+Langkah berikutnya bukan langsung memindahkan atau meninggikan signage. Tim perlu memeriksa hak lokasi, hambatan aktual, perubahan dukungan, dampak pada jalan, dan persetujuan yang diperlukan. Setelah itu, pihak berwenang dan perancang yang kompeten dapat menilai pilihan yang sesuai. Contoh ini tidak membuktikan solusi; ia menunjukkan mengapa foto satu arah tidak cukup.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Sightline dan Approach Path untuk Penempatan Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan umum dan pemeriksaan cepat
 
-## Objection or shortcut to address
+Kesalahan pertama ialah memilih posisi dari satu sudut pandang terbaik. Perbaiki dengan mencatat seluruh jalur datang yang penting. Kesalahan kedua ialah menyebut “terlihat” tanpa membedakan signage muncul, pesan dapat diterima, dan orang masih sempat mengambil keputusan. Perbaiki dengan empat peristiwa pemetaan di atas.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga ialah menunda pemeriksaan lokasi hingga desain selesai. Begitu ada rencana kerja di ketinggian, dekat publik, atau pada area lalu lintas, akses, cuaca, zona aman, komunikasi, kondisi darurat, dan kompetensi perlu dipertimbangkan melalui penilaian risiko proyek. Ketentuan kerja yang relevan harus diperiksa pada dokumen konsolidasi saat pelaksanaan, bukan diasumsikan dari rencana survei ([Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021)).
 
-## Required conclusion
+[NEEDS TOPIC-GATE: sebelum menetapkan lokasi, kumpulkan bukti lokasi, lalu lintas/pengguna, persetujuan otoritas dan pemilik, pemeriksaan aksesibilitas, serta telaah insinyur yang relevan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Jadikan pemetaan sebagai dasar pertanyaan lokasi
 
-## Draft completion checklist
+Garis pandang dan jalur datang membantu tim melihat kapan signage muncul dan apakah kemunculan itu masih berkaitan dengan keputusan pengguna. Nilainya ada pada rekaman rute, hambatan, sudut, dan konteks; bukan pada satu foto atau angka jarak yang dipindahkan dari proyek lain.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya adalah membuat denah satu lokasi, menandai jalur datang dan titik keputusan, lalu meminta pihak berwenang serta perancang menilai temuan tersebut. Aturan kerjanya: jika data lokasi atau persetujuan belum lengkap, jangan menyatakan penempatan itu aman, diizinkan, atau efektif.
