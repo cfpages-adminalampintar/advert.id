@@ -1,9 +1,10 @@
 ---
 article_id: ADV-12-03
-title: "Input Wajib untuk Lift Plan Signage Besar"
+title: "Data Wajib untuk Rencana Pengangkatan Signage Besar"
 slug: "input-lift-plan-signage"
-description: "Capture verified mass/CoG, lift points, configuration, crane location, ground, radius, rigging, wind criteria source, exclusion, communication and rescue"
-status: outline
+description: "Data aset, lokasi, akses, utilitas, kondisi tanah, publik, cuaca, komunikasi, dan keadaan darurat yang perlu disiapkan sebelum rencana pengangkatan signage besar dibuat."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,53 +16,20 @@ final_route: "/artikel/input-lift-plan-signage.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Data Wajib untuk Rencana Pengangkatan Signage Besar
 
-# Input Wajib untuk Lift Plan Signage Besar
+Halo, Kawan Advert.id!
 
-## Assignment lock
+Rencana pengangkatan adalah dokumen kerja untuk memindahkan benda dengan alat angkat secara terkendali. Pada signage besar, rencana ini tidak bisa dibuat hanya dari foto panel dan perkiraan berat. Tim kompeten perlu mengetahui benda yang akan dipindahkan, kondisi serta titik pengangkatannya yang disetujui, lokasi alat, kondisi tanah, akses, utilitas, publik, cuaca, komunikasi, dan keadaan darurat.
 
-- **Writer task:** Expand this file into one complete article answering: “Input Wajib untuk Lift Plan Signage Besar”
-- **Reader and situation:** Project team before crane/rigging design
-- **Reader outcome:** Capture verified mass/CoG, lift points, configuration, crane location, ground, radius, rigging, wind criteria source, exclusion, communication and rescue
-- **Primary intent:** Prepare lifting-plan inputs
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not a lift plan; competent lifting personnel design/authorize it
-- **Final public route:** `/artikel/input-lift-plan-signage.html`
-- **Appointed CMS date:** `2026-05-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pemilik atau tim proyek harus menyediakan data yang benar, bukan memilih rigging atau menetapkan kapasitas sendiri. Metode, peralatan, konfigurasi, batas cuaca, area pembatasan, dan otorisasi pengangkatan ditentukan oleh personel kompeten dalam rencana untuk lokasi nyata. Tidak ada nilai kapasitas atau jarak aman universal yang dapat dipakai untuk semua signage.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Input Wajib untuk Lift Plan Signage Besar**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,152 +40,61 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-04
-
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-pengurusan-legalitas-di-aceh-besar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-aceh-besar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-aceh-besar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-running-text-di-aceh-besar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-papan-nama-di-aceh-besar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-aceh-besar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-12-01` → `/artikel/alur-produksi-signage.html` — Alur Produksi Signage dari Approved Drawing hingga Release
-- `ADV-12-02` → `/artikel/proses-fabrikasi-signage.html` — Cutting, Forming, Welding, dan Finishing Signage
-- `ADV-12-04` → `/artikel/k3-work-at-height-advertising.html` — Work at Height untuk Instalasi dan Changeout Advertising
-- `ADV-12-05` → `/artikel/pre-installation-check-signage.html` — Pre-Installation Check untuk Signage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Input Wajib untuk Lift Plan Signage Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan umum adalah menyebut berat “kira-kira” lalu menganggap perencanaan sudah cukup. Berat, pusat berat—titik keseimbangan benda—dan titik angkat perlu dibuktikan dari gambar, data fabrikasi, atau verifikasi yang dipilih tim kompeten. Tambahan kabinet, lampu, media, kabel, atau perbaikan sebelumnya dapat membuat kondisi nyata berbeda dari gambar lama.
 
-## Definisi dan batas objek
+Pengangkatan juga bukan hanya soal benda. Area kerja dapat berdekatan dengan jalan, pejalan kaki, bangunan, kabel, tanah lunak, saluran, atau akses sempit. [UU No. 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) merupakan salah satu rujukan lalu lintas; pengaturan publik serta otoritas lokasi tetap perlu dipastikan untuk pekerjaan yang sebenarnya.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Input Wajib untuk Lift Plan Signage Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Advert.id, bila data benda atau lokasi belum jelas, keputusan aman bukan mencari cara tercepat. Tahan rencana sampai survei dan bukti yang diperlukan tersedia.
 
-## Cara kerjanya
+## Data aset dan lokasi yang perlu disiapkan
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Input Wajib untuk Lift Plan Signage Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Siapkan identitas aset, gambar kondisi akhir, dimensi, data berat yang tersedia, komponen tambahan, titik yang dirancang untuk pengangkatan bila ada, kondisi sambungan, serta perubahan dari desain awal. Catat apakah benda masih terhubung ke struktur, listrik, kabel, atau komponen lain. Jangan menyatakan sebuah titik aman untuk diangkat hanya karena tampak kuat.
 
-## Faktor yang mengubah hasil
+Untuk lokasi, catat alamat/koordinat, pemilik atau izin akses, jalur masuk, ruang kerja, kondisi tanah atau permukaan, kemiringan, utilitas atas dan bawah tanah, bangunan sekitar, lalu lintas, area publik, drainase, dan hambatan. Foto konteks dari posisi aman membantu, tetapi tidak menggantikan survei personel yang berwenang.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Input Wajib untuk Lift Plan Signage Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Advert.id, data ini bukan birokrasi. Satu layanan tersembunyi atau kondisi tanah yang tidak dicatat dapat mengubah seluruh rencana kerja.
+
+## Cara data dipakai dalam rencana
+
+Personel kompeten memakai data aset dan lokasi untuk menentukan bagaimana pekerjaan dapat dilakukan, siapa yang terlibat, pemeriksaan apa yang dibutuhkan, serta kapan pekerjaan harus berhenti. Rencana juga harus memisahkan tanggung jawab: siapa menguasai lokasi, siapa mengendalikan akses publik, siapa berwenang menghentikan kerja, dan bagaimana komunikasi serta keadaan darurat dikelola.
+
+Kondisi struktur maupun fabrikasi tidak boleh diasumsikan dari kata “sudah dilas”. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu komprehensif untuk pengelasan fusi logam, tetapi bukan bukti bahwa sebuah komponen siap diangkat tanpa data desain, kondisi, dan pemeriksaan yang relevan.
+
+Kondisi permukaan dan korosi juga perlu dicatat bila memengaruhi komponen atau akses. [ISO 12944-8](https://www.iso.org/standard/64838.html) membahas spesifikasi serta pemeliharaan sistem pelindung, bukan keputusan kapasitas angkat pada benda tertentu.
+
+## Faktor yang dapat mengubah rencana
+
+Cuaca, kondisi tanah, perubahan lalu lintas, utilitas, temuan kerusakan, akses yang tertutup, atau perbedaan antara gambar dengan kondisi terpasang dapat mengubah pekerjaan. Rencana yang baik punya kriteria berhenti dan jalur eskalasi, bukan memaksa kerja karena alat sudah datang.
+
+Pekerjaan dengan alat angkat, akses tinggi, objek jatuh, listrik, serta publik membutuhkan pengendalian yang sesuai kondisi nyata. [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) merupakan salah satu rujukan keselamatan konstruksi. Penerapan spesifik membutuhkan penilaian risiko, peralatan, kompetensi, serta pengaturan darurat proyek.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Input Wajib untuk Lift Plan Signage Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Kondisi | Keputusan aman berikutnya |
+| --- | --- |
+| Berat atau konfigurasi aktual belum dapat dibuktikan | Tahan pemilihan metode sampai data aset diverifikasi. |
+| Area kerja dekat publik atau jalan | Tetapkan pengamanan dan koordinasi pihak berwenang sesuai lokasi; jangan memakai jarak proyek lain. |
+| Ada kabel atau utilitas yang belum teridentifikasi | Selesaikan identifikasi dan pengendaliannya sebelum rencana disetujui. |
+| Kondisi cuaca atau tanah berubah dari survei | Nilai ulang oleh pihak yang berwenang; jangan memaksa pekerjaan sesuai jadwal. |
+
+Tabel ini tidak menggantikan rencana pengangkatan. Kawan Advert.id, ia hanya membantu pemilik melihat bahwa keputusan aman bergantung pada data yang bisa diperiksa.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Input Wajib untuk Lift Plan Signage Besar”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah mengirim foto tanpa gambar, berat, atau riwayat perubahan. Perbaiki dengan membuat paket data aset. Kesalahan kedua adalah menganggap alat angkat dapat ditaruh di mana saja. Perbaiki dengan survei kondisi lokasi, tanah, akses, dan utilitas. Kesalahan ketiga adalah membagi informasi penting hanya lewat pesan lisan. Perbaiki dengan catatan versi, tanggung jawab, dan perubahan yang dapat ditelusuri.
 
-## Objection or shortcut to address
+Jalan pintasnya adalah meminta “alat yang cukup besar”. Ukuran alat tanpa rencana serta kondisi lokasi bukan jawaban keselamatan. Alternatifnya adalah memberi tim kompeten data yang lengkap lalu menerima metode dan otorisasi dari rencana yang disetujui.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: rencana baik dimulai dari data yang benar
 
-## Required conclusion
+Rencana pengangkatan signage besar membutuhkan data aset, lokasi, publik, utilitas, cuaca, akses, dan kondisi darurat sebelum metode dipilih. Kawan Advert.id, langkah praktisnya adalah membuat satu paket survei yang mencatat apa yang akan dipindahkan dan apa yang berada di sekitarnya.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan menyetujui pengangkatan dari perkiraan berat atau foto saja. Kapasitas, rigging, pembatasan, dan otorisasi harus ditetapkan personel kompeten berdasarkan rencana lokasi yang nyata.

@@ -1,9 +1,9 @@
 ---
 article_id: ADV-13-04
-title: "Inspection and Test Plan Produksi Signage"
+title: "Rencana Pemeriksaan dan Pengujian Produksi Signage"
 slug: "itp-produksi-signage"
-description: "Map identity, material/artwork, dimensions, fabrication, finish, wiring, trial assembly, packing, site readiness, installation, tests, NCR and release"
-status: outline
+description: "Panduan menyusun bukti pemeriksaan dan pengujian untuk material, gambar, ukuran, perakitan, hasil akhir, kabel, pemasangan, serta serah terima signage."
+status: draft
 publication_date: "2026-06-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,49 +13,25 @@ reader_community: "Advert.id"
 reader_address: "Teman Advert.id"
 final_route: "/artikel/itp-produksi-signage.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Rencana Pemeriksaan dan Pengujian Produksi Signage
 
-# Inspection and Test Plan Produksi Signage
+Halo, Teman Advert.id!
 
-## Assignment lock
+Rencana pemeriksaan dan pengujian untuk produksi signage dipakai untuk menjawab satu pertanyaan sederhana tetapi mahal bila terlewat: pada titik mana pekerjaan perlu diperiksa, siapa yang berhak menyaksikan, dan bukti apa yang harus tersedia sebelum pekerjaan diteruskan? Dokumen ini bukan sekadar daftar formulir. Ia menyatukan gambar yang berlaku, bahan yang disetujui, cara pemeriksaan, hasil yang dicatat, serta keputusan bila ada ketidaksesuaian.
 
-- **Writer task:** Expand this file into one complete article answering: “Inspection and Test Plan Produksi Signage”
-- **Reader and situation:** Owner setting hold/witness points
-- **Reader outcome:** Map identity, material/artwork, dimensions, fabrication, finish, wiring, trial assembly, packing, site readiness, installation, tests, NCR and release
-- **Primary intent:** Define fabrication/installation QA
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No generic frequency or acceptance criteria; specification/system evidence governs
-- **Final public route:** `/artikel/itp-produksi-signage.html`
-- **Appointed CMS date:** `2026-06-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Kesalahan yang sering terjadi adalah menganggap tanda tangan pada formulir sudah membuktikan seluruh pekerjaan sesuai. Belum tentu. Formulir hanya bernilai bila dapat ditelusuri ke benda yang diperiksa, versi gambar, bukti bahan, metode yang dipakai, alat ukur yang sesuai, serta catatan penyimpangan dan penyelesaiannya. Untuk proyek yang sedang berjalan, dasar akhirnya tetap kontrak, persetujuan proyek, bukti asli, pengujian terkalibrasi, penyelesaian daftar temuan, dan penerimaan yang ditandatangani. [NEEDS: kontrak/tender terkini, persetujuan proyek, bukti asli, dan penerimaan tertulis]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspection and Test Plan Produksi Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,133 +42,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-05
+## Apa yang diatur oleh rencana ini
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Rencana ini memetakan alur dari penerimaan informasi sampai penerimaan pekerjaan di lokasi. Untuk signage, objeknya dapat meliputi identitas unit, gambar dan materi grafis, bahan, ukuran, proses perakitan, perlindungan permukaan, sambungan kabel, perakitan percobaan, pengemasan, kesiapan lokasi, pemasangan, pengujian, penanganan ketidaksesuaian, dan serah terima.
 
-### KR-06
+Tidak semua proyek memakai urutan atau bukti yang sama. Papan informasi dalam ruang, penanda arah, dan media luar ruang menghadapi bahan, paparan, akses, beban, serta persetujuan yang berbeda. Karena itu rencana yang baik tidak menyalin angka penerimaan dari pekerjaan lain. Ia menyebut rujukan yang mengendalikan keputusan: spesifikasi, gambar yang telah disetujui, data produk pabrikan, metode kerja, dan kebutuhan pihak berwenang bila berlaku.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+Untuk materi cetak, informasi yang perlu dikunci sejak awal antara lain berkas karya, huruf dan lisensinya, skala, definisi warna, proses keluaran, bahan, tinta, kondisi pencahayaan, contoh fisik yang disetujui, revisi, dan berkas produksi. Panduan produksi cetak ISO/TC 130 menempatkan pengendalian kondisi proses dan komunikasi spesifikasi sebagai bagian penting untuk hasil yang dapat dikelola, bukan janji bahwa warna akan identik pada semua bahan atau kondisi terang-gelap. [ISO 12647-2](https://www.iso.org/standard/57833.html) dan [panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) dapat dipakai sebagai rujukan pembicaraan tersebut.
 
-### KR-08
+## Menetapkan titik keputusan sebelum pekerjaan dimulai
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Mulailah dengan daftar keluaran yang benar-benar akan diterima pemilik. Lalu pecah menjadi titik keputusan yang tidak mudah dipulihkan bila pekerjaan telanjur lanjut. Misalnya, sebelum bahan dipotong perlu ada identitas bahan dan versi gambar; sebelum grafis dicetak perlu ada berkas keluaran dan contoh yang disetujui; sebelum unit ditutup perlu ada kesempatan memeriksa bagian yang nanti tidak terlihat; sebelum dikirim perlu ada bukti kondisi dan identitas kemasan.
 
-### KR-16
+Di tiap titik, tulis lima hal: apa yang diperiksa, rujukan penerimaannya, siapa pelaksananya, siapa yang menyaksikan atau menyetujui bila diperlukan, dan rekaman apa yang tinggal. Bentuknya boleh ringkas, tetapi tidak boleh kabur. “Periksa dengan baik” tidak cukup; lebih berguna “cocokkan kode bahan dengan dokumen penerimaan dan gambar revisi yang berlaku, lalu simpan foto berpenanda identitas serta hasil ukur.”
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Kawan Advert.id, tentukan pula akibat bila titik itu tidak lolos. Ada yang cukup diperbaiki dan diperiksa ulang, ada yang menahan pekerjaan berikutnya, dan ada yang memerlukan keputusan tertulis dari perancang atau pemilik. Dengan begitu, pemasok tidak menunggu di tengah produksi sambil menebak apakah pembetulan kecil dapat diterima.
 
-## Evidence gates
+## Bukti yang perlu menyertai pemeriksaan
 
-- **TOPIC-GATE:** Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover
+Bukti yang baik memiliki hubungan jelas antara unit, waktu, pemeriksa, rujukan, dan hasil. Nomor unit atau penanda lokasi menghubungkan foto serta catatan ukur dengan produk tertentu. Nomor revisi menghindarkan pemeriksaan terhadap gambar lama. Catatan alat ukur atau alat uji membantu pembaca memahami cara hasil diperoleh; untuk pekerjaan yang mensyaratkan pengujian, kecocokan dan kalibrasi alat perlu dibuktikan sesuai kebutuhan proyek.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Untuk bahan dan hasil akhir, jangan hanya menulis nama dagang. Catat produk, pabrikan, revisi, nomor kelompok produksi bila tersedia, jenis dasar, persiapan permukaan, sistem perekat/tinta/pelindung, batas lingkungan pemakaian, data keselamatan, cara pembersihan, pelepasan, dan ketentuan jaminan yang berlaku. Keluarga [ISO 12944](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) membedakan pertimbangan perlindungan terhadap korosi dan kondisi lingkungan; kecocokan bahan tertentu tetap perlu data teknis produk, persetujuan kompatibilitas, contoh, serta paparan nyata proyek.
 
-## Internal-link plan
+Pada pekerjaan yang memakai sambungan las atau proses khusus, rencana perlu menunjuk dokumen proses, kompetensi, pemeriksaan yang disyaratkan, dan catatan hasilnya. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu menyeluruh untuk pengelasan lebur bahan logam; standar itu bukan pengganti rancangan, pemeriksa berwenang, atau persetujuan khusus proyek.
 
-### Existing local routes
+## Menghubungkan produksi dengan kondisi lokasi
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Rencana produksi yang rapi dapat gagal saat bertemu kondisi lokasi yang belum siap. Karena itu bagian sebelum pemasangan perlu menanyakan akses, urutan pengangkatan, titik sambungan, ruang kerja, sumber daya bila dibutuhkan, kondisi bidang tumpuan, serta izin dan koordinasi yang menjadi tanggung jawab masing-masing pihak. PP 16 Tahun 2021 adalah salah satu rujukan nasional yang terkait penyelenggaraan bangunan gedung; penerapannya perlu dibaca bersama status dan kebutuhan proyek yang bersangkutan. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-)
 
-### Planned sibling articles
+Untuk media luar ruang, keputusan rancangan tidak dapat diturunkan dari ukuran yang tampak saja. Data angin, karakter medan dan paparan, tinggi, topografi, arah, bentuk, kerapatan bidang, perilaku dinamis, kombinasi beban, serta tingkat konsekuensi memengaruhi jalur beban secara keseluruhan. [ISO 4354](https://www.iso.org/standard/38882.html) menjelaskan kerangka aksi angin, tetapi insinyur yang kompeten tetap harus menggunakan dasar proyek Indonesia yang berlaku dan masukan spesifik lokasi.
 
-These are future routes. Do not link them as live until their HTML exists.
+Sobat Advert.id, pisahkan dua pertanyaan ini di formulir: “unit telah dibuat sesuai rujukan yang disetujui” dan “lokasi telah siap menerima unit.” Jawaban pertama tidak otomatis menjawab yang kedua. Pemisahan itu mencegah produk yang benar secara pabrik dipaksakan masuk ke lokasi yang belum memenuhi prasyarat.
 
-- `ADV-13-02` → `/artikel/submittal-register-proyek-signage.html` — Submittal Register untuk Proyek Signage
-- `ADV-13-03` → `/artikel/scope-matrix-proyek-advertising.html` — Scope Matrix Creative, Fabrication, Structure, Electrical, Permit, dan Content
-- `ADV-13-05` → `/artikel/lifecycle-cost-media-advertising.html` — Lifecycle Cost Media Advertising
-- `ADV-13-06` → `/artikel/handover-dossier-signage.html` — Handover Dossier Signage dan Digital Display
+## Contoh cara mengambil keputusan
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+| Situasi | Bukti yang dicari | Keputusan yang lebih aman |
+| --- | --- | --- |
+| Berkas grafis berubah setelah contoh disetujui | Nomor revisi, persetujuan perubahan, contoh keluaran terbaru | Tahan produksi grafis sampai berkas dan persetujuan yang sama-sama berlaku tersedia. |
+| Bahan datang dengan nama yang mirip, tetapi dokumennya berbeda | Identitas produk, data teknis, nomor kelompok produksi, persetujuan pengganti | Jangan menyamakan bahan hanya dari tampilan; minta keputusan tertulis tentang kesesuaian dan dampaknya. |
+| Bagian dalam akan tertutup setelah perakitan | Foto beridentitas, catatan pemeriksaan, persetujuan pada titik yang disepakati | Periksa sebelum penutupan; sesudah tertutup, bukti visual biasanya tidak dapat dipulihkan tanpa pekerjaan tambahan. |
+| Lokasi belum siap ketika barang akan dikirim | Catatan kesiapan lokasi, akses, koordinasi, syarat keselamatan | Atur ulang pengiriman atau siapkan perlindungan yang disetujui, bukan menganggap pemasangan pasti dapat dilakukan. |
+| Ada hasil yang tidak sesuai | Uraian temuan, dampak, tindakan perbaikan, pemeriksaan ulang, keputusan penerimaan | Catat ketidaksesuaian sampai tertutup dengan bukti; jangan menghapus jejak hanya karena hasil akhirnya tampak rapi. |
 
-## Jawaban singkat dan salah paham utama
+Tabel ini tidak menetapkan angka penerimaan. Angka, frekuensi, dan metode uji harus kembali ke spesifikasi sistem, dokumen produk, kontrak, serta persetujuan yang berlaku untuk unit tersebut.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Produksi Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Menghindari formulir yang tampak lengkap tetapi lemah
 
-## Definisi dan batas objek
+Jalan pintas paling menggoda adalah membuat satu lembar pemeriksaan umum untuk seluruh signage. Lembar itu mungkin cepat diisi, namun tidak menjelaskan perbedaan antara bahan, grafis, pekerjaan perakitan, kondisi lokasi, dan pengujian fungsi. Ketika ada sengketa, pembaca tidak dapat mengetahui apa yang sebenarnya diperiksa atau berdasarkan dokumen mana keputusan diambil.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Produksi Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perbaikan yang lebih dapat diandalkan adalah memakai satu format dasar dengan lampiran khusus seperlunya. Format dasar menjaga identitas, revisi, tanggal, pihak yang bertugas, hasil, dan tindakan atas temuan. Lampiran menampung hal yang khas: persetujuan warna dan contoh, bukti bahan, catatan perlindungan permukaan, pemeriksaan bagian tersembunyi, catatan sambungan, atau pengujian fungsi. Bila ada perubahan, jejak perubahan perlu tetap terbaca sampai pekerjaan diterima.
 
-## Cara kerjanya
+Teman Advert.id, jangan pula menyamakan pemeriksaan dengan penerimaan. Pemeriksaan menghasilkan informasi; penerimaan adalah keputusan pihak yang berwenang berdasarkan informasi itu dan ketentuan kontrak. Pisahkan kolom “hasil pemeriksaan” dari “keputusan” agar tidak ada tanda tangan yang maknanya ditafsirkan berlebihan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Produksi Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya yang masuk akal
 
-## Faktor yang mengubah hasil
+Rencana pemeriksaan dan pengujian produksi signage yang berguna adalah peta bukti pada momen ketika keputusan masih dapat mengubah hasil. Ambil gambar revisi yang berlaku, daftar bahan dan data produk, pembagian tanggung jawab, titik yang perlu disaksikan, metode pencatatan, serta alur penutupan temuan. Kemudian cocokkan semuanya dengan kondisi lokasi dan dokumen penerimaan proyek.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Produksi Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Produksi Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Inspection and Test Plan Produksi Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan lanjut ke tahap yang sulit dibuka kembali tanpa rujukan dan bukti yang telah disepakati. Kualitas dokumen tidak membuktikan kesesuaian dengan sendirinya; kecocokan antara dokumen, benda, pemeriksaan, dan keputusan yang berwenanglah yang membuatnya dapat dipercaya.

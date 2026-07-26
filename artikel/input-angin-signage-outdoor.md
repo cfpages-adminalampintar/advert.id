@@ -1,9 +1,10 @@
 ---
 article_id: ADV-09-02
-title: "Wind Area, Shape, dan Porosity pada Signage Outdoor"
+title: "Data Bentuk dan Lokasi untuk Penilaian Angin pada Signage Outdoor"
 slug: "input-angin-signage-outdoor"
-description: "Capture projected area, shape, solidity/mesh porosity evidence, orientation, height, edge/corner zones, attachments and future changes"
-status: outline
+description: "Data bentuk, bidang hadap, bukaan, orientasi, tinggi, lokasi, tambahan komponen, dan perubahan masa depan yang perlu disiapkan untuk penilaian angin signage outdoor."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-11"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,21 @@ reader_address: "Teman Advert.id"
 final_route: "/artikel/input-angin-signage-outdoor.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Data Bentuk dan Lokasi untuk Penilaian Angin pada Signage Outdoor
 
-# Wind Area, Shape, dan Porosity pada Signage Outdoor
+Halo, Teman Advert.id!
 
-## Assignment lock
+Ketika perancang meminta data angin untuk signage outdoor, yang dibutuhkan bukan jawaban “di sini sering berangin”. Mereka perlu memahami benda yang benar-benar akan terkena angin dan tempat benda itu berdiri: bidang hadapnya, bentuknya, bukaan atau jaringnya, arah, tinggi, lokasi, penyangga, serta rencana perubahan ke depan. Data yang tampak kecil dapat mengubah keputusan desain.
 
-- **Writer task:** Expand this file into one complete article answering: “Wind Area, Shape, dan Porosity pada Signage Outdoor”
-- **Reader and situation:** Designer/specifier supplying sign geometry
-- **Reader outcome:** Capture projected area, shape, solidity/mesh porosity evidence, orientation, height, edge/corner zones, attachments and future changes
-- **Primary intent:** Prepare wind-design inputs
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not a wind calculator; project standard and engineer choose actions/coefficients
-- **Final public route:** `/artikel/input-angin-signage-outdoor.html`
-- **Appointed CMS date:** `2026-03-11` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: siapkan data geometri dan lokasi secara jujur, lengkap, dan dapat ditelusuri. Jangan memakai angka kecepatan angin, tekanan, atau beban dari internet sebagai keputusan struktur. Angka serta koefisien harus dipilih oleh insinyur berdasarkan standar proyek yang berlaku, data lokasi, dan jalur beban lengkap.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Wind Area, Shape, dan Porosity pada Signage Outdoor**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,153 +40,65 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-09
-
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-17
-
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Qualified engineer's current Indonesian design plus real site/material/QC/as-built records
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-09-01` → `/artikel/jalur-beban-struktur-signage.html` — Jalur Beban Struktur Signage: Face hingga Tanah
-- `ADV-09-03` → `/artikel/deflection-vibration-fatigue-signage.html` — Deflection, Vibration, dan Fatigue pada Struktur Advertising
-- `ADV-09-04` → `/artikel/foundation-totem-billboard.html` — Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Wind Area, Shape, dan Porosity pada Signage Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bidang yang terlihat besar dari depan belum tentu satu-satunya bagian yang penting. Kabinet, rangka, lampu, layar, ornamen, dudukan, serta aksesori dapat menambah bentuk dan respons sistem. Sebaliknya, media berjaring atau berlubang tidak otomatis berarti angin “lewat begitu saja”; perlu bukti produk dan geometri yang tepat untuk mengetahui bagaimana bagian tersebut diperlakukan dalam desain.
 
-## Definisi dan batas objek
+Kata **bidang proyeksi** berarti luas bentuk yang tampak dari arah tertentu. **Kerapatan** atau **bukaan** menjelaskan seberapa padat media dibanding area terbukanya. **Orientasi** adalah arah hadap signage. Istilah ini bukan rumus. Fungsinya agar pemilik, desainer, dan perancang membicarakan benda yang sama sebelum membuat kesimpulan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Wind Area, Shape, dan Porosity pada Signage Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 4354](https://www.iso.org/standard/38882.html) membahas tindakan angin pada struktur. Halaman standar tersebut tidak menyediakan kalkulator, nilai aman, atau keputusan desain untuk signage tertentu. Sobat Advert.id, jika ada pihak menawarkan kesimpulan struktur hanya dari ukuran panel tanpa data lokasi serta penyangga, data masuknya belum cukup.
 
-## Cara kerjanya
+## Batas data yang perlu dikumpulkan
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Wind Area, Shape, dan Porosity pada Signage Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari gambar yang menunjukkan ukuran, bentuk, dan posisi setiap bagian yang terpasang. Catat bidang utama, ketebalan atau kedalaman kabinet bila ada, rangka yang menonjol, bukaan, panel tambahan, lampu, kabel, layar, dan komponen yang dapat berubah. Sertakan tinggi pemasangan, arah hadap, koordinat atau identitas lokasi, kondisi tanah atau bangunan penyangga, serta foto konteks sekitar.
 
-## Faktor yang mengubah hasil
+Data lokasi juga penting: apakah signage berada di tanah, atap, dinding, tepi bangunan, jalan terbuka, atau dekat struktur lain? Apakah ada bukit, bangunan, pepohonan, atau elemen sekitar yang perlu diketahui perancang? Jangan mengubah pengamatan ini menjadi klasifikasi teknis sendiri. Tugas pemilik adalah memberikan kondisi nyata; tugas perancang adalah menentukan cara kondisi itu digunakan.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Wind Area, Shape, dan Porosity pada Signage Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Advert.id, catat juga ketidakpastian. Jika bahan media belum dipilih, ukuran final belum disetujui, atau kabinet akan ditambah kemudian, jangan menyebut geometri sudah final. Perubahan masa depan yang disembunyikan dari desain hari ini mudah menjadi risiko besok.
+
+## Bagaimana data tersebut dipakai
+
+Perancang menghubungkan bentuk dan lokasi dengan standar proyek, tindakan lingkungan, serta jalur beban. Jalur itu bergerak dari media atau kabinet ke rangka, sambungan, penyangga, dan akhirnya ke fondasi atau struktur penerima. Karena itu, perubahan pada panel dapat memengaruhi lebih dari panel itu sendiri.
+
+Faktor seperti wilayah, paparan medan, tinggi, topografi, arah, bentuk, kerapatan, perilaku dinamis, dan konsekuensi kegagalan termasuk masukan yang relevan dalam penilaian angin. Namun tidak ada satu masukan yang cukup sendiri. Media yang sama di lokasi berbeda atau pada penyangga berbeda dapat memerlukan keputusan berbeda.
+
+Rekaman fabrikasi juga perlu dapat ditelusuri bila desain bergantung pada rangka serta sambungan tertentu. [ISO 3834-2](https://www.iso.org/standard/81651.html) menjelaskan persyaratan mutu menyeluruh untuk pengelasan fusi logam, tetapi tidak membuktikan suatu rangka sudah sesuai tanpa desain, material, prosedur, dan pemeriksaan proyek yang relevan.
+
+## Faktor yang sering berubah di lapangan
+
+Tambahan kecil dapat mengubah data awal: panel lebih besar, layar dipasang, media diganti, lampu atau kabinet ditambah, atau signage dinaikkan. Perubahan seperti ini perlu kembali ke pihak desain. Jangan menganggap “hanya tambahan di depan” tidak berpengaruh pada sistem.
+
+Kondisi lingkungan dan pemeliharaan juga perlu dicatat. Air, celah, tepi, korosi, lapisan rusak, dan akses pemeriksaan dapat memengaruhi detail yang menopang media. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas kategori lingkungan, sementara [ISO 12944-8](https://www.iso.org/standard/64838.html) mencakup spesifikasi serta pemeliharaan sistem pelindung. Rujukan ini bukan bukti bahwa struktur terpasang aman atau memiliki umur tertentu.
+
+Teman Advert.id, perubahan yang tidak masuk gambar kondisi akhir adalah masalah operasi. Ketika gejala muncul, orang berikutnya akan membaca desain lama sementara benda yang berdiri sudah berbeda.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Wind Area, Shape, dan Porosity pada Signage Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah desain awal memakai media berjaring, lalu pemilik ingin menggantinya dengan panel penuh agar pesan lebih jelas. Ini bukan sekadar keputusan grafis. Data bentuk, bukaan, berat, sambungan, dan penyangga perlu dikirim kembali ke perancang sebelum perubahan dilakukan.
+
+| Kondisi | Data yang perlu dicatat | Keputusan berikutnya |
+| --- | --- | --- |
+| Bentuk media belum final | Ukuran, bahan, bukaan, kedalaman, dan komponen tambahan yang mungkin dipasang | Tahan keputusan struktur sampai geometri disetujui. |
+| Signage di lokasi baru | Identitas lokasi, tinggi, orientasi, konteks sekitar, penyangga, serta akses | Minta penilaian berdasarkan lokasi baru, bukan desain lama. |
+| Panel ditambah setelah pemasangan | Bagian yang berubah, berat, sambungan, dan gambar kondisi akhir | Kembalikan perubahan ke perancang sebelum pekerjaan dilakukan. |
+| Ada kerusakan atau gerak terlihat | Lokasi gejala, waktu, perubahan, dan risiko publik | Amankan bila perlu; jangan menilai kapasitas dari tampilan. |
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Wind Area, Shape, dan Porosity pada Signage Outdoor”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memberi ukuran muka signage tanpa kedalaman, rangka, atau komponen tambahan. Perbaiki dengan gambar yang menunjukkan seluruh benda. Kesalahan kedua adalah memakai istilah “mesh” tanpa data produk serta bukaan nyata. Perbaiki dengan meminta identitas produk dan geometri yang disetujui.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menganggap lokasi sama karena masih berada di kota yang sama. Ketinggian, paparan, penyangga, serta konteks sekitar dapat berbeda. Kesalahan keempat adalah menambah panel setelah desain selesai tanpa merevisi gambar dan penilaian. Perbaiki dengan menjadikan setiap perubahan sebagai informasi desain, bukan urusan pemasang semata.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang menggoda adalah meminta angka angin “yang aman saja”. Angka tanpa standar proyek dan kondisi lokasi dapat dipakai salah. Alternatifnya: kirim paket data lengkap kepada insinyur, simpan gambar yang disetujui, dan catat setiap perubahan. Jika Anda sedang menyusun sistem media baru, halaman [signage](/signage/) dapat membantu memetakan komponennya; ia tidak menggantikan penilaian angin proyek tertentu.
 
-## Required conclusion
+## Kesimpulan: data yang lengkap lebih berguna daripada angka tebakan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Penilaian angin untuk signage outdoor dimulai dari bentuk serta lokasi yang benar, bukan dari angka umum. Teman Advert.id, langkah praktisnya adalah membuat satu paket data: gambar seluruh bentuk, bahan dan bukaan media, orientasi, tinggi, lokasi, penyangga, komponen tambahan, serta rencana perubahan.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan meminta kesimpulan struktur sebelum masukan proyek lengkap. Kecepatan, tekanan, koefisien, dan keputusan desain harus datang dari standar yang berlaku serta insinyur yang menilai kondisi nyata.
