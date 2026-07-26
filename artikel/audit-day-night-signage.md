@@ -1,9 +1,10 @@
 ---
 article_id: ADV-03-04
-title: "Audit Day-Night untuk Signage Berlampu"
+title: "Pemeriksaan Siang dan Malam untuk Signage Berlampu"
 slug: "audit-day-night-signage"
-description: "Record daylight contrast, shadows/reflections, night background, glare/spill, dimming need, neighborhood/road effects and operating hours"
-status: outline
+description: "Panduan mencatat perubahan keterlihatan signage berlampu pada siang dan malam hari, termasuk kontras, pantulan, silau, lingkungan, dan jam operasi."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -26,37 +27,13 @@ sources:
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Pemeriksaan Siang dan Malam untuk Signage Berlampu
 
-# Audit Day-Night untuk Signage Berlampu
+Halo, Kawan Advert.id! Signage berlampu sering dinilai hanya sekali: siang hari saat pemasangan, atau malam hari ketika lampunya baru dinyalakan. Padahal, tanda yang terlihat tegas pada satu waktu belum tentu mudah dibaca beberapa jam kemudian. Matahari dari samping, kaca toko yang memantul, lampu kendaraan, suasana jalan yang berubah, sampai jam operasional dapat mengubah pengalaman orang yang melihatnya.
 
-## Assignment lock
+Jawaban singkatnya, pemeriksaan siang dan malam perlu dilakukan pada lokasi serta arah pandang yang benar-benar akan ditemui pembaca. Catat apa yang menghalangi, bagian mana yang memantul atau menyilaukan, bagaimana latar belakang berubah, dan siapa yang mungkin terdampak. Hasilnya bukan angka universal untuk menyetel lampu, melainkan dasar untuk memutuskan apakah desain, posisi, jadwal nyala, atau persetujuan proyek masih perlu ditinjau.
 
-- **Writer task:** Expand this file into one complete article answering: “Audit Day-Night untuk Signage Berlampu”
-- **Reader and situation:** Owner choosing illumination
-- **Reader outcome:** Record daylight contrast, shadows/reflections, night background, glare/spill, dimming need, neighborhood/road effects and operating hours
-- **Primary intent:** Evaluate changing visibility conditions
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No luminance or curfew values; ADV-10-02 and ADV-11 own design/rules
-- **Final public route:** `/artikel/audit-day-night-signage.html`
-- **Appointed CMS date:** `2025-10-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Audit Day-Night untuk Signage Berlampu**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,140 +44,88 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+_Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu._
 
-### KR-03
+## Mengapa satu kali melihat belum cukup
 
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+Pemeriksaan siang-malam adalah pencatatan kondisi keterlihatan sebuah tanda pada lebih dari satu keadaan cahaya. Yang diperiksa bukan sekadar “lampunya hidup atau tidak”, melainkan apakah pesan masih dapat ditemukan, dibedakan dari latar, dan dipahami tanpa mengganggu lingkungan sekitar.
 
-### KR-04
+Pada siang hari, masalahnya bisa datang dari bayangan pohon, bangunan baru, posisi matahari, atau pantulan pada muka tanda dan kaca di sekitarnya. Saat malam, latar yang semula ramai dapat menjadi gelap; sebaliknya, koridor komersial dapat dipenuhi titik cahaya lain. Lampu kendaraan, lampu jalan, dan cahaya dari bangunan tetangga juga membuat konteksnya berubah. Karena itu, pertanyaan yang lebih berguna bukan “apakah signage ini terang?”, melainkan “apakah orang pada jalur datangnya tetap dapat mengenali pesan tanpa kebingungan atau gangguan?”
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Sobat Advert.id, jangan menafsirkan pemeriksaan ini sebagai pengganti rancangan kelistrikan, izin, atau penilaian keselamatan. Artikel ini juga tidak memberi nilai terang, jarak baca, maupun jam pembatasan yang berlaku untuk semua tempat. Nilai dan ketentuan itu harus berasal dari desain, otoritas, pengelola lokasi, serta kondisi proyek yang nyata.
 
-### KR-05
+## Apa yang perlu dicatat di lokasi
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Mulailah dengan identitas lokasi, bukan dengan foto tanda saja. Catat alamat atau koordinat, pemilik atau pengelola tempat, arah hadap tanda, arah datang pengguna, konteks jalan, serta waktu pengamatan. [UU No. 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) relevan untuk mengingatkan bahwa konteks lalu lintas dan pengguna jalan tidak boleh diperlakukan sebagai latar dekoratif.
 
-### KR-08
+Lalu pisahkan catatan menjadi dua sesi. Pada sesi siang, amati perubahan cahaya, bayangan, pantulan, halangan, dan bagian pesan yang kehilangan pembeda dari latar. Pada sesi malam, perhatikan latar di belakang tanda, sumber cahaya lain, kemungkinan silau, cahaya yang meluber ke area lain, serta apakah lampu menyala sesuai kebutuhan operasi. Ambil foto atau video sebagai catatan kondisi, bukan sebagai bukti otomatis bahwa struktur, listrik, atau izin telah dinyatakan aman.
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Gunakan daftar sederhana berikut agar percakapan tim tidak berhenti pada kesan “kelihatan bagus”.
 
-### KR-17
+| Hal yang dicatat | Pertanyaan praktis |
+| --- | --- |
+| Arah pandang dan jalur datang | Dari mana orang pertama kali melihat tanda, dan apakah mereka sedang berjalan, berkendara, atau menunggu? |
+| Latar serta halangan | Apa yang berada di belakang tanda pada siang dan malam? Apakah ada pohon, kendaraan, bangunan, atau materi promosi lain? |
+| Pantulan dan silau | Apakah ada permukaan atau sumber cahaya yang membuat pesan sulit ditangkap atau mengganggu pengguna lain? |
+| Kondisi materi visual | Apakah warna, huruf, dan bahan yang dipakai sudah disetujui melalui contoh atau bukti yang sesuai proses produksi? |
+| Waktu operasi | Kapan tanda perlu menyala, siapa yang mengatur, dan kondisi apa yang membuat pengaturan itu harus diperiksa ulang? |
 
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
+Untuk materi visual, simpan file sumber, jenis huruf beserta lisensinya, ukuran, definisi warna, proses keluaran, bahan, contoh fisik yang disetujui, serta riwayat revisi. Ruang lingkup [ISO 12647-2:2013](https://www.iso.org/standard/57833.html) dan pedoman [ISO/TC 130 tentang standar produksi cetak](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) membantu menjelaskan mengapa catatan proses penting. Namun, itu bukan janji bahwa warna akan tampak sama pada setiap bahan atau di bawah semua kondisi cahaya.
 
-## Evidence gates
+## Cara menjalankan pemeriksaan tanpa menebak-nebak
 
-- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
+Tentukan dulu tujuan tanda dan orang yang dituju. Tanda identitas di muka toko, papan arah di lingkungan bangunan, dan media promosi dekat arus jalan dapat memiliki jalur pandang serta risiko yang berbeda. Bila Anda masih membedakan fungsi tanda, [halaman signage Advert.id](/signage/) dapat menjadi pengantar sebelum kebutuhan lokasi dirumuskan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sesudah itu, lakukan pengamatan pada waktu yang memang relevan dengan penggunaan. Jika lokasi ramai sebelum toko buka dan setelah matahari terbenam, dua waktu itu lebih berguna daripada datang pada jam kosong. Berdiri atau bergerak mengikuti jalur pengguna yang masuk akal; jangan hanya memotret dari titik yang paling enak untuk kamera. Catat kondisi cuaca dan perubahan sementara, misalnya kendaraan parkir atau pekerjaan di sekitar lokasi, agar catatan tidak dibaca sebagai keadaan yang selalu sama.
 
-## Internal-link plan
+Kawan Advert.id, hasil pengamatan sebaiknya ditulis sebagai temuan dan pertanyaan, bukan langsung sebagai vonis. Contohnya: “Pada sore hari, sisi kanan pesan tertutup bayangan pohon dari arah datang pejalan kaki; perlu konfirmasi apakah pemangkasan atau perubahan posisi diizinkan.” Bentuk seperti ini lebih jujur daripada mengatakan tanda “pasti tidak terbaca” tanpa dasar pengukuran dan keputusan pihak yang berwenang.
 
-### Existing local routes
+Berikut urutan kerja yang aman untuk koordinasi awal:
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+1. Tetapkan lokasi, arah datang pengguna, dan jam pengamatan.
+2. Ambil catatan siang serta malam dari jalur pandang yang relevan.
+3. Daftarkan perubahan pada latar, halangan, pantulan, cahaya sekitar, dan kondisi materi visual.
+4. Tandai temuan yang menyentuh struktur, listrik, akses, jalan, atau kenyamanan lingkungan untuk ditinjau pihak yang tepat.
+5. Simpan keputusan, perubahan yang disetujui, dan alasan pengaturannya bersama dokumen proyek.
 
-### Planned sibling articles
+## Kondisi yang sering mengubah keputusan
 
-These are future routes. Do not link them as live until their HTML exists.
+Perubahan kecil di sekitar tanda dapat mengubah hasil pemeriksaan. Pohon tumbuh, fasad tetangga dipasang kaca, jalur kendaraan dialihkan, toko sebelah menambah lampu, atau jam ramai bergeser. Sebab itu, pemeriksaan tidak boleh menganggap foto awal sebagai kondisi permanen.
 
-- `ADV-03-02` → `/artikel/sightline-approach-path-signage.html` — Sightline dan Approach Path untuk Penempatan Signage
-- `ADV-03-03` → `/artikel/uji-legibility-signage.html` — Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca
-- `ADV-03-05` → `/artikel/survey-substrate-fixing-signage.html` — Survey Substrate dan Area Fixing Signage
-- `ADV-03-06` → `/artikel/photo-register-proyek-advertising.html` — Site Photo Register untuk Proyek Advertising
+Kondisi fisik tanda juga perlu dipisahkan dari soal keterlihatan. Gerak atau kemiringan, sambungan yang longgar atau berkarat, kerusakan lapisan, masuknya air, masalah pada muka tanda, modul lampu, daya, atau pengendali perlu dicatat sebagai temuan pemeliharaan. [ISO 12944-8:2017](https://www.iso.org/standard/64838.html) membahas pengembangan spesifikasi perlindungan korosi, tetapi halaman standar tersebut tidak dapat dipakai untuk menyimpulkan sisa kekuatan atau umur pakai objek tertentu dari foto.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Begini batas yang penting: bila ditemukan bahaya struktur, listrik, atau akses, jangan menjadikannya pekerjaan perbaikan lapangan dalam artikel atau rapat pemasaran. Isolasi area bila perlu dan minta pemeriksaan yang kompeten. [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) dan [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) adalah rujukan yang perlu dibaca bersama ketentuan serta penanggung jawab proyek yang berlaku. **[NEEDS REVIEW: persetujuan pemilik/pengelola, dasar penempatan, rencana kelistrikan, dan pihak berwenang untuk lokasi ini.]**
 
-## Jawaban singkat dan salah paham utama
+Untuk papan atau tanda yang memiliki bidang, penyangga, maupun posisi terekspos, kondisi angin juga tidak boleh diputuskan dari ukuran tampak saja. [ISO 4354](https://www.iso.org/standard/38882.html) menunjukkan bahwa tindakan angin terkait antara lain kondisi lokasi, tinggi, bentuk, kerapatan bidang, dan perilaku dinamis; [catatan pembaruan ISO](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf) juga perlu dicek saat dasar rancangannya ditetapkan. Perhitungan serta penerimaan rancangan tetap harus memakai dasar Indonesia yang mutakhir dan masukan lokasi oleh tenaga yang berwenang.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Audit Day-Night untuk Signage Berlampu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Contoh membaca hasil pemeriksaan
 
-## Definisi dan batas objek
+Bayangkan sebuah signage berlampu di depan deretan ruko. Siang hari, tulisan tampak jelas dari trotoar, tetapi menjelang sore sebagian muka tanda memantulkan cahaya dari kaca seberang. Malam hari, pesan utama terbaca, namun lampu dari kendaraan yang berhenti membuat mata orang dari arah tertentu lebih sulit menangkap informasi kecil di bawahnya.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Audit Day-Night untuk Signage Berlampu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesimpulannya bukan otomatis menaikkan daya lampu atau mengganti semua materi. Pertama, tim perlu mencatat titik pandang dan waktu terjadinya. Kedua, periksa apakah informasi kecil itu memang perlu dibaca dari jalur tersebut, atau seharusnya dipindah ke titik yang lebih dekat. Ketiga, konfirmasi pilihan perubahan dengan pemilik lokasi, pihak desain, dan pihak teknis yang relevan. Kalau perubahan menyentuh kelistrikan, penyangga, atau aturan kawasan, jangan lanjut hanya karena solusi visual terasa masuk akal.
 
-## Cara kerjanya
+Teman Advert.id, contoh ini juga menunjukkan perbedaan antara pengamatan dan klaim hasil. Kita boleh mencatat bahwa pantulan terlihat pada kondisi tertentu. Kita tidak boleh mengubahnya menjadi klaim bahwa tanda telah gagal memenuhi standar tertentu jika standar, metode ukur, dan pihak penilainya belum ditetapkan. Dalam pengukuran maupun pelaporan, konteks populasi, periode, metode, sampel, pengecualian, dan ketidakpastian perlu dijelaskan; prinsip ini sejalan dengan penekanan [ISO 20252:2019](https://www.iso.org/news/ref2369.html) dan [catatan ISO/TC 225](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html) mengenai kejelasan proses penelitian pasar dan sosial.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Audit Day-Night untuk Signage Berlampu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Jalan pintas yang sebaiknya dihentikan
 
-## Faktor yang mengubah hasil
+Jalan pintas yang umum adalah, “Cek malam saja, kan ini signage berlampu.” Cara itu bisa gagal karena siang hari menentukan apakah materi visual, bayangan, pantulan, dan halangan membuat tanda sulit dikenali sebelum lampu punya peran. Kebalikannya juga sama: tanda yang rapi pada siang hari belum tentu nyaman atau tepat guna ketika latar malam berubah.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Audit Day-Night untuk Signage Berlampu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas lain ialah memakai satu pengaturan lampu untuk semua lokasi. Kondisi jalan, tetangga, arah pandang, jam operasi, dan persetujuan kawasan berbeda-beda. Jangan menjanjikan hasil yang sama hanya dari nama produk atau jenis lampu. Jika data proyek belum lengkap, tulis kekurangannya dan tahan keputusan yang berdampak besar.
 
-## Contoh keputusan praktis
+Sederhananya, sebelum pemasangan atau perubahan disetujui, tanyakan:
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Audit Day-Night untuk Signage Berlampu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+- Sudahkah pengamatan dilakukan pada jam dan arah pandang yang relevan?
+- Apa yang berubah antara siang dan malam: latar, bayangan, pantulan, sumber cahaya, atau halangan?
+- Siapa yang dapat terdampak oleh cahaya atau perubahan penempatan?
+- Dokumen apa yang membuktikan persetujuan lokasi, materi visual, kelistrikan, dan pengaturan operasi?
+- Siapa yang meninjau bila temuan menyentuh struktur, listrik, jalan, atau akses publik?
 
-## Kesalahan umum dan cara memeriksanya
+## Langkah berikutnya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Audit Day-Night untuk Signage Berlampu”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemeriksaan siang dan malam untuk signage berlampu adalah cara melihat tanda sebagaimana pengguna benar-benar menemukannya: dalam cahaya, latar, dan ritme lokasi yang berubah. Gunakan hasilnya untuk membuka pertanyaan yang tepat, bukan untuk memaksakan angka atau keputusan seragam.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Advert.id, buatlah satu lembar catatan per lokasi berisi waktu, arah pandang, foto pendukung, kondisi sekitar, temuan, dan pihak yang perlu menindaklanjuti. Bila ada kekosongan bukti tentang izin, struktur, kelistrikan, atau dampak pada ruang publik, jangan tutupi dengan asumsi. Aturan kerjanya sederhana: amati pada kondisi nyata, catat perubahannya, lalu putuskan hanya setelah pihak dan bukti yang tepat tersedia.

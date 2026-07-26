@@ -1,9 +1,10 @@
 ---
 article_id: ADV-06-01
-title: "Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?"
+title: "Baliho dan Billboard: Media, Rangka, Struktur Penyangga, atau Semuanya?"
 slug: "baliho-vs-billboard"
-description: "Separate temporary/permanent media, face, frame, support, site, changeout, lighting, permits and ownership"
-status: outline
+description: "Panduan membedakan media, bidang tampilan, rangka, penyangga, lokasi, dan izin saat membahas baliho atau billboard."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,233 +15,100 @@ reader_address: "Teman Advert.id"
 final_route: "/artikel/baliho-vs-billboard.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+<!-- BEGIN MANAGED IMAGE PLAN
+Image ID: LOCAL-007
+Placement: setelah jawaban singkat, sebelum pembahasan pertama
+**Exact Markdown to insert:** `![Ilustrasi Baliho](/wp-content/uploads/2024/05/Baliho.jpg)`
+Caption: Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+Hard boundary: jangan menyimpulkan detail visual, pemilik, lokasi, orang, merek, kondisi, performa, atau hasil dari aset ini.
+END MANAGED IMAGE PLAN -->
 
-# Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?
+# Baliho dan Billboard: Media, Rangka, Struktur Penyangga, atau Semuanya?
 
-## Assignment lock
+Halo, Teman Advert.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”
-- **Reader and situation:** Buyer comparing inconsistent terminology
-- **Reader outcome:** Separate temporary/permanent media, face, frame, support, site, changeout, lighting, permits and ownership
-- **Primary intent:** Distinguish large-format system concepts
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No legal classification, size or quote; `/baliho/` and `/billboard/` own sales
-- **Final public route:** `/artikel/baliho-vs-billboard.html`
-- **Appointed CMS date:** `2025-12-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Saat meminta penawaran, satu orang bisa menyebut “baliho”, sementara yang lain bicara “billboard”, rangka, tiang, atau media iklan. Masalahnya, kata-kata itu sering dipakai untuk benda yang berbeda. Akibatnya, pembeli merasa sudah membandingkan dua penawaran yang sama, padahal salah satunya mungkin hanya membahas bidang tampilannya, sedangkan yang lain sudah memasukkan penyangga, akses kerja, atau pengurusan setempat.
 
-## Opening instructions
+Jawaban singkatnya: baliho dan billboard paling aman dipahami sebagai sebutan media atau format tampilan di ruang luar, bukan nama tunggal untuk seluruh sistem. Di dalam satu proyek ada beberapa objek yang harus dipisahkan: pesan atau materi iklan, bidang tampilan, rangka, sambungan, penyangga, lokasi, pekerjaan ganti materi, pencahayaan bila ada, serta izin dan pihak yang berwenang. Nama medianya sendiri tidak membuktikan ukuran, status tetap atau sementara, pemilik, lokasi yang boleh dipakai, harga, maupun hasil kampanye.
 
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Perbedaan itu bisa berubah setelah lokasi dan dokumen proyek diperiksa. Kondisi jalan, arah pengguna jalan, akses, bangunan atau tanah penyangga, utilitas, serta aturan daerah tidak dapat ditebak dari istilah “baliho” atau “billboard”.
 
+![Ilustrasi Baliho](/wp-content/uploads/2024/05/Baliho.jpg)
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-- **Image ID:** `LOCAL-007`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
-- **Exact Markdown to insert:** `![Ilustrasi Baliho](/wp-content/uploads/2024/05/Baliho.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Baliho` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+## Pisahkan nama media dari bagian fisiknya
 
-## Evidence packet
+Mulailah dengan pertanyaan sederhana: saat seseorang mengatakan “billboard”, ia sedang menunjuk apa? Bisa jadi ia menunjuk kampanye yang tampil, bisa juga bidang muka tempat materi dipasang. Ada pula yang memakai kata itu untuk menyebut keseluruhan konstruksi di tepi jalan. Tidak ada gunanya berdebat soal istilah jika objek yang dibahas belum ditandai satu per satu.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Supaya pembicaraan rapi, gunakan pemisahan berikut.
 
-### KR-02
+| Yang dibahas | Pertanyaan yang perlu dijawab |
+| --- | --- |
+| Materi iklan | Pesan, gambar, dan berkas cetaknya sudah disetujui oleh siapa? |
+| Bidang tampilan | Media dipasang pada permukaan seperti apa dan bagaimana cara menggantinya? |
+| Rangka dan sambungan | Bagian mana yang menahan bidang tampilan, dan bagaimana bagian itu terhubung? |
+| Penyangga | Apakah ditopang bangunan, tiang, atau sistem lain yang datanya tersedia? |
+| Lokasi | Siapa pengelola tanah, bangunan, atau koridor jalan; dan bagaimana kondisi di sekitarnya? |
+| Pekerjaan lapangan | Bagaimana akses, pengangkatan, listrik, pengamanan area, dan perawatannya? |
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Istilah *frame* berarti rangka, sedangkan *structure* berarti susunan elemen penyangga secara keseluruhan. Keduanya bukan sinonim otomatis untuk media iklan. Kawan Advert.id, membedakan kata-kata ini sejak awal membuat daftar pekerjaan lebih mudah dibandingkan dan mengurangi kalimat berbahaya seperti “sudah termasuk semua”.
 
-### KR-04
+## Mengapa satu nama tidak cukup untuk menyusun pekerjaan
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Sebuah tampilan luar ruang bekerja melalui rangkaian bagian, bukan hanya lewat gambar yang terlihat dari kejauhan. Materi dipasang pada bidang tampil; bidang itu menyalurkan beban ke rangka; rangka meneruskannya melalui sambungan dan penyangga menuju bangunan, tiang, atau fondasi. Ketika kondisi yang ada diubah, kondisi penyangga yang sudah ada ikut menjadi bagian pertimbangan.
 
-### KR-07
+[PP Nomor 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) dan [naskah resminya](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf) menempatkan penyelenggaraan bangunan dalam kerangka persyaratan dan tanggung jawab yang tidak dapat disederhanakan menjadi label produk. Karena itu, jangan menganggap papan, rangka las, atau tiang yang tampak kuat sebagai bukti bahwa pemasangan tertentu sudah layak dilakukan. Data penyangga, gambar yang disetujui, dan pemeriksaan yang sesuai proyek tetap diperlukan.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Hal yang sama berlaku untuk lokasi. [UU Nomor 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) relevan sebagai pengingat bahwa ruang jalan dan keselamatan pengguna jalan bukan latar kosong untuk media. Arah perjalanan, hambatan pandang, kondisi siang dan malam, ruang kerja, serta hubungan dengan lalu lintas perlu dicatat di lokasi; tidak cukup disimpulkan dari foto atau nama kecamatan.
 
-### KR-08
+Jadi, Sobat Advert.id, sebelum membicarakan bentuk muka satu sisi atau dua sisi, pastikan dulu siapa yang menyediakan tiap bagian dan siapa yang bertanggung jawab atas bukti tiap bagian itu.
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+## Catatan minimum sebelum memilih istilah dan penawaran
 
-### KR-09
+Istilah “baliho sementara” atau “billboard tetap” kadang dipakai untuk memudahkan percakapan. Namun, jangan menjadikannya kesimpulan teknis atau hukum. Sifat pemasangan, durasi, bentuk penyangga, dan proses persetujuan harus dilihat dari dokumen serta kondisi aktual.
 
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
+Catat hal-hal berikut sebelum meminta harga atau menyetujui pekerjaan:
 
-### KR-10
+- identitas lokasi, pemilik atau pihak yang memberi persetujuan penggunaan;
+- ukuran dan jumlah bidang tampilan yang benar-benar diminta;
+- arah hadap, kondisi sekitar, hambatan, serta keadaan siang dan malam;
+- bentuk penyangga yang sudah ada dan data yang tersedia tentangnya;
+- kebutuhan listrik, akses kerja, pengangkatan, pengamanan orang di sekitar, dan pelepasan material;
+- materi iklan, jadwal penggantian, serta batas pekerjaan pemasang;
+- kewajiban perizinan, pajak, pemeriksaan, pembaruan, atau pembongkaran yang berlaku di wilayah tersebut.
 
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
+[UU Nomor 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022) dan contoh [peraturan Wali Kota Depok](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) menunjukkan mengapa proses dan perhitungan yang terkait penyelenggaraan reklame tidak boleh dipindahkan begitu saja dari satu daerah ke daerah lain. Contoh daerah berguna untuk menunjukkan bahwa ada variabel lokal, bukan untuk memberi jawaban izin di lokasi Anda.
 
-### KR-14
+[NEEDS VERIFIKASI: minta aturan resmi yang berlaku di lokasi, konfirmasi tertulis dari pihak yang berwenang, serta data penyangga sebelum menyimpulkan jenis izin atau cara pemasangan.]
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+## Tiga situasi yang sering membuat orang keliru
 
-### KR-15
+**Situasi pertama: pembeli hanya meminta “harga billboard”.** Penjual lalu memberi angka, tetapi belum jelas apakah angka itu mencakup materi, rangka, penyangga, pemasangan, listrik, akses, pajak, atau penggantian materi. Jalan keluarnya bukan mengejar angka termurah, melainkan menyamakan daftar pekerjaan dan pengecualian di setiap penawaran.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+**Situasi kedua: lokasi sudah punya rangka lama.** Keberadaan rangka lama tidak otomatis menjawab apakah kondisi, sambungan, penyangga, dan aksesnya sesuai untuk perubahan yang direncanakan. Minta data kondisi yang ada dan pemeriksaan yang tepat; jangan membuat keputusan hanya karena “dulu pernah dipakai”.
 
-### KR-16
+**Situasi ketiga: istilah baliho dipakai untuk semua pekerjaan.** Ini sering menutup perbedaan antara media cetak, bidang muka, pekerjaan struktur, dan pengurusan lokasi. Pisahkan setiap bagian dalam daftar agar pihak kreatif, pemasang, pemilik lokasi, dan penanggung jawab teknis tidak saling mengira pekerjaan itu ditangani pihak lain.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Teman Advert.id, cara praktisnya adalah menulis satu kalimat pengunci pada permintaan penawaran: “Tolong jelaskan bagian yang termasuk, bagian yang tidak termasuk, serta bukti yang perlu disediakan untuk tiap bagian.” Kalimat kecil ini sering lebih berguna daripada membandingkan istilah dagang.
 
-## Evidence gates
+## Jangan tertipu oleh jalan pintas “yang penting terlihat besar”
 
-- **TOPIC-GATE:** Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection
+Jalan pintas yang umum ialah memilih format hanya karena tampak besar dari foto atau karena namanya terdengar permanen. Cara ini gagal karena tampilan besar belum menjawab apakah lokasi dapat digunakan, apakah materi dapat dibaca dalam konteks perjalanannya, atau apakah pekerjaan lapangan dapat dilaksanakan dengan aman.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Pilihan yang lebih aman adalah menyusun keputusan berurutan. Pertama, pastikan hak penggunaan lokasi dan proses lokalnya. Kedua, catat kondisi penyangga dan lingkungan. Ketiga, samakan kebutuhan materi serta cara penggantiannya. Keempat, baru bandingkan penawaran yang memiliki batas pekerjaan sama. Bila salah satu bagian belum memiliki bukti, tahan keputusan pada bagian itu, bukan menutupinya dengan asumsi.
 
-## Internal-link plan
+Untuk pekerjaan yang menyentuh penyangga, bangunan, atau kondisi lapangan yang tidak jelas, [NEEDS TINJAUAN TEKNIS: libatkan pihak yang kompeten dan gunakan data proyek yang terkini sebelum pekerjaan disetujui atau dilaksanakan.]
 
-### Existing local routes
+## Penutup: gunakan istilah sebagai awal, bukan jawaban akhir
 
-- `/jasa-pembuatan-billboard-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Baliho dan billboard dapat membantu orang memulai percakapan tentang media luar ruang, tetapi keduanya tidak otomatis berarti satu paket bidang tampilan, rangka, penyangga, lokasi, izin, dan pekerjaan lapangan. Sederhananya, nama media menjelaskan arah pembicaraan; dokumen dan kondisi proyek yang menentukan apa yang benar-benar boleh, perlu, dan dapat dikerjakan.
 
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-06-02` → `/artikel/tensioning-face-billboard.html` — Tensioning dan Edge Detail Face Billboard
-- `ADV-06-03` → `/artikel/konfigurasi-face-billboard.html` — Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum memilih, Kawan Advert.id, minta daftar bagian yang termasuk, bukti lokasi serta penyangga, dan penjelasan tertulis tentang pekerjaan yang dikecualikan. Pegang aturan ini: jangan membeli “nama medianya”; cocokkan dulu objek, tanggung jawab, dan bukti untuk setiap bagian.

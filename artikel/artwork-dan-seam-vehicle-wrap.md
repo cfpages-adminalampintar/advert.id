@@ -1,9 +1,10 @@
 ---
 article_id: ADV-08-03
-title: "Artwork Template dan Seam Planning untuk Vehicle Wrap"
+title: "Menyiapkan Materi Visual dan Rencana Sambungan untuk Balut Grafis Kendaraan"
 slug: "artwork-dan-seam-vehicle-wrap"
-description: "Coordinate measured/template geometry, bleed, panel boundaries, seams, doors, handles, distortion, text placement, legal visibility zones and proof"
-status: outline
+description: "Cara menyiapkan materi visual, ukuran kerja, area panel, dan rencana sambungan untuk balut grafis kendaraan tanpa mengira-ngira kecocokan di kendaraan nyata."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,220 +15,96 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/artwork-dan-seam-vehicle-wrap.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
-  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
+  - "https://www.iso.org/standard/57833.html"
+  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
+  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
   - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Artwork Template dan Seam Planning untuk Vehicle Wrap
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Artwork Template dan Seam Planning untuk Vehicle Wrap”
-- **Reader and situation:** Designer translating brand art to a vehicle
-- **Reader outcome:** Coordinate measured/template geometry, bleed, panel boundaries, seams, doors, handles, distortion, text placement, legal visibility zones and proof
-- **Primary intent:** Prepare production-ready vehicle graphics
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Template is not guaranteed dimension; ADV-08-02 survey and installer proof own fit
-- **Final public route:** `/artikel/artwork-dan-seam-vehicle-wrap.html`
-- **Appointed CMS date:** `2026-02-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Artwork Template dan Seam Planning untuk Vehicle Wrap**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Menyiapkan Materi Visual dan Rencana Sambungan untuk Balut Grafis Kendaraan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Sobat Advert.id! Materi visual untuk kendaraan tidak cukup dibuat “seukuran mobil” lalu langsung dikirim ke percetakan. Desain perlu mengikuti ukuran kerja yang benar, batas panel bodi, bukaan pintu, gagang, lekuk, dan titik sambungan. Kalau itu dilewati, tulisan penting bisa terbelah, logo bisa jatuh di gagang pintu, atau gambar terlihat aneh ketika dibaca dari sisi kendaraan.
 
-### KR-02
+Jawaban singkatnya: siapkan desain dari hasil pengukuran atau templat kendaraan yang sudah diperiksa, lalu rencanakan sambungan sebelum file dilepas ke produksi. Templat hanyalah alat bantu, bukan jaminan ukuran akhir. Kecocokan tetap perlu dibuktikan melalui survei kendaraan dan contoh yang disetujui pemasang.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-### KR-04
+_Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu._
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+## Materi visual bukan sekadar file gambar
 
-### KR-05
+Dalam pekerjaan ini, **materi visual** (*artwork*) berarti file desain yang akan diproses menjadi grafis kendaraan. Sementara **balut grafis kendaraan** (*vehicle wrap*) adalah sistem bahan grafis yang dipasang pada bagian kendaraan; istilah ini tidak otomatis berarti seluruh bodi ditutup. Ada proyek yang hanya memakai bagian tertentu, dan keputusan itu tetap harus sesuai izin pemilik kendaraan serta kebutuhan kampanye.
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Titik awal yang sehat adalah membedakan tiga hal: ide visual, ukuran file, dan kondisi kendaraan nyata. Ide visual dapat disetujui tim merek. Ukuran file harus bisa diproses oleh produksi. Namun kondisi kendaraan—varian bodi, aksesori, bekas perbaikan, atau bagian yang tidak boleh tertutup—baru dapat dipastikan lewat data proyek. Kawan Advert.id, jangan menyamakan gambar contoh di layar dengan bukti bahwa desain pasti pas di lapangan.
 
-### KR-06
+Untuk pesan promosi, isi dan hak penggunaannya juga perlu jelas. [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) adalah salah satu rujukan yang mengingatkan bahwa informasi kepada konsumen tidak boleh disampaikan secara menyesatkan. Karena itu, klaim dalam desain, foto, logo, dan izin penggunaan materi sebaiknya diperiksa sebelum masuk tahap cetak, bukan sesudah grafis sudah terpasang.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+## Ukuran kerja dimulai dari kendaraan yang akan dipakai
 
-### KR-13
+Templat kendaraan adalah gambar kerja dengan garis panel dan perkiraan bentuk bodi. Ia membantu desainer menempatkan elemen, tetapi tidak boleh diperlakukan sebagai pengganti pengukuran. Satu nama model dapat memiliki tahun produksi, tipe bodi, pintu, aksesori, atau kondisi permukaan yang berbeda. Bahkan kendaraan yang sama-sama operasional bisa memiliki antena, lis, sensor, atau stiker lama yang mengubah area kerja.
 
-- **Original sources:** [UU 22/2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [UU 8/1999](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf).
-- **Purpose for this article:** Ground mobile advertising without giving unsupported wrap or vehicle-modification instructions.
-- **Safe grounded facts:** Record vehicle identity/ownership/permission, surface survey, prohibited/critical areas, exact film/ink/laminate system, approved artwork, installer method, inspection, maintenance, and removal plan.
-- **Limits:** Obtain current vehicle/road/advertising/local rules and exact manufacturer approval; do not promise paint protection, removability, or legality universally.
+Sebelum desain dikunci, kumpulkan identitas kendaraan, foto kondisi terbaru, sisi yang akan diberi grafis, dan hasil ukur yang disepakati. Catat pula pintu, gagang, tutup tangki, lampu, kaca, pelat nomor, sambungan panel, serta area yang perlu dibiarkan terbaca atau bebas. Bila kendaraan dipakai di jalan, konteks penggunaan dan keselamatan tidak boleh dianggap sepele; [UU Lalu Lintas dan Angkutan Jalan](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) menjadi rujukan umum yang relevan untuk menahan diri dari desain yang mengganggu fungsi atau pandangan yang diperlukan.
 
-### KR-14
+Tambahkan **lebih cetak** (*bleed*), yaitu bidang tambahan di tepi cetak yang memberi ruang pemotongan dan penyesuaian. Besarnya bukan angka seragam untuk semua pekerjaan. Tanyakan kepada pemasang dan produksi tentang bahan, metode pemasangan, bentuk panel, serta area yang akan dilipat. Jika jawabannya belum ada, tandai dengan jelas: `[NEEDS REVIEW: ukuran kerja, area lebih cetak, dan metode pemasangan harus disetujui untuk kendaraan ini.]`
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+## Rencanakan sambungan sebelum tulisan ditempatkan
 
-### KR-16
+**Sambungan** (*seam*) adalah pertemuan dua bagian bahan grafis. Sambungan kadang diperlukan karena bentuk bodi, lebar bahan, atau strategi pemasangan. Yang perlu direncanakan bukan hanya lokasi garisnya, tetapi juga apa yang terjadi pada pesan ketika kendaraan dilihat dari jarak wajar.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Jangan letakkan nomor telepon, alamat situs, harga, wajah, atau bagian logo yang penting tepat di jalur sambungan, lekuk tajam, gagang pintu, dan celah panel. Elemen seperti itu lebih aman diberi ruang dari batas risiko. Ini bukan aturan angka universal; jarak aman bergantung pada ukuran nyata, bahan, metode pemasangan, dan keputusan pemasang yang memeriksa kendaraan.
 
-### KR-18
+Teman Advert.id, bayangkan tulisan merek membentang dari pintu depan ke pintu belakang. Di layar, komposisinya mungkin rapi. Saat pintu terbuka, garis sambungan dan celah antar-panel dapat memecah satu atau dua huruf. Karena itu, buat salinan tampilan per sisi kendaraan lalu tandai: area pesan utama, area pendukung, area yang dapat dipotong, dan area yang harus tetap kosong.
 
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
+## Warna, foto, dan tulisan perlu dibuktikan sebelum cetak penuh
 
-## Evidence gates
+File yang tampil cerah di monitor tidak otomatis menghasilkan warna yang sama pada bahan grafis. Hasil dapat berubah karena pengaturan file, proses keluaran, tinta, bahan, pencahayaan, dan kondisi permukaan. Panduan [ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) membahas pentingnya kondisi proses dan komunikasi dalam produksi cetak; halaman lingkup [ISO 12647-2](https://www.iso.org/standard/57833.html) juga menunjukkan bahwa standar cetak berkaitan dengan proses tertentu, bukan janji kecocokan warna untuk segala bahan dan kondisi.
 
-- **TOPIC-GATE:** Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence
+Maka, minta contoh cetak atau contoh bahan yang benar-benar diperiksa oleh pihak yang berwenang di proyek. Simpan versi file, font, gambar berlisensi, catatan warna, dan persetujuan revisi. Jangan menjanjikan bahwa warna akan identik di setiap sisi kendaraan atau pada siang dan malam hari tanpa bukti dari sistem produksi yang dipakai.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Tulisan kecil juga perlu diuji sebagai informasi, bukan hiasan. Coba baca dari konteks penggunaan yang relevan, lalu tanyakan: apakah pesan utama masih terbaca ketika badan kendaraan bergerak atau ketika pintu tertutup? Jika kebutuhan lokasi, aturan, atau jarak baca belum jelas, jangan mengarang ukuran huruf. Gunakan penilaian proyek dan catat batasnya.
 
-## Internal-link plan
+## Bagian yang perlu disepakati sebelum file dilepas
 
-### Existing local routes
+Sederhananya, jangan kirim file final hanya karena desain sudah terlihat menarik. Buat catatan serah file yang memungkinkan semua pihak memeriksa objek yang sama.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+| Yang diperiksa | Pertanyaan yang perlu dijawab |
+| --- | --- |
+| Kendaraan | Apakah identitas, varian, dan kondisi kendaraan sudah cocok dengan data survei? |
+| Materi visual | Apakah logo, foto, teks, dan klaim memiliki izin atau persetujuan yang terdokumentasi? |
+| Tata letak | Apakah pesan utama aman dari sambungan, gagang, celah, lampu, dan bukaan? |
+| Produksi | Apakah bahan, proses cetak, versi file, serta contoh yang diperiksa sudah dicatat? |
+| Pemasangan | Apakah pemasang menyetujui ukuran kerja, area lebih cetak, dan urutan pemasangannya? |
 
-### Planned sibling articles
+Daftar ini membantu membedakan persetujuan desain dari persetujuan produksi. Untuk hak cipta, jangan berasumsi bahwa gambar yang ditemukan di internet otomatis boleh dipakai. [UU Hak Cipta](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) adalah rujukan dasar untuk memperlakukan kepemilikan dan izin sebagai hal yang perlu ditelusuri, bukan formalitas belaka.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan yang lebih aman
 
-- `ADV-08-01` → `/artikel/full-wrap-vs-partial-wrap.html` — Full Wrap, Partial Wrap, dan Decal untuk Branding Kendaraan
-- `ADV-08-02` → `/artikel/survey-kendaraan-sebelum-wrapping.html` — Survey Kondisi Kendaraan Sebelum Wrapping
-- `ADV-08-04` → `/artikel/persiapan-surface-vehicle-wrap.html` — Surface Preparation dan Installation Environment untuk Vehicle Wrap
-- `ADV-08-05` → `/artikel/area-kritis-branding-kendaraan.html` — Branding Kendaraan dan Area yang Tidak Boleh Mengganggu Keselamatan
+Misalnya sebuah usaha ingin menaruh logo besar, promo, dan nomor kontak pada dua sisi mobil. Desainer memiliki templat, tetapi belum ada foto kendaraan terbaru dan pemasang belum melihat unitnya. Keputusan yang lebih aman bukan menebak posisi gagang pintu. Buat komposisi awal, pisahkan unsur yang harus utuh dari unsur dekoratif, lalu tahan pelepasan file sampai survei dan persetujuan pemasang tersedia.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jika setelah survei ternyata nomor kontak berpotensi terpotong oleh celah pintu, pindahkan nomor itu ke bidang yang lebih tenang. Jangan “menyelamatkan” desain dengan mengecilkan semuanya sampai pesan tidak nyaman dibaca. Kadang penyesuaian sederhana—mengurangi elemen, memindahkan logo, atau menyederhanakan pesan—lebih berguna daripada memaksa semua informasi masuk.
 
-## Jawaban singkat dan salah paham utama
+## Kesalahan yang sering membuat revisi mahal
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Artwork Template dan Seam Planning untuk Vehicle Wrap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memulai dari foto acuan yang tidak jelas sumber ukurannya. Kesalahan kedua, menganggap templat pabrikan atau templat perangkat lunak selalu sama dengan kendaraan di depan kita. Kesalahan ketiga, membiarkan sambungan melintas pada tulisan atau wajah tanpa rencana. Kesalahan keempat, melepas file tanpa catatan versi dan tanpa contoh yang disetujui.
 
-## Definisi dan batas objek
+Ada juga jalan pintas yang terdengar praktis: “Cetak dulu, nanti pemasang yang menyesuaikan.” Cara ini dapat memindahkan masalah ke tahap yang paling mahal, karena pemasang harus menghadapi ukuran bahan yang sudah jadi dan pesan yang mungkin sudah terlanjur berada di posisi buruk. Lebih baik file ditahan sebentar untuk pemeriksaan bersama daripada membuat keputusan kecocokan berdasarkan dugaan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Artwork Template dan Seam Planning untuk Vehicle Wrap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya: buktikan kecocokan, jangan hanya percaya templat
 
-## Cara kerjanya
+Jadi, materi visual dan rencana sambungan yang baik untuk balut grafis kendaraan dimulai dari data kendaraan, lalu diterjemahkan menjadi tata letak yang menghormati panel, bukaan, sambungan, dan pesan utama. Sobat Advert.id, siapkan paket berisi data kendaraan, file sumber, izin materi, catatan revisi, serta tampilan per sisi; kemudian minta pemasang meninjau ukuran kerja dan contoh sebelum produksi berjalan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Artwork Template dan Seam Planning untuk Vehicle Wrap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Artwork Template dan Seam Planning untuk Vehicle Wrap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Artwork Template dan Seam Planning untuk Vehicle Wrap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Artwork Template dan Seam Planning untuk Vehicle Wrap”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: templat membantu merancang, tetapi survei dan persetujuan proyek yang membuktikan kecocokan. Bila data kendaraan, izin, atau metode pemasangan belum tersedia, pertahankan `[NEEDS REVIEW: verifikasi kendaraan, izin materi, dan persetujuan pemasang sebelum produksi.]` daripada menutupinya dengan asumsi.
