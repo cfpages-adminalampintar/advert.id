@@ -1,9 +1,10 @@
 ---
 article_id: ADV-06-02
-title: "Tensioning dan Edge Detail Face Billboard"
+title: "Penegangan dan Rincian Tepi Bidang Papan Reklame"
 slug: "tensioning-face-billboard"
-description: "Cover face type, seams/hem/eyelets or system profiles, tension distribution, corners, wind porosity, changeout, inspection and damage"
-status: outline
+description: "Panduan memahami bidang fleksibel papan reklame, rincian tepi, penegangan, penggantian materi, pemeriksaan, dan batas bukti sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,234 +15,90 @@ reader_address: "Kawan Advert.id"
 final_route: "/artikel/tensioning-face-billboard.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
-  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Penegangan dan Rincian Tepi Bidang Papan Reklame
 
-# Tensioning dan Edge Detail Face Billboard
+Halo, Kawan Advert.id!
 
-## Assignment lock
+Muka billboard (*face*) adalah bidang yang membawa pesan visual. Pada sistem fleksibel, bidang ini tidak sekadar "dibentangkan" pada rangka. Penegangan (*tensioning*) berarti cara gaya tarik disalurkan melalui tepi, sudut, sambungan, dan sistem pengikat agar muka mengikuti susunan yang dirancang. Kerutan atau sobekan yang terlihat di muka sering berhubungan dengan lebih dari satu bagian: material, detail tepi, rangka, perubahan kondisi, pemasangan, akses, atau pemeriksaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Tensioning dan Edge Detail Face Billboard”
-- **Reader and situation:** Fabricator/owner facing wrinkles or tears
-- **Reader outcome:** Cover face type, seams/hem/eyelets or system profiles, tension distribution, corners, wind porosity, changeout, inspection and damage
-- **Primary intent:** Understand flexible-face mounting
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No tension value, fastener spacing or wind capacity; approved system and ADV-09 own design
-- **Final public route:** `/artikel/tensioning-face-billboard.html`
-- **Appointed CMS date:** `2025-12-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih dan rawat muka billboard sebagai satu sistem dengan detail tepi dan struktur pendukungnya. Jenis muka, sambungan, kelim, mata ayam, profil sistem, sudut, jalur penggantian materi, serta kondisi angin dan lingkungan harus dibaca bersama. Tidak ada nilai tarikan, jarak pengikat, kapasitas angin, atau masa pakai yang aman untuk disalin tanpa rancangan sistem, data lokasi, produk aktual, dan pemeriksaan yang disetujui.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tensioning dan Edge Detail Face Billboard**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar terkelola
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **ID gambar:** `LOCAL-001`
+- **Jenis sumber:** `local`
+- **Penempatan:** setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
-
-### KR-04
-
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-09
-
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-pembuatan-billboard-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-06-01` → `/artikel/baliho-vs-billboard.html` — Baliho dan Billboard: Media, Frame, Structure, atau Semuanya?
-- `ADV-06-03` → `/artikel/konfigurasi-face-billboard.html` — Billboard Satu Sisi, Dua Sisi, V-Shape, dan Multi-Face
-- `ADV-06-04` → `/artikel/akses-changeout-billboard.html` — Akses Penggantian Artwork Billboard
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Keterangan/kredit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Dasar pemilihan:** nama berkas dan metadata sumber menyebut `Jasa Billboard`; piksel tidak diperiksa.
+- **Batas tegas:** jangan menyimpulkan rincian visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil yang tidak terlihat.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tensioning dan Edge Detail Face Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan umum adalah menganggap muka yang rata saat pertama dipasang berarti sistemnya sudah benar. Tampilan awal hanya satu pengamatan. Ia tidak membuktikan bahwa bahan, tepi, pengikat, rangka, sambungan, akses penggantian, dan kondisi paparan sesuai untuk proyek tersebut. Nama "billboard" juga tidak membuktikan lokasi, kepemilikan, struktur, atau kinerja media.
+
+Muka fleksibel meneruskan gaya ke detail tepi, lalu ke pengikat dan rangka. Rangka meneruskannya ke sambungan, penopang, dan kondisi pendukung. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) menjadi dasar untuk melihat jalur beban secara utuh, bukan memperlakukan materi visual sebagai komponen lepas. Kawan Advert.id, bila ada kerusakan atau perubahan bentuk, jangan langsung menyalahkan satu mata ayam atau satu sudut tanpa data.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tensioning dan Edge Detail Face Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Muka fleksibel dapat memakai sistem tepi yang berbeda. Kelim adalah lipatan atau penguatan pada tepi; mata ayam adalah elemen lubang yang dipakai dalam sistem tertentu; profil adalah komponen khusus yang menahan atau menjepit tepi sesuai rancangan. Istilah tersebut menjelaskan bentuk sambungan, bukan izin untuk menukar satu sistem dengan sistem lain tanpa verifikasi.
 
-## Cara kerjanya
+Artikel ini membahas cara membaca antarmuka muka, tepi, dan penegangan. Artikel ini tidak menetapkan nilai tarikan, ukuran muka, jarak pengikat, jenis profil, atau kelayakan rangka. Untuk gaya angin, masukan seperti data wilayah, paparan medan, tinggi, bentuk, arah, perilaku dinamis, kombinasi beban, serta jalur beban memengaruhi rancangan. [ISO 4354](https://www.iso.org/standard/38882.html) memberi kosakata aksi angin, bukan perhitungan atau keputusan penerimaan proyek.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tensioning dan Edge Detail Face Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cara kerja sistem dari muka ke penopang
 
-## Faktor yang mengubah hasil
+Mulailah dengan menulis sistem yang sebenarnya: produk muka, pabrikan, revisi, kumpulan produksi bila relevan, gambar materi visual, detail kelim atau tepi, pengikat atau profil, rangka penerima, sambungan, dan cara penggantian. Lalu cocokkan bagian-bagian itu dengan kondisi lokasi serta rancangan yang disetujui.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tensioning dan Edge Detail Face Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada bidang muka, perhatikan arah materi, sambungan antarbidang bila ada, tepi, sudut, dan area yang bertemu rangka. Pada rangka, periksa apakah gambar menunjukkan antarmuka yang sama dengan sistem muka yang diajukan. Pada pemasangan, catat urutan kerja, akses, perlindungan area publik, perubahan cuaca, serta cara memeriksa hasil tanpa membuat keputusan di luar kewenangan tim.
+
+Sobat Advert.id, jangan menganggap pengelasan pada rangka otomatis membuktikan kualitas seluruh sistem. Kendali pekerjaan las mencakup rancangan, identitas bahan, prosedur, kemampuan personel, kondisi kerja, pemeriksaan, perbaikan, dan keterlacakan sebagai unsur yang berbeda. [ISO 3834-2](https://www.iso.org/standard/81651.html) mendukung pemisahan bukti-bukti ini; standar tersebut bukan sertifikat untuk rangka tertentu.
+
+## Faktor yang mengubah kondisi muka dan tepi
+
+Air, debu, panas, paparan lingkungan, sambungan, tepi, celah, dan akses pembersihan dapat mengubah kebutuhan perawatan maupun pemeriksaan. Kondisi yang menahan air atau menyulitkan akses perlu dicatat sebagai kondisi sistem, bukan diputuskan dari nama bahan. [ISO 12944-2](https://www.iso.org/standard/64834.html) menempatkan lingkungan sebagai masukan pemilihan sistem pelindung, sedangkan [ISO 12944-7](https://www.iso.org/standard/64837.html) menekankan pelaksanaan dan pemeriksaan. Keduanya tidak membuktikan umur pakai atau ketahanan muka billboard tertentu.
+
+Perubahan materi visual juga perlu direncanakan. Jika materi diganti, periksa ulang apakah desain, produk muka, detail tepi, cara akses, dan catatan pemeriksaan masih sesuai dengan sistem yang disetujui. Jangan gunakan proses penggantian sebagai kesempatan untuk mencampur produk atau detail tanpa bukti kesesuaian.
+
+Teman Advert.id, akses yang aman adalah bagian dari desain operasi. Bila penggantian atau pemeriksaan membutuhkan kerja pada ketinggian, dekat lalu lintas, atau di area publik, rencana tugas harus mencakup akses, cuaca, zona pengamanan, benda jatuh, komunikasi, serta keadaan darurat. [Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) menguatkan pendekatan manajemen keselamatan, tetapi bukan metode kerja pengganti untuk lokasi spesifik.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tensioning dan Edge Detail Face Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan pemilik melihat kerutan pada salah satu bagian muka dan meminta tim "tarik saja sampai rata". Respons yang baik bukan memberi nilai tarikan dari kebiasaan. Pisahkan informasi yang diperlukan.
+
+| Pertanyaan | Bukti atau pemeriksaan yang dibutuhkan | Keputusan yang ditahan |
+| --- | --- | --- |
+| Sistem muka apa yang terpasang? | Identitas produk, detail tepi, gambar, dan riwayat perubahan | Penggantian bahan atau komponen dengan perkiraan |
+| Di mana perubahan terlihat? | Foto/denah berlabel, kondisi sudut, tepi, sambungan, dan rangka | Menentukan penyebab hanya dari satu foto |
+| Bagaimana akses dan kondisi sekitar? | Rencana akses, cuaca, area publik, dan tindakan pengamanan | Mengerjakan dari posisi atau metode yang belum disetujui |
+| Apakah rangka dan sambungan terkait? | Gambar, catatan pemeriksaan, dan telaah pihak berkompeten | Menyimpulkan kapasitas atau kinerja angin |
+
+Jika pembaca ingin memulai pembicaraan layanan setempat, [pembuatan billboard di Wonogiri](/jasa-pembuatan-billboard-di-wonogiri) dapat menjadi pintu awal. Halaman tersebut tetap bukan bukti bahwa sistem muka tertentu cocok dengan struktur dan kondisi lokasi tertentu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tensioning dan Edge Detail Face Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas pertama adalah menyeragamkan semua muka fleksibel. Kelim, mata ayam, dan profil bukan nama yang bisa dipertukarkan begitu saja; tiap sistem perlu diperiksa pada produk, detail, dan rancangan yang tepat. Jalan pintas kedua adalah menilai kerutan sebagai masalah visual semata. Kerutan dapat menjadi alasan untuk meninjau materi, sambungan, rangka, akses, atau kondisi lingkungan, tanpa menebak penyebabnya.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah hanya memeriksa bidang tengah. Sudut, tepi, sambungan, pengikat, dan area yang sulit diakses justru perlu masuk catatan pemeriksaan. [ISO 12944-8](https://www.iso.org/standard/64838.html) membantu kerangka spesifikasi dan pemeliharaan, tetapi tidak memberi kesimpulan tentang kapasitas atau sisa umur sistem yang belum diperiksa.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+[NEEDS REVIEW: Rancangan insinyur sesuai lokasi, bukti penopang/rangka, produk dan detail sistem aktual, kondisi paparan, rencana akses serta keselamatan kerja, persetujuan yang berlaku, dan catatan pemeriksaan harus tersedia sebelum tegangan, metode, kinerja angin, atau kelayakan sistem disimpulkan.]
 
-## Required conclusion
+## Langkah sebelum memasang atau memperbaiki
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Penegangan muka billboard adalah hubungan antara materi visual, detail tepi, pengikat, rangka, lingkungan, dan akses kerja. Nilai yang terlihat rapi tidak menggantikan bukti sistem. Sebelum memasang, mengganti, atau menangani kerusakan, kumpulkan gambar yang disetujui, identitas produk, detail tepi, kondisi lokasi, rencana akses, dan catatan pemeriksaan.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Kawan Advert.id, aturan kerjanya sederhana: jangan menarik, mengganti, atau memodifikasi muka berdasarkan perkiraan. Cocokkan seluruh sistem dengan rancangan dan bukti proyek, lalu minta pemeriksaan kompeten ketika ada keraguan pada struktur atau keselamatan.

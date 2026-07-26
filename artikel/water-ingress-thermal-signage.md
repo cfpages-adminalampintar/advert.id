@@ -1,9 +1,10 @@
 ---
 article_id: ADV-10-04
-title: "Water Ingress dan Thermal Management pada Enclosure Signage"
+title: "Masuknya Air dan Perilaku Panas pada Kabinet Signage"
 slug: "water-ingress-thermal-signage"
-description: "Trace rain/condensation/drainage, seals/cable glands, ventilation/heat paths, filters, access, corrosion, monitoring and test evidence"
-status: outline
+description: "Cara menelusuri jalur air dan panas pada kabinet signage melalui sambungan, kabel, ventilasi, akses, dan bukti pemeriksaan sistem."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-04-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,201 +15,90 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/water-ingress-thermal-signage.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
+  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Masuknya Air dan Perilaku Panas pada Kabinet Signage
 
-# Water Ingress dan Thermal Management pada Enclosure Signage
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Kabinet signage luar ruang bukan hanya kotak untuk menaruh lampu, modul, atau kabel. Ia adalah pertemuan antara air hujan, uap air, sambungan, jalur kabel, panas dari peralatan, udara di dalam kabinet, permukaan luar, serta akses perawatan. Masuknya air berarti air atau kelembapan mencapai bagian yang tidak dirancang untuk menerimanya. Perilaku panas berarti bagaimana panas muncul, bergerak, dan dilepas atau tertahan dalam susunan yang sebenarnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Water Ingress dan Thermal Management pada Enclosure Signage”
-- **Reader and situation:** Designer of outdoor illuminated/digital systems
-- **Reader outcome:** Trace rain/condensation/drainage, seals/cable glands, ventilation/heat paths, filters, access, corrosion, monitoring and test evidence
-- **Primary intent:** Prevent enclosure-driven failures
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No IP rating, vent size or temperature limit without tested product/system data
-- **Final public route:** `/artikel/water-ingress-thermal-signage.html`
-- **Appointed CMS date:** `2026-04-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: telusuri jalur air dan jalur panas sebagai satu sistem, lalu cocokkan kabinet, seal, *cable gland* atau pengunci masuk kabel, ventilasi, filter, komponen listrik, rangka, dan akses perawatan dengan produk serta rancangan aktual. Tidak ada peringkat IP, ukuran ventilasi, batas suhu, umur sealant, atau hasil uji yang bisa ditetapkan dari bentuk kabinet atau nama komponen saja.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Water Ingress dan Thermal Management pada Enclosure Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar terkelola
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **ID gambar:** `LOCAL-001`
+- **Jenis sumber:** `local`
+- **Penempatan:** setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-04
-
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-11
-
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
-
-### KR-12
-
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-17
-
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-10-02` → `/artikel/brightness-glare-dimming-signage.html` — Brightness, Luminance, Glare, dan Dimming Signage
-- `ADV-10-03` → `/artikel/routing-kabel-signage.html` — Routing Kabel dan Penetration untuk Signage
-- `ADV-10-05` → `/artikel/control-signage-berlampu.html` — Timer, Sensor, Dimming, dan Remote Control Signage
-- `ADV-10-06` → `/artikel/commissioning-electrical-signage.html` — Test Record Electrical dan Lighting Saat Commissioning
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Keterangan/kredit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Dasar pemilihan:** nama berkas dan metadata sumber menyebut `Jasa Billboard`; piksel tidak diperiksa.
+- **Batas tegas:** jangan menyimpulkan rincian visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil yang tidak terlihat.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Water Ingress dan Thermal Management pada Enclosure Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan yang sering terjadi adalah menganggap kabinet tertutup otomatis tahan terhadap air dan panas. Bukaan pintu, sambungan panel, penetrasi kabel, bagian bawah kabinet, area ventilasi, dan pertemuan bahan dapat menjadi antarmuka yang perlu dirancang serta diperiksa. Begitu pula, menambah ventilasi tanpa membaca jalur air, debu, akses, dan kebutuhan peralatan dapat memindahkan masalah, bukan menyelesaikannya.
+
+Sobat Advert.id, spesifikasi sebuah modul atau gambar produk tidak membuktikan kinerja sistem yang sudah terpasang. Halaman pratinjau [IEC 62368-1 edisi 2023](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzY4LTF7ZWQ0LjB9Yi5wZGY%3D) menunjukkan standar produk yang relevan, tetapi bukan rancangan listrik, laporan uji, atau penerimaan suatu konfigurasi signage.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Water Ingress dan Thermal Management pada Enclosure Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kabinet atau *enclosure* adalah rumah yang mengelilingi komponen. Seal adalah bahan atau susunan yang membantu membatasi jalur masuk pada sambungan. *Cable gland* adalah komponen yang mengatur masuknya kabel melalui bukaan. Ventilasi adalah jalur pertukaran udara; ia perlu dibaca bersama risiko air, debu, panas, dan cara perawatan. Kondensasi adalah perubahan uap air menjadi air pada kondisi tertentu—kemungkinannya perlu dianalisis pada sistem, bukan ditebak dari satu foto.
 
-## Cara kerjanya
+Artikel ini membahas pertanyaan yang perlu diajukan pada desain dan inspeksi, bukan cara menetapkan peringkat perlindungan atau melakukan perbaikan listrik. Untuk sistem bertegangan, catat pasokan, perlindungan, pembumian, rute kabel, panas, air/debu, konteks petir atau lonjakan, pengisolasian, serta akses kerja. Pekerjaan perlu dilakukan oleh orang yang kompeten sesuai dasar keselamatan yang berlaku, termasuk konteks [Permenaker Nomor 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015).
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Water Ingress dan Thermal Management pada Enclosure Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cara membaca jalur air dan panas
+
+Mulailah dari luar menuju dalam. Catat arah air yang mungkin mengenai permukaan, sambungan, pintu, bagian bawah, tepi, dan setiap bukaan. Setelah itu, petakan bagian mana yang dapat membawa kabel, udara, atau air menuju komponen. Jangan lupa air dapat terkait dengan hujan, pembersihan, kebocoran dari bagian lain, atau kelembapan dalam kabinet; sumber sebenarnya harus dibuktikan melalui pemeriksaan.
+
+Kemudian baca jalur panas. Identifikasi komponen yang menghasilkan panas menurut data produk, ruang di sekelilingnya, jalur udara yang dirancang, bagian yang dapat menahan panas, serta akses untuk membersihkan atau memeriksa. Tidak cukup berkata kabinet "berventilasi"; perlu ada rancangan sistem, identitas produk, konfigurasi, dan bukti yang sesuai untuk menyimpulkan kecukupannya.
+
+Teman Advert.id, setiap perubahan seperti mengganti modul, menambah kabel, menutup bukaan, mengganti seal, atau memindahkan filter dapat mengubah jalur air dan panas. Catat perubahan, gambar yang dipakai, pihak yang menyetujui, serta pemeriksaan yang dibutuhkan. Jangan memperlakukan perubahan kecil sebagai bebas dari dampak sistem.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Water Ingress dan Thermal Management pada Enclosure Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lingkungan lokasi memengaruhi pertanyaan inspeksi: paparan hujan, debu, panas matahari, arah angin, korosi, vegetasi, akses pembersihan, dan kondisi sekitar. Sambungan, celah, tepi, lapisan pelindung, perbedaan bahan, dan akses pemeliharaan juga perlu dicatat. [ISO 12944-8](https://www.iso.org/standard/64838.html) memberi kerangka spesifikasi serta pemeliharaan sistem pelindung, tetapi bukan bukti bahwa kabinet tertentu bebas korosi atau akan bertahan selama waktu tertentu.
+
+Hubungan kabinet dengan bangunan atau struktur pendukung tidak boleh dilupakan. Jalur beban dan kondisi eksisting tetap perlu dipertimbangkan pada desain yang berlaku; [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) mengingatkan bahwa komponen signage tidak berdiri sendiri dari penopang dan kondisinya.
+
+Kawan Advert.id, akses adalah bagian dari keandalan. Bila pintu, filter, kabel, atau komponen hanya bisa diperiksa melalui akses berisiko, masalah kecil lebih mungkin tertunda. Catat ruang kerja, rute menuju kabinet, area publik, cuaca, serta kebutuhan pengisolasian sebelum menyetujui pekerjaan pemeriksaan atau perbaikan.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Water Ingress dan Thermal Management pada Enclosure Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan terlihat kelembapan pada kabinet setelah periode hujan. Jangan langsung menyatakan seal gagal atau menggantinya tanpa dasar. Buat catatan keputusan.
+
+| Pertanyaan | Bukti yang dicari | Kesimpulan yang ditahan |
+| --- | --- | --- |
+| Dari mana kemungkinan air masuk? | Catatan cuaca, lokasi temuan, gambar sambungan/bukaan, dan inspeksi kompeten | Penyebab tunggal atau metode perbaikan |
+| Apa yang berada di dekat temuan? | Rute kabel, komponen, perlindungan, dan catatan pengisolasian | Kondisi aman untuk disentuh atau dikerjakan |
+| Adakah perubahan sistem sebelumnya? | Revisi gambar, produk, konfigurasi, dan catatan kerja | Kesetaraan dengan konfigurasi awal |
+| Bagaimana akses pemeriksaan? | Rencana akses, kondisi publik, cuaca, dan pengendalian kerja | Uji atau perbaikan spontan |
+
+Halaman [signage](/signage/) dapat membantu memulai kebutuhan sistem secara umum. Namun, halaman itu tidak membuktikan kabin tertentu memiliki peringkat perlindungan, konfigurasi listrik yang tepat, atau hasil uji yang lulus.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Water Ingress dan Thermal Management pada Enclosure Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas pertama adalah menutup semua bukaan agar air tidak masuk. Pendekatan itu dapat mengubah pertukaran udara dan perilaku panas, sehingga tidak boleh dilakukan tanpa melihat rancangan serta produk aktual. Jalan pintas kedua adalah menambah bukaan untuk mengatasi panas tanpa mempertimbangkan rute air, debu, filter, dan akses. Keduanya perlu dibaca sebagai perubahan sistem.
 
-## Objection or shortcut to address
+Kesalahan lain adalah menganggap foto lembap, korosi, atau panas yang terasa sebagai diagnosis lengkap. Foto membantu mencatat gejala, tetapi tidak menetapkan sumber, tingkat bahaya, penyebab, kapasitas tersisa, atau tindakan perbaikan. Bila ada potensi bahaya listrik, isolasikan sesuai prosedur yang berlaku dan minta pemeriksaan berkompeten.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk pekerjaan akses, listrik, atau area publik, jangan membuat metode lapangan dari artikel ini. [Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) mendukung pengelolaan keselamatan yang sesuai, sedangkan rencana tugas, personel, peralatan, izin, dan keadaan darurat harus ditentukan bagi lokasi sebenarnya.
 
-## Required conclusion
+[NEEDS REVIEW: Dasar listrik Indonesia yang berlaku, desain/instalasi oleh pihak kompeten, identitas dan konfigurasi peralatan tepat, laporan produk serta pengujian asli, jalur air dan panas pada lokasi, akses aman, catatan inspeksi, dan prosedur pengisolasian harus tersedia sebelum peringkat IP, batas suhu, hasil uji, kelayakan, atau tindakan perbaikan disimpulkan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah sebelum menutup atau membuka kabinet
 
-## Draft completion checklist
+Masuknya air dan perilaku panas adalah persoalan antarmuka: kabinet, sambungan, kabel, udara, komponen, lingkungan, dan akses perlu cocok sebagai satu sistem. Sebelum mengubah seal, bukaan, kabel, atau komponen, kumpulkan gambar yang berlaku, data produk, kondisi lokasi, riwayat perubahan, serta dasar inspeksi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Advert.id, aturan kerjanya: jangan menarik kesimpulan dari kabinet yang tampak tertutup. Telusuri jalurnya, tahan perubahan yang belum didukung bukti, dan libatkan pemeriksaan kompeten saat air, panas, atau listrik menjadi pertanyaan.

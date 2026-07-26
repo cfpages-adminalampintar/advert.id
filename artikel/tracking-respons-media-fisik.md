@@ -1,9 +1,10 @@
 ---
 article_id: ADV-02-04
-title: "Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik"
+title: "Melacak Respons QR, Tautan Pendek, Telepon, dan Kode Promo di Media Fisik"
 slug: "tracking-respons-media-fisik"
-description: "Compare trackable CTAs, unique identifiers, baseline, attribution windows, offline leakage, privacy and QA"
-status: outline
+description: "Cara merancang ajakan bertindak yang dapat dilacak pada media fisik, mencatat respons, dan membaca hasil tanpa mengklaim sebab-akibat berlebihan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -18,181 +19,88 @@ sources:
   - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://www.iso.org/news/ref2369.html"
   - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Melacak Respons QR, Tautan Pendek, Telepon, dan Kode Promo di Media Fisik
 
-# Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik
+Halo, Teman Advert.id!
 
-## Assignment lock
+Media fisik dapat mengarahkan orang ke tindakan yang lebih mudah dicatat: memindai kode QR, membuka tautan pendek, menelepon nomor khusus, atau menyebut kode promo. Namun catatan tindakan bukan bukti otomatis bahwa billboard, poster, kendaraan, atau media lainlah satu-satunya penyebabnya. Orang mungkin melihat pesan di tempat lain, berbagi tautan, atau datang melalui saluran berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”
-- **Reader and situation:** Marketer needing attributable actions
-- **Reader outcome:** Compare trackable CTAs, unique identifiers, baseline, attribution windows, offline leakage, privacy and QA
-- **Primary intent:** Design response tracking
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not prove causal lift or replace consent/privacy review
-- **Final public route:** `/artikel/tracking-respons-media-fisik.html`
-- **Appointed CMS date:** `2025-09-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: gunakan satu ajakan bertindak yang jelas, pengenal unik untuk pertanyaan yang ingin dijawab, dan catatan cara data dikumpulkan. Tetapkan pemilik catatan, tujuan, periode, cara membaca hasil, penanganan keluhan atau insiden, serta batas privasi sebelum media dipasang. Hasilnya membantu menelusuri respons; ia tidak menggantikan persetujuan pemilik, telaah privasi, atau bukti dampak kausal.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar terkelola
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **ID gambar:** `LOCAL-001`
+- **Jenis sumber:** `local`
+- **Penempatan:** setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-12
-
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Dated campaign data, substantiated content, baseline, method, budget, and owner approval
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-02-02` → `/artikel/memilih-media-berdasarkan-audience-journey.html` — Memilih Media Advertising Berdasarkan Audience Journey
-- `ADV-02-03` → `/artikel/kpi-outdoor-advertising.html` — KPI Outdoor Advertising: Exposure Bukan Otomatis Dilihat
-- `ADV-02-05` → `/artikel/evaluasi-before-after-billboard.html` — Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang
-- `ADV-02-06` → `/artikel/message-hierarchy-media-outdoor.html` — Message Hierarchy untuk Media yang Dilihat Singkat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Keterangan/kredit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Dasar pemilihan:** nama berkas dan metadata sumber menyebut `Jasa Billboard`; piksel tidak diperiksa.
+- **Batas tegas:** jangan menyimpulkan rincian visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil yang tidak terlihat.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+QR, tautan, nomor telepon, dan kode promo adalah alat pembeda jalur respons. Kode QR membawa orang ke alamat digital; tautan pendek memudahkan alamat diingat; nomor khusus membantu memilah panggilan; kode promo membantu mencatat penyebutan ketika transaksi atau pertanyaan terjadi. Semua perlu dihubungkan dengan tujuan yang jelas, misalnya kunjungan, pertanyaan, atau penukaran kode.
 
-## Definisi dan batas objek
+Yang sering keliru adalah melaporkan semua klik sebagai penjualan atau semua panggilan sebagai akibat satu media. Jangkauan, kesempatan melihat, perhatian, kunjungan, prospek, transaksi, dan penjualan adalah ukuran yang berbeda. Ringkasan [ISO 20252](https://www.iso.org/news/ref2369.html) dan catatan [ISO/TC 225](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html) mendukung perlunya menjelaskan populasi, periode, metode, pengecualian, serta ketidakpastian saat melaporkan pengukuran.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Definisi dan batas pencatatan
 
-## Cara kerjanya
+Ajakan bertindak adalah instruksi yang diminta dari pembaca, misalnya memindai QR atau menyebut kode. Pengenal unik adalah kode atau alamat yang dibedakan untuk satu media, lokasi, atau versi pesan. Sebelum membuatnya, tulis satu pertanyaan operasional: "respons apa yang ingin dicatat?" Tanpa pertanyaan itu, pengenal unik hanya menambah tautan dan laporan tanpa keputusan yang jelas.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pencatatan juga perlu membedakan fakta yang dikumpulkan dari penafsirannya. Catatan dapat menunjukkan bahwa sebuah kode dipakai atau sebuah nomor dihubungi pada periode tertentu. Catatan itu belum membuktikan siapa yang melihat media, mengapa orang bertindak, atau apakah penjualan naik karena media tersebut.
 
-## Faktor yang mengubah hasil
+Teman Advert.id, media dan cara belinya tidak boleh menyamarkan informasi penting kepada pengguna. Ketentuan perlindungan konsumen dan perdagangan melalui sistem elektronik tetap relevan pada konteksnya, termasuk [UU Nomor 8 Tahun 1999](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) dan [PP Nomor 80 Tahun 2019](https://peraturan.bpk.go.id/Details/126143/pp-no-80). Artikel ini tidak menetapkan kewajiban spesifik untuk suatu kampanye.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cara menyusun alur respons yang dapat ditelusuri
+
+Mulailah dari satu media, satu pesan, dan satu tindakan utama. Tentukan pengenal yang dipakai, halaman atau nomor tujuan, pemilik sistem, dan catatan yang memang dibutuhkan. Uji tujuan sebelum materi dicetak atau dipasang: apakah QR mengarah ke alamat yang benar, tautan pendek dapat dibuka, nomor dapat menerima pertanyaan, dan kode dibaca oleh proses yang disepakati.
+
+Lalu buat register respons sederhana. Setiap catatan minimal membedakan pengenal, waktu penerimaan, jenis respons, sumber bukti, status tindak lanjut, dan pihak yang memegang catatan. Jika muncul keluhan atau insiden—misalnya tujuan salah, konten tidak sesuai, atau informasi pribadi masuk ke saluran yang keliru—catat peristiwanya, bukti yang relevan, tingkat keparahan menurut aturan internal yang berlaku, pemilik penanganan, jalur eskalasi, tindakan yang dicatat, dan dasar penutupan. Jangan menulis kasus "selesai" hanya karena pesan balasan telah dikirim.
+
+Kawan Advert.id, respons cepat mungkin diinginkan, tetapi jangan menjanjikan jam layanan, kewajiban hukum, atau hasil penanganan yang tidak tercantum dalam persetujuan dan kemampuan operasional yang nyata. Alur yang baik menyatakan siapa yang menerima, kapan kasus ditinjau menurut ketentuan yang berlaku, kapan perlu diteruskan, dan bukti apa yang diperlukan untuk menutupnya.
+
+## Faktor yang mengubah pembacaan hasil
+
+Pengenal dapat bocor dari media asalnya: QR difoto dan dibagikan, tautan dikirim ulang, atau kode disebut di luar lokasi. Karena itu, jangan menyebut seluruh respons sebagai respons eksklusif dari satu papan. Catat pula perubahan materi, lokasi, periode, harga, promosi lain, gangguan sistem, serta perubahan cara pencatatan agar laporan tidak membandingkan kondisi yang berbeda.
+
+Privasi perlu diputuskan sebelum mengumpulkan lebih banyak data daripada yang diperlukan. Pikirkan apakah nomor telepon, isi pesan, alamat, atau data lain masuk ke pencatatan; siapa yang dapat melihatnya; berapa lama catatan disimpan; dan bagaimana keluhan tentang data diteruskan. [UU Nomor 1 Tahun 2024](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024) adalah alasan untuk melakukan telaah aturan dan persetujuan yang sesuai, bukan jawaban siap pakai tentang hak atau masa simpan pada setiap kegiatan.
+
+Sobat Advert.id, pemilik media, pemilik pesan, dan pengelola kanal tujuan bisa berbeda. Tetapkan siapa yang boleh mengubah QR, menerbitkan konten, melihat catatan, menjawab keluhan, dan menyetujui penutupan insiden. Tanpa pembagian itu, data bisa ada tetapi tidak ada orang yang bertanggung jawab memperbaikinya.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalnya, satu kampanye memakai QR untuk halaman promosi dan kode promo untuk pertanyaan di toko. Buat keputusan berdasarkan bukti yang terbaca, bukan jumlah angka semata.
+
+| Pertanyaan | Pengaturan yang dicatat | Batas kesimpulan |
+| --- | --- | --- |
+| Respons apa yang diukur? | Tujuan, pengenal unik, periode, dan sumber catatan | Bukan bukti dampak penjualan otomatis |
+| Siapa yang mengelola QR atau nomor? | Pemilik kanal dan jalur perubahan | Bukan jaminan layanan selalu tersedia |
+| Jika ada keluhan atau salah tujuan? | Bukti, pemilik kasus, eskalasi, tindakan, dan dasar penutupan | Bukan penetapan tanggung jawab hukum |
+| Data apa yang masuk? | Tujuan penggunaan, akses, dan telaah privasi | Bukan izin untuk mengumpulkan semua data |
+
+Untuk gambaran layanan media, pembaca dapat kembali ke [halaman utama Advert.id](/). Halaman itu bukan pengganti rancangan pengukuran, persetujuan konten, maupun pengaturan data kampanye tertentu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membuat banyak QR untuk banyak hal tanpa register. Saat ada perubahan alamat atau keluhan, tim tidak tahu kode mana yang masih aktif dan pemiliknya siapa. Simpan daftar pengenal, tujuan, versi materi, pemilik, serta statusnya.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah menyamakan angka respons dengan efektivitas media. Periksa periode, metode, kondisi pembanding, perubahan promosi, sumber lain, dan respons yang tidak tercatat. Jika dasar pembanding belum ada, laporkan sebagai catatan respons, bukan peningkatan atau dampak.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menutup laporan insiden tanpa bukti. Biar tidak salah langkah, simpan catatan penerimaan, bukti yang diperiksa, pihak yang menangani, keputusan yang disetujui, dan alasan penutupan sesuai proses yang berlaku.
 
-## Required conclusion
+[NEEDS REVIEW: Data kampanye bertanggal, konten yang telah dibuktikan, kondisi pembanding, metode pencatatan, anggaran, persetujuan pemilik, pengaturan privasi, dan alur eskalasi/penutupan harus tersedia sebelum hasil atau tanggung jawab kampanye disimpulkan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah sebelum media dipasang
 
-## Draft completion checklist
+Pencatatan respons yang baik bukan soal menaruh QR sebanyak mungkin. Pilih tindakan utama, buat pengenal yang jelas, uji tujuan, dan siapkan register untuk respons, perubahan, keluhan, serta insiden. Setelah itu, laporkan angka bersama metode dan keterbatasannya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Advert.id, aturan kerjanya: setiap pengenal harus punya tujuan, pemilik, bukti, dan jalur perbaikan. Tanpa empat hal itu, angka respons mudah terlihat meyakinkan tetapi sulit dipakai mengambil keputusan.

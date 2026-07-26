@@ -1,9 +1,10 @@
 ---
 article_id: ADV-03-03
-title: "Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca"
+title: "Menguji Kemudahan Dibaca pada Signage"
 slug: "uji-legibility-signage"
-description: "Define representative viewers, distance/angle, exposure time, lighting/background, typography, contrast, mock-up and acceptance record"
-status: outline
+description: "Cara memeriksa kemudahan dibaca signage dalam kondisi pengguna, arah pandang, cahaya, latar, dan isi yang nyata."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,190 +18,90 @@ sources:
   - "https://www.iso.org/news/ref2369.html"
   - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Menguji Kemudahan Dibaca pada Signage
 
-# Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Kemudahan dibaca (*legibility*) berarti seberapa mudah orang mengenali dan membaca isi signage dalam kondisi pemakaian yang nyata. Desain yang jelas di layar belum tentu jelas saat dilihat dari jalur datang pengguna, dengan sudut tertentu, latar ramai, cahaya berubah, atau waktu melihat yang singkat.
 
-- **Writer task:** Expand this file into one complete article answering: “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”
-- **Reader and situation:** Designer reviewing a full-size design
-- **Reader outcome:** Define representative viewers, distance/angle, exposure time, lighting/background, typography, contrast, mock-up and acceptance record
-- **Primary intent:** Test whether content is readable in context
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal letter-size formula; project testing owns acceptance
-- **Final public route:** `/artikel/uji-legibility-signage.html`
-- **Appointed CMS date:** `2025-10-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: uji kemudahan dibaca perlu dimulai dari siapa pengguna yang diwakili, dari arah mana mereka melihat, pesan apa yang perlu dipahami, serta kondisi cahaya dan latar yang benar-benar dihadapi. Hasilnya adalah catatan pengamatan untuk keputusan desain. Ia bukan rumus ukuran huruf universal, hasil kepatuhan, atau persetujuan proyek tanpa bukti lokasi, pengguna, dan pihak berwenang yang sesuai.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar terkelola
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **ID gambar:** `LOCAL-001`
+- **Jenis sumber:** `local`
+- **Penempatan:** setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-04
-
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-05
-
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-17
-
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-03-01` → `/artikel/checklist-survey-lokasi-signage.html` — Checklist Survey Lokasi Signage dan Advertising Outdoor
-- `ADV-03-02` → `/artikel/sightline-approach-path-signage.html` — Sightline dan Approach Path untuk Penempatan Signage
-- `ADV-03-04` → `/artikel/audit-day-night-signage.html` — Audit Day-Night untuk Signage Berlampu
-- `ADV-03-05` → `/artikel/survey-substrate-fixing-signage.html` — Survey Substrate dan Area Fixing Signage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Keterangan/kredit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Dasar pemilihan:** nama berkas dan metadata sumber menyebut `Jasa Billboard`; piksel tidak diperiksa.
+- **Batas tegas:** jangan menyimpulkan rincian visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil yang tidak terlihat.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan yang tepat bukan "berapa besar hurufnya?" melainkan "siapa perlu membaca apa, kapan, dari arah mana, dan dalam kondisi apa?" Pengemudi, pejalan kaki, pengunjung yang mencari arah, atau petugas yang mencari informasi dapat memiliki konteks yang berbeda. Isi yang panjang juga mengubah tugas pembaca: satu pesan utama mungkin harus dipahami cepat, sedangkan informasi pendukung bisa dibaca setelah orang berhenti.
 
-## Definisi dan batas objek
+Sobat Advert.id, jangan mengambil ukuran huruf dari proyek lain lalu menyebutnya pasti cukup. Jalan, arah pengguna, kecepatan konteks, hambatan, latar, cahaya siang-malam, serta desain isi dapat mengubah hasil. [UU Nomor 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) mengingatkan bahwa konteks jalan punya kewenangan dan keselamatan sendiri; artikel ini tidak menetapkan jarak pandang atau persetujuan penempatan.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Definisi dan batas pengujian
 
-## Cara kerjanya
+Uji kemudahan dibaca adalah pemeriksaan yang direncanakan untuk melihat apakah pesan dapat dikenali oleh pengguna yang mewakili dalam konteks yang ditentukan. Catat tujuan uji, pengguna, isi yang diuji, lokasi atau simulasi, periode, cara pengamatan, kondisi yang dikecualikan, dan keterbatasannya. Bedakan pembacaan isi dari metrik lain seperti jangkauan, perhatian, ingatan, kunjungan, atau penjualan.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+[ISO 20252](https://www.iso.org/news/ref2369.html) dan catatan [ISO/TC 225](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html) mendukung pentingnya tujuan, metode, sampel, periode, dan pelaporan batas pengukuran. Keduanya bukan standar desain signage atau bukti bahwa satu pengujian memenuhi semua kebutuhan aksesibilitas maupun kepatuhan.
+
+Artikel ini tidak menetapkan ambang font, kontras, jarak, atau waktu baca. Pihak pemilik, pengelola lokasi, otoritas, dan peninjau yang relevan tetap menentukan kebutuhan serta penerimaan proyek.
+
+## Cara menjalankan pemeriksaan yang berguna
+
+Pertama, tetapkan pesan prioritas. Jika pembaca hanya sempat menangkap satu hal, apa yang harus tersampaikan? Setelah itu, tulis pengguna yang mewakili dan situasi melihatnya. Jangan menyebut "semua orang" karena tujuan seperti itu sulit diuji dan mudah menyembunyikan kebutuhan pengguna yang berbeda.
+
+Kedua, buat *mock-up*, yaitu contoh visual pada ukuran atau bentuk yang cukup untuk memeriksa hubungan pesan dengan konteks. Gunakan karya grafis versi yang jelas. Simpan berkas sumber, font atau lisensi, ukuran/skala, definisi warna, proses keluaran, bahan, revisi, serta contoh persetujuan. [Panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) membantu mengendalikan berkas dan proses produksi, tetapi tidak menjanjikan warna atau keterbacaan yang sama di semua media dan cahaya.
+
+Ketiga, catat kondisi yang memengaruhi pembacaan: arah datang, sudut lihat, penghalang, latar, pantulan, cahaya, waktu pengamatan, dan perubahan isi. Minta peserta atau pengamat menjawab tugas sederhana yang telah disepakati, lalu simpan respons, kondisi, dan keterbatasannya. Kawan Advert.id, jangan menyempurnakan hasil dengan menyingkirkan catatan yang tidak nyaman; justru perbedaan itulah bahan untuk memperbaiki desain atau memperjelas batas penggunaannya.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tipografi, kontras, susunan pesan, dan ruang kosong saling bekerja. Kontras tidak hanya soal dua warna, tetapi juga hubungan isi dengan latar, material, pantulan, dan cahaya. Isi yang sudah disetujui secara grafis masih dapat perlu disusun ulang apabila pengujian menunjukkan pesan utama tenggelam dalam konteks nyata.
+
+Cahaya dan kondisi permukaan juga perlu dicatat. Latar dapat berubah karena bayangan, vegetasi, kendaraan lain, cuaca, atau pencahayaan sekitar. Jangan memakai satu foto sebagai bukti sepanjang hari. Jika terdapat risiko kerusakan pada muka, film, pencahayaan, atau akses, catat kondisi tersebut dan jangan menyimpulkan penyebab, kapasitas, atau perbaikan dari foto saja. [ISO 12944-8](https://www.iso.org/standard/64838.html) memberi kerangka spesifikasi dan pemeliharaan, bukan hasil inspeksi untuk unit tertentu.
+
+Teman Advert.id, aksesibilitas tidak boleh dibiarkan sebagai kata tambahan di akhir. Tentukan siapa pengguna yang mungkin kesulitan melihat atau memahami pesan, kondisi apa yang perlu diperhatikan, dan siapa yang menelaah kebutuhan itu. Jangan menyatakan desain sudah inklusif atau patuh tanpa dasar yang sesuai.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah signage harus memberi arah dan nama tujuan di area dengan banyak latar visual. Tim tidak perlu langsung mengganti semua elemen. Buat catatan keputusan berikut.
+
+| Temuan saat pemeriksaan | Pertanyaan perbaikan | Bukti yang disimpan |
+| --- | --- | --- |
+| Pesan utama terlambat dikenali | Apakah urutan pesan, kontras, atau latar perlu ditinjau? | Versi karya, kondisi lihat, dan respons pengamat |
+| Sudut tertentu terhalang | Apakah posisi, informasi, atau jalur datang perlu diperiksa? | Foto/denah berlabel dan kondisi lokasi |
+| Hasil berubah saat cahaya berbeda | Kondisi mana yang harus masuk batas uji atau desain? | Waktu, pencahayaan, material, dan catatan pengamatan |
+| Pengguna berbeda memberi respons berbeda | Siapa pengguna prioritas dan tugas apa yang harus berhasil? | Definisi pengguna, metode, serta keterbatasan |
+
+Halaman [signage](/signage/) dapat membantu memulai percakapan kebutuhan media. Namun, halaman itu bukan bukti bahwa suatu desain telah mudah dibaca di lokasi, oleh pengguna, atau dalam kondisi pencahayaan tertentu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang paling umum adalah menilai dari layar komputer atau satu simulasi bersih. Layar tidak memuat arah datang, latar yang bergerak, cahaya lokasi, dan pengguna nyata. Periksa kembali pada konteks yang mendekati penggunaan, lalu tulis batas simulasinya bila lokasi belum tersedia.
 
-## Objection or shortcut to address
+Kesalahan berikutnya adalah mengejar banyak elemen sekaligus. Jika tugas utama pembaca tidak jelas, pengujian sulit menjawab apa pun. Pisahkan nama, arah, penawaran, nomor, atau informasi pendukung menurut urutan yang memang dibutuhkan pengguna.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk pemeriksaan di lokasi yang menyentuh area publik, akses, atau risiko kerja, jangan membuat uji spontan tanpa pengendalian. [Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) mendukung pengelolaan keselamatan yang sesuai, tetapi rencana tugas, akses, dan pengendalian risiko tetap harus ditetapkan untuk lokasi sebenarnya.
 
-## Required conclusion
+[NEEDS REVIEW: Bukti lokasi, pengguna, lalu lintas atau arah datang, kondisi pencahayaan, isi yang disetujui, kebutuhan aksesibilitas, kewenangan pemilik/otoritas, metode uji, dan telaah kompeten harus tersedia sebelum penerimaan, kepatuhan, atau hasil proyek disimpulkan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah sebelum mengunci desain
 
-## Draft completion checklist
+Uji kemudahan dibaca menjawab apakah pesan dapat dipahami dalam kondisi yang telah ditentukan, bukan apakah desain bagus secara umum. Tulis pengguna dan tugasnya, buat contoh versi jelas, catat konteks melihat, simpan hasil beserta batasnya, lalu putuskan perubahan dengan pihak yang berwenang.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Advert.id, aturan kerjanya: jangan mengunci desain hanya karena tampak jelas di layar. Ujilah pesan utama pada konteks pengguna yang nyata dan tahan kesimpulan bila bukti lokasi atau penerimaan belum lengkap.
