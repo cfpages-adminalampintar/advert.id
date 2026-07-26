@@ -1,9 +1,10 @@
 ---
 article_id: ADV-02-02
-title: "Memilih Media Advertising Berdasarkan Audience Journey"
+title: "Memilih Media Iklan Berdasarkan Perjalanan Calon Audiens"
 slug: "memilih-media-berdasarkan-audience-journey"
-description: "Relate viewer need, mobility, dwell time, repetition, proximity, message complexity and CTA to a shortlist"
-status: outline
+description: "Cara memilih media iklan dari kebutuhan calon audiens, cara mereka bergerak, waktu melihat, kerumitan pesan, dan langkah yang diharapkan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,183 +16,69 @@ final_route: "/artikel/memilih-media-berdasarkan-audience-journey.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://www.iso.org/news/ref2369.html"
   - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Memilih Media Iklan Berdasarkan Perjalanan Calon Audiens
 
-# Memilih Media Advertising Berdasarkan Audience Journey
+Halo, Sobat Advert.id! Memilih media iklan bukan soal mencari format yang paling ramai disebut. Pertanyaannya lebih sederhana: pada saat apa calon audiens membutuhkan informasi, sedang bergerak atau berhenti, punya berapa lama untuk menangkap pesan, dan tindakan apa yang realistis diminta setelah itu? Rangkaian momen tersebut bisa disebut perjalanan calon audiens, atau *audience journey*.
 
-## Assignment lock
+Media yang cocok mengikuti konteks itu. Pesan singkat untuk orang yang bergerak cepat berbeda dengan informasi yang perlu dipahami saat orang punya waktu berhenti. Nama media tidak membuktikan ukuran, lokasi, jumlah orang yang melihat, izin, atau hasil kampanye. Untuk memutuskan secara masuk akal, tulis dulu tujuan, siapa yang dituju, situasi melihat, pesan, dan tindakan lanjut yang diharapkan. Prinsip pengukuran riset juga meminta populasi, periode, metode, sampel, dan keterbatasan dijelaskan, sebagaimana tercermin dalam [gambaran ISO 20252](https://www.iso.org/news/ref2369.html).
 
-- **Writer task:** Expand this file into one complete article answering: “Memilih Media Advertising Berdasarkan Audience Journey”
-- **Reader and situation:** Marketer comparing outdoor and on-premise options
-- **Reader outcome:** Relate viewer need, mobility, dwell time, repetition, proximity, message complexity and CTA to a shortlist
-- **Primary intent:** Match medium to viewer context
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No placement approval or reach estimate; ADV-03 owns site evidence
-- **Final public route:** `/artikel/memilih-media-berdasarkan-audience-journey.html`
-- **Appointed CMS date:** `2025-09-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-## Opening instructions
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Memilih Media Advertising Berdasarkan Audience Journey**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+## Jawaban singkat dan salah paham utama
 
+Tidak ada satu media yang otomatis paling tepat untuk semua tahap perjalanan calon audiens. Pilihan bergantung pada kebutuhan informasi, kecepatan gerak, waktu perhatian, jarak, pengulangan pesan, dan langkah sesudah melihat. Media yang baik untuk mengenalkan nama mungkin belum tentu baik untuk menjelaskan pilihan yang rumit atau mendorong kontak.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Kawan Advert.id, hindari pertanyaan “media mana yang paling efektif?” tanpa konteks. Ubah menjadi: siapa yang ingin dijangkau, pada keadaan apa, pesan apa yang perlu tertangkap, dan bukti apa yang nanti dipakai untuk memeriksa hasil? Jawaban dapat berubah ketika lokasi, waktu, pesan, atau tujuan berubah.
+
+## Definisi dan batas objek
+
+Perjalanan calon audiens bukan peta yang harus selalu panjang. Untuk pekerjaan sederhana, ia cukup berupa beberapa keadaan: belum mengenal kebutuhan, mulai memperhatikan, mencari informasi, mempertimbangkan, lalu mengambil tindakan. Tidak semua orang mengikuti urutan yang sama, dan artikel ini tidak mengklaim mengetahui perjalanan pembaca pada lokasi tertentu tanpa data.
+
+Jangkauan berarti siapa yang berpeluang terkena media menurut metode yang digunakan. Kesempatan melihat berbeda dari perhatian; perhatian berbeda dari ingatan; ingatan berbeda dari respons. Catatan [ISO/TC 225](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html) menegaskan peran standar riset pasar dalam mutu proses pengumpulan serta pelaporan data. Jangan menyamakan satu ukuran dengan ukuran lain untuk membuat laporan tampak lebih kuat.
+
+## Cara kerjanya
+
+Mulai dari satu calon audiens dan satu keadaan nyata. Apakah ia sedang melintas, menunggu, berada dekat tempat usaha, atau sudah mencari solusi? Setelah itu, tentukan satu pesan inti dan tindakan yang masuk akal. Bila waktunya singkat, pesan perlu ringkas dan mudah dikenali. Bila orang punya waktu lebih lama, Anda bisa menambahkan informasi yang membantu pertimbangan—tetap tanpa menganggap semua orang akan membacanya.
+
+Teman Advert.id, buat daftar singkat sebelum membandingkan media: kebutuhan calon audiens, situasi melihat, lama perhatian yang diperkirakan, jarak atau kedekatan dengan tindakan, pesan utama, dan cara respons dicatat. Daftar ini tidak memberi angka jangkauan. Ia mencegah Anda membeli media berdasarkan nama atau bentuknya saja.
+
+## Faktor yang mengubah hasil
+
+Pergerakan orang, kondisi sekitar, waktu, persaingan visual, perubahan pesan, dan langkah yang diminta dapat mengubah kecocokan media. Pesan yang sangat padat dapat gagal dipahami ketika calon audiens hanya memiliki waktu singkat. Sebaliknya, ajakan yang terlalu sederhana mungkin tidak cukup ketika orang sudah siap membandingkan pilihan. Karena itu, periksa pesan dalam keadaan pembaca yang masuk akal, bukan hanya dari layar atau meja rapat.
+
+Pengulangan juga perlu dipahami hati-hati. Muncul berulang tidak otomatis menjadi perhatian atau penjualan. Catat periode, materi yang tampil, metode pencatatan respons, serta kegiatan lain yang berlangsung. Gunakan `[NEEDS REVIEW: data calon audiens, lokasi, periode, pesan, metode pengukuran, dan persetujuan pemilik belum dikonfirmasi]` bila keputusan bergantung pada hal-hal tersebut.
+
+## Contoh keputusan praktis
+
+Bayangkan sebuah usaha ingin dikenal oleh orang yang melintas dan juga ingin menerima pertanyaan dari orang yang sudah tertarik. Jangan memaksa satu pesan panjang untuk semua keadaan. Anda dapat memisahkan tujuan: pesan awal cukup mengenalkan nama atau manfaat utama, sedangkan informasi lanjutan disediakan pada titik ketika orang punya waktu atau kedekatan untuk bertindak. Lalu tentukan sumber respons yang akan dicatat sebelum kampanye dimulai.
+
+Sobat Advert.id, contoh itu bukan resep penempatan. Ia hanya menunjukkan urutan berpikir: konteks calon audiens dulu, kemudian pesan, lalu kandidat media dan cara memeriksa hasil. Persetujuan lokasi, estimasi jangkauan, dan bukti kondisi lokasi tetap memerlukan data serta kewenangan yang sesuai.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama ialah memakai profil calon audiens yang terlalu umum, misalnya “semua orang”. Periksa siapa yang benar-benar menjadi sasaran dan kebutuhan apa yang ingin dibantu. Kedua, meminta terlalu banyak tindakan dari satu pesan. Periksa apakah orang punya cukup waktu dan alasan untuk melakukan semuanya. Ketiga, menganggap banyak lalu lintas sama dengan banyak perhatian. Periksa definisi angka, periode, dan metodenya.
+
+Kesalahan keempat adalah membuat klaim manfaat yang tidak dapat dibuktikan. [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) memuat ketentuan perlindungan konsumen yang relevan bagi periklanan. Sebelum pesan diproduksi, cocokkan klaim dengan bukti dan proses persetujuan yang tersedia.
+
+Jalan pintasnya adalah memilih format lebih dulu, lalu mencoba memasukkan semua tujuan ke dalamnya. Itu membuat pesan dan ukuran hasil menjadi kabur. Alternatifnya, pilih satu tujuan utama per keadaan calon audiens, lalu bandingkan kandidat media terhadap konteks itu.
+
+Memilih media berdasarkan perjalanan calon audiens berarti mencocokkan pesan dengan keadaan orang sebelum mengharapkan respons. Langkah berikutnya: tulis tiga keadaan calon audiens yang paling penting, satu pesan untuk masing-masing, dan bukti yang diperlukan untuk menilai hasilnya. Aturan kerjanya: jangan memilih media sebelum tahu siapa yang sedang Anda bantu, dalam keadaan apa, dan tindakan apa yang realistis diminta.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-12
-
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Dated campaign data, substantiated content, baseline, method, budget, and owner approval
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-02-01` → `/artikel/checklist-campaign-brief-advertising.html` — Checklist Campaign Brief untuk Media Advertising Fisik
-- `ADV-02-03` → `/artikel/kpi-outdoor-advertising.html` — KPI Outdoor Advertising: Exposure Bukan Otomatis Dilihat
-- `ADV-02-04` → `/artikel/tracking-respons-media-fisik.html` — Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Media Advertising Berdasarkan Audience Journey”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Media Advertising Berdasarkan Audience Journey”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Media Advertising Berdasarkan Audience Journey”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Media Advertising Berdasarkan Audience Journey”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Media Advertising Berdasarkan Audience Journey”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Memilih Media Advertising Berdasarkan Audience Journey”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

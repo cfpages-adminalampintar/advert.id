@@ -1,9 +1,10 @@
 ---
 article_id: ADV-04-05
-title: "Color Management dari Artwork ke Signage Terpasang"
+title: "Mengelola Warna dari Karya Desain hingga Signage Terpasang"
 slug: "color-management-signage"
-description: "Coordinate color space/profile, substrate/ink/light, proof, viewing light, spot colors, tolerances, batch, reprints and records"
-status: outline
+description: "Cara menjaga keputusan warna dari file desain, contoh cetak, produksi, hingga signage dipasang tanpa menjanjikan warna yang mustahil sama."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,191 +17,74 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
   - "https://www.iso.org/standard/51378.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Mengelola Warna dari Karya Desain hingga Signage Terpasang
 
-# Color Management dari Artwork ke Signage Terpasang
+Halo, Teman Advert.id! Warna signage sering tampak “berubah” bukan karena salah satu orang ceroboh, melainkan karena file, mesin cetak, tinta, bahan, pelapis, dan cahaya yang dipakai tidak pernah disepakati sebagai satu rangkaian. Manajemen warna adalah cara mencatat dan mengendalikan rangkaian itu—bukan janji bahwa layar, contoh kecil, dan signage di luar ruang akan selalu tampak persis sama.
 
-## Assignment lock
+Mulailah dari keputusan yang bisa dibuktikan: file versi mana yang disetujui, warna mana yang penting, bahan dan proses cetak apa yang dipakai, serta contoh fisik mana yang menjadi acuan. ISO/TC 130 menyarankan agar informasi karya, dimensi, definisi warna, proses keluaran, substrat, tinta, kondisi cahaya, dan persetujuan contoh cetak dipelihara bersama. [Panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) Itu yang membuat revisi dapat ditelusuri, bukan sekadar “warnanya tolong dibuat mirip”.
 
-- **Writer task:** Expand this file into one complete article answering: “Color Management dari Artwork ke Signage Terpasang”
-- **Reader and situation:** Brand/design team approving output
-- **Reader outcome:** Coordinate color space/profile, substrate/ink/light, proof, viewing light, spot colors, tolerances, batch, reprints and records
-- **Primary intent:** Control color reproduction
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Screen preview is not acceptance; ADV-13-04 owns production QA
-- **Final public route:** `/artikel/color-management-signage.html`
-- **Appointed CMS date:** `2025-11-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-## Opening instructions
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Color Management dari Artwork ke Signage Terpasang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+## Jawaban singkat dan salah paham utama
 
+Warna di layar adalah pratinjau, bukan penerimaan hasil. Layar memancarkan cahaya, sedangkan media cetak memantulkan atau meneruskan cahaya; keduanya dilihat dalam kondisi yang bisa berbeda. Karena itu, menyetujui file lewat tangkapan layar saja tidak cukup untuk menyetujui signage terpasang.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sobat Advert.id, pisahkan dua hal: warna yang diinginkan dan kemampuan sistem menghasilkan warna itu pada bahan serta kondisi tertentu. Profil warna adalah data yang membantu perangkat menerjemahkan angka warna; ia berguna bila prosesnya diketahui, tetapi bukan tombol ajaib yang menghapus pengaruh tinta, bahan, cahaya, atau umur pakai. [ISO 12647-2](https://www.iso.org/standard/57833.html) membahas pengendalian proses cetak, sehingga istilah “sesuai profil” tetap harus dibaca bersama proses produksi yang benar-benar dipakai.
+
+## Definisi dan batas objek
+
+Di sini, karya desain berarti file sumber beserta versi, font, gambar, ukuran, dan definisi warnanya. Contoh cetak adalah sampel fisik yang diperiksa sebelum produksi penuh. Warna khusus—sering disebut spot color—adalah warna yang ditetapkan secara spesifik dalam pekerjaan, bukan alasan untuk menganggap hasilnya akan identik pada semua bahan dan mesin.
+
+Manajemen warna untuk signage meliputi perpindahan dari file ke contoh cetak lalu ke produksi, termasuk catatan bahan, tinta, pelapis, dan cahaya pemeriksaan. Ia tidak menggantikan pemeriksaan mutu produksi, perhitungan struktur, atau keputusan tentang pemasangan. Untuk konteks sistem tanda secara lebih luas, pembaca dapat melihat [layanan signage](/signage/), tetapi penerimaan warna tetap perlu bukti produk dan contoh fisik proyek yang bersangkutan.
+
+## Cara kerjanya
+
+Pertama, bekukan file sumber: beri nama versi, simpan font atau lisensinya, dan catat ukuran akhir. Kedua, sepakati target warna yang penting. Ketiga, minta pelaksana menyebut proses keluaran, mesin, tinta, bahan, dan penyelesaian permukaan. Keempat, periksa contoh fisik dalam cahaya yang relevan lalu catat keputusan, revisi, serta siapa yang menyetujui.
+
+Kawan Advert.id, anggap contoh cetak sebagai titik temu, bukan formalitas. Jika bahan atau proses berubah setelah contoh disetujui, minta contoh baru atau persetujuan perubahan. Sertakan kode produk, revisi, dan bila relevan nomor kelompok produksi. Dengan begitu, cetak ulang tidak dimulai dari ingatan atau foto lama.
+
+Pengendalian ini penting karena lapisan tinta, pelapis, dan bahan bekerja sebagai sistem. [ISO 12944-6](https://www.iso.org/standard/51378.html) menjelaskan metode pengujian untuk sistem pelindung; standar itu bukan bukti bahwa kombinasi grafis tertentu telah lulus atau akan bertahan pada lokasi tertentu. Untuk klaim daya tahan, kecocokan, atau keamanan, tetap perlukan dokumen produk, persetujuan produsen bila diperlukan, serta paparan aktual yang relevan.
+
+## Faktor yang mengubah hasil
+
+Bahan yang berbeda dapat membuat hasil warna terbaca berbeda. Permukaan, tingkat kilap, tinta, pelapis, dan cahaya sekitar dapat mengubah kesan yang dilihat. Cahaya siang, lampu malam, serta posisi pembaca juga bukan kondisi yang sama. Karena itu, jangan menjanjikan kecocokan mutlak siang dan malam atau antarjenis bahan tanpa contoh dan kriteria penerimaan yang disetujui.
+
+Selain itu, perubahan kecil di pekerjaan dapat besar dampaknya: file direvisi, tinta diganti, bahan habis dan diganti, pelapis berubah, atau produksi dibagi ke kelompok berbeda. Catat perubahan itu dan tahan penerimaan sampai pihak yang berwenang memeriksa contoh yang mewakili perubahan. [ISO 12944-8](https://www.iso.org/standard/64838.html) menempatkan spesifikasi dan pemeliharaan sebagai bagian dari pengendalian sistem; prinsipnya berguna di sini untuk tidak memisahkan hasil visual dari kondisi serta catatan pemakaiannya.
+
+## Contoh keputusan praktis
+
+Misalnya, tim merek ingin warna utama pada beberapa bidang signage tampak konsisten. Jangan mulai dari perintah “samakan semuanya”. Buat daftar: bidang mana yang paling penting, apakah semua memakai bahan dan proses yang sama, di bawah cahaya apa persetujuan dilakukan, dan contoh mana yang menjadi rujukan. Jika salah satu bidang memakai bahan berbeda, perlakukan ia sebagai keputusan terpisah dan nilai contoh fisiknya sendiri.
+
+Teman Advert.id, untuk pekerjaan cetak ulang, buka catatan sebelumnya: file yang disetujui, kode warna, bahan, proses, contoh, dan perubahan yang pernah diterima. Bila tidak ada catatan atau bahan sudah berubah, gunakan marker `[NEEDS REVIEW: file sumber, produk, proses keluaran, contoh fisik, dan kondisi pemeriksaan perlu dikonfirmasi]` lalu lakukan persetujuan ulang. Ini lebih jujur daripada mengklaim dapat mencetak “warna lama” dari foto.
+
+Hak atas file dan unsur visual juga perlu jelas. Simpan bukti pemilik, lisensi, atau izin sebelum karya dikirim ke produksi; [UU No. 28 Tahun 2014](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) adalah kerangka hukum hak cipta yang relevan, bukan pengganti pemeriksaan dokumen hak untuk proyek tertentu.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama ialah mengirim file tanpa versi, ukuran akhir, atau font yang jelas. Periksa paket file sebelum diserahkan. Kedua, menyetujui warna dari layar; ganti dengan contoh fisik dan catatan cahaya pemeriksaan. Ketiga, menganggap satu contoh otomatis berlaku ketika bahan atau proses berubah; minta contoh baru atau persetujuan perubahan.
+
+Kesalahan berikutnya adalah memakai istilah teknis untuk menutup ketidakjelasan. Bila ada yang menyebut profil, warna khusus, atau toleransi warna, minta penjelasan praktis: data apa yang dipakai, pada bahan apa, contoh mana yang disetujui, dan siapa pemilik keputusan. Jangan menetapkan angka toleransi atau klaim kesamaan tanpa dasar proses dan persetujuan proyek.
+
+Jalan pintas yang paling sering adalah “pakai file sebelumnya saja”. File memang perlu dipakai, tetapi kondisi produksi dapat sudah berubah. Cara aman adalah memakai file sebelumnya sebagai bahan awal, lalu cocokkan kembali bahan, proses, contoh fisik, dan catat penerimaan baru bila ada perubahan.
+
+Manajemen warna dari artwork ke signage terpasang berarti menjaga keputusan tetap utuh dari file sampai contoh dan produksi. Langkah berikutnya: buat satu lembar persetujuan warna yang memuat versi file, produk, proses, contoh fisik, kondisi pemeriksaan, dan penandatangan. Aturan kerjanya: layar boleh membantu berdiskusi, tetapi hanya bukti fisik dan catatan yang boleh menjadi dasar penerimaan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-18
-
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-04-03` → `/artikel/substrate-kaku-signage.html` — Substrate Kaku Signage: Acrylic, Polycarbonate, ACP, dan Metal
-- `ADV-04-04` → `/artikel/korosi-material-signage-outdoor.html` — Korosi dan Material Berbeda pada Signage Outdoor
-- `ADV-04-06` → `/artikel/membaca-klaim-weathering-material-signage.html` — Klaim Tahan Cuaca dan UV pada Material Advertising
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Color Management dari Artwork ke Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Color Management dari Artwork ke Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Color Management dari Artwork ke Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Color Management dari Artwork ke Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Color Management dari Artwork ke Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Color Management dari Artwork ke Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

@@ -2,8 +2,9 @@
 article_id: ADV-04-02
 title: "Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?"
 slug: "perbandingan-media-cetak-outdoor"
-description: "Distinguish construction, weight, porosity, surface/ink compatibility, light behavior, seams, finishing and documented exposure limits"
-status: outline
+description: "Cara membandingkan media cetak lentur berdasarkan fungsi, sistem cetak, kondisi pakai, bukti produk, dan persetujuan sampel."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,196 +17,72 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
   - "https://www.iso.org/standard/51378.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?
 
-## Assignment lock
+Halo, Sobat Advert.id! Lima nama ini sering terdengar seperti pilihan yang tinggal diurutkan dari murah ke mahal. Padahal, nama bahan belum menjawab apakah ia cocok dengan mesin cetak, tinta, permukaan, cara pemasangan, cahaya di lokasi, sambungan, atau kondisi pemakaiannya. Karena itu, pilihan yang benar bukan mencari “yang paling kuat”, melainkan menyamakan kebutuhan proyek dengan bukti untuk produk yang benar-benar akan dipakai.
 
-- **Writer task:** Expand this file into one complete article answering: “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”
-- **Reader and situation:** Buyer seeing similar printed materials
-- **Reader outcome:** Distinguish construction, weight, porosity, surface/ink compatibility, light behavior, seams, finishing and documented exposure limits
-- **Primary intent:** Resolve flexible-media selection
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not choose tensioning/frame or structural wind values; ADV-06-02 owns mounting
-- **Final public route:** `/artikel/perbandingan-media-cetak-outdoor.html`
-- **Appointed CMS date:** `2025-11-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: flex banner, vinyl, mesh, kain cetak, dan film polietilena (PE film) dapat punya peran berbeda, tetapi istilah dagang saja tidak cukup untuk membandingkannya. Minta identitas produk, sistem tinta atau perekat bila ada, petunjuk penggunaan, serta sampel yang disetujui dalam kondisi yang mendekati pemakaian. Panduan produksi cetak ISO/TC 130 menekankan pentingnya menyimpan informasi karya, warna, proses keluaran, substrat, tinta, dan persetujuan contoh cetak; itu membantu percakapan antara pemesan dan pelaksana tidak berubah menjadi tebakan. [Panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf)
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+_Aset lokal proyek; bukan dokumentasi proyek tertentu._
 
+## Masalah keputusan yang sebenarnya
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Kesalahan awal biasanya terjadi ketika pembeli membandingkan bahan hanya dari foto, ketebalan yang disebut penjual, atau satu sampel kecil. Foto tidak memperlihatkan seluruh sistem; sampel kecil belum tentu menunjukkan sambungan, cara pengencangan, arah cahaya, maupun perubahan setelah dipakai. Bahkan istilah “vinyl” dapat dipakai untuk beberapa produk berbeda. Jadi, pastikan dahulu yang dibandingkan memang satuan produk dan sistem kerja yang setara.
+
+Kawan Advert.id, ajukan pertanyaan ini sebelum meminta harga: media itu akan membawa pesan apa, di mana dipakai, berapa lama, bagaimana ia dipasang, dan seperti apa kondisi yang harus disetujui? Jawaban dapat berubah bila lokasi terbuka, ada cahaya dari belakang, membutuhkan perekat, atau media harus dapat dilepas tanpa merusak permukaan. Artikel ini tidak memilih rancangan rangka, pengencangan, maupun nilai beban angin; keputusan itu perlu dasar dan peninjauan proyek tersendiri.
+
+## Bedakan objek sebelum membandingkan
+
+Flex banner lazim dipakai sebagai sebutan untuk media cetak lentur berbasis lembaran. Mesh adalah media berpori; adanya bukaan membuatnya berbeda dari lembaran padat, tetapi tidak otomatis membuktikan aman di semua lokasi atau paling baik untuk setiap gambar. Fabric berarti media berbasis kain, sedangkan PE film berarti lembaran film polietilena. Vinyl adalah istilah yang perlu diperjelas lagi lewat nama produk, fungsi, dan data produsennya—bisa terkait media cetak, film berperekat, atau produk lain.
+
+Perbedaan itu adalah titik awal, bukan klaim mutu. Sebutkan pula muka cetak, sisi belakang, tinta, pelapis, perekat, metode penyambungan, dan cara tepiannya diselesaikan. Standar proses cetak seperti [ISO 12647-2](https://www.iso.org/standard/57833.html) menunjukkan bahwa kondisi proses keluaran merupakan bagian dari pengendalian produksi; jangan menganggap file desain yang sama pasti menghasilkan warna yang sama pada setiap bahan atau mesin.
+
+## Kriteria perbandingan yang relevan
+
+Bandingkan berdasarkan pekerjaan yang harus dilakukan media. Untuk pesan yang perlu terlihat pada satu sisi, tanyakan bagaimana permukaan menerima hasil cetak dan bagaimana cahaya lokasi memengaruhi pembacaannya. Untuk tempat yang berangin atau terbuka, jangan melompat dari kata “mesh” ke keputusan pemasangan: pori media, ukuran bidang, tepi, sambungan, rangka, dan penyangga adalah satu sistem yang perlu ditinjau bersama.
+
+Periksa juga kebutuhan penyambungan dan penyelesaian tepi. Media yang lebar mungkin membutuhkan sambungan; media yang ingin dilepas mungkin membutuhkan sistem berbeda dari media yang menempel. Bila produk melibatkan lapisan, tinta, perekat, atau pelapis pelindung, minta bukti kesesuaian antarbahan dari produsen atau pelaksana. [ISO 12944-6](https://www.iso.org/standard/51378.html) membahas metode uji untuk sistem pelindung, tetapi tidak dapat dipakai untuk menjanjikan ketahanan suatu pemasangan tanpa produk, konfigurasi, dan paparan aktual yang terdokumentasi.
+
+Sobat Advert.id, gunakan tabel pembanding sederhana di dokumen kerja: nama produk dan revisi, fungsi, ukuran, sistem cetak, jenis tinta, kebutuhan cahaya, metode tepi/sambungan, cara pemasangan, kondisi pembersihan, bukti persetujuan, dan batas penggunaan dari produsen. Jika satu kolom belum terisi, itu adalah pertanyaan yang perlu dijawab—bukan ruang untuk asumsi.
+
+## Kapan masing-masing pilihan masuk akal
+
+Flex banner dapat dipertimbangkan ketika spesifikasi produk dan hasil contoh sesuai dengan pekerjaan yang direncanakan. Mesh masuk pertimbangan bila sifat berporinya memang relevan bagi tujuan visual dan sistem keseluruhan sudah ditinjau. Fabric dapat dipertimbangkan bila karakter media kain, hasil cetak, dan metode perawatannya sesuai kebutuhan. PE film atau produk yang disebut vinyl perlu dipilih dari data produk sebenarnya, bukan hanya label kategorinya.
+
+Contohnya, bila sebuah materi harus dipasang sementara pada permukaan tertentu, pertanyaan pertama bukan “vinyl atau bukan?”, melainkan “produk persis apa, bagaimana persiapan permukaannya, dan bagaimana prosedur pelepasannya?” Jika pesan akan dipakai di luar ruang, minta batas paparan, cara pembersihan, serta kondisi yang dapat membatalkan garansi langsung dari dokumen produk. Tidak ada pemenang universal karena kondisi lokasi, pesan, dan sistem pemasangan dapat mengubah jawabannya.
+
+## Kesalahan perbandingan yang sering terjadi
+
+Pertama, menyamakan berat atau ketebalan dengan hasil keseluruhan. Angka itu mungkin bagian dari spesifikasi, tetapi tidak membuktikan kesesuaian tinta, sambungan, atau pemasangan. Kedua, menyetujui warna hanya dari layar. Warna di layar, file, mesin, dan bahan adalah tahapan berbeda; tahan produksi sampai contoh fisik yang relevan diperiksa dan disetujui.
+
+Ketiga, memakai satu klaim “tahan luar ruang” untuk semua lokasi dan semua lama pemakaian. Kondisi lingkungan, perawatan, persiapan permukaan, dan konfigurasi dapat mengubah hasil. [ISO 12944-8](https://www.iso.org/standard/64838.html) menempatkan spesifikasi dan pemeliharaan sebagai bagian dari sistem, bukan alasan untuk mengubah nama bahan menjadi janji umur pakai. Keempat, menggunakan gambar atau karya tanpa memeriksa pemilik dan izin. Hak cipta mempunyai kerangka hukum tersendiri dalam [UU No. 28 Tahun 2014](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014); simpan bukti pemilik, lisensi, atau persetujuan sebelum karya masuk produksi.
+
+## Bukti yang perlu diminta sebelum memilih
+
+Teman Advert.id, minta paket kecil tetapi lengkap: identitas produk dan revisinya, lembar data teknis dan keselamatan bila tersedia, sistem tinta/perekat/pelapis yang disetujui, contoh fisik, hasil contoh cetak, catatan warna dan ukuran, petunjuk pemasangan serta pelepasan, ketentuan pembersihan, batas penggunaan, dan dokumen hak atas karya. Bandingkan semua penawaran pada ukuran, jumlah, ruang lingkup, dan cara pemasangan yang sama.
+
+Gunakan marker `[NEEDS REVIEW: produk, sistem cetak, dokumen produsen, sampel, dan persetujuan kondisi pakai belum dikonfirmasi]` bila bukti tersebut belum ada. Jangan memaksakan angka ketahanan, keamanan, atau kecocokan hanya karena bahan terlihat serupa. Untuk keputusan yang menyangkut rangka, pengencangan, atau kondisi lokasi, minta peninjauan kompeten dengan data proyek yang nyata.
+
+Jalan pintas paling menggoda adalah meminta “bahan yang biasa saja” lalu menganggap semua detail dapat dibereskan saat produksi. Masalahnya, pilihan bahan ikut menentukan bukti apa yang harus tersedia sebelum produksi dimulai. Cara yang lebih rapi: tetapkan fungsi dan kondisi, pilih kandidat produk, setujui sampel, lalu kunci dokumen serta tanggung jawabnya.
+
+Jadi, perbedaan flex banner, vinyl, mesh, fabric, dan PE film bukan daftar peringkat; perbedaannya ada pada produk, sistem cetak, cara pakai, dan bukti yang menyertainya. Langkah berikutnya adalah membuat satu lembar pembanding untuk kandidat yang benar-benar ditawarkan. Aturan kerjanya: jangan menyetujui produksi sebelum produk, contoh fisik, kondisi pemakaian, dan hak atas karya dapat dibuktikan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
 - **Source type:** `local`
 - **Placement:** after the opening has answered the main question, before the first detailed H2
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Caption/credit:** Aset lokal proyek; bukan dokumentasi proyek tertentu.
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-18
-
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/neon-flex` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-flex-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-04-01` → `/artikel/memilih-material-face-advertising.html` — Memilih Material Face untuk Advertising Outdoor
-- `ADV-04-03` → `/artikel/substrate-kaku-signage.html` — Substrate Kaku Signage: Acrylic, Polycarbonate, ACP, dan Metal
-- `ADV-04-04` → `/artikel/korosi-material-signage-outdoor.html` — Korosi dan Material Berbeda pada Signage Outdoor
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Flex Banner, Vinyl, Mesh, Fabric, dan PE Film: Apa Bedanya?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->
