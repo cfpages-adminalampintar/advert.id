@@ -1,9 +1,10 @@
 ---
 article_id: ADV-09-04
-title: "Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard"
+title: "Pondasi, Pelat Kaki, dan Baut Pengikat Totem atau Papan Reklame"
 slug: "foundation-totem-billboard"
-description: "Cover reactions, soil, pedestal, anchor cage/template, grout, drainage, tolerances, survey, corrosion, conduits and revisions"
-status: outline
+description: "Hal yang perlu dibuktikan pada hubungan totem atau papan reklame dengan tanah, dari data lokasi dan tanah hingga pelat kaki, baut pengikat, drainase, serta gambar kondisi akhir."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-20"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,51 +15,22 @@ reader_address: "Teman Advert.id"
 final_route: "/artikel/foundation-totem-billboard.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Pondasi, Pelat Kaki, dan Baut Pengikat Totem atau Papan Reklame
 
-# Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard
+Halo, Teman Advert.id!
 
-## Assignment lock
+Totem dan billboard berdiri bukan karena tiangnya terlihat besar, melainkan karena seluruh jalur beban bekerja sampai ke tanah. Panel atau kabinet meneruskan gaya ke rangka dan tiang; tiang bertemu pelat dasar; pelat dasar bertemu baut angkur; lalu gaya diteruskan ke pondasi dan tanah. Setiap pertemuan itu perlu dirancang sebagai satu sistem. Mengukur pondasi dari kebiasaan proyek lain atau memilih baut angkur dari foto dapat menghasilkan rasa aman palsu.
 
-- **Writer task:** Expand this file into one complete article answering: “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”
-- **Reader and situation:** Civil/signage teams splitting scope
-- **Reader outcome:** Cover reactions, soil, pedestal, anchor cage/template, grout, drainage, tolerances, survey, corrosion, conduits and revisions
-- **Primary intent:** Coordinate support-to-ground interfaces
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No generic footing/anchor dimensions; structural/geotechnical design required
-- **Final public route:** `/artikel/foundation-totem-billboard.html`
-- **Appointed CMS date:** `2026-03-20` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: sebelum pekerjaan sipil atau fabrikasi dimulai, siapkan data lokasi, tanah, struktur, angin, utilitas, gambar yang disetujui, dan pembagian tanggung jawab yang jelas. Ukuran pondasi, detail tulangan, jumlah serta ukuran angkur, ketebalan pelat, toleransi pemasangan, dan nilai beban harus berasal dari rancangan geoteknik serta struktur untuk lokasi nyata—bukan dari tabel umum.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,159 +41,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-09
-
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-17
-
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Qualified engineer's current Indonesian design plus real site/material/QC/as-built records
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/totem` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-totem-sign-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-09-02` → `/artikel/input-angin-signage-outdoor.html` — Wind Area, Shape, dan Porosity pada Signage Outdoor
-- `ADV-09-03` → `/artikel/deflection-vibration-fatigue-signage.html` — Deflection, Vibration, dan Fatigue pada Struktur Advertising
-- `ADV-09-05` → `/artikel/fixing-signage-existing-structure.html` — Fixing Signage ke Dinding, Atap, dan Existing Structure
-- `ADV-09-06` → `/artikel/membaca-perhitungan-struktur-advertising.html` — Cara Membaca Ringkasan Perhitungan Struktur Advertising
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan umum adalah menganggap pondasi hanya “beton di bawah tanah” dan angkur hanya “baut yang menahan tiang”. Sebenarnya, keduanya berada pada pertemuan penting antara struktur atas dan tanah. Bila salah satu bagian tidak sesuai gambar atau kondisi lokasi berubah, dampaknya dapat merambat ke sambungan lain.
+
+Pondasi tidak dapat dipilih dari tinggi totem saja. Tanah, muka air, kondisi galian, kemiringan lahan, struktur sekitar, utilitas bawah tanah, bentuk serta lokasi media, dan tindakan angin semuanya dapat memengaruhi rancangan. [ISO 4354](https://www.iso.org/standard/38882.html) membahas tindakan angin; halaman standar tersebut tidak menyediakan ukuran pondasi atau angkur aman untuk billboard tertentu. Kawan Advert.id, berhati-hatilah pada penawaran yang memberi ukuran “standar” tanpa menanyakan lokasi dan data tanah.
+
+Demikian pula, pelat dasar dan baut angkur tidak boleh dilepas dari gambar struktur. Posisi, kondisi, pemasangan, material, dan hubungan dengan tiang perlu cocok dengan sistem yang disetujui. “Sudah berdiri” bukan bukti bahwa seluruh jalur beban atau kondisi tanah sudah benar.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Pelat dasar** adalah bagian di kaki tiang yang menjadi pertemuan dengan pondasi. **Baut angkur** adalah komponen penghubung pada pertemuan tersebut. **Pondasi** meneruskan gaya dari struktur ke tanah. **Pedestal** dapat berupa bagian beton yang menaikkan titik pertemuan dari permukaan sekitarnya. **Grout** adalah bahan pengisi pada detail tertentu yang hanya boleh dipakai sesuai rancangan dan produk yang disetujui.
+
+Istilah ini membantu pemilik bertanya dengan tepat, tetapi tidak mengubah pembaca menjadi perancang. Artikel ini tidak menentukan dimensi, jarak, nilai torsi, mutu, susunan angkur, kedalaman galian, atau urutan pengecoran. Data geoteknik, desain struktur, gambar kerja yang disetujui, serta pengawasan kompeten adalah batas minimum sebelum pekerjaan permanen diputuskan.
+
+Teman Advert.id, perhatikan juga bahwa pondasi bukan urusan struktur saja. Jalur kabel, drainase, area publik, akses perawatan, dan kemungkinan perubahan di masa depan harus dikoordinasikan agar galian atau detail bawah tanah tidak menjadi konflik setelah signage berdiri.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan membaca seluruh jalur beban. Angin dan berat bekerja pada media, rangka, serta tiang. Gaya diteruskan ke pelat dasar, baut angkur, pondasi, lalu tanah. Rancangan perlu mempertimbangkan bagaimana semua bagian ini bekerja bersama, bukan hanya kapasitas satu komponen yang dicetak pada katalog.
+
+Survei lokasi lalu memberi konteks. Tim perlu mengetahui batas lahan, elevasi, kemiringan, saluran air, utilitas bawah tanah, struktur terdekat, akses galian, kondisi lalu lintas, serta area yang dapat dipakai untuk pekerjaan. Data tanah juga perlu memadai untuk rancangan, karena tanah bukan bahan seragam yang dapat diasumsikan sama antar-lokasi. Bila temuan lapangan berbeda dari informasi awal, rancangan harus ditinjau kembali sebelum pekerjaan diteruskan.
+
+Setelah desain ada, koordinasi antardisiplin menjadi penting. Tim sipil perlu tahu persis posisi serta orientasi yang diminta struktur signage. Tim signage perlu tahu batas toleransi yang telah ditentukan desain, bukan membuat penyesuaian sepihak di lapangan. Tim listrik perlu tahu jalur konduit atau pipa pelindung yang diperbolehkan. Pemilik perlu memastikan semua revisi masuk ke gambar kondisi akhir.
+
+Rekaman fabrikasi dan pelaksanaan juga tidak boleh diabaikan. Sambungan pada struktur atas, identitas material, prosedur pengerjaan, pemeriksaan, penanganan ketidaksesuaian, dan keterlacakan adalah kontrol yang berbeda. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu komprehensif untuk pengelasan fusi logam, tetapi tidak membuktikan satu sambungan di lokasi Anda telah sesuai tanpa dokumen serta pemeriksaan proyek.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi tanah adalah faktor utama, tetapi bukan satu-satunya. Air, drainase, genangan, dan perubahan sekitar dapat memengaruhi kondisi di sekitar pondasi. Struktur atas juga dapat berubah jika media, ukuran panel, lampu, kabinet, atau detail lain ditambah setelah rancangan awal. Perubahan ini perlu kembali ke peninjauan desain, bukan diperlakukan sebagai tambahan kecil.
+
+Lingkungan memengaruhi detail yang berada di atas maupun dekat permukaan. Air yang tertahan, celah, tepi, logam berbeda, kerusakan pelapis, dan akses perawatan perlu diperhatikan untuk sistem perlindungan. [ISO 12944-2](https://www.iso.org/standard/64834.html) menjelaskan kategori lingkungan, sedangkan [ISO 12944-8](https://www.iso.org/standard/64838.html) mencakup spesifikasi serta pemeliharaan sistem pelindung. Ini bukan jaminan umur pakai pondasi atau angkur; kondisi sebenarnya tetap perlu dibuktikan.
+
+Sobat Advert.id, perubahan dokumen juga mengubah hasil. Jika gambar fondasi, detail tiang, atau posisi utilitas berubah, semua pihak perlu melihat versi yang sama. Satu versi lama yang masih dipakai di lapangan dapat menciptakan kesalahan yang tidak tampak sampai pekerjaan sulit dibalik.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan totem akan dipasang di lahan yang tampak datar. Saat survei, ditemukan saluran lama dan kabel bawah tanah yang tidak tercatat dalam gambar awal. Kondisi ini bukan gangguan kecil yang bisa “diakali” dengan memindah sedikit titik pondasi. Perubahan posisi dapat memengaruhi batas lahan, desain struktur, jalur kabel, dan paparan. Keputusan yang aman adalah menahan pekerjaan permanen, memperbarui data, lalu meminta pihak desain menilai pengaruhnya.
+
+| Kondisi | Arti yang aman | Langkah berikutnya |
+| --- | --- | --- |
+| Data tanah atau kondisi galian belum cukup | Tidak ada dasar untuk menetapkan pondasi dari kebiasaan. | Minta data serta rancangan geoteknik/struktur yang sesuai lokasi. |
+| Posisi tiang berbeda dari gambar | Jalur beban, utilitas, akses, dan batas lahan dapat berubah. | Tahan pelaksanaan dan minta revisi yang disetujui. |
+| Baut angkur atau pelat dasar tampak tidak cocok dengan dokumen | Tampilan tidak cukup untuk menetapkan penerimaan. | Bandingkan dengan gambar serta minta pemeriksaan kompeten. |
+| Ada genangan, korosi, retak, atau perubahan tanah di sekitar kaki tiang | Kondisi perlu didokumentasikan; sebab dan dampak belum boleh ditebak. | Amankan bila ada risiko dan eskalasi sesuai desain serta inspeksi. |
+
+Tabel ini tidak memberi ukuran atau metode perbaikan. Pekerjaan galian, akses, pengangkatan, listrik, objek jatuh, dan pengamanan publik harus mengikuti rencana keselamatan yang sesuai kondisi nyata. [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) merupakan salah satu rujukan keselamatan konstruksi; penerapan spesifiknya memerlukan penilaian proyek yang mutakhir.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memisahkan desain pondasi dari desain media di atasnya. Perbaiki dengan meminta jalur beban lengkap dan memastikan setiap perubahan pada media kembali diperiksa. Kesalahan kedua adalah memakai gambar umum tanpa memeriksa kondisi tanah, utilitas, dan lokasi sebenarnya. Perbaiki dengan survei serta data yang dapat ditelusuri sebelum pekerjaan permanen.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah membiarkan pihak berbeda bekerja dari gambar berbeda. Perbaiki dengan menetapkan versi gambar yang disetujui, penanggung jawab revisi, dan gambar kondisi akhir setelah pekerjaan selesai. Kesalahan keempat adalah menganggap kerusakan pada permukaan kaki tiang atau area pondasi hanya kosmetik. Perbaiki dengan mencatat lokasi, waktu, kondisi air, serta perubahan yang tampak, lalu meminta pemeriksaan bila gejalanya menyentuh struktur atau keselamatan.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang menggoda adalah mencari “ukuran pondasi totem standar” lalu menyalinnya. Yang standar mungkin hanya istilahnya; tanah, angin, media, lokasi, dan detail struktur tidak standar. Alternatif yang lebih baik adalah menyiapkan paket keputusan: survei lokasi, data tanah, desain struktur, gambar terkoordinasi, rencana keselamatan, dan catatan kondisi akhir. Jika Anda sedang menyusun kebutuhan totem, halaman [totem](/totem) dapat membantu membahas bentuk sistemnya, tetapi tidak menggantikan desain pondasi lokasi tertentu.
 
-## Required conclusion
+## Kesimpulan: tanah dan struktur harus dibaca sebagai satu sistem
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Pelat dasar, baut angkur, dan pondasi totem atau billboard adalah pertemuan antara struktur atas, detail sambungan, dan tanah. Teman Advert.id, sebelum pekerjaan dimulai, mintalah bukti lokasi serta tanah, rancangan geoteknik dan struktur, gambar yang disetujui, koordinasi utilitas dan drainase, rencana keselamatan, serta gambar kondisi akhir.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan memakai ukuran pondasi atau angkur dari proyek lain sebagai keputusan proyek Anda. Bila data tanah, lokasi, atau desain belum cukup, tahan pekerjaan permanen sampai penilaian kompeten melengkapinya.

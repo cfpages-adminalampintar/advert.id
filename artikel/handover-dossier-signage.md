@@ -1,9 +1,10 @@
 ---
 article_id: ADV-13-06
-title: "Handover Dossier Signage dan Digital Display"
+title: "Berkas Serah Terima Signage dan Layar Digital"
 slug: "handover-dossier-signage"
-description: "Assemble approvals, as-builts/calculations, materials, fabrication/installation records, electrical tests, permits, content/admin access, warranties, spares, O&M and baseline"
-status: outline
+description: "Cara menyusun berkas serah terima signage dan layar digital agar keputusan, kondisi aset, dokumen produk, pengujian, akses, serta tanggung jawab dapat ditelusuri."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,45 +18,19 @@ sources:
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Berkas Serah Terima Signage dan Layar Digital
 
-# Handover Dossier Signage dan Digital Display
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Berkas serah terima adalah kumpulan dokumen dan rekaman yang memungkinkan pemilik memahami aset yang diterima: apa yang dirancang, apa yang benar-benar terpasang, apa yang diuji, siapa bertanggung jawab, dan apa yang harus dijaga setelahnya. Dalam pekerjaan teknis, istilah *handover dossier* kadang dipakai, tetapi intinya sederhana: jangan menyerahkan aset hanya dengan foto bagus, pesan WhatsApp, dan kalimat “sudah selesai”.
 
-- **Writer task:** Expand this file into one complete article answering: “Handover Dossier Signage dan Digital Display”
-- **Reader and situation:** Owner transitioning to operation
-- **Reader outcome:** Assemble approvals, as-builts/calculations, materials, fabrication/installation records, electrical tests, permits, content/admin access, warranties, spares, O&M and baseline
-- **Primary intent:** Receive an auditable asset
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** A dossier does not cure missing approvals/defects; ADV-14-01 owns operation
-- **Final public route:** `/artikel/handover-dossier-signage.html`
-- **Appointed CMS date:** `2026-06-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: berkas serah terima perlu menyatukan persetujuan, gambar kondisi akhir, identitas bahan dan peralatan, catatan pemasangan, hasil pemeriksaan, akses operasi, garansi yang benar-benar berlaku, serta daftar pekerjaan yang belum selesai. Namun dokumen bukan pengganti kondisi nyata. Map yang lengkap tidak menyembuhkan cacat, tidak menggantikan izin yang hilang, dan tidak membuktikan pemasangan sesuai bila rekamannya tidak cocok dengan aset di lapangan.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Handover Dossier Signage dan Digital Display**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,131 +41,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-05
+## Tentukan kebutuhan berkas sebelum pekerjaan selesai
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Jangan meminta dokumen setelah semua orang terburu-buru pindah ke proyek berikutnya. Sejak awal, pemilik perlu menetapkan jenis aset yang akan diterima, siapa penerimanya, dokumen apa yang diperlukan, siapa yang memeriksa, dan apa yang menjadi bukti penutupan pekerjaan. Kebutuhan untuk signage statis, kabinet berlampu, dan layar digital dapat berbeda karena komponen, listrik, akses, atau kendalinya berbeda.
 
-### KR-06
+Mulailah dari pertanyaan praktis: jika media rusak enam bulan lagi, apakah pengelola tahu produk apa yang dipakai, gambar mana yang benar, siapa pemegang akses, dan cara mencari bantuan? Jika jawaban tidak jelas, berkas serah terima belum membantu operasi.
 
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
+Kawan Advert.id, pisahkan informasi yang harus ada dari informasi yang “bagus bila ada”. Yang wajib bergantung kontrak dan sistem, tetapi umumnya mencakup identitas aset, gambar kondisi akhir, persetujuan penting, material/peralatan yang benar-benar terpasang, catatan pemeriksaan, serta pemilik tanggung jawab setelah serah terima.
 
-### KR-08
+## Buat isi berkas dapat dibandingkan dengan aset nyata
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Berkas yang baik bukan tumpukan PDF. Susun sebagai daftar indeks yang memudahkan seseorang mencocokkan dokumen dengan aset. Setiap catatan sebaiknya menunjukkan tanggal, revisi, sumber, bagian aset yang dimaksud, dan statusnya. Bila ada perubahan di lapangan, jangan sembunyikan di email lama; masukkan perubahan itu ke gambar kondisi akhir atau catatan yang jelas.
 
-### KR-16
+Untuk pekerjaan grafis, simpan file sumber yang sah, font atau lisensi yang relevan, ukuran, definisi warna, proses keluaran, bahan, contoh persetujuan, serta versi produksi. [ISO 12647-2](https://www.iso.org/standard/57833.html) dan [panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) menunjukkan pentingnya kondisi proses serta rekaman dalam produksi cetak. Ini bukan janji bahwa warna akan sama di semua bahan atau cahaya.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-13-04` → `/artikel/itp-produksi-signage.html` — Inspection and Test Plan Produksi Signage
-- `ADV-13-05` → `/artikel/lifecycle-cost-media-advertising.html` — Lifecycle Cost Media Advertising
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Definisikan kebutuhan sebelum meminta harga
-
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Handover Dossier Signage dan Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Buat penawaran benar-benar sebanding
-
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Handover Dossier Signage dan Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk struktur dan fabrikasi, dokumen harus membedakan desain, identitas bahan, prosedur kerja, pemeriksaan, ketidaksesuaian, perbaikan, dan penerimaan. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu komprehensif untuk pengelasan fusi logam; satu sertifikat atau foto las tidak otomatis membuktikan keseluruhan pekerjaan sudah diterima.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Handover Dossier Signage dan Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan menyamakan semua dokumen. Gambar yang disetujui menunjukkan rencana. Gambar kondisi akhir menunjukkan apa yang dicatat sebagai terpasang. Lembar data produk menjelaskan produk tertentu. Laporan pemeriksaan menjelaskan apa yang diperiksa dengan metode dan batas tertentu. Garansi menjelaskan komitmen yang dibatasi syaratnya. Persetujuan pemilik atau otoritas menjelaskan keputusan pihak tersebut.
 
-## Pertanyaan wajib kepada penyedia
+Tidak ada satu dokumen yang menggantikan dokumen lain. Contohnya, data produk tidak membuktikan pemasangan benar. Foto pemasangan tidak membuktikan seluruh bagian tersembunyi sesuai. Laporan uji tidak membuktikan semua komponen lain tanpa cakupan yang jelas. Dokumen perlu dicocokkan dengan kondisi aset, kontrak, dan pihak yang berwenang menerima.
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Handover Dossier Signage dan Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Advert.id, ini juga berlaku untuk layar digital. Daftar perangkat, versi perangkat lunak, konfigurasi yang diserahkan, pemilik akses, prosedur perubahan, dan cara menonaktifkan akses yang tidak lagi diperlukan perlu dapat ditelusuri. Jangan menyerahkan kata sandi atau data rahasia di dalam dokumen publik; gunakan proses aman yang disetujui pemilik.
 
-## Red flag dan biaya yang sering tersembunyi
+## Pertanyaan yang perlu diajukan kepada penyedia
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Handover Dossier Signage dan Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan yang memaksa jawaban dapat diverifikasi:
 
-## Penerimaan, serah terima, dan keputusan akhir
+- Dokumen mana yang mencerminkan kondisi akhir, dan siapa menyetujui revisinya?
+- Produk, bahan, komponen, atau perangkat apa yang benar-benar dipasang?
+- Pemeriksaan atau pengujian apa yang dilakukan; siapa pelaksananya; dan apa ruang lingkupnya?
+- Temuan apa yang masih terbuka, siapa pemiliknya, serta kapan akan ditutup?
+- Akses operasi, akun, kunci, suku cadang, dan dokumen pemeliharaan berada pada siapa?
+- Apa syarat garansi, batasnya, dan bukti awal kondisi aset?
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Handover Dossier Signage dan Digital Display”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan tersebut tidak menghambat penyedia yang rapi. Justru ia mencegah pemilik menerima aset tanpa pegangan ketika ada masalah. Untuk sistem pelindung, [ISO 12944-1](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) dan [ISO 12944-8](https://www.iso.org/standard/64838.html) menempatkan sistem, spesifikasi, serta pemeliharaan dalam konteks yang perlu dibuktikan; nama cat atau produk saja bukan rekaman kondisi proyek.
 
-## Objection or shortcut to address
+## Tanda peringatan dan biaya yang sering tidak terlihat
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Waspadai berkas yang hanya berisi brosur, tanpa identitas aset dan kondisi akhir. Waspadai gambar tanpa revisi, laporan tanpa tanggal atau pelaksana, daftar komponen tanpa bukti terpasang, dan garansi tanpa syarat. Ini bukan berarti pekerjaan pasti buruk, tetapi berarti penerimaan belum punya dasar yang cukup.
 
-## Required conclusion
+Biaya yang sering hilang dari pembahasan adalah waktu mencari dokumen, akses yang tidak jelas, pekerjaan ulang saat gambar salah, akun yang tidak bisa dipindahkan, suku cadang yang tidak dikenali, dan pemeriksaan ulang karena catatan awal tidak lengkap. Biaya tersebut biasanya muncul ketika aset sudah beroperasi dan orang yang mengerjakan proyek awal tidak lagi tersedia.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Teman Advert.id, jangan menyamarkan kekurangan dengan folder bernama “final”. Tandai dokumen yang belum ada, perubahan yang belum diverifikasi, dan pekerjaan yang masih terbuka. Berkas jujur yang menyatakan batas lebih aman daripada berkas rapi yang membuat orang salah percaya.
 
-## Draft completion checklist
+## Penerimaan dan keputusan akhir
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Penerimaan sebaiknya memisahkan tiga hal: apa yang sudah dilihat di lapangan, apa yang didukung rekaman, dan apa yang masih terbuka. Pemilik atau pemeriksa perlu mencocokkan aset dengan gambar kondisi akhir, identitas produk, akses operasi, serta catatan pemeriksaan yang relevan. Bila ada perbedaan, catat sebagai temuan dan tetapkan pemilik penyelesaiannya.
+
+Serah terima bukan akhir pemeliharaan. Setelah aset diterima, berkas harus memiliki pemilik, lokasi simpan, versi, dan cara diperbarui ketika terjadi penggantian komponen atau perubahan operasi. Jika Anda sedang menyusun sistem signage baru, halaman [signage](/signage/) dapat membantu memetakan komponennya; ia tidak menggantikan pemeriksaan serta penerimaan aset tertentu.
+
+## Jalan pintas yang sering menggoda
+
+“Dokumennya sudah banyak, berarti sudah sesuai” adalah jalan pintas yang berbahaya. Jumlah halaman tidak menunjukkan kecocokan antara dokumen dan aset. Kebalikannya juga benar: aset yang tampak baik belum tentu memiliki jejak yang cukup untuk dioperasikan dan dirawat dengan aman.
+
+Alternatifnya sederhana: gunakan indeks berkas, cocokkan tiap bagian dengan aset dan keputusan yang didukungnya, lalu tandai kekurangan secara terbuka. Bila ada persetujuan, pemeriksaan, gambar kondisi akhir, atau akses penting yang hilang, jangan menyebut pekerjaan tuntas hanya karena folder sudah dikirim.
+
+## Kesimpulan: berkas serah terima adalah jejak, bukan pengganti inspeksi
+
+Berkas serah terima signage dan layar digital membuat aset lebih mudah dipahami, dioperasikan, serta ditelusuri setelah proyek berpindah tangan. Sobat Advert.id, langkah praktisnya adalah membuat satu indeks aset yang menghubungkan gambar kondisi akhir, produk terpasang, pemeriksaan, akses, garansi, temuan terbuka, dan pemilik dokumen.
+
+Aturan kerjanya sederhana: dokumen harus cocok dengan aset nyata dan keputusan yang diklaimnya. Jika bukti kondisi lapangan, persetujuan, atau penutupan temuan masih hilang, berkas tidak boleh dipakai sebagai alasan untuk menganggap aset telah pasti sesuai.

@@ -1,9 +1,10 @@
 ---
 article_id: ADV-09-05
-title: "Fixing Signage ke Dinding, Atap, dan Existing Structure"
+title: "Pengikatan Signage ke Dinding, Atap, dan Struktur Eksisting"
 slug: "fixing-signage-existing-structure"
-description: "Gather as-builts, substrate identity/condition, hidden services, load path, anchors/brackets, waterproofing, corrosion, access and tests"
-status: outline
+description: "Hal yang perlu dibuktikan sebelum signage diikat ke dinding, atap, atau struktur eksisting, dari kondisi penyangga hingga akses, air, dan pemeriksaan kompeten."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-03-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,50 +16,22 @@ final_route: "/artikel/fixing-signage-existing-structure.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Pengikatan Signage ke Dinding, Atap, dan Struktur Eksisting
 
-# Fixing Signage ke Dinding, Atap, dan Existing Structure
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Memasang signage ke dinding atau atap sering terlihat seperti urusan memilih baut dan membuat braket. Padahal pengikatan hanyalah satu mata rantai. Beban dari panel atau kabinet berjalan melalui rangka, sambungan, pengikat, lalu masuk ke bagian bangunan atau struktur yang sudah ada. Bila struktur pendukung, material di balik permukaan, kondisi aktual, atau jalur beban tidak dipahami, produk angkur yang bagus pun bukan bukti pemasangan aman.
 
-- **Writer task:** Expand this file into one complete article answering: “Fixing Signage ke Dinding, Atap, dan Existing Structure”
-- **Reader and situation:** Retrofit team adding a sign to a building
-- **Reader outcome:** Gather as-builts, substrate identity/condition, hidden services, load path, anchors/brackets, waterproofing, corrosion, access and tests
-- **Primary intent:** Assess an attachment interface
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No anchor selection/capacity or host-structure approval; competent engineer owns design
-- **Final public route:** `/artikel/fixing-signage-existing-structure.html`
-- **Appointed CMS date:** `2026-03-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: sebelum memilih detail pengikatan, buktikan dulu apa yang akan menahan signage, dalam kondisi apa, dan bagaimana gaya diteruskan sampai ke struktur pendukung. Gambar kondisi akhir, identitas bahan, kondisi penyangga, layanan tersembunyi, paparan air, akses kerja, serta desain oleh pihak kompeten merupakan dasar keputusan. Tidak ada ukuran angkur, jumlah baut, atau klaim beban aman yang dapat dipinjam secara umum dari proyek lain.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Fixing Signage ke Dinding, Atap, dan Existing Structure**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -69,153 +42,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-09
-
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-### KR-17
-
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Qualified engineer's current Indonesian design plus real site/material/QC/as-built records
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-09-03` → `/artikel/deflection-vibration-fatigue-signage.html` — Deflection, Vibration, dan Fatigue pada Struktur Advertising
-- `ADV-09-04` → `/artikel/foundation-totem-billboard.html` — Base Plate, Anchor Bolt, dan Foundation Totem atau Billboard
-- `ADV-09-06` → `/artikel/membaca-perhitungan-struktur-advertising.html` — Cara Membaca Ringkasan Perhitungan Struktur Advertising
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Fixing Signage ke Dinding, Atap, dan Existing Structure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Salah paham pertama adalah “dindingnya beton, jadi pasti bisa.” Permukaan yang terlihat tidak memberi seluruh informasi tentang mutu, ketebalan, tulangan, kondisi, rongga, kerusakan lama, atau layanan yang tersembunyi. Salah paham kedua adalah “angkur punya katalog, jadi kapasitasnya tinggal dipilih.” Data produk tidak otomatis menggambarkan kondisi substrat, jarak detail, konfigurasi terpasang, arah beban, lingkungan, atau desain struktur penyangga Anda.
+
+Pengikatan signage perlu dibaca sebagai satu jalur beban. Panel atau kabinet memindahkan gaya ke rangka; rangka ke braket dan pengikat; pengikat ke struktur eksisting; lalu struktur eksisting meneruskan gaya ke sistemnya sendiri. [PP No. 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) adalah salah satu rujukan kerangka penyelenggaraan bangunan gedung. Ia tidak mengesahkan satu detail pengikatan tertentu; penerapannya tetap memerlukan data bangunan, desain, dan pihak yang berwenang.
+
+Kawan Advert.id, jika orang tidak dapat menjelaskan jalur beban dengan gambar dan kondisi nyata, belum waktunya membahas merek angkur atau ukuran baut. Keselamatan dimulai dari pertanyaan yang benar, bukan dari komponen yang paling mudah dibeli.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Fixing Signage ke Dinding, Atap, dan Existing Structure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Struktur eksisting** berarti bangunan, dinding, atap, tiang, rangka, atau elemen lain yang sudah ada sebelum signage dipasang. **Substrat** adalah bahan tempat pengikat bekerja, misalnya bagian tertentu dari dinding atau struktur. **Braket** adalah elemen penghubung yang memindahkan gaya antara signage dan penyangga. **Pengikat** mencakup komponen yang menghubungkan detail tersebut. Istilah ini membantu percakapan, tetapi tidak menggantikan detail desain.
+
+Yang perlu dinilai bukan hanya titik pengikat yang terlihat. Periksa pula bagian signage yang menyalurkan gaya, sambungan rangka, kondisi struktur penerima, pertemuan dengan lapisan kedap air, jalur kabel atau utilitas tersembunyi, serta akses untuk pemasangan dan perawatan. Pengikatan di dinding, atap, dan tiang dapat memiliki risiko berbeda karena bentuk penyangga serta kondisi aksesnya tidak sama.
+
+Artikel ini tidak memilih jenis angkur, tidak menghitung beban, dan tidak memberi persetujuan penggunaan. Sobat Advert.id, penilaian kapasitas serta persetujuan struktur penerima adalah tanggung jawab desain oleh insinyur kompeten dengan informasi proyek yang mutakhir.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Fixing Signage ke Dinding, Atap, dan Existing Structure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pekerjaan yang benar dimulai dari survei dan dokumen. Cari gambar kondisi akhir, riwayat perubahan, identitas struktur, informasi bahan, area yang pernah diperbaiki, serta data layanan tersembunyi. Bandingkan dokumen dengan keadaan lapangan. Jika gambar menyebut satu jenis dinding tetapi kondisi tidak dapat diverifikasi, anggap itu sebagai kesenjangan data yang perlu diselesaikan, bukan detail kecil yang boleh diabaikan.
+
+Kemudian insinyur perlu memahami tindakan yang bekerja pada sistem. Angin dapat memberikan pengaruh yang berbeda tergantung wilayah, paparan medan, tinggi, topografi, arah, bentuk, dan perilaku dinamis. [ISO 4354](https://www.iso.org/standard/38882.html) membahas tindakan angin; halaman standar itu tidak memuat perhitungan atau ukuran pengikat untuk proyek tertentu. Panel yang tampak ringan dari depan dapat menghasilkan tindakan yang berbeda setelah bentuk, posisi, dan lokasi diperhitungkan.
+
+Desain juga perlu melihat antarmuka. Jika pemasangan menembus pelapis atap atau dinding, bagaimana risiko air dikelola? Jika ada logam berbeda, bagaimana lingkungan dan detail sambungannya ditinjau? Jika pengikatan berada dekat sambungan lama, kerusakan, atau area yang sulit dijangkau, bagaimana pemeriksaan akan dilakukan? Pertanyaan ini harus dijawab pada gambar serta spesifikasi, bukan diatasi spontan setelah lubang dibuat.
+
+Terakhir, pekerjaan perlu punya bukti pelaksanaan: produk yang benar, kondisi substrat, pemasang yang kompeten, pemeriksaan, penyimpangan, dan gambar kondisi akhir. Jangan menganggap “sudah dilas” atau “sudah dibaut” sebagai bukti mutu struktur. [ISO 3834-2](https://www.iso.org/standard/81651.html) membahas persyaratan mutu komprehensif untuk pengelasan fusi logam; ia tidak membuktikan kualitas satu sambungan tanpa rekaman proyek yang relevan.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Fixing Signage ke Dinding, Atap, dan Existing Structure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi substrat adalah faktor besar. Retak, kelembapan, korosi, kerusakan permukaan, perubahan sebelumnya, atau bagian yang tidak dapat diperiksa dapat mengubah keputusan. Foto dari luar tidak selalu menunjukkan kondisi di balik lapisan. Bila ada air, celah, tepi, atau perangkap kelembapan, detail perlindungan serta pemeliharaan perlu dipertimbangkan bersama.
+
+Lingkungan juga mengubah kebutuhan. Paparan hujan, area pantai atau industri, perbedaan logam, sambungan, tepi, serta akses pemeliharaan relevan bagi sistem pelindung. [ISO 12944-2](https://www.iso.org/standard/64834.html) menjelaskan pengelompokan lingkungan, dan [ISO 12944-8](https://www.iso.org/standard/64838.html) mencakup spesifikasi serta pemeliharaan sistem pelindung. Rujukan ini tidak mengubah produk atau material menjadi jaminan kinerja untuk semua pemasangan.
+
+Teman Advert.id, faktor manusia juga penting. Siapa pemilik bangunan, siapa yang memberi izin, siapa yang menyimpan gambar, siapa yang dapat mengakses lokasi, dan siapa yang berwenang menghentikan kerja ketika kondisi berbeda dari rencana? Tanpa peran yang jelas, masalah teknis mudah berubah menjadi sengketa setelah pekerjaan sudah sulit dibalik.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Fixing Signage ke Dinding, Atap, dan Existing Structure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah tim ingin memasang signage baru pada dinding gedung lama. Permukaan tampak kokoh, tetapi gambar bangunan tidak lengkap dan ada kabel yang diduga berada di balik area kerja. Ini bukan saatnya memilih pengikat yang “paling kuat”. Ini saatnya menahan desain akhir, meminta survei yang tepat, mengidentifikasi layanan tersembunyi, dan memperoleh penilaian struktur penerima sebelum metode kerja ditetapkan.
+
+| Kondisi | Makna yang aman | Langkah berikutnya |
+| --- | --- | --- |
+| Bahan atau kondisi dinding tidak dapat diverifikasi | Tidak ada dasar untuk menilai detail pengikatan dari tampilan. | Kumpulkan dokumen dan lakukan pemeriksaan yang ditetapkan pihak kompeten. |
+| Ada indikasi kabel, pipa, atau layanan tersembunyi | Risiko tidak hanya pada struktur, tetapi juga pada utilitas. | Identifikasi layanan sebelum detail atau metode pemasangan disetujui. |
+| Pemasangan menembus lapisan atap/dinding | Antarmuka air dan pemeliharaan dapat terpengaruh. | Minta detail kedap air serta tanggung jawab pemeliharaan yang disetujui. |
+| Signage berada di area tinggi atau dekat publik | Akses dan objek jatuh menjadi bagian dari risiko. | Rencanakan akses, pembatasan publik, serta kondisi darurat sesuai pekerjaan nyata. |
+
+Tabel ini tidak memberi cara mengebor, memasang angkur, atau menguji sambungan. Pekerjaan tinggi, akses, cuaca, objek jatuh, listrik, dan pengamanan publik perlu masuk rencana keselamatan yang sesuai lokasi. [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) adalah salah satu rujukan keselamatan konstruksi; metode proyek tetap harus disusun secara sah dan mutakhir.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Fixing Signage ke Dinding, Atap, dan Existing Structure”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah memandang angkur sebagai jawaban atas seluruh sistem. Perbaiki dengan menggambar jalur beban dari signage hingga struktur penerima. Kesalahan kedua adalah memakai detail proyek lama pada bangunan berbeda. Perbaiki dengan membuktikan bahan, kondisi, lokasi, dan paparan sebelum mengulang detail.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah mengabaikan air setelah pemasangan selesai. Lubang, penetrasi, dan sambungan dapat mengubah jalur air atau akses pemeriksaan. Perbaiki dengan meminta detail antarmuka, bahan, dan rencana pemeliharaan. Kesalahan keempat adalah menyuruh pemasang “sesuaikan di lapangan” ketika kondisi berbeda. Perbedaan kondisi harus kembali ke pihak desain, bukan diselesaikan dengan perubahan diam-diam.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang menggoda adalah menilai keberhasilan dari fakta bahwa signage sudah menempel di dinding. Menempel hari ini tidak membuktikan desain, kapasitas, ketahanan, atau keselamatan besok. Alternatif yang lebih waras adalah menolak memulai sampai bukti struktur penerima, detail desain, kondisi akses, dan tanggung jawab pemeriksaan tersedia. Bila Anda baru menyusun kebutuhan signage, halaman [signage](/signage/) dapat membantu menjelaskan konteks sistem; ia bukan persetujuan untuk memasang ke bangunan yang sudah ada.
 
-## Required conclusion
+## Kesimpulan: pengikatan adalah antarmuka, bukan sekadar baut
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Pengikatan signage ke dinding, atap, atau struktur eksisting perlu diperlakukan sebagai pertemuan dua sistem: signage dan struktur penerima. Sobat Advert.id, sebelum pekerjaan dimulai, mintalah gambar kondisi akhir, identitas dan kondisi penyangga, data utilitas tersembunyi, jalur beban yang dirancang, detail air serta korosi, rencana akses, dan penanggung jawab pemeriksaan.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan memilih angkur atau mengizinkan pemasangan hanya dari tampilan permukaan dan katalog produk. Persetujuan struktur penerima serta detail pengikatan harus datang dari penilaian kompeten yang berbasis bukti proyek.
