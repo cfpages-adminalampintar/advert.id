@@ -1,9 +1,9 @@
 ---
 article_id: ADV-12-04
-title: "Work at Height untuk Instalasi dan Changeout Advertising"
+title: "Keselamatan Kerja di Ketinggian untuk Pemasangan Signage"
 slug: "k3-work-at-height-advertising"
-description: "Address hierarchy, access equipment, anchor evidence, competence, tool tethering, electrical isolation, exclusion, weather source, rescue and supervision"
-status: outline
+description: "Batas perencanaan keselamatan untuk pemasangan atau penggantian signage di ketinggian: akses, kompetensi, zona publik, listrik, cuaca, dan penyelamatan."
+status: draft
 publication_date: "2026-05-30"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,55 +13,25 @@ reader_community: "Advert.id"
 reader_address: "Teman Advert.id"
 final_route: "/artikel/k3-work-at-height-advertising.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
   - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Keselamatan Kerja di Ketinggian untuk Pemasangan Signage
 
-# Work at Height untuk Instalasi dan Changeout Advertising
+Halo, Teman Advert.id!
 
-## Assignment lock
+Pekerjaan memasang, memeriksa, atau mengganti signage di ketinggian tidak dimulai dari memilih alat akses. Ia dimulai dari keputusan apakah pekerjaan layak dilakukan pada waktu, lokasi, dan kondisi yang tersedia. Jika akses belum ditinjau, penopang belum jelas, area publik tidak dapat dikendalikan, cuaca tidak mendukung, atau rencana penyelamatan belum siap, pilihan yang aman adalah menunda dan melengkapi pengendalian.
 
-- **Writer task:** Expand this file into one complete article answering: “Work at Height untuk Instalasi dan Changeout Advertising”
-- **Reader and situation:** Installer/operator choosing access methods
-- **Reader outcome:** Address hierarchy, access equipment, anchor evidence, competence, tool tethering, electrical isolation, exclusion, weather source, rescue and supervision
-- **Primary intent:** Plan work-at-height controls
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not a work permit or method statement; current K3 and competent plan govern
-- **Final public route:** `/artikel/k3-work-at-height-advertising.html`
-- **Appointed CMS date:** `2026-05-30` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Tidak ada satu set perlengkapan atau satu cara akses yang otomatis cocok untuk semua papan nama, media luar ruang, atau layar. Pilihan harus mengikuti penilaian risiko lokasi dan tugas, orang yang kompeten, data aset, kondisi bangunan atau penyangga, ketentuan hukum yang berlaku, serta rencana kerja yang disetujui. Artikel ini membantu memetakan pertanyaannya; ia bukan izin kerja maupun metode pelaksanaan. [NEEDS: penilaian risiko lokasi dan tugas, personel kompeten, peralatan yang diperiksa, izin, rencana penyelamatan, dan kriteria penghentian]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Work at Height untuk Instalasi dan Changeout Advertising**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -72,147 +42,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-04
+## Mengapa pekerjaan ini perlu diperlakukan khusus
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Ketinggian menambah konsekuensi pada pekerjaan yang tampak sederhana. Membuka panel, membersihkan bagian luar, mengganti komponen, atau memasang kembali media dapat melibatkan benda jatuh, kestabilan sementara, listrik, cuaca, akses yang sempit, lalu lintas, dan orang di bawah area kerja. Risiko tidak hanya berada pada pekerja yang naik; pengguna jalan, penghuni bangunan, dan tim di bawah juga dapat terdampak.
 
-### KR-07
+Kondisi aset ikut menentukan. Signage yang menempel pada bangunan, berdiri di atas tiang, atau berada dekat ruang jalan memiliki antarmuka yang berbeda. PP 16 Tahun 2021 memberi konteks penyelenggaraan bangunan gedung, tetapi tidak membuktikan bahwa penopang tertentu siap menerima aktivitas kerja hari ini. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) perlu diterapkan bersama data aset, rancangan, dan pemeriksaan yang sesuai.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Kawan Advert.id, jangan menyamakan pemasangan baru dengan penggantian komponen. Pekerjaan perubahan bisa mengubah kestabilan sementara, jalur kabel, berat yang ditangani, urutan pembongkaran, dan kondisi bagian yang sebelumnya tidak terlihat. Perubahan kecil dalam permintaan klien dapat menjadi perubahan besar dalam cara pekerjaan dikendalikan.
 
-### KR-11
+## Pertanyaan yang perlu dijawab sebelum tim naik
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Rencana yang layak dimulai dari survei nyata, bukan foto lama atau perkiraan. Kenali alamat serta koordinat, pemilik atau pengelola lokasi, jalur masuk, kondisi bidang tumpuan, ruang untuk kendaraan dan alat, area yang harus dipisahkan dari publik, bahaya sekitar, utilitas, jalur kabel, kondisi cuaca yang dipantau, dan akses untuk keadaan darurat. Bila lokasi berada dekat jalan, arus lalu lintas dan kewenangan pengelola jalan menjadi bagian dari keputusan; [UU 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) adalah salah satu rujukan konteksnya.
 
-### KR-14
+Setelah itu, tetapkan pekerjaan sebenarnya: apa yang dibongkar, apa yang diangkat atau dipindahkan, apakah ada bagian yang akan terbuka, energi apa yang perlu diisolasi, dan apakah pekerjaan panas atau peralatan berputar terlibat. Tuliskan urutan pada tingkat yang cukup untuk menilai antarmuka risiko, tanpa menggantikan metode kerja teknis yang disusun pihak kompeten.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Pertanyaan penting lainnya adalah siapa yang berwenang menghentikan pekerjaan. Keputusan berhenti tidak boleh bergantung pada keberanian satu orang ketika cuaca berubah, zona publik terganggu, akses kehilangan kestabilan, komunikasi gagal, atau prasyarat penyelamatan belum ada. Tetapkan orang, cara melapor, dan jalur keputusan sebelum pekerjaan dimulai.
 
-### KR-15
+## Akses, titik tambat, dan peralatan bukan sekadar daftar belanja
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Peralatan akses, titik tambat, pengaman jatuh, sarana pengangkatan, serta pengamanan alat harus dipilih dan diperiksa sesuai tugas serta rancangan yang berlaku. Nama peralatan atau pengalaman pemakaian sebelumnya tidak membuktikan kesesuaiannya di lokasi baru. Bukti yang perlu ditanyakan meliputi kesesuaian rencana akses, kondisi dan pemeriksaan peralatan, kompetensi pengguna, batas penggunaan dari pabrikan, serta hubungan titik tambat dengan struktur penerima gaya.
 
-### KR-16
+Sobat Advert.id, hindari instruksi “pakai saja yang tersedia.” Titik tambat pada lapisan ringan, pagar, rangka dekoratif, atau bagian yang tidak ditetapkan oleh rancangan bukan dasar untuk menyimpulkan aman. Begitu juga alat yang tampak baik belum tentu cocok terhadap jangkauan, posisi kerja, kondisi lantai, ruang bebas, atau urutan pemindahan beban. Hal ini perlu diputuskan dalam rencana yang ditinjau orang kompeten, bukan melalui artikel umum.
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Pengelolaan benda jatuh juga perlu menjadi bagian tersendiri. Peralatan tangan, komponen, kemasan, dan material sisa perlu dikendalikan agar tidak memasuki zona publik atau area kerja bawah. Pengaturan zona, penanda, penjaga, komunikasi, dan waktu kerja tergantung kondisi nyata lokasi; tidak ada jarak atau cara tunggal yang aman untuk semua pekerjaan.
 
-## Evidence gates
+## Listrik, konten digital, dan isolasi energi
 
-- **TOPIC-GATE:** Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions
+Media bercahaya atau digital menambah kemungkinan sumber energi dan kendali jarak jauh. Sebelum pekerjaan, identifikasi sumber pasokan, jalur kabel, panel atau pengendali, kemungkinan energi tersimpan, kondisi basah atau berdebu, serta siapa yang berwenang melakukan isolasi dan pembuktian kondisi aman sesuai prosedur proyek. Jangan mengandalkan sakelar konten atau aplikasi sebagai bukti bahwa seluruh sumber energi telah terisolasi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+[IEC 62368-1](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) membahas keselamatan peralatan audio/video dan teknologi informasi. Namun sertifikat atau spesifikasi produk tidak menggantikan rancangan sistem terpasang, pemeriksaan, pengujian, prosedur isolasi, dan kompetensi pekerjaan kelistrikan untuk aset nyata. Jika data sistem tidak lengkap, tahan pekerjaan yang dapat mengekspos orang pada energi atau bagian hidup.
 
-## Internal-link plan
+## Cuaca, publik, dan penyelamatan
 
-### Existing local routes
+Cuaca bukan catatan administratif. Angin, hujan, petir, jarak pandang, panas, atau permukaan basah dapat mengubah akses, pengangkatan, komunikasi, serta kemampuan merespons keadaan darurat. Gunakan sumber cuaca yang disepakati dalam rencana kerja, catat keputusan perubahan kondisi, dan pahami siapa yang menghentikan pekerjaan. Hindari kalimat kabur seperti “lanjut jika cuaca aman” tanpa sumber informasi dan kriteria proyek yang nyata.
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Rencana penyelamatan perlu cocok dengan tempat kerja, bukan sekadar nomor telepon darurat. Siapa yang memberi alarm, bagaimana akses penyelamat diperoleh, bagaimana pekerja yang tidak mampu bergerak akan ditangani, apa hambatan di bawah area kerja, dan siapa yang berkoordinasi dengan pihak lokasi adalah pertanyaan yang perlu dijawab sebelum tim bekerja. Teman Advert.id, bila jawabannya belum tersedia, jangan memulai dengan asumsi keadaan darurat akan terselesaikan sendiri.
 
-### Planned sibling articles
+Permen PUPR 10 Tahun 2021 dan Permenaker 9 Tahun 2016 adalah rujukan yang relevan untuk konteks keselamatan konstruksi serta kerja pada ketinggian. Status dan teks hukum yang berlaku perlu dicek kembali, karena halaman JDIH menunjukkan adanya perubahan atau pencabutan sebagian pada aturan terkait. [Permen PUPR 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), dan [status JDIH](https://peraturan.bpk.go.id/Search?p=195&tema=24) tidak boleh dipakai sebagai pernyataan bahwa sebuah proyek sudah patuh tanpa pemeriksaan hukum dan rencana spesifik.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Contoh keputusan yang lebih aman
 
-- `ADV-12-02` → `/artikel/proses-fabrikasi-signage.html` — Cutting, Forming, Welding, dan Finishing Signage
-- `ADV-12-03` → `/artikel/input-lift-plan-signage.html` — Input Wajib untuk Lift Plan Signage Besar
-- `ADV-12-05` → `/artikel/pre-installation-check-signage.html` — Pre-Installation Check untuk Signage
-- `ADV-12-06` → `/artikel/post-installation-inspection-signage.html` — Post-Installation Inspection Sebelum Signage Beroperasi
+| Keadaan | Keputusan yang perlu diambil | Bukti atau tindakan sebelum lanjut |
+| --- | --- | --- |
+| Lokasi belum disurvei, tetapi jadwal pemasangan sudah dekat | Jangan memilih cara akses hanya dari foto | Lakukan survei dan tetapkan risiko, area publik, utilitas, serta jalur penyelamatan. |
+| Ada perubahan ukuran atau komponen di lapangan | Perlakukan sebagai perubahan pekerjaan | Periksa dampak pada akses, pengangkatan, penopang, isolasi energi, dan urutan kerja. |
+| Cuaca berubah atau komunikasi terganggu | Beri wewenang berhenti pada pengawas yang ditetapkan | Catat kondisi, amankan area, dan mulai lagi hanya setelah prasyarat dipulihkan. |
+| Titik tambat tidak memiliki bukti rancangan | Jangan memakainya berdasarkan asumsi | Minta verifikasi pihak kompeten atas struktur dan rencana akses. |
+| Komponen digital masih dapat dikendalikan jarak jauh | Pisahkan pengendalian konten dari isolasi energi | Tetapkan prosedur isolasi dan pembuktian kondisi aman yang berlaku di proyek. |
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Tabel ini tidak menetapkan cara kerja, ukuran pengamanan, atau pilihan alat. Tujuannya ialah menunjukkan kapan pekerjaan perlu ditahan sampai bukti serta pengendalian yang benar tersedia.
 
-## Jawaban singkat dan salah paham utama
+## Kebiasaan yang perlu dihindari
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Work at Height untuk Instalasi dan Changeout Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang paling berbahaya adalah mengejar selesai cepat karena pekerja “sudah biasa.” Kompetensi penting, tetapi tidak menghapus kondisi unik lokasi: akses berubah, bangunan menua, lalu lintas bergerak, utilitas berbeda, dan cuaca dapat berganti. Pengalaman tanpa rencana yang diperbarui dapat membuat bahaya baru tidak terlihat.
 
-## Definisi dan batas objek
+Alternatifnya adalah rapat singkat sebelum mulai yang memeriksa pekerjaan hari itu, kondisi lapangan, dokumen izin, alat, komunikasi, pengaturan publik, isolasi energi, dan kesiapan penyelamatan. Jika salah satu prasyarat penting belum ada, putuskan penundaan. Itu bukan kegagalan produksi; itu keputusan untuk melindungi pekerja dan orang sekitar.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Work at Height untuk Instalasi dan Changeout Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Aturan kerja yang perlu dipegang
 
-## Cara kerjanya
+Keselamatan kerja di ketinggian untuk signage berarti memastikan pekerjaan benar-benar dapat dikendalikan sebelum siapa pun naik atau area publik terdampak. Kumpulkan penilaian risiko, data aset, rencana akses dan pengangkatan bila diperlukan, bukti kompetensi dan peralatan, pengaturan energi, zona publik, pemantauan cuaca, serta rencana penyelamatan yang disetujui.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Work at Height untuk Instalasi dan Changeout Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Work at Height untuk Instalasi dan Changeout Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Work at Height untuk Instalasi dan Changeout Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Work at Height untuk Instalasi dan Changeout Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasionalnya sederhana: jika akses, penopang, isolasi, cuaca, pengamanan publik, atau penyelamatan belum dapat dibuktikan, hentikan atau tunda pekerjaan. Keputusan lanjut harus dibuat oleh pihak kompeten berdasarkan rencana dan kondisi lokasi yang aktual.

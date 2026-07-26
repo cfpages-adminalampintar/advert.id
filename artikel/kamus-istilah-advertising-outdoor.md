@@ -1,9 +1,9 @@
 ---
 article_id: ADV-01-06
-title: "Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron"
+title: "Kamus Istilah Media Luar Ruang dan Signage"
 slug: "kamus-istilah-advertising-outdoor"
-description: "Define recurring media, component, material, lighting, structural and permit terms while flagging ambiguous synonyms"
-status: outline
+description: "Panduan memahami istilah media, komponen, bahan, pencahayaan, penyangga, dan perizinan dalam percakapan proyek signage luar ruang."
+status: draft
 publication_date: "2025-09-05"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,46 +13,23 @@ reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/kamus-istilah-advertising-outdoor.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
   - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Kamus Istilah Media Luar Ruang dan Signage
 
-# Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Istilah seperti baliho, billboard, neon box, totem, dan videotron sering dipakai seolah-olah sudah menjelaskan barang yang akan dibuat. Padahal satu sebutan dagang belum menyatakan ukuran, bahan, cara pemasangan, lokasi, pencahayaan, pemilik, izin, harga, atau hasil yang akan diperoleh. Dalam penawaran, kebingungan ini mudah berubah menjadi barang yang berbeda dari bayangan pembeli.
 
-- **Writer task:** Expand this file into one complete article answering: “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”
-- **Reader and situation:** Buyer reconciling BOQ and supplier terminology
-- **Reader outcome:** Define recurring media, component, material, lighting, structural and permit terms while flagging ambiguous synonyms
-- **Primary intent:** Translate Indonesian trade vocabulary
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not validate a seller's label; ADV-13-02 owns submittal identity
-- **Final public route:** `/artikel/kamus-istilah-advertising-outdoor.html`
-- **Appointed CMS date:** `2025-09-05` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Cara paling berguna memakai kamus istilah bukan menghafal definisi satu per satu, melainkan menghubungkan kata dengan keputusan yang perlu diambil. Setelah sebuah nama media disebut, lanjutkan dengan pertanyaan: dipasang di mana, untuk pesan apa, menghadap ke siapa, memakai sistem apa, dan bukti persetujuan apa yang dibutuhkan? [NEEDS: jenis sistem, wilayah, konten, pemilik atau operator, dan klasifikasi resmi yang berlaku]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -63,129 +40,75 @@ sources:
 - **Selection basis:** filename/source metadata identifies `outdoor videotron 1` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi outdoor videotron 1](/wp-content/uploads/2024/06/outdoor-videotron-1.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-01
+## Nama media: petunjuk awal, bukan spesifikasi
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md) and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified `advert.id` scope and keep research subordinate to its 14 local topic families.
-- **Safe grounded facts:** The frozen plan contains 14 topics and 84 briefs. Existing pages, photos, portfolio claims, dimensions, prices, and service areas are evidence candidates only.
-- **Limits:** Planning artifacts establish editorial scope only.
+**Baliho** umumnya dipakai untuk menyebut media berukuran besar yang menyampaikan pesan visual. Dalam percakapan proyek, istilah ini belum menjelaskan apakah bidangnya tetap, menggunakan bahan fleksibel, berdiri sendiri, atau menempel pada penopang lain. Karena itu jangan berhenti pada nama.
 
-### KR-02
+**Papan reklame** atau *billboard* adalah sebutan yang sering dipakai untuk media iklan luar ruang. Di lapangan, penggunaannya bisa tumpang tindih dengan baliho. Untuk menyamakan pemahaman, tulis bentuk bidang, ukuran, satu atau dua sisi, orientasi, posisi, jenis pesan, serta penyangga yang dimaksud.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+**Kotak bercahaya** atau *neon box* adalah sebutan pasar bagi media berbentuk kotak dengan sumber cahaya di dalam atau di belakang bidang tampak. Sebutan itu tidak otomatis menjelaskan jenis sumber cahaya, sistem daya, kedap cuaca, atau mutu hasilnya. Jika pembahasannya sudah masuk ke produk tertentu, lihat juga konteks layanan [neon box](https://advert.id/neon-box) sebagai titik awal, lalu tetap minta rincian sistem yang benar-benar ditawarkan.
 
-### KR-14
+**Penanda tegak** atau *totem sign* biasanya merujuk pada media vertikal yang berdiri sendiri, sering dipakai untuk identitas lokasi atau arah. Kata “totem” tidak menjawab apakah ia menjadi bagian dari lanskap, menumpu pada alas, memakai beberapa panel, atau memiliki komponen bercahaya. Kawan Advert.id, nama yang sama dapat mengarah pada rancangan yang sangat berbeda.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+**Layar tampilan digital** atau *videotron* berarti media yang menyajikan konten elektronik. Istilah ini perlu langsung diikuti pertanyaan tentang modul, pengendali, data, sumber daya, pengaturan konten, akses perawatan, dan sistem penopang. Jangan menyamakan video demonstrasi produk dengan bukti kinerja layar yang akan dipasang di lokasi Anda.
 
-## Evidence gates
+## Istilah bagian yang sering muncul dalam penawaran
 
-- **TOPIC-GATE:** Exact system, jurisdiction, content, owner/operator, and current official classification
+Untuk menghindari salah pesan, pisahkan istilah bidang pesan dari bagian yang membuatnya berdiri dan berfungsi.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+- **Bidang tampak** adalah permukaan yang dilihat pembaca pesan. Dalam istilah pemasok kadang disebut *face*. Tanyakan bahan, cara pemasangan, dan apakah dapat diganti.
+- **Kabinet** adalah rumah atau kotak yang menampung komponen. Pada media tertentu ia dapat terlihat dari luar; pada yang lain ia berada di balik bidang tampak.
+- **Rangka** adalah bagian yang menyusun atau mengaku bentuk. Kata ini tidak menerangkan jenis bahan, rincian sambungan, atau kemampuan menahan gaya.
+- **Penyangga** adalah bagian yang meneruskan gaya ke bangunan, tiang, atau alas. Bisa berupa dinding, tiang, rangka pendukung, atau unsur lain yang ditetapkan rancangan.
+- **Sambungan** adalah hubungan antarbagian, misalnya melalui baut, las, atau cara lain. Jangan menerima “sambungan kuat” sebagai spesifikasi; minta gambar dan bukti yang sesuai proyek.
+- **Angkur** adalah komponen yang menghubungkan penyangga dengan dasar penerima gaya. Istilah ini tidak memberi nilai kemampuan atau kesesuaian dengan kondisi eksisting.
 
-## Internal-link plan
+Sobat Advert.id, istilah komponen sebaiknya selalu diikuti lokasi dan fungsinya. “Rangka galvanis” masih menyisakan pertanyaan: bagian mana, ketebalan apa, persiapan permukaan bagaimana, dan sesuai gambar revisi yang mana?
 
-### Existing local routes
+## Bahan, grafis, dan cahaya
 
-- `/neon-box` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-box-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-box-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-box-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-box-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-neon-box-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
+**Substrat** adalah bahan dasar tempat grafis atau lapisan lain diterapkan. **Grafis** adalah isi visual—teks, warna, gambar, dan susunan elemen—yang disiapkan untuk ditampilkan atau dicetak. **Berkas produksi** adalah berkas yang dipakai untuk proses nyata, bukan hanya gambar pratinjau di layar.
 
-### Planned sibling articles
+**Lapisan pelindung** dapat merujuk pada sistem yang menahan pengaruh lingkungan, sedangkan **lapisan perekat** menghubungkan bahan satu dengan lainnya. Nama lapisan tidak otomatis menjamin kecocokan terhadap semua bahan, panas, air, pembersihan, atau paparan luar ruang. Tanyakan produk tepatnya, data pabrikan, cara penggunaan, contoh yang disetujui, dan batas perawatannya.
 
-These are future routes. Do not link them as live until their HTML exists.
+**Pencahayaan dari dalam** berarti sumber cahaya berada di balik atau di dalam media; **pencahayaan dari luar** berarti bidang diterangi dari luar. Kata “terang” sendiri belum merupakan ukuran atau janji keterbacaan. Kondisi siang-malam, lingkungan, arah pandang, konten, dan pengaturan sistem dapat mengubah hasil yang dirasakan pengguna.
 
-- `ADV-01-04` → `/artikel/on-premise-vs-off-premise-advertising.html` — On-Premise dan Off-Premise Advertising
-- `ADV-01-05` → `/artikel/anatomi-sistem-signage.html` — Anatomi Sistem Signage: Face, Frame, Support, Power, dan Control
+Pada layar digital, **pengendali** adalah bagian yang mengatur tampilan, sedangkan **konten** adalah materi yang ditayangkan. Pisahkan dua hal ini dalam penawaran dan tanggung jawab. Pengelola konten belum tentu sama dengan pemilik perangkat, dan pergantian pesan dapat membutuhkan pemeriksaan hak atau persetujuan berbeda.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Lokasi dan administrasi: kata yang sering disalahartikan
 
-## Jawaban singkat dan salah paham utama
+**Lokasi** bukan hanya alamat. Untuk pembahasan media luar ruang, ia dapat mencakup identitas bidang atau bangunan, titik koordinat, arah hadap, hubungan dengan jalan atau ruang publik, akses, utilitas, pemilik, serta kondisi sekitar. **Hak lokasi** adalah hubungan dengan pemilik atau pengelola tempat; ia tidak selalu sama dengan izin penyelenggaraan media.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+**Izin reklame** adalah istilah umum yang sering dipakai untuk persetujuan penyelenggaraan media. Bentuk dan namanya dapat berbeda menurut wilayah. **Pajak reklame** atau pungutan terkait adalah urusan fiskal yang perlu dibedakan dari persetujuan lokasi, kelayakan penopang, dan izin lain. UU 1 Tahun 2022 memberi kerangka hubungan keuangan pusat dan daerah, sedangkan contoh [peraturan wali kota Depok tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) menunjukkan bahwa pelaksanaan setempat tetap perlu diperiksa, bukan disalin ke wilayah lain. [UU 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022)
 
-## Definisi dan batas objek
+**Pemilik media**, **operator**, dan **pemilik konten** juga dapat berbeda. Menuliskan ketiganya dalam dokumen membantu menjawab siapa yang menyetujui perubahan pesan, membayar kewajiban, merawat aset, atau menutup operasi. Teman Advert.id, tiga peran ini jangan diasumsikan sama hanya karena satu nama muncul di penawaran.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Cara menerjemahkan istilah menjadi permintaan yang jelas
 
-## Cara kerjanya
+| Jika penawaran menulis | Tambahkan pertanyaan | Hasil yang dicari |
+| --- | --- | --- |
+| “Baliho ukuran besar” | Berapa dimensi, bahan, sisi, orientasi, dan lokasi? | Identitas media yang dapat dibandingkan. |
+| “Neon box lengkap” | Apa bahan bidang, kabinet, sumber cahaya, sistem daya, serta akses perawatannya? | Batas pasokan dan tanggung jawab yang lebih jelas. |
+| “Videotron luar ruang” | Komponen sistem apa, siapa mengelola konten, dan bagaimana akses serta pengujian dilakukan? | Pemisahan perangkat, operasi, dan konten. |
+| “Rangka kuat” | Rancangan, bahan, sambungan, penyangga, dan pemeriksaannya apa? | Bukti yang dapat ditelusuri, bukan label umum. |
+| “Sudah termasuk izin” | Izin apa, untuk wilayah mana, berapa masa, dan atas nama siapa? | Daftar kewajiban yang tidak saling tertukar. |
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Media yang dinamai dengan baik tetap harus menyampaikan pesan yang bertanggung jawab. [UU Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf) dan [PP 80 Tahun 2019](https://peraturan.bpk.go.id/Details/126143/pp-no-80) relevan sebagai konteks perlindungan konsumen serta perdagangan elektronik. Namun jenis konten tertentu dapat membawa aturan tambahan; jangan menyimpulkan legalitas materi hanya dari nama media.
 
-## Faktor yang mengubah hasil
+## Kebiasaan yang membuat istilah menyesatkan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan umum adalah menyamakan sinonim dagang dengan spesifikasi. Contohnya, seseorang meminta “totem” lalu membayangkan penanda ramping di halaman, sementara penyedia membayangkan kabinet digital yang berdiri sendiri. Kedua pihak memakai kata yang sama, tetapi bicara tentang sistem berbeda.
 
-## Contoh keputusan praktis
+Cara membenahinya mudah: simpan nama dagang bila memang membantu, lalu tulis deskripsi Indonesia yang nyata di bawahnya. Sebut fungsi, lokasi, bentuk, dimensi, bahan, bidang tampak, penyangga, sumber daya, kondisi konten, dan dokumen persetujuan. Bila satu unsur belum diputuskan, tandai sebagai hal yang harus dikonfirmasi, bukan isi dengan dugaan.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Aturan pakai kamus ini
 
-## Kesalahan umum dan cara memeriksanya
+Kamus istilah media luar ruang berguna untuk memulai percakapan yang tepat, bukan menutup pemeriksaan. Gunakan istilah Indonesia lebih dahulu, beri padanan yang lazim bila perlu, lalu ubah istilah tersebut menjadi pertanyaan tentang sistem dan bukti proyek.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Kamus Istilah Baliho, Billboard, Neon Box, Totem, dan Videotron”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: setiap nama media harus diikuti identitas, lokasi, rancangan, penanggung jawab, dan persetujuan yang relevan. Bila lima hal itu belum jelas, jangan memperlakukan label penawaran sebagai spesifikasi atau bukti hasil.
