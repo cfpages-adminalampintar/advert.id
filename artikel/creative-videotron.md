@@ -1,9 +1,10 @@
 ---
 article_id: ADV-07-05
-title: "Creative untuk Videotron: Motion, Duration, dan Readability"
+title: "Materi Kreatif Videotron yang Mudah Dibaca: Gerak, Durasi, dan Ajakan"
 slug: "creative-videotron"
-description: "Plan hierarchy, frame sequence, motion restraint, duration by context, contrast, CTA, safe-zone, testing, scheduling and proof-of-play"
-status: outline
+description: "Panduan menyusun pesan, gerak, durasi tayang, kontras, ajakan bertindak, dan area aman agar materi videotron mudah dipahami."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-28"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,58 +16,10 @@ final_route: "/artikel/creative-videotron.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Creative untuk Videotron: Motion, Duration, dan Readability
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Creative untuk Videotron: Motion, Duration, dan Readability”
-- **Reader and situation:** Creative team adapting digital ads
-- **Reader outcome:** Plan hierarchy, frame sequence, motion restraint, duration by context, contrast, CTA, safe-zone, testing, scheduling and proof-of-play
-- **Primary intent:** Design content for dynamic displays
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No universal duration/brightness rule; ADV-11-03 owns public/traffic restrictions
-- **Final public route:** `/artikel/creative-videotron.html`
-- **Appointed CMS date:** `2026-01-28` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Creative untuk Videotron: Motion, Duration, dan Readability**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-009`
@@ -77,172 +30,96 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Videotron` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-009]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Materi Kreatif Videotron yang Mudah Dibaca: Gerak, Durasi, dan Ajakan
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Advert.id!
 
-### KR-02
+Materi videotron yang bagus bukan materi yang memuat semua hal. Ia justru harus membuat orang menangkap satu pesan utama dalam waktu singkat: siapa yang berbicara, apa yang ditawarkan, lalu apa yang sebaiknya dilakukan. Karena itu, susun urutannya dari pesan paling penting, gunakan gerak seperlunya, dan beri setiap adegan waktu tampil yang cukup untuk dibaca.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Durasi yang tepat tidak bisa dipukul rata. Orang yang berjalan santai, menunggu di lobi, atau melintas di jalan melihat layar dengan kesempatan yang berbeda. Jangan memulai dari angka durasi yang katanya paling ampuh. Mulailah dari tempat layar, arah pandang, kondisi siang dan malam, serta pesan yang benar-benar perlu dibawa pulang.
 
-### KR-04
+![Ilustrasi Videotron](/wp-content/uploads/2024/05/Videotron.jpg)
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+*Gambar ini merupakan ilustrasi umum videotron dari aset lokal, bukan dokumentasi proyek tertentu.*
 
-### KR-07
+## Mulai dari satu pesan, bukan dari daftar fitur
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Videotron bukan brosur yang bisa dibaca ulang dari atas ke bawah. Penonton bisa datang di tengah tayangan, lalu pergi sebelum putaran berikutnya selesai. Maka tiap materi sebaiknya tetap masuk akal saat dilihat dari titik mana pun dalam putaran.
 
-### KR-08
+Tentukan dulu satu pesan inti. Misalnya, pengumuman acara perlu menjawab acara apa dan kapan berlangsung. Penawaran jasa perlu menjawab layanan apa dan bagaimana calon pelanggan menghubungi Anda. Nama merek, penjelas pendukung, dan ajakan bertindak boleh hadir, tetapi jangan saling berebut menjadi judul utama.
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Sobat Advert.id, cara sederhana untuk mengeceknya adalah menutup sebagian desain lalu bertanya: bila orang hanya melihat satu adegan, apakah ia tetap mengerti maksudnya? Bila jawabannya tidak, biasanya masalahnya bukan kurang efek. Pesannya memang terlalu banyak atau urutannya belum jelas.
 
-### KR-11
+## Susun adegan seperti orang sedang membaca
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Urutan yang mudah diikuti biasanya bergerak dari pengenalan ke tindakan. Awali dengan nama atau pesan utama, lanjutkan alasan singkat yang relevan, lalu tutup dengan ajakan bertindak. Ajakan bertindak atau *call to action* (CTA) adalah arahan jelas seperti mengunjungi situs, menghubungi nomor resmi, atau datang ke lokasi yang disebutkan.
 
-### KR-12
+Tidak semua informasi harus muncul bersamaan. Pecah informasi menjadi beberapa adegan yang masing-masing punya tugas. Satu adegan memperkenalkan pesan, adegan berikutnya memberi alasan atau konteks, dan adegan terakhir memberi jalur tindakan. Bila nomor telepon, alamat, diskon, logo, dan empat kalimat dimasukkan ke satu layar, penonton dipaksa memilih sendiri mana yang harus dibaca dulu. Itu pekerjaan kreatif yang seharusnya sudah selesai sebelum materi tayang.
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+Gunakan kata yang bisa dipahami sekali pandang. Hindari kalimat panjang, singkatan internal, atau istilah yang hanya akrab bagi tim pembuatnya. Jika produk butuh penjelasan, pilih satu manfaat paling dekat dengan kebutuhan pembaca lalu arahkan sisanya ke situs atau kanal resmi.
 
-### KR-14
+## Gerak harus membantu perhatian, bukan mencuri perhatian
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Gerak atau *motion* berguna untuk mengarahkan mata: teks utama masuk lebih dulu, unsur pendukung menyusul, lalu ajakan bertindak ditahan cukup lama. Masalahnya muncul saat semua unsur bergerak terus-menerus. Mata penonton mengejar animasi, sementara pesan justru lewat tanpa sempat dipahami.
 
-### KR-15
+Pilih satu fokus gerak pada satu waktu. Gerakkan unsur yang baru diperkenalkan atau yang memang perlu ditonjolkan; unsur lain cukup diam agar menjadi tempat mata beristirahat. Transisi juga sebaiknya melayani pergantian informasi, bukan sekadar menunjukkan kemampuan perangkat lunak.
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Teman Advert.id, bayangkan layar yang mempromosikan pendaftaran. Jika judul, latar, logo, ikon, harga, dan tombol semuanya berputar atau meloncat bersamaan, orang mungkin ingat bahwa layarnya ramai, tetapi tidak ingat harus mendaftar ke mana. Gerak yang tertib membuat alur pesan terasa cepat tanpa memaksa penonton menebak-nebak.
 
-### KR-16
+## Durasi tayang mengikuti konteks lihatnya
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Jangan menetapkan durasi hanya karena materi tampak enak saat diputar di komputer. Di layar kerja, pembuat materi sudah tahu isi pesan dan biasanya melihatnya berulang kali. Penonton di lapangan belum tentu memiliki kemewahan itu.
 
-## Evidence gates
+Uji tiap adegan dengan membaca teksnya dalam hati secara wajar. Setelah itu, sisakan waktu untuk mengenali logo atau ajakan bertindak. Jika adegan sudah berganti ketika pembaca baru selesai mengenali judul, berarti pesan terlalu padat atau waktu tampilnya terlalu singkat. Solusinya bisa memperpendek kalimat, membagi adegan, atau memperpanjang waktu tampil—bukan otomatis memperkecil huruf.
 
-- **TOPIC-GATE:** Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan
+Konteks lokasi tetap menentukan. Catat arah datang penonton, apakah mereka berjalan atau sedang berada di kendaraan, apakah ada penghalang, dan bagaimana kondisi cahaya berubah dari siang ke malam. Untuk lokasi yang berhubungan dengan jalan, keputusan materi perlu diselaraskan dengan kondisi lalu lintas dan persetujuan yang berlaku; aturan lalu lintas sendiri menempatkan keselamatan dan kelancaran sebagai hal yang perlu dijaga ([UU No. 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009)). Artikel ini tidak menetapkan durasi universal maupun aturan khusus lokasi jalan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Buat teks terbaca sebelum membuatnya indah
 
-## Internal-link plan
+Keterbacaan berarti orang masih dapat membedakan huruf, kata, dan urutan informasi pada kondisi melihat yang nyata. Kontras warna membantu, tetapi bukan satu-satunya jawaban. Ukuran huruf, ketebalan bentuk, jarak antarelemen, latar belakang, dan jumlah kata menentukan apakah pesan cepat ditangkap atau tidak.
 
-### Existing local routes
+Pilih latar yang tidak beradu dengan teks. Bila foto atau tekstur wajib dipakai, beri bidang tenang di belakang teks, bukan sekadar menempelkan huruf di atas area yang paling sibuk. Pastikan pula logo dan teks penting tidak terlalu mepet tepi. Area aman adalah ruang di dalam batas desain untuk menjaga unsur penting tetap jauh dari tepian dan tidak mudah terasa terpotong saat ditampilkan pada perangkat atau tata letak yang berbeda.
 
-- `/videotron` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-videotron-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Nah, jangan menganggap layar menyala otomatis berarti pesannya terbaca. Materi yang nyaman di monitor kecil dapat berubah sulit dibaca saat dilihat dari arah, jarak, atau pencahayaan berbeda. Mintalah tampilan percobaan pada sistem dan konfigurasi layar yang akan dipakai. Spesifikasi modul atau gambar demonstrasi saja tidak membuktikan keterbacaan, ketahanan cuaca, penggunaan energi, maupun hasil pemasangan pada proyek tertentu.
 
-### Planned sibling articles
+## Ajakan bertindak perlu jelas dan bisa dibuktikan
 
-These are future routes. Do not link them as live until their HTML exists.
+Ajakan bertindak yang baik tidak perlu berteriak. Cukup jelas, singkat, dan punya satu jalur yang bisa dilakukan penonton. Bila tujuannya menghubungi, tampilkan kontak resmi yang sudah dicek. Bila tujuannya mengunjungi halaman, gunakan alamat yang ringkas dan benar. Bila ada janji promosi, pastikan kata-katanya sesuai dengan syarat dan bukti yang tersedia.
 
-- `ADV-07-03` → `/artikel/anatomi-videotron-outdoor.html` — Cabinet, Module, Cooling, dan Weather Protection Videotron
-- `ADV-07-04` → `/artikel/cms-digital-signage.html` — Content Management System untuk Digital Signage
-- `ADV-07-06` → `/artikel/keamanan-remote-access-digital-signage.html` — Cybersecurity dan Remote Access Digital Signage
+Ini bukan sekadar soal gaya bahasa. Informasi atau promosi yang dapat menyesatkan membawa risiko bagi pembaca dan pengiklan; prinsip perlindungan konsumen menjadi alasan kuat untuk memeriksa kesesuaian klaim sebelum materi diputar ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf)). Hindari klaim seperti “paling murah”, “terbaik”, atau hasil yang dijamin bila tim belum memiliki dasar dan persetujuan yang memadai.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Jika ajakan bertindak tidak muat secara masuk akal, jangan tambah baris baru tanpa akhir. Pangkas pesan pendukung dan putuskan tindakan utama yang diharapkan. Dalam banyak kasus, satu kontak resmi yang jelas lebih berguna daripada lima pilihan kecil yang semuanya sulit dibaca.
 
-## Jawaban singkat dan salah paham utama
+## Contoh cara mengambil keputusan
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Creative untuk Videotron: Motion, Duration, dan Readability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Misalkan sebuah materi perlu mengumumkan layanan baru. Jangan mulai dengan daftar lengkap layanan, riwayat perusahaan, dan semua kanal media sosial. Pilih dulu hasil yang ingin diketahui penonton. Urutannya dapat berupa: nama layanan, manfaat singkat yang tidak berlebihan, lalu satu cara menghubungi.
 
-## Definisi dan batas objek
+Sebelum disetujui, periksa dengan daftar kecil berikut.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Creative untuk Videotron: Motion, Duration, dan Readability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+| Pertanyaan | Keputusan yang dicari |
+| --- | --- |
+| Apa satu pesan yang harus tertangkap? | Judul dan urutan adegan tidak saling bersaing. |
+| Informasi mana yang harus dibaca? | Teks penting diberi waktu dan ruang cukup. |
+| Apa yang boleh bergerak? | Gerak mengarahkan perhatian, bukan memenuhi semua elemen. |
+| Apa tindakan setelah melihat? | Ada satu CTA yang nyata dan kanalnya telah diperiksa. |
+| Siapa dan bagaimana penontonnya? | Durasi serta desain diuji sesuai lokasi dan kondisi lihat. |
 
-## Cara kerjanya
+Kawan Advert.id, bila jawaban terakhir belum ada, tahan keputusan final tentang durasi, ukuran teks, atau intensitas gerak. Gunakan penanda berikut dalam catatan produksi: **[NEEDS REVIEW: verifikasi lokasi layar, arah pandang, kondisi siang-malam, serta sistem tampilan sebelum materi disetujui.]** Itu lebih jujur daripada menjual kepastian dari pratinjau desain.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Creative untuk Videotron: Motion, Duration, dan Readability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesalahan yang sering membuat materi gagal dibaca
 
-## Faktor yang mengubah hasil
+Kesalahan pertama adalah memperlakukan setiap informasi sebagai informasi utama. Akibatnya, hierarki pesan hilang. Kesalahan kedua adalah menambah animasi saat teks belum terbaca. Kesalahan ketiga adalah menguji hanya di meja kerja lalu menganggap hasilnya berlaku untuk semua layar dan lokasi.
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Creative untuk Videotron: Motion, Duration, dan Readability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada juga jalan pintas yang terdengar praktis: buat satu video pendek lalu putar di mana saja. Cara ini bisa menghemat waktu produksi, tetapi dapat gagal bila cara melihat, persetujuan lokasi, atau kebutuhan informasinya berbeda. Lebih aman menyiapkan materi dasar yang konsisten, lalu meninjau ulang urutan adegan, pesan, dan CTA untuk konteks tayang yang benar-benar digunakan.
 
-## Contoh keputusan praktis
+Jangan lupa jadwal dan bukti penayangan. Catat versi materi, waktu penayangan yang disepakati, pihak yang menyetujui, serta bukti bahwa versi yang benar benar-benar dijadwalkan. Catatan ini tidak membuktikan hasil kampanye, tetapi membantu tim membedakan antara materi yang sudah dibuat, yang sudah disetujui, dan yang benar-benar ditayangkan.
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Creative untuk Videotron: Motion, Duration, dan Readability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Sebelum tayang, lakukan pemeriksaan sederhana
 
-## Kesalahan umum dan cara memeriksanya
+Putar materi tanpa suara dan lihat seperti orang yang baru pertama kali menemukannya. Pastikan pesan utama muncul lebih dulu, setiap adegan punya waktu baca, unsur penting berada di area aman, dan CTA dapat dilakukan. Lalu minta pemeriksaan pada sistem yang sebenarnya, bukan hanya berkas desain.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Creative untuk Videotron: Motion, Duration, dan Readability”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika Anda masih menyiapkan perangkatnya, halaman [videotron](/videotron) dapat membantu memulai percakapan tentang kebutuhan media. Namun keputusan kreatif tetap perlu ditinjau bersama kondisi layar, pengelola lokasi, dan pihak yang berwenang bila konteks penayangannya memerlukannya.
 
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Singkatnya, materi kreatif videotron yang efektif mengutamakan satu pesan, gerak yang terarah, waktu baca yang cukup, dan ajakan bertindak yang jujur. Aturan kerjanya sederhana: jangan menganggap desain yang terlihat bagus di layar kerja sudah pasti terbaca dan layak tayang di lapangan—periksa konteks serta sistem nyata sebelum menyetujuinya.

@@ -1,9 +1,10 @@
 ---
 article_id: ADV-14-04
-title: "Digital Signage Mati Sebagian, Flicker, atau Overheat"
+title: "Papan Informasi Digital Mati Sebagian, Berkedip, atau Terlalu Panas: Pemilahan Awal yang Aman"
 slug: "diagnosis-digital-signage"
-description: "Separate content/control, data, module, power, enclosure/thermal, water ingress and environmental clues; document uptime and isolation/escalation"
-status: outline
+description: "Cara menilai gejala papan informasi digital secara aman, mencatat pola gangguan, dan menentukan kapan perlu isolasi serta bantuan teknisi kompeten."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,48 +15,23 @@ reader_address: "Teman Advert.id"
 final_route: "/artikel/diagnosis-digital-signage.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Papan Informasi Digital Mati Sebagian, Berkedip, atau Terlalu Panas: Pemilahan Awal yang Aman
 
-# Digital Signage Mati Sebagian, Flicker, atau Overheat
+Halo, Teman Advert.id!
 
-## Assignment lock
+Jika papan informasi digital (*digital signage*) mati sebagian, berkedip-kedip, atau terasa terlalu panas, jangan langsung menebak modul LED, catu daya, atau kabel mana yang rusak. Langkah paling aman adalah membatasi akses bila ada tanda bahaya, lalu mencatat gejalanya saat sistem masih dapat diamati dari luar: bagian layar yang terdampak, waktu kejadian, perubahan konten, cuaca, dan riwayat operasi. Catatan itu membantu teknisi membedakan masalah konten atau kendali dari gangguan data, modul, daya, panas, kelembapan, maupun lingkungan.
 
-- **Writer task:** Expand this file into one complete article answering: “Digital Signage Mati Sebagian, Flicker, atau Overheat”
-- **Reader and situation:** Operator seeing module/power/thermal symptoms
-- **Reader outcome:** Separate content/control, data, module, power, enclosure/thermal, water ingress and environmental clues; document uptime and isolation/escalation
-- **Primary intent:** Triage digital-display faults safely
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No energized DIY repair or electrical safety verdict; ADV-10-04/06 and qualified technicians own work
-- **Final public route:** `/artikel/diagnosis-digital-signage.html`
-- **Appointed CMS date:** `2026-07-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Pemilahan awal, yang juga disebut *triage*, berarti memilah tingkat risiko dan informasi yang dibutuhkan sebelum pekerjaan perbaikan dilakukan. Artikel ini bukan panduan membuka panel, mengukur bagian bertegangan, atau memberi putusan keselamatan kelistrikan. Untuk tindakan pada instalasi listrik, pembongkaran, atau perbaikan komponen, hentikan di batas aman dan serahkan kepada teknisi yang kompeten dengan dokumen sistem yang sesuai.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Digital Signage Mati Sebagian, Flicker, atau Overheat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+*Ilustrasi umum dari aset lokal, bukan dokumentasi proyek tertentu.*
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,133 +42,56 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-18
-
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-14-02` → `/artikel/diagnosis-gerakan-signage.html` — Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan
-- `ADV-14-03` → `/artikel/diagnosis-struktur-signage.html` — Karat, Retak, Baut Longgar, dan Coating Rusak pada Signage
-- `ADV-14-05` → `/artikel/repair-atau-ganti-signage.html` — Repair, Reface, Retrofit, atau Ganti Signage?
-- `ADV-14-06` → `/artikel/dampak-lingkungan-media-advertising.html` — Energy, Material Waste, Reuse, dan End-of-Life Advertising
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Digital Signage Mati Sebagian, Flicker, atau Overheat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dengan bahasa yang dapat diuji. “Mati sebagian” bisa berarti satu area gelap yang tetap, beberapa area yang bergantian, atau seluruh layar yang hanya gagal pada jam tertentu. “Berkedip” dapat berupa perubahan terang yang cepat, gambar putus-sambung, atau tampilan yang sesekali kembali normal. “Terlalu panas” perlu dicatat sebagai kondisi yang teramati—misalnya ada alarm sistem, penurunan tampilan setelah waktu tertentu, atau panas yang tidak biasa pada permukaan yang aman disentuh dari luar—bukan langsung dianggap sebagai kerusakan tertentu.
+
+Catat kapan gejala pertama muncul dan apakah bersamaan dengan pergantian materi tayang, restart terjadwal, hujan, panas matahari, pekerjaan di sekitar lokasi, atau perubahan jam operasi. Catat pula apakah gangguan mengikuti satu bagian fisik layar atau mengikuti satu jenis konten. Jika hanya satu materi yang bermasalah sementara materi lain normal, jalur konten atau kendali patut diperiksa lebih dahulu. Jika area yang sama tetap bermasalah pada semua materi, teknisi perlu menilai jalur data, modul, daya, atau kondisi setempat tanpa operator menyimpulkan sendiri.
+
+Sederhananya, pisahkan fakta dari dugaan. Foto atau video dari jarak aman, waktu kejadian, pesan alarm, dan riwayat lama menyala (*uptime*, yaitu durasi sistem beroperasi tanpa henti) lebih berguna daripada label “pasti modul rusak”. [NEEDS DATA SISTEM: kumpulkan nomor aset, konfigurasi, buku operasi dan pemeliharaan, riwayat gangguan, serta kondisi lokasi sebelum menetapkan penyebab.]
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Digital Signage Mati Sebagian, Flicker, atau Overheat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Ada gejala yang tidak perlu ditunggu sampai diagnosis selesai. Batasi akses dan segera minta penanganan kompeten bila terlihat asap, bau hangus, suara letupan, percikan, air masuk ke area peralatan, panel terbuka, kabel rusak, bagian penutup longgar, atau panas yang meningkat cepat. Jangan menyentuh, membuka, mencabut, atau mengeringkan bagian sistem sebagai percobaan. Area layar digital dapat terkait catu daya, jaringan, struktur, dan akses kerja di ketinggian; satu gejala visual tidak cukup untuk menyatakan kondisi listriknya aman.
+
+Kawan Advert.id, “isolasi” di sini berarti memisahkan orang dari risiko dan menghentikan penggunaan melalui prosedur pemilik atau operator yang berwenang—bukan instruksi untuk memutus sambungan sendiri. Hubungi penanggung jawab fasilitas atau operator, sampaikan lokasi dan gejala, lalu ikuti prosedur penghentian operasi yang sudah disetujui. Bila layar berada di area publik, pertimbangkan pula dampak silau, konten yang tidak terkendali, atau komponen yang dapat dijangkau orang.
+
+Untuk tampilan luar ruang, kondisi lingkungan tidak boleh dianggap latar belakang saja. Paparan pesisir atau industri, celah yang menahan air, dan akses pemeliharaan dapat memengaruhi kondisi rakitan serta cara pemeriksaannya. Standar ISO 12944-2 membahas lingkungan korosivitas untuk perlindungan struktur baja, sedangkan penerapannya pada aset tertentu tetap harus diverifikasi terhadap desain dan catatan proyek yang berlaku. [ISO 12944-2:2017](https://www.iso.org/standard/64834.html)
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Digital Signage Mati Sebagian, Flicker, atau Overheat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah risiko langsung dikendalikan, gunakan kelompok kemungkinan agar komunikasi dengan teknisi rapi. Kelompok pertama adalah konten dan kendali: berkas tayang, jadwal, pemutar media, jaringan, atau pengaturan kendali dapat membuat gambar salah tanpa membuktikan ada kerusakan fisik. Kelompok kedua adalah data tampilan: gangguan komunikasi dapat muncul sebagai area yang tidak mengikuti gambar, gambar pecah, atau perubahan yang datang dan pergi.
+
+Kelompok ketiga mencakup modul dan distribusi daya. Area gelap yang menetap pada lokasi sama bisa berkaitan dengan bagian tampilan atau pasokannya, tetapi bukti visual saja belum cukup untuk menentukan komponen. Kelompok keempat adalah panas dan penutup: ventilasi terhalang, suhu lingkungan, pendinginan yang tidak bekerja sebagaimana mestinya, atau penumpukan kondisi di dalam rumah perangkat dapat berhubungan dengan gangguan setelah sistem lama beroperasi. Kelompok terakhir adalah air dan lingkungan, termasuk jejak masuknya air, debu, korosi, atau perubahan setelah hujan. Semua itu adalah hipotesis untuk diperiksa, bukan diagnosis jarak jauh.
+
+Jangan mengabaikan perubahan yang tampak kecil pada rangka, penutup, atau titik yang sering basah. Dalam pekerjaan perlindungan terhadap korosi, detail seperti celah, perangkap air, akses, kerusakan, dan rencana pemeliharaan memang perlu dicatat bersama kondisi nyata aset, bukan dinilai dari nama material saja. [ISO 12944-8:2017](https://www.iso.org/standard/64838.html)
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Digital Signage Mati Sebagian, Flicker, atau Overheat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan yang aman dimulai dari yang tidak mengganggu sistem. Pertama, buat tiket gangguan berisi lokasi, nomor aset, waktu, gejala, dampak pada tayangan, dan foto atau video dari posisi aman. Kedua, cocokkan gejala dengan perubahan yang tercatat: konten terakhir, jadwal, alarm, pemadaman sebelumnya, hujan, suhu sekitar, atau kunjungan pemeliharaan. Ketiga, bandingkan apakah masalah tetap berada pada area yang sama saat konten yang berbeda ditayangkan oleh operator yang berwenang.
+
+Keempat, kumpulkan dokumen yang akan dibutuhkan pemeriksa: gambar terpasang, konfigurasi perangkat, manual pabrikan, daftar komponen, riwayat pemeliharaan, laporan inspeksi, dan catatan kejadian. Jangan mengganti data itu dengan ingatan lisan. Bila ada pekerjaan lanjutan, teknisi dapat menentukan metode pemeriksaan, batas pengujian, dan kondisi isolasi yang benar berdasarkan konfigurasi aktual.
+
+Contohnya, layar yang mulai berkedip setelah beberapa jam menyala tidak otomatis membuktikan “overheat”. Catat jam mulai operasi, jam gejala muncul, apakah gejala pulih saat jadwal operasi berhenti, dan apakah ada alarm. Data ini memberi pola; teknisi masih perlu membuktikan hubungan dengan suhu, daya, data, atau sebab lain. Sobat Advert.id, jangan menjalankan uji coba berulang yang menambah waktu operasi hanya untuk mencari jawaban cepat bila ada tanda bahaya atau ketidakpastian kondisi.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Digital Signage Mati Sebagian, Flicker, atau Overheat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil pemeriksaan perlu dibaca menurut tiga lapis: apa yang benar-benar diamati, apa arti yang mungkin, dan keputusan siapa yang berwenang. Misalnya, “area kiri bawah gelap pada tiga materi tayang sejak pukul 14.10” adalah observasi. “Kemungkinan ada gangguan pada jalur lokal” adalah hipotesis. “Komponen tertentu harus diganti” adalah keputusan teknis yang memerlukan pemeriksaan kompeten, spesifikasi, dan persetujuan sesuai sistem.
+
+Demikian juga, durasi operasi tanpa gangguan yang panjang tidak membuktikan penyebab baru, dan satu kali layar pulih tidak membuktikan masalah selesai. Minta laporan yang mencatat metode, kondisi saat pemeriksaan, bagian yang diperiksa, temuan, keterbatasan, serta tindakan yang direkomendasikan. Jika ada klaim tentang umur pakai, ketahanan lingkungan, atau kinerja setelah perbaikan, minta bukti produk, konfigurasi, dan catatan kondisi aktual; standar atau bahan umum tidak otomatis membuktikan hasil pada sistem Anda.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Digital Signage Mati Sebagian, Flicker, atau Overheat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tindakan sementara yang wajar adalah membatasi akses, menghentikan tayangan melalui prosedur operator yang berwenang bila diperlukan, menjaga bukti gangguan, dan melindungi area publik. Pemantauan hanya masuk akal bila tidak ada tanda risiko langsung, pemilik menerima risikonya, dan ada batas waktu serta pemicu yang jelas untuk menaikkan penanganan. Perbaikan atau penggantian baru dapat dipilih setelah penyebab, cakupan, kompatibilitas, dan prosedur aman ditentukan oleh pihak yang kompeten.
 
-## Objection or shortcut to address
+Eskalasi berarti menaikkan masalah ke penanggung jawab dan keahlian yang tepat, bukan sekadar “memanggil orang”. Eskalasi segera diperlukan untuk gejala panas, air, bau hangus, percikan, gangguan berulang yang memengaruhi keselamatan atau publik, atau ketika dokumen sistem tidak tersedia. Sertakan catatan gejala, waktu, bukti visual, alarm, dan tindakan yang sudah diambil. Dengan begitu, teknisi tidak memulai dari dugaan yang sama.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang sering menggoda adalah menukar satu bagian karena tampilannya tampak sama dengan bagian lain. Itu bisa gagal karena versi perangkat, konfigurasi, pasokan, komunikasi, atau kondisi rumah perangkat belum tentu sama. Teman Advert.id, tahan dulu keputusan penggantian sampai ada pemeriksaan dan kecocokan yang terdokumentasi. Penggantian tanpa catatan juga dapat menghilangkan jejak penyebab sebenarnya dan menyulitkan klaim layanan atau pengelolaan suku cadang.
 
-## Required conclusion
+## Langkah berikutnya: amankan, catat, lalu eskalasi
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Digital signage yang mati sebagian, berkedip, atau terlalu panas perlu ditangani sebagai gejala yang harus dipilah, bukan sebagai vonis komponen. Amankan area bila ada tanda bahaya, catat pola gangguan dan lama operasi, kumpulkan dokumen sistem, lalu eskalasikan kepada penanggung jawab dan teknisi kompeten untuk pemeriksaan yang sesuai.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan operasinya sederhana: jangan membuka atau memperbaiki bagian bertegangan berdasarkan gejala layar saja. Bukti kondisi aktual, prosedur isolasi yang berwenang, dan pemeriksaan kompeten adalah batas aman sebelum keputusan perbaikan atau penggantian dibuat.

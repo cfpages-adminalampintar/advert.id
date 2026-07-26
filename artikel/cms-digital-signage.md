@@ -1,9 +1,10 @@
 ---
 article_id: ADV-07-04
-title: "Content Management System untuk Digital Signage"
+title: "Sistem Pengelolaan Konten (CMS) untuk Papan Informasi Digital"
 slug: "cms-digital-signage"
-description: "Define roles, workflow/approval, playlists, scheduling, device groups, logging, offline behavior, emergency blanking, backups and support"
-status: outline
+description: "Panduan menyusun peran, persetujuan, daftar tayang, jadwal, kelompok perangkat, catatan operasi, mode luring, layar darurat, cadangan, dan dukungan untuk papan informasi digital."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-24"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,58 +16,21 @@ final_route: "/artikel/cms-digital-signage.html"
 technical_review: required
 sources:
   - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
-  - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015"
-  - "https://webstore.iec.ch/en/publication/27412"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Sistem Pengelolaan Konten (CMS) untuk Papan Informasi Digital
 
-# Content Management System untuk Digital Signage
+Halo, Kawan Advert.id! Sistem pengelolaan konten atau *content management system* (CMS) untuk papan informasi digital bukan sekadar tempat mengunggah gambar lalu menekan tombol tayang. CMS adalah cara mengatur siapa yang boleh mengubah pesan, apa yang boleh tayang, kapan tayang, dan apa yang harus terjadi ketika perangkat atau jaringan bermasalah.
 
-## Assignment lock
+Jawaban singkatnya: pilih dan susun CMS sebagai prosedur operasi, bukan hanya sebagai aplikasi. Sebelum layar dipakai, tetapkan pemilik konten, pemberi persetujuan, daftar tayang, jadwal, kelompok perangkat, catatan perubahan, cara kerja saat luring, dan jalur dukungan. Hasilnya bisa berubah menurut lokasi, izin, jenis pesan, perangkat yang dipakai, serta rancangan listrik dan struktur yang disetujui. Spesifikasi modul atau tampilan demo sendiri tidak membuktikan bahwa sistem terpasang aman, legal, tahan cuaca, atau selalu tersedia.
 
-- **Writer task:** Expand this file into one complete article answering: “Content Management System untuk Digital Signage”
-- **Reader and situation:** Operator managing schedules and users
-- **Reader outcome:** Define roles, workflow/approval, playlists, scheduling, device groups, logging, offline behavior, emergency blanking, backups and support
-- **Primary intent:** Specify content operations
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No software/vendor endorsement or cybersecurity certification; ADV-07-06 owns security controls
-- **Final public route:** `/artikel/cms-digital-signage.html`
-- **Appointed CMS date:** `2026-01-24` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-## Opening instructions
+*Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.*
 
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Content Management System untuk Digital Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,168 +41,67 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Mulai dari aturan tayang, bukan dari tombol unggah
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Kesalahan yang sering terjadi adalah menganggap semua orang yang punya akun boleh mengunggah dan menerbitkan materi. Padahal, sebuah pesan dapat keliru dari sisi isi, waktu, lokasi layar, atau pihak yang memberi persetujuan. Nama media juga tidak cukup untuk menjelaskan ukuran, kepemilikan, lokasi yang diizinkan, ketersediaan, maupun hasil kampanye. Klaim dalam materi iklan perlu dijaga agar dapat dipertanggungjawabkan kepada konsumen.[^uupk]
 
-### KR-02
+Pisahkan setidaknya empat peran. Pemilik konten menyiapkan bahan dan tujuan pesan. Pemeriksa memeriksa kesesuaian isi, merek, dan ketentuan setempat. Penerbit menjadwalkan materi yang sudah disetujui. Operator perangkat menangani layar, pemutar media, dan gangguan. Dalam tim kecil, satu orang boleh memegang beberapa peran, tetapi jejak persetujuannya tetap perlu terlihat.
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Pertanyaan sederhananya: bila materi yang salah muncul pukul 19.00, siapa yang bisa menghentikannya, siapa yang menghubungi pihak terkait, dan di mana catatan keputusannya? Jika jawabannya hanya “siapa saja yang sedang pegang kata sandi”, operasinya belum siap.
 
-### KR-04
+## Apa yang diatur CMS dan apa yang tetap di luar jangkauannya
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+CMS mengelola konten dan instruksi pemutar media: berkas mana yang masuk daftar tayang, layar mana yang menerima daftar tersebut, kapan mulai dan berhenti, serta riwayat perubahan. *Daftar tayang* (*playlist*) adalah urutan materi yang diputar; *penjadwalan* menentukan waktu, hari, atau kondisi berlakunya. *Kelompok perangkat* memudahkan satu instruksi diterapkan pada layar dengan fungsi atau lokasi operasi yang sama tanpa menyunting satu per satu.
 
-### KR-07
+CMS tidak menggantikan persetujuan lokasi, desain struktur, desain kelistrikan, pengujian perangkat, atau penetapan izin. Untuk papan yang terpasang, jalur beban tetap mencakup muka atau kabinet, rangka, sambungan, angkur, penopang bangunan atau tiang, sampai fondasi atau tanah. Semua itu memerlukan dasar desain dan pemeriksaan proyek, bukan keputusan dari layar administrasi CMS.[^pp16]
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+Begitu juga dengan keamanan akses jarak jauh. Artikel ini tidak memberi sertifikasi keamanan siber ataupun rekomendasi vendor. Catat kebutuhan akses dan serahkan rancangan kendalinya kepada peninjauan teknis yang sesuai. Teman Advert.id, batas ini penting supaya kemudahan mengganti pesan tidak disalahartikan sebagai bukti bahwa seluruh sistem telah lolos pemeriksaan.
 
-### KR-08
+## Alur kerja yang mudah ditelusuri saat ada masalah
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Alur yang praktis dapat dibuat dalam enam langkah: terima bahan, periksa, setujui, jadwalkan, terbitkan, lalu catat hasil. Setiap langkah tidak harus panjang, tetapi perlu menjawab siapa, kapan, dan berkas versi mana yang dipakai.
 
-### KR-11
+Misalnya, bahan promosi masuk dengan nama file yang jelas dan tanggal akhir penayangannya. Pemeriksa memastikan pesan, tujuan layar, dan waktu tayang sesuai persetujuan. Setelah disetujui, penerbit memasukkannya ke daftar tayang untuk kelompok perangkat tertentu. Operator kemudian memeriksa apakah perangkat menerima pembaruan dan mencatat pengecualian. Dengan urutan ini, penggantian materi tidak bergantung pada ingatan atau percakapan yang tercecer.
 
-- **Original sources:** [Permenaker No. 12 Tahun 2015](https://peraturan.bpk.go.id/Details/145984/permenaker-no-12-tahun-2015), [IEC 62368-1:2018 superseded-edition page](https://webstore.iec.ch/en/publication/27412), [current IEC 62368-1:2023 preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D).
-- **Purpose for this article:** Ground illuminated/digital sign electrical safety while identifying superseded source risk.
-- **Safe grounded facts:** Supply, load, protection, earthing/bonding, cable route, enclosure, heat, water/dust exposure, lightning/surge context, controls/data, isolation, competent work, testing, and maintenance access need design records.
-- **Limits:** Obtain current Indonesian electrical basis, full current standards, exact listed/tested equipment/configuration, design, inspection, and safe isolation procedure.
+Simpan catatan minimal berupa nama materi, versi, pengunggah, pemberi persetujuan, kelompok perangkat, waktu mulai/akhir, serta tindakan darurat bila ada. Catatan ini bukan hiasan administrasi; ia membantu membedakan salah konten, salah jadwal, layar yang tidak tersambung, dan keputusan yang belum disetujui. Bila sistem menyediakan log otomatis, tetap tetapkan siapa yang meninjaunya dan kapan.
 
-### KR-12
+## Kondisi yang mengubah rancangan operasional
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+Tidak semua layar perlu aturan yang sama. Layar di satu lokasi dapat punya konteks arah pengguna jalan, kondisi siang-malam, hambatan visual, akses pemeliharaan, dan pihak pengelola yang berbeda. Karena itu, kelompok perangkat sebaiknya mengikuti kebutuhan operasi yang nyata, bukan hanya nama proyek. Data lokasi, persetujuan pemilik, kondisi jalan, utilitas, akses, dan bahaya sekitar perlu dicatat untuk keputusan proyek.[^pp16]
 
-### KR-14
+Jadwal juga perlu memiliki batas yang tegas. Tetapkan zona waktu, tanggal mulai, tanggal berakhir, prioritas pesan, dan perilaku ketika dua materi meminta slot yang sama. Jangan mengandalkan asumsi bahwa materi lama akan “hilang sendiri”. Pemerintah daerah dapat menerapkan proses dan ketentuan reklame secara berbeda; contoh peraturan daerah tidak boleh dipakai untuk menyimpulkan aturan kota lain.[^depok]
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+Lalu, rencanakan kondisi luring. Tentukan apa yang diputar saat pemutar media tidak dapat menghubungi CMS: daftar tayang terakhir yang telah disetujui, layar kosong, atau pesan keselamatan yang telah ditetapkan. Keputusan ini harus diselaraskan dengan izin, kondisi lokasi, dan rencana insiden proyek. Jangan mengklaim bahwa satu pilihan selalu paling aman tanpa bukti sistem dan persetujuan yang berlaku.
 
-### KR-15
+## Contoh keputusan untuk satu jaringan layar
 
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
+Bayangkan satu organisasi mengelola layar resepsionis, layar area publik, dan layar di lokasi yang memerlukan persetujuan terpisah. Bukan berarti ketiganya harus menerima materi yang sama.
 
-### KR-16
+| Situasi | Keputusan CMS yang lebih aman | Bukti yang perlu ada |
+| --- | --- | --- |
+| Materi umum untuk resepsionis | Jadwalkan pada kelompok resepsionis setelah disetujui. | Versi berkas dan nama pemberi persetujuan. |
+| Pesan untuk lokasi tertentu | Batasi ke kelompok perangkat lokasi itu dan beri tanggal akhir. | Identitas lokasi, persetujuan, dan jadwal. |
+| Pesan harus segera dihentikan | Gunakan fungsi layar kosong atau daftar tayang darurat yang sudah ditetapkan. | Catatan waktu, pelaksana, alasan, dan tindak lanjut. |
+| Perangkat tidak tersambung | Pertahankan perilaku luring yang telah disetujui; jangan menerka status tayang. | Status perangkat dan hasil pemeriksaan operator. |
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
+Sobat Advert.id, contoh ini tidak membuktikan konfigurasi tertentu cocok untuk semua tempat. Ia menunjukkan urutan berpikir: batasi sasaran, tetapkan wewenang, lalu simpan bukti keputusan. Jika lokasi atau pesan berubah, lakukan pemeriksaan ulang alih-alih hanya menduplikasi jadwal lama.
 
-## Evidence gates
+## Hindari jalan pintas yang membuat operasi sulit diperiksa
 
-- **TOPIC-GATE:** Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan
+Jalan pintas yang menggoda adalah satu akun bersama untuk semua orang. Memang cepat pada hari pertama, tetapi saat materi keliru tayang, tidak ada cara yang andal untuk mengetahui siapa yang mengubah apa. Alternatifnya bukan harus sistem rumit: buat akun menurut peran, cabut akses saat tugas berakhir, dan catat persetujuan sebelum penerbitan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Jalan pintas berikutnya adalah menganggap layar yang menyala berarti operasi berhasil. Layar dapat menyala sambil menampilkan versi lama, jadwal yang keliru, atau konten cadangan yang tidak lagi sesuai. Periksa status koneksi, versi daftar tayang, waktu perangkat, dan bukti tampilan sesuai prosedur proyek. Jika pemeriksaan ini membutuhkan akses lapangan, listrik, atau pekerjaan pada ketinggian, gunakan rencana kerja dan personel yang berwenang; CMS tidak menghapus risiko tersebut.
 
-## Internal-link plan
+Terakhir, jangan menunggu insiden untuk memutuskan layar darurat. Uji secara terkendali siapa yang berwenang memicu tindakan, materi apa yang muncul, bagaimana perangkat luring merespons, dan siapa yang menerima pemberitahuan. Catat hasil uji tanpa mengubahnya menjadi klaim kinerja permanen.
 
-### Existing local routes
+## Langkah pertama sebelum CMS dipakai
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Buat satu lembar aturan operasi sebelum akun dibagikan: daftar peran dan wewenang, jalur persetujuan, penamaan berkas, kelompok perangkat, aturan jadwal, perilaku luring, cara menghentikan tayangan, cadangan, serta kontak dukungan. Setelah itu, minta peninjauan teknis terhadap konfigurasi sistem yang benar-benar akan dipasang dan hubungkan dengan kebutuhan pada [layanan papan informasi atau signage](/signage/).
 
-### Planned sibling articles
+Singkatnya, CMS yang baik membuat perubahan konten dapat ditelusuri dan dihentikan dengan terkendali; ia bukan pengganti izin, desain, pengujian, atau persetujuan profesional. Kawan Advert.id, sebelum menayangkan materi pertama, lengkapi **[NEEDS REVIEW: konfigurasi sistem yang diuji, rancangan struktur dan kelistrikan, persetujuan lokasi, pengendalian akses, prosedur pengujian dan penerimaan awal, serta rencana penanganan insiden proyek]**. Pegang aturan operasi ini: tidak ada materi tayang tanpa pemilik, persetujuan, sasaran perangkat, masa berlaku, dan catatan perubahan.
 
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-07-02` → `/artikel/memilih-pixel-pitch-videotron.html` — Pixel Pitch Videotron: Mulai dari Viewing Context
-- `ADV-07-03` → `/artikel/anatomi-videotron-outdoor.html` — Cabinet, Module, Cooling, dan Weather Protection Videotron
-- `ADV-07-05` → `/artikel/creative-videotron.html` — Creative untuk Videotron: Motion, Duration, dan Readability
-- `ADV-07-06` → `/artikel/keamanan-remote-access-digital-signage.html` — Cybersecurity dan Remote Access Digital Signage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Content Management System untuk Digital Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Content Management System untuk Digital Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Content Management System untuk Digital Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Content Management System untuk Digital Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Content Management System untuk Digital Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Content Management System untuk Digital Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+[^uupk]: [UU Nomor 8 Tahun 1999 tentang Perlindungan Konsumen](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf).
+[^pp16]: [PP Nomor 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-2021).
+[^depok]: [Perwali Kota Depok Nomor 27 Tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).

@@ -42,7 +42,7 @@ Jawaban pendeknya: pilih bentuk huruf sebagai satu sistem. Muka huruf menentukan
 
 ![Ilustrasi huruf timbul](/wp-content/uploads/2024/05/huruf-timbul.png)
 
-*Aset lokal proyek; bukan klaim dokumentasi proyek tertentu.*
+*Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.*
 
 ## Memahami hurufnya dulu, bukan cuma tampilannya
 

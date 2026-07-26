@@ -45,7 +45,7 @@ Jawaban singkatnya: jangan membeli “layar” saja. Mintalah gambaran sistem ya
 
 ![Ilustrasi Videotron](/wp-content/uploads/2024/05/Videotron.jpg)
 
-_Kredit gambar: aset lokal proyek; ilustrasi bersifat umum._
+_Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu._
 
 ## Apa saja yang sebenarnya dibahas saat membicarakan anatomi videotron?
 

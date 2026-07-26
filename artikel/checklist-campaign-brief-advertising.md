@@ -43,7 +43,7 @@ Dokumen ini penting karena nama media saja belum menjawab apakah lokasinya terse
 END MANAGED IMAGE PLAN -->
 ![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-*Gambar ilustratif dari aset lokal proyek.*
+*Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.*
 
 ## Hasil yang ingin dicapai dan bahan yang harus tersedia
 

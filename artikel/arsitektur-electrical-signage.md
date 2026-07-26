@@ -48,7 +48,7 @@ Untuk lokasi yang berhadapan dengan pengguna jalan atau berada pada bangunan, da
 
 ![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-*Aset lokal proyek untuk ilustrasi konteks signage.*
+*Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.*
 
 ## Mulai dari peta hubungan, bukan dari jenis lampu
 
