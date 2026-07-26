@@ -1,9 +1,10 @@
 ---
 article_id: ADV-13-02
-title: "Submittal Register untuk Proyek Signage"
+title: "Daftar Kendali Dokumen untuk Proyek Signage"
 slug: "submittal-register-proyek-signage"
-description: "Index design brief, site data, artwork, drawings/calculations, materials/tests, electrical/control, permits, methods, ITP, samples, warranty, O&M and as-builts"
-status: outline
+description: "Cara menyusun daftar kendali dokumen proyek signage agar kebutuhan, gambar, material, pengujian, izin, dan serah terima dapat ditelusuri."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -17,181 +18,98 @@ sources:
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
   - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://www.iso.org/standard/81651.html"
   - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Daftar Kendali Dokumen untuk Proyek Signage
 
-# Submittal Register untuk Proyek Signage
+Halo, Teman Advert.id!
 
-## Assignment lock
+Proyek signage sering tersendat bukan karena satu gambar hilang, melainkan karena tidak ada yang tahu dokumen apa yang harus ada, versi mana yang dipakai, dan keputusan apa yang masih menunggu. Daftar kendali dokumen proyek—sering disebut *submittal register*—adalah daftar kerja untuk mencatat kebutuhan itu. Ia menghubungkan kebutuhan awal, data lokasi, gambar, material, listrik, izin, pengujian, sampai dokumen penutup proyek.
 
-- **Writer task:** Expand this file into one complete article answering: “Submittal Register untuk Proyek Signage”
-- **Reader and situation:** Consultant/owner controlling approvals
-- **Reader outcome:** Index design brief, site data, artwork, drawings/calculations, materials/tests, electrical/control, permits, methods, ITP, samples, warranty, O&M and as-builts
-- **Primary intent:** Plan technical submissions
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Submission is not approval; relevant ADV-04/09/10/11 specialists validate scope
-- **Final public route:** `/artikel/submittal-register-proyek-signage.html`
-- **Appointed CMS date:** `2026-06-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat daftar kendali sebelum meminta penawaran atau memulai produksi, lalu pakai daftar itu untuk melihat kekosongan bukti dan antarmuka antarpekerjaan. Namun, daftar yang terisi bukan berarti dokumen telah disetujui, produk telah lolos uji, atau pekerjaan layak diterima. Status itu hanya boleh mengikuti bukti dan persetujuan yang benar-benar diberikan dalam proyek.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Submittal Register untuk Proyek Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar terkelola
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **ID gambar:** `LOCAL-001`
+- **Jenis sumber:** `local`
+- **Penempatan:** setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-05
-
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-13-01` → `/artikel/membandingkan-penawaran-advertising.html` — Membandingkan Penawaran Advertising secara Apple-to-Apple
-- `ADV-13-03` → `/artikel/scope-matrix-proyek-advertising.html` — Scope Matrix Creative, Fabrication, Structure, Electrical, Permit, dan Content
-- `ADV-13-04` → `/artikel/itp-produksi-signage.html` — Inspection and Test Plan Produksi Signage
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Keterangan/kredit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Dasar pemilihan:** nama berkas dan metadata sumber menyebut `Jasa Billboard`; piksel tidak diperiksa.
+- **Batas tegas:** jangan menyimpulkan rincian visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil yang tidak terlihat.
+END MANAGED IMAGE PLAN -->
 
 ## Definisikan kebutuhan sebelum meminta harga
 
-- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
-- **Tie back to this article:** Keep the explanation specific to “Submittal Register untuk Proyek Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Daftar yang berguna tidak dimulai dari nama berkas. Mulailah dari apa yang harus diputuskan. Catat fungsi tanda, jumlah dan lokasi, kondisi lokasi, batas pekerjaan, hubungan dengan pekerjaan lain, serta bukti apa yang diperlukan untuk menerima setiap bagian. Dengan begitu, dokumen tidak terkumpul hanya karena "biasanya diminta", melainkan karena menjawab pertanyaan proyek yang jelas.
 
-## Buat penawaran benar-benar sebanding
+Misalnya, satu baris untuk karya grafis perlu menyebut berkas sumber, font dan lisensinya, ukuran atau skala, definisi warna, proses keluaran, bahan cetak atau media tampilan, revisi, serta bukti contoh yang disetujui. [ISO 12647-2](https://www.iso.org/standard/57833.html) dan panduan [ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) membantu membedakan kendali produksi cetak dari janji bahwa warna akan selalu sama pada semua bahan maupun kondisi siang-malam.
 
-- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
-- **Tie back to this article:** Keep the explanation specific to “Submittal Register untuk Proyek Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Teman Advert.id, jangan menganggap daftar ini sebagai formulir pengadaan semata. Ia adalah peta keputusan. Bila lokasi belum pasti, misalnya, gambar penempatan, dasar struktur, izin, metode kerja, dan akses alat belum dapat dianggap tuntas hanya karena desain muka sudah selesai.
+
+## Membuat penawaran benar-benar sebanding
+
+Penawaran hanya sebanding bila seluruh penyedia menjawab lingkup yang sama. Daftar kendali membantu memecah pekerjaan menjadi bagian yang dapat dicocokkan: rancangan dan perhitungan, bahan dan pelapis, karya grafis, fabrikasi, angkat dan akses, listrik serta data, izin dan pajak, pengujian, pemeliharaan, garansi, dan dokumen akhir. Catat juga asumsi, pengecualian, serta pihak yang menyediakan setiap masukan.
+
+Contohnya, dua harga untuk satu unit tampak murah-mahal tanpa konteks. Salah satu mungkin memasukkan gambar kerja dan metode pemasangan; yang lain hanya memasukkan fabrikasi. Satu mungkin mencantumkan akses kerja dan pengujian; yang lain tidak. Bukan berarti salah satu penawaran buruk, tetapi keduanya belum dapat dibandingkan sebagai pekerjaan yang sama.
+
+Untuk struktur, daftar jangan berhenti pada kata "kuat". Masukkan dasar data angin, kondisi paparan, bentuk, kekakuan, jalur beban, dan masukan lokasi yang memang diperlukan oleh pihak berkompeten. [ISO 4354](https://www.iso.org/standard/38882.html) menunjukkan bahwa aksi angin dipengaruhi banyak parameter; halaman standar itu bukan perhitungan atau bukti penerimaan untuk proyek tertentu.
+
+Jika Anda membutuhkan gambaran layanan sebagai titik awal, halaman [signage](/signage/) dapat membantu menjelaskan jenis kebutuhan. Setelah itu, tetap gunakan daftar proyek sendiri untuk memastikan setiap pihak menawar pada lingkup, bukti, dan batas tanggung jawab yang sama.
 
 ## Dokumen yang membuktikan hal berbeda
 
-- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Submittal Register untuk Proyek Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tidak semua lampiran membuktikan hal yang sama. Ini penting karena satu sertifikat tidak otomatis menjawab seluruh pertanyaan proyek. Berikut pembacaan sederhana yang bisa dipakai saat menyusun register.
+
+| Dokumen | Pertanyaan yang dijawab | Yang tidak otomatis dibuktikan |
+| --- | --- | --- |
+| Data teknis produk dan lembar keselamatan | Produk apa, batas pakai, serta cara penanganan yang dinyatakan produsen | Kesesuaian dalam gabungan sistem atau kondisi lokasi aktual |
+| Gambar dan perhitungan | Usulan rancangan serta hubungan antarkomponen | Persetujuan atau hasil pelaksanaan di lapangan |
+| Contoh fisik atau uji coba | Ciri contoh pada kondisi yang disepakati | Kinerja jangka panjang seluruh instalasi |
+| Metode kerja | Urutan kerja yang diusulkan dan pengendalian yang direncanakan | Pekerjaan telah dilakukan sesuai metode |
+| Rencana inspeksi dan pengujian | Titik pemeriksaan, bukti, dan tindakan bila ada penyimpangan | Hasil inspeksi yang belum dilakukan |
+| Garansi dan petunjuk operasi-perawatan | Ketentuan produsen atau penyedia untuk produk/sistem tertentu | Penerimaan akhir atau penghapusan kewajiban lain |
+
+Untuk bahan luar ruang, catat produk, produsen, revisi, kumpulan produksi, bidang dasar, persiapan permukaan, sistem perekat/tinta/pelapis, kondisi lingkungan, pembersihan, pelepasan, dan ketentuan garansi. Lingkup [ISO 12944-1](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html) membantu menempatkan sistem pelapisan dalam konteks yang tepat, tetapi tidak membuktikan ketahanan numerik pada perakitan nyata tanpa data produk, kesesuaian, contoh, dan paparan proyek.
+
+Sobat Advert.id, beri setiap baris register kolom tujuan dokumen, revisi, pengirim, penerima, dasar pemeriksaan, dan tautan ke berkasnya. Kolom status boleh ada, tetapi gunakan kata yang jujur seperti "belum diterima", "perlu dilengkapi", atau "sedang ditelaah" sesuai catatan proyek; jangan menuliskan "disetujui" tanpa rekaman persetujuan yang sah.
 
 ## Pertanyaan wajib kepada penyedia
 
-- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
-- **Tie back to this article:** Keep the explanation specific to “Submittal Register untuk Proyek Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum pekerjaan bergerak, ajukan pertanyaan yang membuka batas tanggung jawab, bukan hanya mengejar daftar lampiran.
 
-## Red flag dan biaya yang sering tersembunyi
+- Dokumen apa yang Anda ajukan untuk rancangan, bahan, proses, listrik, izin, inspeksi, dan penutupan pekerjaan?
+- Untuk setiap dokumen, keputusan apa yang diminta dan siapa pihak yang berwenang memberi keputusan itu menurut kontrak?
+- Revisi apa yang menggantikan berkas lama, dan bagaimana tim lapangan menerima versi yang benar?
+- Bukti apa yang menunjukkan bahan serta proses yang dipakai dapat ditelusuri ke usulan yang telah diperiksa?
+- Bagian mana yang bergantung pada data lokasi, kewenangan pemilik lahan, atau pekerjaan pihak lain?
+- Bagaimana perubahan karya grafis, lokasi, atau perangkat memengaruhi gambar, metode, biaya, dan waktu yang akan disepakati?
 
-- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
-- **Tie back to this article:** Keep the explanation specific to “Submittal Register untuk Proyek Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pertanyaan tentang pengelasan juga perlu spesifik bila pekerjaan memakainya. [ISO 3834-2](https://www.iso.org/standard/81651.html) menempatkan rancangan, identitas bahan, prosedur, kemampuan personel, pemeriksaan, perbaikan, dan keterlacakan sebagai kendali yang berbeda. Maka, lampiran yang menyebut "dilas" saja tidak menjawab semuanya; register perlu menunjukkan bukti mana yang diminta oleh spesifikasi dan siapa yang menilainya.
+
+## Tanda bahaya dan biaya yang sering tersembunyi
+
+Tanda bahaya paling mudah dikenali adalah dokumen bernama umum tanpa tujuan keputusan. "Drawing", "certificate", atau "approval" yang berdiri sendiri membuat orang sulit tahu versi, lingkup, dan batas buktinya. Tanda lain adalah daftar yang hanya memuat produksi, tetapi tidak memuat data lokasi, akses angkat, listrik, izin, pengujian, atau dokumen akhir.
+
+Jalan pintas yang sering terdengar adalah, "kumpulkan saja semua berkas, nanti bisa dirapikan." Ini berisiko karena keputusan awal dapat terlewat sementara fabrikasi sudah berjalan. Revisi karya grafis dapat memengaruhi ukuran, material, atau pencahayaan. Perubahan lokasi dapat memengaruhi struktur, akses, dan persetujuan. Semakin akhir perubahan ditemukan, semakin besar kemungkinan kerja ulang dan penundaan—tanpa perlu mengarang angka biayanya.
+
+Kawan Advert.id, periksa juga apakah daftar mencatat akses dan alat angkat, ruang kerja, pemadaman atau pengisolasian listrik, pekerjaan di sekitar publik, pembersihan, pelatihan penggunaan, suku cadang bila disepakati, dan serah terima dokumen akhir. Bagian tersebut kerap berada di antara lingkup kreatif, fabrikasi, struktur, dan instalasi; justru di sanalah tanggung jawab mudah kabur.
 
 ## Penerimaan, serah terima, dan keputusan akhir
 
-- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
-- **Tie back to this article:** Keep the explanation specific to “Submittal Register untuk Proyek Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Di tahap akhir, register membantu membedakan "berkas sudah dikirim" dari "bukti penerimaan sudah lengkap". Rangkai kebutuhan penerimaan dari kontrak dan persetujuan yang berlaku: pemeriksaan yang direncanakan, catatan hasil, penanganan penyimpangan, penutupan daftar pekerjaan tersisa, dokumen garansi bila ada, petunjuk operasi dan pemeliharaan, serta gambar kondisi akhir bila memang diwajibkan.
 
-## Objection or shortcut to address
+Untuk pekerjaan struktur atau keterikatan pada bangunan, dasar aturan dan data pendukung tidak dapat digantikan oleh katalog produk. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) mengingatkan bahwa hubungan beban dan kondisi pendukung perlu dipertimbangkan dalam dasar rancangan. Dokumentasi pelapisan, bahan, dan proses pun tetap harus dikaitkan pada spesifikasi dan bukti proyek, bukan disimpulkan dari nama standar seperti [ISO 12944-8](https://www.iso.org/standard/64838.html).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+[NEEDS REVIEW: Tender atau kontrak yang berlaku, bukti asli, jalur persetujuan, hasil pengujian yang dikalibrasi bila disyaratkan, penutupan pekerjaan tersisa, dan berita acara serah terima bertanda tangan harus diperiksa sebelum status penerimaan atau pembayaran disimpulkan.]
 
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Singkatnya, daftar kendali dokumen adalah alat untuk menjaga pertanyaan yang tepat tetap terlihat dari awal sampai penutupan. Buat satu baris untuk setiap keputusan dan bukti yang dibutuhkan, tetapkan versi serta batasnya, lalu tahan keputusan yang bergantung pada dokumen yang belum ada. Aturan kerjanya: daftar mengatur keterlacakan; persetujuan, penerimaan, dan kewajiban tetap mengikuti kontrak serta bukti proyek yang sebenarnya.

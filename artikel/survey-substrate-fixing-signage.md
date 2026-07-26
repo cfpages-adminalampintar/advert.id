@@ -1,9 +1,10 @@
 ---
 article_id: ADV-03-05
-title: "Survey Substrate dan Area Fixing Signage"
+title: "Survei Bidang Dasar dan Area Pengikat Signage"
 slug: "survey-substrate-fixing-signage"
-description: "Identify material, condition, hidden services, geometry, access, moisture/corrosion, drawings, tests and engineering gaps"
-status: outline
+description: "Panduan mencatat kondisi bidang dasar, titik pengikat, utilitas tersembunyi, akses, dan kebutuhan pemeriksaan sebelum signage dipasang."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,192 +15,97 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/survey-substrate-fixing-signage.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/57833.html"
-  - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
   - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Survei Bidang Dasar dan Area Pengikat Signage
 
-# Survey Substrate dan Area Fixing Signage
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Sebelum signage menempel di dinding, atap, tiang, atau penopang tanah, tim perlu tahu benda apa yang sebenarnya akan menerima pemasangan. Bidang dasar (*substrate*) adalah material atau bagian bangunan yang menjadi tempat pemasangan. Titik pengikat (*fixing*) adalah area tempat bracket, baut, angkur, atau sambungan lain direncanakan bekerja. Keduanya tidak boleh diputuskan hanya dari foto fasad atau perkiraan di lapangan.
 
-- **Writer task:** Expand this file into one complete article answering: “Survey Substrate dan Area Fixing Signage”
-- **Reader and situation:** Installer facing wall, roof, pole or ground support
-- **Reader outcome:** Identify material, condition, hidden services, geometry, access, moisture/corrosion, drawings, tests and engineering gaps
-- **Primary intent:** Prepare structural-interface inputs
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Does not establish substrate capacity or anchor choice; ADV-09-05 owns support evidence
-- **Final public route:** `/artikel/survey-substrate-fixing-signage.html`
-- **Appointed CMS date:** `2025-10-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: survei harus mencatat kondisi yang terlihat, geometri, dokumen yang tersedia, kemungkinan utilitas tersembunyi, akses kerja, kelembapan atau korosi, kewenangan pemilik, dan kesenjangan informasi yang perlu ditelaah pihak berkompeten. Survei ini tidak menetapkan kapasitas bidang dasar, jenis angkur, metode pemasangan, atau kelayakan struktur. Putusan tersebut memerlukan rancangan, data pendukung, dan pemeriksaan yang sesuai untuk proyeknya.
 
-## Opening instructions
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Survey Substrate dan Area Fixing Signage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal Advert.id; bukan dokumentasi proyek tertentu.
 
+<!-- BEGIN MANAGED IMAGE PLAN
+## Rencana gambar terkelola
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
-## Image plan
-
-- **Image ID:** `LOCAL-001`
-- **Source type:** `local`
-- **Placement:** after the opening has answered the main question, before the first detailed H2
+- **ID gambar:** `LOCAL-001`
+- **Jenis sumber:** `local`
+- **Penempatan:** setelah pembuka menjawab pertanyaan utama, sebelum H2 pertama
 - **Exact Markdown to insert:** `![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)`
-- **Caption/credit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
-- **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
-- **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
-- **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-04
-
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-05
-
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-17
-
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-03-03` → `/artikel/uji-legibility-signage.html` — Uji Legibility Signage: Jarak, Sudut, Kontras, dan Waktu Baca
-- `ADV-03-04` → `/artikel/audit-day-night-signage.html` — Audit Day-Night untuk Signage Berlampu
-- `ADV-03-06` → `/artikel/photo-register-proyek-advertising.html` — Site Photo Register untuk Proyek Advertising
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+- **Keterangan/kredit:** Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
+- **Dasar pemilihan:** nama berkas dan metadata sumber menyebut `Jasa Billboard`; piksel tidak diperiksa.
+- **Batas tegas:** jangan menyimpulkan rincian visual, kepemilikan proyek, lokasi, orang, merek, kondisi, kinerja, atau hasil yang tidak terlihat.
+END MANAGED IMAGE PLAN -->
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Survey Substrate dan Area Fixing Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan umum adalah menyebut suatu bidang sebagai "beton" atau "baja" lalu langsung menganggap titik pengikat sudah jelas. Nama material tidak memberi tahu kondisi bagian yang tepat, ketebalan, tulangan atau sambungan yang tersembunyi, perubahan lama, kerusakan, jalur utilitas, atau hubungan bagian itu dengan struktur lain. Bahkan bidang yang tampak serupa dapat membutuhkan keputusan yang berbeda setelah gambar dan kondisi aktual diperiksa.
+
+Untuk pemasangan yang berhubungan dengan bangunan atau struktur pendukung, jalur beban mencakup signage, sambungan, penyangga, dan kondisi eksisting. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) menjadi dasar untuk tidak memperlakukan produk signage sebagai benda yang lepas dari bangunan atau penopangnya. Maka, survei yang baik mengumpulkan masukan; ia bukan pengganti gambar, perhitungan, persetujuan, maupun inspeksi.
+
+Sobat Advert.id, bila informasi penting belum ada, temuan yang paling berguna kadang justru kalimat sederhana: "belum terverifikasi". Catatan jujur seperti itu lebih aman daripada mengisi kapasitas atau metode dari dugaan.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Survey Substrate dan Area Fixing Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bidang dasar dapat berupa bagian bangunan, elemen atap, tiang, struktur yang sudah ada, atau penopang tanah. Area pengikat mencakup zona yang diusulkan untuk menempatkan sambungan, bukan jaminan bahwa sambungan tersebut dapat digunakan. Dalam survei, kita mencatat lokasi, bentuk, kondisi yang terlihat, hubungan dengan bagian lain, serta bukti yang tersedia untuk diperiksa lebih lanjut.
 
-## Cara kerjanya
+Artikel ini tidak mengajarkan pemilihan angkur, kedalaman tanam, jarak pengikat, pembebanan, atau perbaikan struktur. Tidak ada kapasitas universal yang dapat ditetapkan dari jenis dinding atau foto. Untuk penopang yang menerima aksi angin, misalnya, masukan seperti wilayah dan data angin, paparan, tinggi, topografi, bentuk, kekakuan, kombinasi beban, serta jalur beban memengaruhi rancangan. [ISO 4354](https://www.iso.org/standard/38882.html) membahas istilah aksi angin, tetapi bukan perhitungan maupun bukti penerimaan untuk suatu lokasi.
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Survey Substrate dan Area Fixing Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Batas ini mengubah cara tim bekerja. Pemasang boleh mendokumentasikan temuan dan menghentikan keputusan yang belum didukung, sedangkan pihak yang berkompeten menilai kecukupan data serta rancangan. Pemilik atau pengelola lokasi memberi akses dan menyampaikan dokumen yang dimiliki; mereka tidak perlu dipaksa memberi jawaban teknis yang belum terverifikasi.
 
-## Faktor yang mengubah hasil
+## Cara kerja survei dari lokasi sampai catatan
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Survey Substrate dan Area Fixing Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dengan identitas lokasi dan otoritasnya. Catat bagian bangunan atau penopang mana yang akan diperiksa, siapa yang memberi akses, apakah ada gambar eksisting, serta siapa yang perlu dihubungi bila ditemukan informasi yang tidak jelas. Bila area berdekatan dengan jalan atau ruang publik, catat pula arah pengguna, hambatan, akses kerja, dan area yang mungkin terdampak. Konteks keselamatan jalan tetap harus diperiksa pada kewenangan yang tepat; [UU Nomor 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) bukan instruksi pemasangan atau izin lokasi.
+
+Kemudian petakan kondisi yang dapat dilihat. Foto dan sketsa yang diberi lokasi membantu menghubungkan temuan ke gambar. Catat retak, perubahan bentuk, noda air, korosi, lapisan yang mengelupas, bagian longgar, sambungan, area sulit dijangkau, serta batas antara material yang berbeda. Jangan mengubah temuan visual menjadi diagnosis sebab atau sisa kapasitas.
+
+Setelah itu, tanyakan hal-hal yang tidak terlihat. Adakah jalur listrik, pipa, kabel data, drainase, atau fasilitas lain di belakang bidang? Apakah ada perubahan, perbaikan, atau pekerjaan sebelumnya? Dokumen apa yang ada: gambar, catatan pemeriksaan, data pemeliharaan, atau batas akses? Bila jawaban belum tersedia, tandai sebagai kebutuhan verifikasi sebelum pekerjaan yang dapat mengganggu bidang dilakukan.
+
+Kawan Advert.id, hasil survei sebaiknya berupa paket ringkas yang dapat ditelusuri: denah atau orientasi lokasi, foto berlabel, catatan kondisi, daftar dokumen yang diterima, daftar pertanyaan terbuka, dan titik keputusan yang harus ditinjau. Paket ini membantu rancangan, tetapi statusnya tetap data masukan, bukan persetujuan teknis.
+
+## Faktor yang mengubah hasil survei
+
+Kondisi air dan pelapukan patut dicatat karena dapat berkaitan dengan pertemuan bahan, tepi, celah, atau akses perawatan. Hubungan antara bahan berbeda, sambungan, kondisi permukaan, serta kemudahan pemeriksaan dapat mengubah kebutuhan perlindungan dan pemeliharaan. [ISO 12944-8](https://www.iso.org/standard/64838.html) memberi kerangka spesifikasi dan pemeliharaan sistem pelindung, bukan kesimpulan bahwa sebuah titik pengikat atau pelapis pasti masih layak.
+
+Akses juga mengubah keputusan. Ruang untuk melihat area, menjangkau titik yang diusulkan, membawa peralatan, serta melindungi pengguna sekitar perlu dicatat. Akses yang sulit tidak boleh disiasati dengan keputusan teknis dari jauh. Jika survei mengungkap potensi bahaya struktur, listrik, ketinggian, atau ruang publik, hentikan langkah yang berisiko dan minta pemeriksaan pihak berkompeten.
+
+Teman Advert.id, pemilik kadang bertanya, "bukankah cukup lihat dindingnya dari luar?" Jawabannya: tampilan luar adalah satu bukti, bukan seluruh bukti. Gambar eksisting, perubahan sebelumnya, utilitas, keadaan di balik lapisan, dan rancangan pemasangan dapat memberi jawaban yang berbeda.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Survey Substrate dan Area Fixing Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah signage akan dipasang pada fasad dengan noda air yang terlihat dan akses hanya dapat dilakukan dari area yang dipakai umum. Survei tidak perlu menyatakan sumber air, kekuatan bidang, atau jenis angkur. Ia cukup mengubah masalah itu menjadi daftar keputusan yang benar.
+
+| Temuan | Catatan survei | Langkah sebelum pemasangan diputuskan |
+| --- | --- | --- |
+| Noda air atau lapisan mengelupas | Lokasi, luas yang terlihat, foto, dan hubungan dengan tepi/sambungan | Periksa kondisi, sumber, dan dampaknya melalui pihak serta dokumen yang relevan |
+| Dokumen bidang tidak tersedia | Bagian yang belum diketahui dan pihak pemegang informasi | Minta gambar/data eksisting atau pemeriksaan yang sesuai |
+| Kemungkinan utilitas di belakang area | Lokasi perkiraan dan alasan kekhawatiran | Verifikasi sebelum pekerjaan yang dapat mengganggu bidang |
+| Akses dekat publik | Jalur, hambatan, waktu penggunaan, dan ruang kerja yang terlihat | Susun pengendalian akses serta persetujuan yang berlaku |
+| Titik pengikat diusulkan | Posisi konseptual pada gambar atau foto | Serahkan pada rancangan dan telaah kompeten, tanpa menetapkan angkur di lapangan |
+
+Untuk gambaran awal kebutuhan signage, pembaca dapat melihat [layanan signage](/signage/). Namun, halaman layanan tidak membuktikan kondisi bidang, hak pemasangan, atau kecukupan desain pada lokasi tertentu.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Survey Substrate dan Area Fixing Signage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jalan pintas yang sering muncul adalah memilih angkur di lokasi karena "biasanya pakai yang itu". Kebiasaan proyek lain tidak menggantikan data bidang dasar, kondisi eksisting, rancangan, maupun keputusan yang diperlukan di lokasi ini. Ubah kebiasaan itu menjadi pertanyaan: bukti apa yang mendukung titik ini, apa yang berada di baliknya, dan siapa yang berwenang meninjau usulan ini?
 
-## Objection or shortcut to address
+Kesalahan lain adalah menganggap retak, karat, atau kemiringan kecil pasti punya satu penyebab. Catat gejalanya dan jangan mengarang diagnosis. Permen PUPR tentang pedoman sistem manajemen keselamatan konstruksi, [Permen PUPR Nomor 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), menguatkan perlunya pengelolaan risiko yang sesuai; ia tidak memberi izin perbaikan lapangan tanpa penilaian yang tepat.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Terakhir, jangan memaksa survei menjadi tahap persetujuan. Foto, pengukuran, dan daftar temuan membantu diskusi, tetapi tidak menggantikan gambar yang disetujui, perhitungan, uji yang diperlukan, atau penerimaan pihak yang berwenang.
 
-## Required conclusion
+[NEEDS REVIEW: Identitas serta kewenangan lokasi, kondisi dan dokumen eksisting, utilitas tersembunyi, rancangan lengkap, data beban dan lingkungan, akses kerja/publik, rencana pemeriksaan atau pengujian, serta telaah pihak berkompeten harus tersedia sebelum titik pengikat, metode, atau kelayakan ditetapkan.]
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+## Langkah sebelum memasang signage
 
-## Draft completion checklist
+Survei bidang dasar dan area pengikat menghasilkan daftar fakta serta kekosongan bukti, bukan angka kapasitas. Catat lokasi, kondisi, akses, utilitas, pemilik, gambar, dan temuan yang perlu diteruskan. Setelah itu, biarkan rancangan dan pemeriksaan yang tepat menyatukan signage dengan penopangnya.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Advert.id, aturan kerjanya mudah diingat: bila kondisi bidang, utilitas, atau dasar rancangan belum jelas, jangan mengunci titik pengikat atau memulai pemasangan. Lengkapi buktinya dan minta telaah yang kompeten dahulu.
