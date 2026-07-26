@@ -2,8 +2,9 @@
 article_id: ADV-14-02
 title: "Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan"
 slug: "diagnosis-gerakan-signage"
-description: "Record weather/event, geometry, connections, support/foundation, face tension, equipment, exclusion/escalation and specialist measurements"
-status: outline
+description: "Cara mencatat gerakan, kemiringan, atau bunyi pada signage secara aman, membedakan gejala dari dugaan penyebab, dan menentukan kapan perlu pemeriksaan kompeten."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-07-09"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,48 +15,20 @@ reader_address: "Teman Advert.id"
 final_route: "/artikel/diagnosis-gerakan-signage.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
-  - "https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan
 
-## Assignment lock
+Halo, Teman Advert.id!
 
-- **Writer task:** Expand this file into one complete article answering: “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”
-- **Reader and situation:** Owner observing unexpected motion/noise
-- **Reader outcome:** Record weather/event, geometry, connections, support/foundation, face tension, equipment, exclusion/escalation and specialist measurements
-- **Primary intent:** Triage structural symptoms
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Video/photo cannot prove cause or safety; ADV-09-03/06 own engineering
-- **Final public route:** `/artikel/diagnosis-gerakan-signage.html`
-- **Appointed CMS date:** `2026-07-09` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Signage yang tiba-tiba terlihat goyang, miring, atau mengeluarkan bunyi tidak perlu langsung diberi nama penyebabnya. Yang perlu dilakukan lebih dulu adalah membedakan apa yang benar-benar terlihat dari apa yang baru diduga. “Panel bergerak saat angin”, “bunyi muncul setelah hujan”, atau “bagian atas tampak berbeda dari minggu lalu” adalah catatan gejala. Kalimat seperti “fondasinya rusak” atau “bautnya pasti longgar” baru merupakan kemungkinan yang perlu dibuktikan.
 
-## Opening instructions
+Jawaban singkatnya: amankan area bila ada risiko, catat gejala dari posisi aman, kumpulkan dokumen sistem, lalu naikkan pemeriksaan sesuai temuan. Foto atau video dapat membantu menunjukkan waktu dan lokasi kejadian, tetapi tidak dapat membuktikan penyebab, kapasitas, atau kelayakan pakai. Keputusan itu memerlukan data desain, kondisi material, detail sambungan, penyangga, riwayat perubahan, dan pemeriksaan oleh pihak yang berwenang.
 
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,132 +39,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-06
-
-- **Original sources:** [ISO 12944-1:2017 family scope](https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/06/48/64833.html), [ISO 12944-6:2018 test limits](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Separate raw materials, graphic films/inks, finishes, and complete outdoor assemblies.
-- **Safe grounded facts:** Identify product, manufacturer, revision, batch, substrate, surface preparation, adhesive/ink/coating system, environmental limits, fire/safety data, expected change, cleaning, removal, and warranty conditions.
-- **Limits:** Exact TDS/SDS, compatibility approval, original tests, mock-up, and actual exposure are mandatory before numeric durability or safety claims.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-18
-
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-14-01` → `/artikel/program-maintenance-signage.html` — Program Inspeksi dan Maintenance Signage Berbasis Risiko
-- `ADV-14-03` → `/artikel/diagnosis-struktur-signage.html` — Karat, Retak, Baut Longgar, dan Coating Rusak pada Signage
-- `ADV-14-04` → `/artikel/diagnosis-digital-signage.html` — Digital Signage Mati Sebagian, Flicker, atau Overheat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Catat gejala dengan lima pertanyaan sederhana: apa yang terlihat atau terdengar, di mana tepatnya, kapan terjadi, apa yang berubah dibanding sebelumnya, dan apa yang belum bisa dilihat. Contoh catatan yang berguna: “pada sisi kanan bagian atas, panel tampak bergerak saat angin; bunyi terdengar dari bawah; sambungan belakang tidak terlihat dari posisi aman.” Catatan seperti ini lebih bernilai daripada kesimpulan cepat.
+
+Sertakan konteks bila diketahui: hujan, angin, pekerjaan di sekitar lokasi, perubahan media, pemasangan perangkat tambahan, kendaraan besar yang lewat, atau kejadian lain. Jangan mengarang data cuaca atau waktu bila tidak punya rekaman. Bila foto diambil, simpan tanggal, arah pengambilan, dan batasnya. Foto yang dekat bisa memperlihatkan detail, tetapi mungkin tidak menunjukkan hubungan panel dengan penyangga; foto yang jauh bisa menunjukkan bentuk umum, tetapi menyembunyikan sambungan.
+
+Kawan Advert.id, dokumentasi bukan berarti mendekat sampai membahayakan diri. Jika bagian berada di ketinggian, dekat jalur publik, atau dekat komponen listrik, posisi pengambilan bukti harus tetap aman. Tulislah “tidak dapat diperiksa dari posisi aman” daripada memaksa pemeriksaan.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum mencari penyebab, lihat apakah ada risiko yang memerlukan tindakan cepat. Batasi akses ke area bawah atau sekitar signage dan minta pemeriksaan kompeten bila ada komponen yang tampak longgar, bagian terlepas, perubahan bentuk yang nyata, retak, sambungan bergeser, panel berpotensi jatuh, atau kerusakan yang dekat dengan kabel dan komponen listrik.
+
+Jangan melakukan percobaan sendiri dengan mendorong panel, memukul rangka, mengencangkan sambungan secara acak, atau menambah beban untuk “membuktikan” apakah ia kuat. Tindakan itu dapat menambah risiko, mengubah bukti, dan membuat kondisi awal sulit ditelusuri. Bila pekerjaan pemeriksaan memerlukan akses tinggi, pembatasan area publik, atau pengamanan listrik, kebutuhan keselamatan harus ditetapkan melalui metode kerja yang sesuai, bukan dengan improvisasi.
+
+Sobat Advert.id, prinsipnya sederhana: bila pengamatan menunjukkan kemungkinan bahaya bagi orang, keselamatan lebih dulu daripada rasa ingin tahu. Pembatasan sementara bukan vonis bahwa struktur pasti gagal; itu kontrol sementara sambil menunggu fakta yang cukup.
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gerakan atau bunyi dapat berasal dari beberapa kelompok mekanisme. Pertama, ada respons terhadap lingkungan: angin, air, perubahan suhu, atau getaran di sekitar lokasi dapat memengaruhi sistem. Kedua, ada detail sambungan: pengencang, rangka, media muka, penutup, atau elemen penyangga dapat berubah kondisi. Ketiga, ada perubahan sistem: media baru, lampu, kabinet, perangkat digital, perbaikan sebelumnya, atau aksesori tambahan dapat mengubah berat, bentuk, atau perilaku penggunaan.
+
+Keempat, ada kondisi permukaan serta air. Korosi, pelapis yang rusak, air yang tertahan, dan celah yang sulit diperiksa dapat berhubungan dengan perubahan di detail, tetapi bukan bukti tunggal bahwa satu penyebab tertentu sudah pasti terjadi. Lingkungan, perangkap air, tepi, sambungan, kondisi aplikasi lapisan, dan akses pemeliharaan memang merupakan hal yang relevan dalam sistem pelindung. [ISO 12944-2](https://www.iso.org/standard/64834.html) membahas pengelompokan lingkungan, sementara [ISO 12944-8](https://www.iso.org/standard/64838.html) mencakup spesifikasi dan pemeliharaan sistem pelindung.
+
+Kelima, bunyi mungkin berasal dari bagian yang bergerak, panel yang berinteraksi, penutup, kabel, atau peralatan di dalam kabinet. Namun bunyi yang sama dapat mempunyai sumber berbeda. Teman Advert.id, perlakukan mekanisme sebagai daftar kemungkinan untuk diuji, bukan diagnosis yang boleh dipakai untuk memutuskan keamanan.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Urutan pemeriksaan harus menjaga orang sekaligus menjaga bukti. Mulai dari observasi yang aman, lalu menuju dokumen, dan baru ke pemeriksaan atau pengukuran yang ditentukan oleh pihak kompeten bila memang diperlukan.
+
+1. **Dokumentasikan gejala dan risiko.** Catat lokasi, waktu, kondisi sekitar, bagian yang bergerak atau berbunyi, perubahan yang terlihat, serta batas pengamatan.
+2. **Amankan sesuai tingkat risiko.** Bila ada kemungkinan benda jatuh, sambungan terbuka, listrik, atau bahaya publik, batasi akses dan jangan lanjutkan percobaan sendiri.
+3. **Kumpulkan rekaman sistem.** Cari gambar kondisi akhir, gambar yang disetujui, daftar material, rekaman pemasangan, riwayat perawatan, perubahan, dan pemeriksaan sebelumnya.
+4. **Cocokkan kondisi terpasang.** Pihak yang kompeten perlu membandingkan gejala dengan jalur penyangga, sambungan, media, kabinet, dan kondisi lokasi; jangan membandingkannya dengan proyek lain yang tampak mirip.
+5. **Tetapkan pemeriksaan lanjutan bila perlu.** Metode ukur, pemeriksaan detail, atau pengambilan sampel harus mengikuti desain, keselamatan akses, dan kriteria proyek yang berlaku.
+
+Pelaksanaan serta pengawasan pekerjaan pelapisan dan pemeliharaan juga perlu dibaca dari sistem yang sebenarnya, bukan dari nama cat atau merek material. [ISO 12944-7](https://www.iso.org/standard/64837.html) membahas pelaksanaan serta pengawasan pekerjaan pengecatan, tetapi tidak menggantikan inspeksi struktur, listrik, atau akses pada signage Anda.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pisahkan hasil menjadi empat lapis. Pertama, **pengamatan**: apa yang benar-benar terlihat, terdengar, atau diukur. Kedua, **dokumen**: gambar, identitas material, riwayat perubahan, dan catatan perawatan. Ketiga, **analisis**: penjelasan kemungkinan yang diuji terhadap bukti. Keempat, **keputusan**: apakah perlu pemantauan, perbaikan, pembatasan operasi, atau evaluasi lebih lanjut—dan siapa yang berwenang mengambilnya.
+
+Contohnya, “terlihat miring” belum menjelaskan apakah yang berubah adalah panel, rangka, tiang, fondasi, sudut pandang, atau bagian lain. “Bunyi saat angin” belum menjelaskan apakah sumbernya panel, penutup, pengencang, atau komponen di dalam. Satu hasil pengamatan boleh memicu pemeriksaan, tetapi tidak boleh disulap menjadi kesimpulan teknis tanpa kriteria proyek.
+
+Jika hasil pemeriksaan menyebut suatu kondisi “sesuai” atau “tidak sesuai”, minta dasar pembandingnya: gambar mana, dokumen produk mana, kriteria apa, siapa pemeriksanya, dan bagian sistem mana yang sebenarnya diperiksa. Begini cara menghindari laporan yang terdengar meyakinkan tetapi tidak dapat ditelusuri.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Signage Goyang, Miring, atau Berbunyi: Urutan Pemeriksaan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pemantauan dapat dipilih bila tidak ada tanda bahaya langsung dan ada cara mencatat kondisi secara konsisten. Gunakan lokasi foto yang sama, tanggal, deskripsi gejala, serta riwayat perubahan. Pemantauan bukan alasan untuk membiarkan kondisi memburuk tanpa pemilik keputusan; tetapkan kapan catatan harus ditinjau kembali dan siapa yang menerima laporan.
 
-## Objection or shortcut to address
+Perbaikan atau penggantian tidak seharusnya ditentukan hanya dari gejala. Sebelum tindakan permanen, perlu ada dasar yang cukup mengenai kondisi, sistem terpasang, detail yang disetujui, metode kerja aman, dan bukti penerimaan setelah pekerjaan. Untuk struktur atau sambungan, keputusan dapat memerlukan insinyur; untuk listrik, perlu pihak yang kompeten pada sistem tersebut; untuk akses tinggi atau area publik, perlu pengaturan keselamatan yang sesuai.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Eskalasi segera bila ada perubahan cepat, komponen berpotensi jatuh, gangguan pada penyangga, air dekat listrik, retak atau sambungan berubah, atau jika dokumen proyek tidak cukup untuk memahami sistem. Bila Anda sedang menyusun kebutuhan signage baru, halaman [signage](/signage/) dapat membantu memetakan konteks sistem. Namun halaman informasi tidak dapat menggantikan pemeriksaan lapangan untuk aset yang bergerak atau menimbulkan bunyi.
 
-## Required conclusion
+## Jalan pintas yang sering menggoda
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas pertama: “lihat videonya, pasti kelihatan penyebabnya.” Video hanya menangkap sudut, waktu, dan kondisi tertentu; ia tidak menunjukkan seluruh sambungan, penyangga, data angin, atau kondisi internal. Jalan pintas kedua: “kencangkan saja baut yang kelihatan.” Baut yang terlihat belum tentu sumber masalah, dan perubahan tanpa dasar dapat merusak bukti atau membuat bahaya baru.
 
-## Draft completion checklist
+Alternatif yang lebih masuk akal adalah mengubah kekhawatiran menjadi paket data: gejala, lokasi, waktu, riwayat, foto aman, dokumen sistem, serta risiko publik. Dengan paket itu, pihak yang berwenang dapat memilih pemeriksaan yang tepat. Tidak dramatis, tetapi jauh lebih berguna daripada dua kesimpulan ekstrem: “pasti aman” atau “pasti roboh”.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: catat gejala, amankan risiko, lalu minta bukti
+
+Signage yang goyang, miring, atau berbunyi perlu diperlakukan sebagai gejala yang bisa memiliki beberapa mekanisme. Teman Advert.id, langkah paling berguna hari ini adalah membuat catatan satu halaman: apa yang terjadi, kapan, di mana, apa yang berubah, risiko apa yang terlihat, dan dokumen apa yang tersedia.
+
+Aturan kerjanya sederhana: jangan memberi diagnosis kapasitas atau keamanan dari video, foto, atau tampilan saja. Jika gejala menyentuh keselamatan publik, sambungan, penyangga, atau listrik, amankan area dan gunakan pemeriksaan kompeten sebelum mengambil keputusan permanen.

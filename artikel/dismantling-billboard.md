@@ -1,9 +1,10 @@
 ---
 article_id: ADV-06-06
-title: "Dismantling Billboard: Data Sebelum Struktur Diturunkan"
+title: "Pembongkaran Papan Reklame: Data Sebelum Struktur Diturunkan"
 slug: "dismantling-billboard"
-description: "Gather as-builts, condition, utilities, access, lifting/sequence, temporary stability, public protection, waste and site restoration"
-status: outline
+description: "Data dan batas keputusan yang perlu disiapkan sebelum pembongkaran papan reklame, mulai dari kondisi aset hingga pengamanan publik dan penanganan material."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-07"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,58 +15,21 @@ reader_address: "Teman Advert.id"
 final_route: "/artikel/dismantling-billboard.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/54936.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.iso.org/standard/64838.html"
-  - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
-  - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
-  - "https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016"
-  - "https://peraturan.bpk.go.id/Search?p=195&tema=24"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Pembongkaran Papan Reklame: Data Sebelum Struktur Diturunkan
 
-# Dismantling Billboard: Data Sebelum Struktur Diturunkan
+Halo, Teman Advert.id!
 
-## Assignment lock
+Membongkar billboard bukan kebalikan sederhana dari memasangnya. Saat struktur akan diturunkan, kondisi nyata bisa berbeda dari gambar lama: ada korosi, modifikasi, kabel tambahan, media yang berubah, akses yang tertutup, atau kondisi tanah serta penyangga yang tidak lagi sama. Karena itu, pekerjaan tidak boleh dimulai dari pertanyaan “bagian mana dibuka dulu?”, melainkan “data apa yang sudah cukup untuk merencanakan pembongkaran tanpa membahayakan pekerja dan publik?”
 
-- **Writer task:** Expand this file into one complete article answering: “Dismantling Billboard: Data Sebelum Struktur Diturunkan”
-- **Reader and situation:** Owner decommissioning a large structure
-- **Reader outcome:** Gather as-builts, condition, utilities, access, lifting/sequence, temporary stability, public protection, waste and site restoration
-- **Primary intent:** Plan end-of-life removal
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Teman Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Kawan Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** No dismantling method or rigging values; ADV-12-03 and competent engineer/K3 plan govern
-- **Final public route:** `/artikel/dismantling-billboard.html`
-- **Appointed CMS date:** `2026-01-07` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: kumpulkan kondisi aset, gambar kondisi akhir, utilitas, akses, kondisi penyangga, pengamanan area, dan rencana penanganan material sebelum struktur disentuh. Urutan pelepasan, metode pengangkatan, peralatan, pengikatan, stabilitas sementara, serta jarak pengamanan adalah keputusan rekayasa dan K3 untuk lokasi tertentu. Tidak ada resep umum yang aman untuk semua billboard.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Dismantling Billboard: Data Sebelum Struktur Diturunkan**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Advert.id`, `Sobat Advert.id`, or `Kawan Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,171 +40,69 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
-
-### KR-04
-
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
-
-### KR-07
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
-
-### KR-08
-
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
-
-### KR-09
-
-- **Original sources:** [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 9606-1:2012](https://www.iso.org/standard/54936.html).
-- **Purpose for this article:** Ground traceable fabrication and prevent “welded” from being treated as proof of structural quality.
-- **Safe grounded facts:** Design, material identity, procedure, personnel qualification range, consumables, fit-up, environment, inspection/test plan, nonconformance, repair, and traceability are separate controls.
-- **Limits:** Obtain the governing full standards/project specification, drawings, WPS/PQR where required, personnel records, inspections, and engineer acceptance.
-
-### KR-10
-
-- **Original sources:** [ISO 12944-2:2017 environments](https://www.iso.org/standard/64834.html), [ISO 12944-7:2017 execution](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification/maintenance](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground coating-system selection and inspection without promising service life.
-- **Safe grounded facts:** Coastal/industrial exposure, crevices, water traps, dissimilar metals, welds/edges, access, surface preparation, application conditions, film build, damage, and maintenance change outcomes.
-- **Limits:** Confirm current editions (several parts are being revised), exact system/product reports, Indonesian specification, workmanship, and inspection records.
-
-### KR-14
-
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
-
-### KR-15
-
-- **Original sources:** [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021), [Permenaker No. 9 Tahun 2016](https://peraturan.bpk.go.id/Details/146109/permenaker-no-9-tahun-2016), [2026 status evidence for partial revocation](https://peraturan.bpk.go.id/Search?p=195&tema=24).
-- **Purpose for this article:** Ground task planning and explicitly capture the 2026 change to the height-work rule.
-- **Safe grounded facts:** Survey access, weather, exclusion/public zone, traffic interface, temporary stability, lifting equipment/rigging, anchor/access system, dropped objects, electricity, hot work, communication, rescue/emergency, competence, inspection, and stop criteria.
-- **Limits:** Obtain the consolidated current legal text, site HIRADC/JSA, engineered lift/access plans where required, equipment records, competent persons, permits, and emergency arrangements.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-pembuatan-billboard-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-06-04` → `/artikel/akses-changeout-billboard.html` — Akses Penggantian Artwork Billboard
-- `ADV-06-05` → `/artikel/bukti-tayang-billboard.html` — Availability dan Proof-of-Play untuk Media Billboard
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Dismantling Billboard: Data Sebelum Struktur Diturunkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan paling berbahaya adalah menganggap billboard lama dapat dibongkar hanya dengan mengulang kebiasaan proyek sebelumnya. Struktur yang tampak serupa bisa berbeda pada bentuk panel, berat aktual, detail sambungan, penyangga, fondasi, lingkungan, kabel, serta akses alat. Kondisi setelah bertahun-tahun terkena cuaca juga dapat berbeda dari kondisi saat pemasangan.
+
+Pembongkaran adalah perubahan pada jalur beban. Ketika sebuah panel, rangka, atau komponen dilepas, cara gaya bekerja pada bagian yang tersisa juga berubah. Karena itu, pemilik perlu meminta rencana dari pihak yang kompeten, bukan menyusun urutan pembongkaran dari foto atau dugaan. Untuk billboard di dekat jalan atau area publik, konteks pengguna jalan, pengelola jalan, akses, dan bahaya sekitar juga relevan. [UU No. 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) merupakan salah satu rujukan lalu lintas dan angkutan jalan; pengaturan lokasi nyata harus tetap dikonfirmasi kepada pihak berwenang yang tepat.
+
+Kawan Advert.id, bila ada keraguan tentang kondisi penyangga, korosi, sambungan, atau kabel, jangan menjadikannya alasan untuk “coba buka sedikit”. Keraguan itu justru data yang harus masuk ke rencana pemeriksaan dan pengendalian risiko.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Dismantling Billboard: Data Sebelum Struktur Diturunkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pembongkaran billboard mencakup lebih dari media muka. Objeknya dapat meliputi panel atau kabinet, rangka, sambungan, pengikat, tiang atau struktur pendukung, fondasi, kabel, peralatan listrik, area akses, serta material yang tersisa setelah pekerjaan selesai. Batasnya perlu ditentukan sejak awal: apa yang benar-benar akan dilepas, apa yang tetap dipertahankan, dan kondisi apa yang harus dipulihkan di lokasi.
+
+Istilah **isolasi** di sini berarti memastikan sumber energi, akses, dan area kerja dikelola sesuai rencana yang disetujui sebelum pekerjaan dimulai. **Pengangkatan** berarti pemindahan komponen dengan sistem dan peralatan yang dirancang untuk pekerjaan itu. **Stabilitas sementara** berarti kondisi struktur atau komponen selama perubahan berlangsung tidak boleh dibiarkan hanya berdasarkan perkiraan. Tiga hal ini saling berkaitan, tetapi artikel ini tidak menetapkan metode, nilai, atau urutan teknisnya.
+
+Sobat Advert.id, garis batas ini penting. Pemilik dapat menuntut data, rencana, penanggung jawab, dan bukti penutupan pekerjaan. Namun urutan pemotongan, pembongkaran pengikat, cara mengikat beban, serta pilihan alat harus diputuskan oleh insinyur dan tim kompeten berdasarkan kondisi spesifik di lapangan.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Dismantling Billboard: Data Sebelum Struktur Diturunkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pekerjaan yang aman dimulai dengan survei dan rekonsiliasi data. Tim perlu mengetahui lokasi legal, pemilik dan izin akses, ukuran serta bentuk aset, gambar kondisi akhir bila tersedia, jenis material, kondisi sambungan, riwayat modifikasi, utilitas, akses kendaraan/peralatan, area publik, serta jalur pengangkutan material keluar. Jika data lama dan kondisi lapangan berbeda, perbedaan itu harus diselesaikan sebelum rencana kerja disetujui.
+
+Kemudian, rencana perlu menjelaskan cara tim mengendalikan antarmuka penting: publik dan lalu lintas, listrik atau utilitas, cuaca, akses kerja, komunikasi, kondisi darurat, pengangkatan, komponen yang mungkin jatuh, serta perubahan stabilitas selama pekerjaan. Ini bukan daftar administrasi; setiap antarmuka dapat mengubah apakah pekerjaan aman dilakukan pada waktu dan konfigurasi tertentu.
+
+Faktor angin juga tidak boleh diperlakukan sebagai catatan cuaca biasa. Wilayah, paparan medan, tinggi, bentuk, arah, dan perilaku dinamis memengaruhi respons struktur. [ISO 4354](https://www.iso.org/standard/38882.html) membahas tindakan angin, tetapi halaman standarnya tidak memberi perhitungan, batas cuaca, atau metode pembongkaran untuk billboard Anda.
+
+Setelah itu, pemilik perlu memastikan ada titik pemeriksaan sebelum perubahan tidak dapat dibalik. Artinya, kondisi awal, kondisi penyangga, isolasi yang relevan, pengamanan publik, dan kesiapan rencana kerja harus dapat dibuktikan. Bila temuan baru muncul—misalnya material tidak sesuai gambar, korosi tersembunyi, atau akses tidak memungkinkan—pekerjaan harus dinilai ulang, bukan dipaksa mengikuti jadwal awal.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Dismantling Billboard: Data Sebelum Struktur Diturunkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi aset adalah faktor pertama. Billboard yang pernah diperbaiki, ditambah komponen, terkena korosi, atau kehilangan dokumen memerlukan perhatian berbeda dibanding aset baru dengan rekaman lengkap. Kondisi pelapis dan korosi juga tidak sekadar isu tampilan; air, celah, tepi, sambungan, serta akses perawatan dapat mengubah apa yang terlihat di detail. [ISO 12944-8](https://www.iso.org/standard/64838.html) membahas spesifikasi serta pemeliharaan sistem pelindung, bukan persetujuan untuk menyatakan kondisi struktur dari luar.
+
+Faktor kedua adalah lokasi. Billboard dekat jalan, bangunan, jaringan listrik, pejalan kaki, atau properti lain membutuhkan pengaturan akses dan perlindungan publik yang berbeda. Tidak ada satu jarak pembatas yang dapat ditulis untuk semua lokasi karena bentuk aset, tinggi, kondisi penyangga, metode kerja, lalu lintas, dan bahaya sekitar berbeda.
+
+Faktor ketiga adalah material akhir. Media, logam, kabel, komponen listrik, kemasan, dan sisa sambungan mungkin memerlukan jalur penanganan yang berbeda. Jangan menyebut sesuatu dapat dipakai kembali atau didaur ulang hanya karena nama bahannya. Catat kondisinya, campuran material, potensi kontaminasi, tujuan penerima, dan bukti penerimaan sebelum memberi klaim apa pun.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Dismantling Billboard: Data Sebelum Struktur Diturunkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan sebuah billboard akan dilepas karena masa pakainya selesai. Pemilik menemukan gambar lama, tetapi tidak yakin apakah panel, lampu, atau kabel pernah diubah. Dalam situasi ini, keputusan yang masuk akal bukan memilih alat angkat dari internet. Keputusan yang masuk akal adalah menandai perbedaan data itu sebagai kondisi yang belum terverifikasi dan meminta survei kompeten sebelum rencana pembongkaran difinalkan.
+
+| Kondisi | Pertanyaan yang perlu dijawab | Keputusan aman berikutnya |
+| --- | --- | --- |
+| Gambar lama tidak cocok dengan kondisi terpasang | Bagian mana berubah, kapan, dan apakah memengaruhi penyangga atau utilitas? | Lakukan survei serta pembaruan data sebelum metode kerja disetujui. |
+| Lokasi berada dekat publik atau lalu lintas | Siapa terdampak, siapa berwenang mengatur akses, dan bagaimana kondisi berubah selama kerja? | Tetapkan pengamanan publik bersama pihak yang relevan; jangan memakai jarak standar dari proyek lain. |
+| Ada korosi atau detail yang tidak dapat dilihat | Apakah kondisi tersebut memengaruhi rencana pengangkatan atau stabilitas sementara? | Minta evaluasi kondisi sebelum struktur diubah. |
+| Tujuan material belum jelas | Apa yang dapat disimpan, dipisahkan, dikirim, atau harus ditangani khusus? | Buat inventaris dan verifikasi penerima sebelum pekerjaan ditutup. |
+
+Tabel ini adalah alat keputusan pemilik, bukan prosedur lapangan. Perencanaan keselamatan konstruksi perlu memperhatikan kondisi, kompetensi, peralatan, inspeksi, dan keadaan darurat yang nyata. [Permen PUPR No. 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) merupakan salah satu rujukan keselamatan konstruksi; penerapannya pada pekerjaan tertentu tetap membutuhkan rencana yang sah dan mutakhir.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Dismantling Billboard: Data Sebelum Struktur Diturunkan”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap media muka yang sudah dilepas berarti risiko utama selesai. Padahal perubahan media dapat mengubah cara bagian tersisa menahan atau meneruskan beban. Kesalahan kedua adalah menganggap aset lama pasti mengikuti gambar lama. Perbaikan dan perubahan di lapangan bisa tidak pernah masuk dokumen.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menaruh keselamatan publik sebagai pekerjaan terakhir setelah metode ditentukan. Area publik, lalu lintas, akses tetangga, dan kondisi darurat justru harus memengaruhi apakah metode serta waktu kerja dapat diterima sejak awal. Kesalahan keempat adalah menganggap material sisa urusan setelah struktur turun. Tanpa inventaris dan tujuan yang jelas, material bisa menumpuk, tercampur, atau menimbulkan masalah baru.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang sering menggoda adalah berkata, “tinggal turunkan saja, kan sudah tidak dipakai.” Tidak dipakai tidak berarti tidak punya beban, energi, pengaruh pada publik, atau nilai bukti. Alternatifnya adalah memegang satu paket data sebelum mulai: kondisi aktual, gambar kondisi akhir, utilitas, rencana pengamanan publik, metode yang disetujui, pemilik keputusan, dan tujuan material. Teman Advert.id, ini bukan memperlambat proyek; ini cara mencegah keputusan sekali jalan dibuat dengan data setengah.
 
-## Required conclusion
+## Kesimpulan: data sebelum struktur diubah
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Pembongkaran billboard yang aman dimulai dari data, bukan dari alat. Teman Advert.id, sebelum memberi izin mulai, mintalah kondisi aset yang terdokumentasi, gambar kondisi akhir, survei akses serta utilitas, rencana keselamatan publik dan kerja, penanggung jawab yang jelas, serta tujuan material setelah pembongkaran.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: jangan mengubah struktur sebelum memahami kondisi, jalur beban, utilitas, dan risiko publik yang menyertainya. Metode pengangkatan, urutan pelepasan, dan stabilitas sementara harus ditetapkan oleh rencana rekayasa dan K3 yang sesuai lokasi.

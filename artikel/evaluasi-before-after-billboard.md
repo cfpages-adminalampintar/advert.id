@@ -1,9 +1,10 @@
 ---
 article_id: ADV-02-05
-title: "Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang"
+title: "Menguji Efektivitas Papan Reklame Sebelum dan Sesudah Tayang"
 slug: "evaluasi-before-after-billboard"
-description: "Define comparison periods, control/context, confounders, creative/site changes, operational uptime and interpretation limits"
-status: outline
+description: "Cara menyusun evaluasi kondisi sebelum dan sesudah papan reklame tayang dengan periode pembanding, konteks, data operasi, dan batas penafsiran yang jelas."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,48 +15,19 @@ reader_address: "Sobat Advert.id"
 final_route: "/artikel/evaluasi-before-after-billboard.html"
 technical_review: required
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://www.iso.org/news/ref2369.html"
   - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
-  - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
-  - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
-  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://www.iso.org/standard/81651.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Menguji Efektivitas Papan Reklame Sebelum dan Sesudah Tayang
 
-# Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Foto billboard sebelum dan sesudah tayang memang enak dilihat. Perubahannya jelas: visual baru terpasang, area lebih rapi, atau pesan lebih menonjol. Namun evaluasi kondisi sebelum dan sesudah tidak boleh berhenti pada dua foto. Foto dapat membuktikan bahwa ada perubahan visual pada waktu tertentu. Ia tidak otomatis membuktikan perubahan itu menyebabkan lebih banyak orang melihat, mengingat, menghubungi, membeli, atau memberi hasil bisnis tertentu.
 
-- **Writer task:** Expand this file into one complete article answering: “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”
-- **Reader and situation:** Advertiser with baseline and outcome data
-- **Reader outcome:** Define comparison periods, control/context, confounders, creative/site changes, operational uptime and interpretation limits
-- **Primary intent:** Plan a campaign evaluation
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not a fabricated case study or guaranteed ROI; ADV-02-03 owns KPI definitions
-- **Final public route:** `/artikel/evaluasi-before-after-billboard.html`
-- **Appointed CMS date:** `2025-09-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: evaluasi sebelum–sesudah harus dimulai dari tujuan dan ukuran yang jelas, lalu membandingkan periode yang masuk akal sambil mencatat apa lagi yang berubah. Pisahkan bukti pemasangan, bukti operasi media, dan bukti hasil kampanye. Kesimpulan dapat berubah bila lokasi, materi pesan, periode, lalu lintas, promosi lain, ketersediaan produk, cara mengukur, atau kualitas data berubah pada saat yang sama.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -66,137 +38,71 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-02
-
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
-
-### KR-03
-
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
-
-### KR-12
-
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
-
-### KR-16
-
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [ISO 3834-2:2021](https://www.iso.org/standard/81651.html), [ISO 12944-8:2017](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Make quotations comparable and create an auditable evidence chain.
-- **Safe grounded facts:** Compare the same quantity/dimensions, scope boundary, design basis, materials/system, access/lifting, electrical/data, artwork/content, permits/tax, tests, exclusions, schedule, maintenance, warranty, and evidence.
-- **Limits:** Current quotes, approvals, competency, original documents, calibrated tests, contract/legal review, and signed acceptance remain project-specific.
-
-## Evidence gates
-
-- **TOPIC-GATE:** Dated campaign data, substantiated content, baseline, method, budget, and owner approval
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/jasa-pembuatan-billboard-di-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonosobo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-wonogiri` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-way-kanan` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/jasa-pembuatan-billboard-di-waropen` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `ADV-02-03` → `/artikel/kpi-outdoor-advertising.html` — KPI Outdoor Advertising: Exposure Bukan Otomatis Dilihat
-- `ADV-02-04` → `/artikel/tracking-respons-media-fisik.html` — Tracking QR, Short Link, Nomor Telepon, dan Kode Promo pada Media Fisik
-- `ADV-02-06` → `/artikel/message-hierarchy-media-outdoor.html` — Message Hierarchy untuk Media yang Dilihat Singkat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
 ## Jawaban singkat dan salah paham utama
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Evaluasi sebelum–sesudah adalah cara membandingkan kondisi pada dua periode, bukan mesin pembukti sebab-akibat. Anda dapat membandingkan, misalnya, jumlah pertanyaan yang masuk sebelum billboard tayang dan setelah ia tayang. Tetapi jika pada periode yang sama ada diskon, kampanye media sosial, perubahan harga, musim ramai, atau perubahan cara staf mencatat pertanyaan, selisihnya tidak bisa langsung dibebankan kepada billboard.
+
+Kesalahan lain adalah mencampur ukuran. Jangkauan, kesempatan melihat, perhatian, ingatan, kunjungan, prospek, konversi, dan penjualan adalah hal berbeda. Satu angka yang naik tidak otomatis membuat semua angka lain ikut naik. Standar [ISO 20252:2019](https://www.iso.org/news/ref2369.html) berkaitan dengan riset pasar, opini, dan sosial; pembahasan [ISO/TC 225](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html) juga menekankan konteks kegiatan riset. Keduanya mendukung kebutuhan untuk menjelaskan metode serta batas data, bukan memberikan angka hasil untuk kampanye Anda.
+
+Sobat Advert.id, sebelum bertanya “billboard ini efektif atau tidak?”, pilih dulu satu pertanyaan yang benar-benar ingin dijawab. Apakah Anda ingin membuktikan media sudah terpasang dan tampil? Mengukur respons yang dapat ditelusuri? Membandingkan minat? Atau mengambil keputusan meneruskan, mengubah, atau menghentikan kampanye? Pertanyaan yang berbeda butuh data yang berbeda.
 
 ## Definisi dan batas objek
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kondisi **sebelum** adalah periode pembanding yang ditetapkan sebelum perubahan atau kampanye berjalan. Kondisi **sesudah** adalah periode setelah billboard berjalan sesuai definisi operasi yang telah ditentukan. Agar perbandingan adil, keduanya perlu memiliki definisi tanggal, lokasi, populasi atau sumber data, serta cara pencatatan yang jelas.
+
+**Bukti visual** menunjukkan apa yang tampak pada foto atau video: materi dipasang, kondisi lokasi, perubahan tampilan, atau keadaan tertentu saat gambar dibuat. **Bukti operasi** menunjukkan apakah media benar-benar tersedia atau berfungsi pada periode yang dinilai. **Bukti kinerja** adalah data yang menjawab ukuran hasil yang dipilih, misalnya respons yang dicatat dengan metode tertentu. Ketiganya berguna, tetapi tidak boleh dipertukarkan.
+
+Artikel ini membantu membuat evaluasi yang jujur. Ia bukan studi kasus hasil jadi, tidak menjanjikan pengembalian investasi, dan tidak memberi angka jangkauan atau penjualan tanpa data kampanye. Teman Advert.id, bila data belum cukup untuk klaim sebab-akibat, hasil yang paling jujur adalah “ada perubahan yang tercatat, tetapi penyebabnya belum dapat dipisahkan”.
 
 ## Cara kerjanya
 
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulai dari satu keputusan yang ingin dibantu data. Misalnya, pemilik ingin mengetahui apakah pesan baru layak dilanjutkan. Kemudian tulis ukuran yang akan dibaca: apakah jumlah pemindaian kode, pertanyaan melalui nomor khusus, kunjungan ke halaman tertentu, atau ukuran lain yang memang dapat ditelusuri. Jangan memilih ukuran setelah melihat hasil hanya karena angka itu kebetulan naik.
+
+Setelah itu, tetapkan periode pembanding. Catat tanggal mulai dan akhir, alasan memilihnya, apa yang dilakukan pada kedua periode, serta apakah kondisi operasi media sama. Bila billboard sempat tertutup, materi diganti, lampu mati, akses lokasi berubah, atau data tidak terekam pada sebagian periode, tulis sebagai batas evaluasi. Media yang terpasang tidak selalu berarti media tampil penuh sepanjang waktu.
+
+Kemudian catat konteks. Apa yang berubah selain billboard? Perubahan produk, harga, stok, kanal iklan lain, kegiatan lapangan, hari libur, cuaca, perubahan lalu lintas, atau perubahan sistem pencatatan dapat memengaruhi hasil. Daftar konteks ini bukan alasan untuk membatalkan evaluasi; ia adalah cara agar pembaca tahu seberapa jauh kesimpulan dapat ditarik.
+
+Terakhir, simpan metode dan bukti. Catat sumber data, siapa yang mengumpulkan, cara membersihkan data ganda atau tidak lengkap, periode, pengecualian, serta ketidakpastian. Jika menggunakan survei, jelaskan siapa yang ditanya, kapan, bagaimana sampel dipilih, dan pertanyaan apa yang diajukan. Tanpa itu, angka yang tampak presisi dapat memberi keyakinan palsu.
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Faktor pertama adalah perubahan materi dan lokasi. Sebuah billboard yang pesannya berubah bersamaan dengan lokasi, ukuran, arah hadap, atau kondisi sekitar tidak bisa diperlakukan sebagai satu perubahan saja. Catat setiap perubahan agar analisis tidak menyebut satu penyebab ketika sebenarnya ada beberapa hal bergerak bersamaan.
+
+Faktor kedua adalah ketersediaan operasi. Apabila media rusak, tertutup, belum terpasang penuh, atau tidak dapat dilihat sebagaimana rencana pada sebagian periode, data sesudah perlu dibaca dengan hati-hati. Bukti pemasangan dan catatan operasi membantu menjelaskan apakah periode yang dibandingkan benar-benar setara dari sisi ketersediaan media.
+
+Faktor ketiga adalah jalur respons. Jika orang melihat billboard lalu mencari merek melalui cara yang tidak bisa dilacak, data kode promo mungkin tidak menangkap seluruh respons. Sebaliknya, respons melalui kode khusus bisa berasal dari sumber lain jika kode itu juga dipakai di kanal lain. Kawan Advert.id, jangan menyebut satu jalur data sebagai keseluruhan dampak tanpa menjelaskan apa yang dicakup dan apa yang tidak.
+
+Faktor keempat adalah kualitas catatan. Perubahan kecil dalam cara staf menjawab telepon, kategori prospek, jam layanan, atau sistem analitik dapat mengubah angka. Evaluasi yang baik tidak menyembunyikan perubahan proses ini; ia menuliskannya supaya keputusan berikutnya tidak dibuat di atas data yang tampak sebanding padahal tidak.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan kampanye memakai billboard baru dan nomor telepon khusus. Dalam periode sesudah, panggilan meningkat. Itu adalah temuan yang bermanfaat, tetapi belum otomatis membuktikan billboard satu-satunya penyebab. Sebelum menyimpulkan, cek apakah nomor tersebut dipromosikan di tempat lain, apakah jam layanan berubah, apakah ada promo baru, dan apakah seluruh panggilan dicatat dengan cara sama seperti sebelumnya.
+
+| Situasi | Yang dapat dikatakan | Yang belum dapat dikatakan |
+| --- | --- | --- |
+| Foto memperlihatkan visual billboard terpasang | Materi terlihat terpasang pada waktu dan sudut pengambilan tertentu. | Semua orang melihatnya, atau kampanye pasti berhasil. |
+| Kode promo khusus lebih sering dipakai setelah tayang | Penggunaan kode yang tercatat meningkat pada periode tersebut. | Billboard sendiri menyebabkan seluruh kenaikan penjualan. |
+| Survei setelah kampanye menunjukkan lebih banyak ingatan merek | Responden yang disurvei pada metode dan periode itu melaporkan ingatan tertentu. | Seluruh populasi memiliki ingatan yang sama tanpa melihat sampel serta metode. |
+| Penjualan naik setelah periode tayang | Ada perubahan penjualan yang tercatat setelah periode itu. | Billboard adalah penyebab tunggal tanpa menilai faktor lain. |
+
+Tabel ini mengajarkan disiplin kalimat. Kata-kata seperti “tercatat”, “pada periode ini”, “pada responden”, dan “dengan metode ini” mungkin terdengar kurang bombastis, tetapi justru membuat hasil dapat diuji ulang. Jika keputusan anggaran besar akan dibuat dari evaluasi, mintalah data mentah yang sah, definisi ukuran, metode, periode, serta catatan faktor lain yang berubah.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Menguji Efektivitas Billboard Sebelum dan Sesudah Tayang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah membuat periode sebelum terlalu singkat lalu membandingkannya dengan periode sesudah yang lebih ramai. Perbaiki dengan menjelaskan alasan periode, pola musiman yang diketahui, dan keterbatasan perbandingan. Kesalahan kedua adalah hanya mengumpulkan foto sebelum–sesudah. Foto perlu didampingi konteks, bukti operasi, dan data yang sesuai tujuan.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah mengubah materi, lokasi, promosi, dan ukuran keberhasilan sekaligus, lalu meminta satu kesimpulan tunggal. Perbaiki dengan mencatat perubahan dan menyatakan bahwa penyebab tidak dapat dipisahkan sepenuhnya. Kesalahan keempat adalah menampilkan angka tanpa sumber atau proses pencatatan. Jika tidak ada jejak data, angka itu lebih mirip klaim daripada evaluasi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jalan pintas yang sering menggoda adalah berkata, “setelah tayang, hasil naik; berarti billboard berhasil.” Itu mungkin hipotesis yang layak diuji, bukan bukti final. Alternatif yang lebih berguna adalah menuliskan apa yang berubah, data apa yang mendukung, faktor apa yang mungkin ikut berperan, dan keputusan apa yang masih aman diambil. Teman Advert.id, evaluasi yang jujur sering lebih membantu daripada laporan yang terlihat pasti tetapi rapuh saat ditanya.
 
-## Required conclusion
+## Kesimpulan: bandingkan kondisi, jangan memaksa sebab-akibat
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Evaluasi billboard sebelum dan sesudah tayang berguna ketika tujuan, periode, ukuran, konteks, dan batas data dicatat sejak awal. Sobat Advert.id, langkah pertama yang praktis adalah membuat satu lembar evaluasi berisi tujuan, periode sebelum-sesudah, ukuran yang dipilih, bukti operasi media, perubahan lain yang terjadi, dan batas penafsiran.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturan kerjanya sederhana: gunakan foto untuk membuktikan perubahan visual, gunakan data yang dapat ditelusuri untuk menggambarkan perubahan hasil, dan jangan menyamakan keduanya dengan bukti sebab-akibat tanpa metode yang memadai.
