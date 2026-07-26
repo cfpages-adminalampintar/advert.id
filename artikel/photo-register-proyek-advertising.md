@@ -1,9 +1,9 @@
 ---
 article_id: ADV-03-06
-title: "Site Photo Register untuk Proyek Advertising"
+title: "Daftar Foto Bertanggal untuk Proyek Advertising"
 slug: "photo-register-proyek-advertising"
-description: "Standardize viewpoints, scale/datum, filenames, date/location, asset/issue, permissions, stages and limitations"
-status: outline
+description: "Cara membuat daftar foto bertanggal dan berlokasi untuk mencatat kondisi, tahap, aset, temuan, izin, dan batas bukti visual pada proyek media."
+status: draft
 publication_date: "2025-10-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,50 +13,24 @@ reader_community: "Advert.id"
 reader_address: "Kawan Advert.id"
 final_route: "/artikel/photo-register-proyek-advertising.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://www.iso.org/news/ref2369.html"
-  - "https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
   - "https://www.iso.org/standard/57833.html"
   - "https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf"
-  - "https://www.iso.org/standard/38882.html"
-  - "https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf"
-  - "https://www.iso.org/standard/64838.html"
   - "https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Daftar Foto Bertanggal untuk Proyek Advertising
 
-# Site Photo Register untuk Proyek Advertising
+Halo, Kawan Advert.id!
 
-## Assignment lock
+Daftar foto proyek adalah catatan yang menghubungkan setiap foto dengan tanggal, lokasi, aset, tahap pekerjaan, sudut pengambilan, dan alasan pengambilannya. Fungsinya bukan membuat galeri, melainkan membantu pembaca berikutnya memahami apa yang terlihat, kapan terlihat, dan dokumen apa yang berkaitan dengannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Site Photo Register untuk Proyek Advertising”
-- **Reader and situation:** Coordinator documenting survey through handover
-- **Reader outcome:** Standardize viewpoints, scale/datum, filenames, date/location, asset/issue, permissions, stages and limitations
-- **Primary intent:** Create auditable visual evidence
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Kawan Advert.id`
-- **Natural variants:** `Sobat Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Photos cannot prove hidden condition, capacity or compliance
-- **Final public route:** `/artikel/photo-register-proyek-advertising.html`
-- **Appointed CMS date:** `2025-10-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Foto dapat menunjukkan kondisi tampak pada saat tertentu. Foto tidak otomatis membuktikan kondisi tersembunyi, kapasitas, penyebab kerusakan, kepatuhan, kepemilikan, atau hasil proyek. Gunakan bersama survei, gambar, data produk, pemeriksaan kompeten, dan persetujuan yang sesuai. [NEEDS: identitas lokasi, izin pengambilan, daftar aset, batas akses, dasar pengukuran, pemeriksaan kompeten, dan penerimaan proyek]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Site Photo Register untuk Proyek Advertising**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Advert.id`, `Sobat Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -67,138 +41,59 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-03
+## Isi minimum setiap catatan foto
 
-- **Original sources:** [ISO 20252:2019 official overview](https://www.iso.org/news/ref2369.html), [ISO/TC 225 publication note](https://committee.iso.org/sites/tc225/home/news/content-left-area/news-and-updates/iso-202522019-market-opinion-and.html).
-- **Purpose for this article:** Ground objectives, sampling, measurement, reporting, and limits.
-- **Safe grounded facts:** Reach, opportunity to see, traffic count, attention, recall, leads, visits, conversion, and sales are different measures. State population, period, method, sample, exclusions, attribution window, and uncertainty.
-- **Limits:** Obtain actual campaign, audience, site, traffic, channel, and sales evidence. Do not invent impressions, ROI, or causal lift.
+Setiap entri sebaiknya menyebut kode foto, tanggal dan waktu bila tersedia, nama atau kode proyek, identitas lokasi, aset atau bagian yang terlihat, arah atau sudut pengambilan, tahap pekerjaan, pengambil foto, serta keterangan singkat tanpa menafsirkan melampaui yang terlihat. Jika pengukuran atau titik acuan tampak, catat alat, acuan, dan batasnya.
 
-### KR-04
+Sobat Advert.id, gunakan penamaan berkas yang dapat ditelusuri, bukan nama umum seperti `foto-baru`. Satu pola sederhana—kode proyek, tanggal, tahap, aset, dan urutan—memudahkan pencarian tanpa mengubah foto menjadi bukti yang tidak dimilikinya.
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+## Merencanakan sudut dan tahap
 
-### KR-05
+Tentukan kebutuhan foto sebelum datang ke lokasi. Untuk survei awal, catat konteks lokasi, akses, arah pengguna, penghalang, kondisi sekitar, dan bagian aset yang relevan. Untuk produksi atau pemasangan, catat identitas unit, kondisi sebelum tertutup, perubahan, serta temuan. Untuk penerimaan, foto melengkapi dokumen lain, bukan menggantikannya.
 
-- **Original sources:** [ISO 12647-2:2013 official scope](https://www.iso.org/standard/57833.html), [ISO/TC 130 print-production guidance](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf).
-- **Purpose for this article:** Ground artwork handoff, proofing, output conditions, and colour-claim boundaries.
-- **Safe grounded facts:** Preserve source artwork, fonts/licences, dimensions/scale, colour definition, output process/profile, substrate/ink/light condition, proof/sample approval, revision, and production file.
-- **Limits:** Obtain the actual printer/display/ink/media/manufacturer workflow and approved physical sample; do not promise exact cross-material or day/night colour match.
+Ulangi sudut penting ketika membandingkan tahap, tetapi jangan memaksakan sudut identik bila kondisi akses atau keselamatan tidak memungkinkannya. Jelaskan perbedaannya pada catatan. Bila lokasi dekat jalan, pengambilan foto perlu mempertimbangkan keselamatan serta pengaturan akses yang tepat; [UU 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) memberi konteks lalu lintas, bukan izin otomatis untuk bekerja atau memotret di semua lokasi.
 
-### KR-08
+## Apa yang tidak dapat dibuktikan foto
 
-- **Original sources:** [ISO 4354:2009 wind actions](https://www.iso.org/standard/38882.html), [current ISO 4354 revision record](https://www.iso.org/files/live/sites/isoorg/files/news/magazine/ISOupdate/EN/2026/iso_update_202601_en.pdf).
-- **Purpose for this article:** Ground wind vocabulary and stop universal “safe size” advice.
-- **Safe grounded facts:** Wind region/data, terrain/exposure, height, topography, directionality, shape, solidity, dynamic behavior, load combinations, importance/consequence, and full load path affect design.
-- **Limits:** A qualified engineer must use the current Indonesian project basis and site-specific inputs; the abstract supplies no calculation or acceptance.
+Satu foto sambungan tidak membuktikan mutu bagian yang tersembunyi. Foto pondasi tidak menentukan kapasitas tanah. Foto media yang menyala tidak membuktikan sistem listrik, durasi operasi, atau persetujuan konten. Foto yang tampak rapi tidak menggantikan pemeriksaan rancangan atau penerimaan berwenang.
 
-### KR-17
+PP 16 Tahun 2021 memberi konteks penyelenggaraan bangunan gedung, tetapi foto tidak menjadikan attachment atau struktur tertentu disetujui. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) perlu dibaca bersama gambar, data eksisting, perhitungan, dan pemeriksaan yang sesuai.
 
-- **Original sources:** [ISO 12944-8:2017](https://www.iso.org/standard/64838.html), [Permen PUPR 10/2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021).
-- **Purpose for this article:** Ground risk-based care without prescribing unsafe field repair.
-- **Safe grounded facts:** Track movement/lean, loose/corroded connections, foundation/substrate distress, coating loss, water ingress, face/film/print damage, lighting/module/power/control faults, vegetation/obstruction, vandalism, cleanliness, content state, and public reports.
-- **Limits:** Structural/electrical/access hazards require isolation and competent inspection; do not infer remaining capacity, cause, repair, or service life from photos.
+Teman Advert.id, jika foto menunjukkan tanda yang perlu diperiksa—misalnya pergeseran, bagian longgar, air masuk, atau kerusakan—catat sebagai observasi. Jangan menulis diagnosis, sisa kemampuan, atau cara perbaikan tanpa pemeriksaan kompeten.
 
-## Evidence gates
+## Privasi, hak, dan akses
 
-- **TOPIC-GATE:** Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review
+Sebelum pengambilan, tentukan siapa memberi izin akses dan bagaimana foto disimpan serta dibagikan. Hindari memasukkan orang, kendaraan, nomor identitas, alamat rinci, layar konten, atau informasi sensitif bila tidak perlu untuk tujuan rekaman. Bila unsur itu harus terlihat, atur hak akses dan dasar persetujuannya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Foto proyek bukan otomatis bahan promosi atau bukti kepemilikan aset. Catat pemilik foto, izin penggunaan, batas distribusi, dan masa simpan. Untuk berkas grafis dan bukti tampilan, simpan pula versi karya, huruf dan lisensi, skala, definisi warna, proses keluaran, bahan, contoh yang disetujui, serta revisinya. [ISO 12647-2](https://www.iso.org/standard/57833.html) dan [panduan ISO/TC 130](https://committee.iso.org/files/live/sites/tc130/files/Resources/Guidelines%20for%20using%20print%20production%20standards%20v2%20Jan%202024.pdf) mendukung keterlacakan informasi proses, bukan klaim hasil atau kepemilikan dari satu foto.
 
-## Internal-link plan
+## Tabel daftar foto yang ringkas
 
-### Existing local routes
+| Kolom | Isi yang membantu |
+| --- | --- |
+| Kode | Identitas unik yang konsisten dengan nama berkas. |
+| Waktu dan lokasi | Tanggal, waktu bila ada, serta lokasi atau kode aset. |
+| Tahap | Survei, sebelum kerja, selama kerja, temuan, atau penerimaan. |
+| Sudut | Arah, titik acuan, dan bagian yang terlihat. |
+| Keterangan | Fakta tampak serta dokumen terkait, tanpa kesimpulan teknis. |
+| Izin dan batas | Akses, pemilik foto, pembatasan distribusi, atau data sensitif. |
 
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kawan Advert.id, daftar ini lebih berguna daripada ratusan foto tanpa konteks. Rekaman yang baik memungkinkan orang lain memahami batas bukti tanpa perlu menebak.
 
-### Planned sibling articles
+## Kesalahan yang perlu dihindari
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan umum adalah mengambil foto hanya pada akhir proyek, memberi nama berkas acak, atau memakai foto untuk mengklaim bahwa sesuatu telah diuji dan diterima. Kesalahan lain adalah menyebarkan foto lokasi atau orang tanpa mempertimbangkan izin dan batas penggunaan.
 
-- `ADV-03-04` → `/artikel/audit-day-night-signage.html` — Audit Day-Night untuk Signage Berlampu
-- `ADV-03-05` → `/artikel/survey-substrate-fixing-signage.html` — Survey Substrate dan Area Fixing Signage
+Alternatifnya adalah menetapkan daftar foto sejak awal, menautkan foto ke tahap dan dokumen, serta menyimpan catatan yang jujur tentang apa yang terlihat. Jika pekerjaan memerlukan akses, pengangkatan, atau kondisi berisiko, rencanakan pengambilan foto sesuai pengendalian keselamatan yang berlaku; [Permen PUPR 10 Tahun 2021](https://peraturan.bpk.go.id/Details/216875/permen-pupr-no-10-tahun-2021) adalah salah satu rujukan konteks, bukan metode kerja untuk setiap lokasi.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Aturan memakai daftar foto
 
-## Jawaban singkat dan salah paham utama
+Daftar foto bertanggal membantu proyek media ditelusuri dari survei sampai penerimaan. Gunakan untuk mencatat kondisi tampak, tahap, aset, dan keputusan yang terkait—bukan untuk menggantikan bukti tersembunyi, penilaian teknis, atau persetujuan.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Site Photo Register untuk Proyek Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Site Photo Register untuk Proyek Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Site Photo Register untuk Proyek Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Site Photo Register untuk Proyek Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Site Photo Register untuk Proyek Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Site Photo Register untuk Proyek Advertising”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: setiap foto harus dapat menjawab apa, di mana, kapan, dari sudut mana, dan dalam batas apa. Bila jawaban itu belum ada, foto belum siap menjadi rekaman proyek yang dapat diaudit.

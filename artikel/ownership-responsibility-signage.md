@@ -1,9 +1,9 @@
 ---
 article_id: ADV-11-04
-title: "Ownership dan Responsibility Setelah Signage Terpasang"
+title: "Kepemilikan dan Tanggung Jawab Setelah Signage Terpasang"
 slug: "ownership-responsibility-signage"
-description: "Clarify ownership, content, permits/tax, power, inspection, maintenance, incident response, insurance, access, renewals, change and removal"
-status: outline
+description: "Cara memetakan kepemilikan dan peran klien, perancang, pembuat, pemasang, operator, pemilik lokasi, serta penyedia setelah signage terpasang."
+status: draft
 publication_date: "2026-05-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -13,53 +13,27 @@ reader_community: "Advert.id"
 reader_address: "Sobat Advert.id"
 final_route: "/artikel/ownership-responsibility-signage.html"
 technical_review: required
+writing_contract_version: "native-id-v2"
 sources:
-  - "https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf"
-  - "https://peraturan.bpk.go.id/Details/126143/pp-no-80"
   - "https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-"
-  - "https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf"
   - "https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D"
   - "https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022"
-  - "https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf"
-  - "https://peraturan.bpk.go.id/Details/252130/pp-"
   - "https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024"
   - "https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009"
   - "https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+# Kepemilikan dan Tanggung Jawab Setelah Signage Terpasang
 
-# Ownership dan Responsibility Setelah Signage Terpasang
+Halo, Sobat Advert.id!
 
-## Assignment lock
+Setelah signage terpasang, “milik siapa?” jarang cukup dijawab dengan satu nama. Aset fisik, lokasi, konten, jaringan, sumber daya, izin, pemeliharaan, dan keputusan perubahan dapat berada pada pihak berbeda. Matriks kepemilikan dan tanggung jawab membantu mengubah kebingungan ini menjadi daftar pertanyaan yang dapat disepakati serta dibuktikan.
 
-- **Writer task:** Expand this file into one complete article answering: “Ownership dan Responsibility Setelah Signage Terpasang”
-- **Reader and situation:** Landlord, tenant, media owner and operator sharing an asset
-- **Reader outcome:** Clarify ownership, content, permits/tax, power, inspection, maintenance, incident response, insurance, access, renewals, change and removal
-- **Primary intent:** Assign operating duties
-- **Reader community:** `Advert.id`
-- **Primary friendly address:** `Sobat Advert.id`
-- **Natural variants:** `Kawan Advert.id` and `Teman Advert.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Not legal drafting; contracts and authority acceptance govern
-- **Final public route:** `/artikel/ownership-responsibility-signage.html`
-- **Appointed CMS date:** `2026-05-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Matriks bukan kontrak dan tidak menetapkan kewajiban hukum otomatis. Pembagian akhirnya mengikuti kontrak, hak atas lokasi, aturan yang berlaku, persetujuan otoritas, serta penerimaan pihak berwenang. Gunakan artikel ini untuk menemukan celah sebelum celah itu menjadi masalah operasi. [NEEDS: kontrak, hak lokasi, persetujuan mutakhir, rancangan, daftar aset, hak konten, pembagian operasi, dan kontak respons insiden]
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Advert.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Ownership dan Responsibility Setelah Signage Terpasang**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Advert.id`, `Kawan Advert.id`, or `Teman Advert.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -70,147 +44,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Jasa Billboard` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Jasa Billboard](/wp-content/uploads/2024/05/Jasa-Billboard.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal untuk artikel ini; bukan dokumentasi proyek tertentu.*
 
-### KR-02
+## Pisahkan benda, tempat, pesan, dan operasi
 
-- **Original sources:** [UU No. 8 Tahun 1999 consumer-protection PDF](https://peraturan.bpk.go.id/Home/Download/33784/UU%20Nomor%208%20Tahun%201999.pdf), [PP No. 80 Tahun 2019 on electronic commerce](https://peraturan.bpk.go.id/Details/126143/pp-no-80).
-- **Purpose for this article:** Ground media taxonomy and responsible advertising claims without treating format choice as proof of result.
-- **Safe grounded facts:** A media name does not establish size, ownership, permitted location, structure, illumination, audience, availability, price, or performance.
-- **Limits:** Content-specific advertising rules may also apply to food/drugs, finance, tobacco, politics, professions, children, or other regulated subjects.
+Pemilik aset fisik adalah pihak yang memiliki atau menguasai kabinet, rangka, layar, perangkat, atau komponen lain menurut dokumen yang berlaku. Pemilik lokasi adalah pihak yang menguasai lahan, bangunan, fasad, atau ruang tempat aset berada. Pemilik konten memiliki hak atau wewenang atas pesan yang ditampilkan. Operator menjalankan pemantauan, pembaruan, atau layanan sehari-hari. Keempat peran ini dapat sama, tetapi sering tidak.
 
-### KR-04
+Klien dapat menetapkan tujuan dan menerima hasil. Perancang bertanggung jawab pada keluaran rancangan dalam batas penugasannya. Pembuat dan pemasang menjalankan pekerjaan yang disepakati. Penyedia perangkat atau layanan dapat memiliki peran dukungan. Pemilik lokasi dapat mengatur akses dan syarat penggunaan tempat. Jangan menyimpulkan salah satu peran otomatis memikul semua peran lain.
 
-- **Original sources:** [UU No. 22 Tahun 2009 on road traffic](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009), [PP No. 16 Tahun 2021 on buildings](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-).
-- **Purpose for this article:** Ground site and viewer evidence without publishing universal viewing-distance formulas.
-- **Safe grounded facts:** Record legal site identity, owner consent, coordinates, road/user direction and speed context, obstructions, background, day/night conditions, dimensions, utilities, access, drainage, nearby hazards, and maintenance reach.
-- **Limits:** Traffic authority, road manager, building owner, local government, engineer, and accessibility/public-safety review remain project-specific.
+Kawan Advert.id, tulis nama badan atau orang yang tepat, bukan hanya “vendor” atau “pemilik.” Tambahkan kontak, dokumen dasar, masa peran, dan apa yang terjadi bila peran berpindah tangan.
 
-### KR-07
+## Matriks pertanyaan setelah pemasangan
 
-- **Original sources:** [PP 16/2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-), [official PP 16/2021 PDF](https://peraturan.bpk.go.id/Download/244292/PP%20Nomor%2016%20Tahun%202021-dikompresi.pdf).
-- **Purpose for this article:** Keep a sign product from being mistaken for an approved building attachment or freestanding structure.
-- **Safe grounded facts:** The load path includes face/cabinet, frame, connections, anchors, supporting building or mast, foundation/soil, and altered existing conditions.
-- **Limits:** Obtain current Indonesian/local application rules, responsible design, existing-structure/ground data, approved drawings/calculations, and inspection.
+| Hal yang dikelola | Pertanyaan yang perlu disepakati | Bukti yang dicari |
+| --- | --- | --- |
+| Aset fisik | Siapa menguasai aset dan catatan komponennya? | Daftar aset, gambar, dokumen serah terima, dan identitas unit. |
+| Lokasi serta akses | Siapa memberi akses dan menyetujui pekerjaan di lokasi? | Persetujuan pemilik atau pengelola serta batas akses. |
+| Konten | Siapa boleh menyetujui, mengubah, atau menghentikan materi? | Hak konten, alur persetujuan, dan riwayat versi. |
+| Daya, data, dan kendali | Siapa mengelola sumber, perangkat, akun, dan perubahan? | Rancangan sistem, daftar akun, serta kontak dukungan. |
+| Pemeriksaan dan perawatan | Siapa memulai, menjalankan, menerima, dan menyimpan catatan? | Rencana operasi, rekaman inspeksi, dan keputusan temuan. |
+| Kejadian dan perubahan | Siapa mengisolasi risiko, memberi tahu, dan menyetujui langkah berikutnya? | Kontak darurat, alur pelaporan, serta rekaman kejadian. |
+| Pelepasan | Siapa membongkar, memulihkan lokasi, dan mengelola material? | Ketentuan kontrak, persetujuan lokasi, dan rencana penutupan. |
 
-### KR-12
+Matriks ini bukan pembagian yang berlaku untuk semua proyek. Ia adalah alat untuk memastikan tidak ada bidang penting yang hanya mengandalkan dugaan.
 
-- **Original sources:** [IEC 62368-1 current preview](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D), [UU No. 1 Tahun 2024 on electronic information/transactions](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
-- **Purpose for this article:** Separate LED product safety, installed electrical system, content workflow, network control, and public operation.
-- **Safe grounded facts:** A module specification or demo image does not prove installed visibility, energy use, weather resistance, cyber security, content legality, structural safety, or uptime.
-- **Limits:** Obtain exact hardware/software versions, original reports, full system design/tests, content policy, access controls, operating permit/limits, and incident plan.
+## Lokasi, struktur, dan akses
 
-### KR-14
+Hak atas lokasi perlu dipisahkan dari kepemilikan media. Pemilik bisnis bisa menguasai konten tetapi tidak memiliki fasad, tanah, atau ruang bersama tempat media dipasang. Sebaliknya, pemilik lokasi dapat memberi akses tetapi bukan pemilik atau operator media. Catat identitas lokasi, batas area, akses pemeliharaan, waktu kerja, serta perubahan yang memerlukan persetujuan kembali.
 
-- **Original sources:** [UU No. 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022), [official UU 1/2022 PDF with advertising-tax objects](https://peraturan.bpk.go.id/Download/189520/UU%20Nomor%201%20Tahun%202022.pdf), [PP No. 35 Tahun 2023](https://peraturan.bpk.go.id/Details/252130/pp-), [Depok local implementation example](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024).
-- **Purpose for this article:** Ground an approval matrix while proving that local processes and tax calculations vary.
-- **Safe grounded facts:** Identify jurisdiction, media/type, content, owner/operator, land/building/road authority, duration, size/quantity, tax base/rate, permits/approvals, inspection, renewal, change, removal, and responsible party.
-- **Limits:** Never reuse one city's procedure, rate, exemption, form, or permit conclusion elsewhere; obtain current official local rules and written authority confirmation.
+PP 16 Tahun 2021 memberi konteks penyelenggaraan bangunan gedung. Ia tidak menetapkan bahwa pemilik media otomatis dapat mengubah penopang atau bahwa pemilik bangunan mengambil alih seluruh tanggung jawab media. [PP 16 Tahun 2021](https://peraturan.bpk.go.id/Details/161846/pp-no-16-tahun-) perlu dibaca bersama rancangan, kondisi eksisting, dan dokumen proyek.
 
-### KR-18
+Jika lokasi dekat jalan atau ruang publik, pertanyaan koordinasi, akses, dan perlindungan pengguna menjadi penting. [UU 22 Tahun 2009](https://peraturan.bpk.go.id/Details/38654/uu-no-22-tahun-2009) memberi konteks lalu lintas, namun keputusan nyata tetap milik otoritas serta pihak yang berwenang di lokasi.
 
-- **Original sources:** [UU No. 32 Tahun 2009 environmental framework](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009), [UU No. 28 Tahun 2014 on copyright](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014).
-- **Purpose for this article:** Ground artwork rights, replacement, removal, material streams, and truthful environmental claims.
-- **Safe grounded facts:** Inventory owner/licence/permission, material composition, condition/contamination, safe removal, segregation, transport, authorized destination, records, and actual reuse/recycling outcome.
-- **Limits:** Obtain current local environmental/waste rules, SDS/product evidence, rights documents, and real receiving-facility confirmation; do not claim recyclable/sustainable from material name alone. ## Topic coverage matrix | Topic family | Primary records | Coverage purpose | Mandatory evidence gate | | --- | --- | --- | --- | | `ADV-01` | KR-01, KR-02, KR-14 | Media/system vocabulary, role, offer, and governance boundary | Exact system, jurisdiction, content, owner/operator, and current official classification | | `ADV-02` | KR-02, KR-03, KR-12, KR-16 | Objective, audience, measure, content workflow, and comparable brief | Dated campaign data, substantiated content, baseline, method, budget, and owner approval | | `ADV-03` | KR-03, KR-04, KR-05, KR-08, KR-17 | Site/viewer survey, legibility inputs, exposure, and inspection baseline | Measured site/traffic/user evidence plus authority, owner, accessibility, and engineer review | | `ADV-04` | KR-05, KR-06, KR-10, KR-16, KR-18 | Artwork, substrate, print/film/finish, proof, compatibility, and rights | Exact product/output system, TDS/SDS, mock-up, approval, tests, exposure, and content rights | | `ADV-05` | KR-02, KR-06, KR-07, KR-09, KR-11, KR-14, KR-16 | Static sign system, attachment, lighting, fabrication, permit, and handover | Approved complete-system design, products, permits/tax, tests, safe installation, and O&M | | `ADV-06` | KR-02, KR-04, KR-07, KR-08, KR-09, KR-10, KR-14, KR-15, KR-16 | Billboard face, frame, wind/load path, site, corrosion, approvals, and delivery | Site-specific engineer design, ground/support evidence, current local approvals, lift/K3, and inspection | | `ADV-07` | KR-02, KR-04, KR-07, KR-08, KR-11, KR-12, KR-14, KR-15, KR-16 | Digital display structure, equipment, power/data, content, permit, operation, and safety | Exact tested system/configuration, structural/electrical design, access control, permit, commissioning, and incident plan | | `ADV-08` | KR-02, KR-04, KR-05, KR-06, KR-13, KR-14, KR-16, KR-18 | Vehicle/site role, artwork/product, road/local rules, installation, removal, and rights | Vehicle/owner permission, current rules, exact film system, surface survey, approved method, and removal evidence | | `ADV-09` | KR-07, KR-08, KR-09, KR-10, KR-15, KR-16, KR-17 | Loads, full load path, ground/support, fabrication, protection, construction, and inspection | Qualified engineer's current Indonesian design plus real site/material/QC/as-built records | | `ADV-10` | KR-04, KR-11, KR-12, KR-15, KR-16, KR-17 | Supply, protection, earthing, controls, outdoor equipment, isolation, and maintenance | Current Indonesian electrical basis, competent design/installation, exact equipment reports, tests, and safe access | | `ADV-11` | KR-02, KR-04, KR-07, KR-12, KR-14, KR-18 | Property/road/building/content authority, permit, tax, rights, and removal | Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities | | `ADV-12` | KR-04, KR-07 through KR-11, KR-14, KR-15, KR-16 | Survey, fabrication, logistics, temporary stability, lifting, height/electrical work, and public protection | Approved task/site risk assessment, competent people, equipment, permits, exclusion, rescue, inspection, and stop conditions | | `ADV-13` | KR-05, KR-06, KR-08 through KR-16 | Equivalent scope, submittals, calculations, products, QC, commissioning, warranty, and traceability | Current tender/contract, original evidence, approvals, calibrated tests, punch closure, and signed handover | | `ADV-14` | KR-03, KR-06, KR-10 through KR-18 | Campaign/asset records, inspection, cleaning, fault diagnosis, repair, renewal, removal, and environmental outcome | Exact O&M/design/product/permit records, condition evidence, safe competent intervention, and verified waste/recovery route | ## Evidence gates | Gate | Unresolved need | Required resolution before definitive publication | | --- | --- | --- | | `GATE-01` | Exact media, message, audience, site, and owner/operator | Freeze the project brief, legal identities, content owner/rights, property/vehicle authority, duration, use, users, and success measure | | `GATE-02` | Current local permit, tax, spatial, road, and content rules | Obtain written current rules/processes from every relevant local/national authority; never transfer one jurisdiction's procedure or rate | | `GATE-03` | Licensed/current standards and Indonesian project basis | Obtain full current documents, applicable editions/adoption, design/test/acceptance rules, and qualified reviewer | | `GATE-04` | Site, support, ground, utilities, access, and exposure | Complete measured survey, legal site identity, existing drawings/tests, traffic/public context, environment, utilities, and maintenance access | | `GATE-05` | Structural, wind, foundation, attachment, and temporary stability | Obtain a qualified engineer's calculations/drawings, ground/support verification, load combinations, interfaces, erection stages, inspection, and as-builts | | `GATE-06` | Materials, graphics, coating, adhesion, fire, UV, and compatibility | Obtain exact current TDS/SDS, batch/configuration, original reports, mock-up, manufacturer approvals, exposure, workmanship, and maintenance evidence | | `GATE-07` | Electrical, lightning/surge, lighting, LED, data, and controls | Obtain current Indonesian electrical design, exact equipment/configuration reports, earthing/protection, network/access controls, tests, isolation, and incident plan | | `GATE-08` | Fabrication, welding, bolting, corrosion, and QA | Obtain approved drawings/specification, material traceability, procedures/qualifications, inspection/test plan, nonconformance repair, coating records, and release | | `GATE-09` | Logistics, lifting, work at height, public/traffic protection, and K3 | Approve task risk assessment, permits, competent team, equipment/rigging/access, weather limits, exclusion, temporary works, rescue/emergency, and stop criteria | | `GATE-10` | Campaign measurement, visibility, legibility, price, and effectiveness | Obtain dated primary site/audience/campaign/cost/outcome data, documented method/uncertainty, approved design sample, and attribution limits | | `GATE-11` | Procurement, commissioning, handover, warranty, and case evidence | Obtain comparable scope, current quotes, permissions, approved submittals, tests, punch closure, O&M/training, warranty, photos, and signed acceptance | | `GATE-12` | Inspection, defect diagnosis, maintenance, repair, and service life | Obtain original design/product/as-built/O&M, event and condition history, competent inspection/tests, cause review, safe method, and acceptance | | `GATE-13` | Content/IP, privacy, regulated advertising, and electronic evidence | Obtain owner/licence/consent, sector-specific current legal review, approvals, retained versions/logs, correction route, and complaint/incident process | | `GATE-14` | Removal, waste, reuse/recycling, and environmental claim | Characterize actual streams, approve safe removal/containment/transport, verify authorized destination and outcome, and retain documentation | ## Refresh triggers - Recheck current local advertising/permit/tax/spatial rules for the exact jurisdiction and asset before every legal/governance outline. - Recheck Permenaker 9/2016 and Permenaker 12/2015 against Permenaker 11/2026 and later consolidated rules before K3/electrical outlines. - Recheck every ISO/IEC edition, Indonesian adoption/project basis, product TDS/SDS/manual/report, design, permit, quote, tax, campaign dataset, and link before definitive use. - Revalidate topic coverage if `TOPICAL_AUTHORITY.md` changes. ## Explicit exclusions This research does not authorize outlines, article drafting, HTML hydration, publication dates, article sitemap changes, deployment, GSC submission, engineering calculations, permit/tax filings, electrical/lifting/work-at-height instructions, fabricated performance/case studies, or city-swapped pages.
+## Konten, perangkat, dan hak akses
 
-## Evidence gates
+Konten bukan hanya berkas gambar. Tentukan pemilik pesan, lisensi huruf atau gambar, pihak yang menyetujui perubahan, masa tayang, serta cara koreksi bila ada kesalahan. [UU Hak Cipta](https://peraturan.bpk.go.id/Details/38690/uu-no-28-tahun-2014) memberi konteks perlindungan hak cipta; serah terima berkas tidak otomatis berarti seluruh hak penggunaan telah berpindah.
 
-- **TOPIC-GATE:** Written current jurisdiction-specific approvals, calculations, owner consent, content clearance, and responsibilities
+Untuk sistem digital, pisahkan pemilik perangkat, operator konten, pengelola jaringan, dan pihak dukungan. Spesifikasi satu perangkat tidak membuktikan keamanan akses, keselamatan sistem terpasang, atau legalitas konten. [IEC 62368-1](https://webstore.iec.ch/en/iec_catalog/product/preview/?id=L3B1Yi9wZGYvcHJldmlldy9pbmZvX2llYzYyMzY4LTF7ZWQ0LjB9Yi5wZGY%3D) membahas keselamatan peralatan dalam lingkupnya; rancangan, akses, pengujian, serta operasi sistem tetap perlu dikelola. Pengelolaan informasi elektronik juga memiliki konteks dalam [UU 1 Tahun 2024](https://peraturan.bpk.go.id/Details/274494/uu-no-1-tahun-2024).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Teman Advert.id, akun bersama untuk semua pihak membuat pencabutan akses dan pencatatan perubahan sulit. Buat pemilik setiap akun, tujuan akses, cara persetujuan, serta cara menutup akses saat kontrak atau penugasan berakhir.
 
-## Internal-link plan
+## Persetujuan, pungutan, dan perubahan
 
-### Existing local routes
+Jangan mencampur kepemilikan aset dengan pihak yang mengurus persetujuan atau kewajiban fiskal. Wilayah, media, konten, pemilik atau operator, lokasi, durasi, ukuran, serta aturan setempat dapat mengubah pihak dan dokumen yang diperlukan. UU 1 Tahun 2022 memberi kerangka hubungan keuangan pusat dan daerah; contoh [peraturan wali kota Depok tahun 2024](https://peraturan.bpk.go.id/Details/318803/perwali-kota-depok-no-27-tahun-2024) menunjukkan prosedur lokal tidak boleh dipindahkan begitu saja. [UU 1 Tahun 2022](https://peraturan.bpk.go.id/Details/195696/uu-no-1-tahun-2022)
 
-- `/signage/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Setiap perubahan perlu memiliki jalur: siapa mengusulkan, siapa mengecek dampak lokasi atau sistem, siapa menyetujui, siapa mengerjakan, dan catatan apa yang diperbarui. Jangan hanya mengandalkan pesan lisan untuk perubahan ukuran, konten, penopang, sumber daya, atau pemilik operasi.
 
-### Planned sibling articles
+## Perawatan, kejadian, dan pelepasan
 
-These are future routes. Do not link them as live until their HTML exists.
+Tentukan siapa memantau kondisi, siapa berwenang menghentikan operasi saat ada risiko, siapa menghubungi pemilik lokasi atau otoritas, dan di mana catatan disimpan. Jika ada bahaya struktural, kelistrikan, atau akses, isolasi risiko dan minta pemeriksaan kompeten; jangan menganggap peran operator konten mencakup intervensi teknis.
 
-- `ADV-11-02` → `/artikel/izin-struktur-reklame-pajak.html` — Izin Struktur, Izin Reklame, dan Pajak: Scope yang Berbeda
-- `ADV-11-03` → `/artikel/signage-dekat-jalan.html` — Signage Dekat Jalan: Visibility Brand vs Keselamatan Publik
-- `ADV-11-05` → `/artikel/renewal-removal-media-advertising.html` — Renewal, Expiry, dan Removal Obligation Media Advertising
-- `ADV-11-06` → `/artikel/content-governance-advertising.html` — Content Governance untuk Digital dan Outdoor Advertising
+Pelepasan juga perlu pemilik tindakan. Catat identitas bahan, kondisi, pengamanan, pemisahan, pengangkutan, tujuan penerimaan, serta pemulihan lokasi. [UU 32 Tahun 2009](https://peraturan.bpk.go.id/Details/38771/uu-no-32-tahun-2009) memberi kerangka perlindungan lingkungan; nama bahan tidak membuktikan hasil pengelolaan akhirnya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+## Kesalahan yang membuat aset terlantar
 
-## Jawaban singkat dan salah paham utama
+Kesalahan paling umum adalah menulis “semua tanggung jawab operator” tanpa mendefinisikan aset, lokasi, konten, akses, atau batas keputusan. Ketika lampu bermasalah, konten salah tampil, izin berubah, atau lokasi perlu dipulihkan, masing-masing pihak dapat menganggap orang lain yang bertindak.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Ownership dan Responsibility Setelah Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Alternatifnya adalah memperbarui matriks pada serah terima, perubahan kontrak, perubahan konten, penggantian perangkat, dan sebelum pelepasan. Kontrak serta persetujuan pihak berwenang harus menjadi dasar akhir, bukan artikel ini.
 
-## Definisi dan batas objek
+## Aturan kerja setelah media beroperasi
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Ownership dan Responsibility Setelah Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kepemilikan dan tanggung jawab signage perlu dipetakan menurut benda, tempat, pesan, sistem, dan tindakan—bukan sekadar menurut nama pihak. Buat satu matriks yang menunjukkan siapa berwenang, siapa menjalankan, bukti apa yang disimpan, dan kapan peran harus ditinjau ulang.
 
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Ownership dan Responsibility Setelah Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Ownership dan Responsibility Setelah Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Ownership dan Responsibility Setelah Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Ownership dan Responsibility Setelah Signage Terpasang”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Advert.id!` and uses friendly `Advert.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Aturannya sederhana: jika tidak jelas siapa mengambil keputusan atau menyimpan bukti untuk satu bagian aset, anggap pembagian itu belum selesai. Lengkapi dengan kontrak, persetujuan, serta konfirmasi pihak yang berwenang sebelum masalah terjadi.
